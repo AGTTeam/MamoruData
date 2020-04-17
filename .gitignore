@@ -1,4 +1,11 @@
-NDS_UNPACK/*
-cache.xml
-DarthNemesis.dll
-MamoruTrans.exe
+MamoruTrans/NDS_UNPACK/*
+MamoruTrans/cache.xml
+MamoruTrans/DarthNemesis.dll
+MamoruTrans/MamoruTrans.exe
+extract*
+out_*
+repack*
+src
+*.sav
+*.nds
+*.xdelta
