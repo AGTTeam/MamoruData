@@ -929,8 +929,8 @@ Yeah, will do.\n\n\n
 <C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Grass +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-どうやらこの書は、 <C03>庭師見習い<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
-<C03>庭師見習い<C04> ？\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Gardener<C04>’.\n
+<C03>The Apprentice Gardener<C04>?
 Yes... To summarise it...\n\n\n
 『……立派な庭師を目指すという強い\n気持ちを持ち、 草の手入れ技術を\nマスターすることによって、\n
 草の扱いに長け、草むらから\n採取出来る回数が増加する……』 だって。\n\n
