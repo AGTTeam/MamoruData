@@ -70,8 +70,8 @@ Black Hole Of A Stomach...
 Gluttonous　Donchuck
 I had a lot of ribs before, but\r\neven that wasn't enough to fill\r\nmy magnifique stomach... I want\r\nmore meat! I know... This time,\r\nI think I'd like to go for some\r\njuicy thigh meat.
 It's here, it's here, it's here,\r\nit's HEREEE!! The meat's here---!!\r\nI was getting so tired of waiting!\r\nI lost two whole kilos it took so\r\nlong. Now then, I wonder how best\r\nto eat these...\r\nYeah, roasted is still the best!
-The Melancholy of Rhenus (1)
-Worried Archaeologist　Rhenus
+The Melancholy of Renus (1)
+Worried Archaeologist　Renus
 I was attacked by a huge Green Gel\r\nin the first layer of the ruins.\r\nThey're cute at normal size, but\r\nthat was something else... Yet no\r\none ever believes me. That's why I\r\nneed you to bring back evidence!!
 See, I told you so! There really\r\nis a huge Green Gel! Now I get\r\ncan back at the other guys on the\r\nteam! Plus, we can finally pick\r\nup our survey where we left off.\r\nCheers!
 The Guild’s Challenge (1)
@@ -140,24 +140,24 @@ When I was an Archaeologist, some\r\nscaffolding collapsed, trapping\r\nme, but 
 Ah, so he's still doing well.\r\nI'm glad. The injury to my leg\r\nmeans I couldn't go to thank him\r\nmyself, but I hope my feelings\r\ncame across.
 Starting With The Look
 Knighthood Hopeful　Dodoris
-I've always been weakly and sick,\r\nbut after I was saved from a by a\r\npassing knight, I thought “I\r\nwant to become strong too!". So\r\nas part of step 1, will you help\r\nme get a knight's sword?
-I showed the sword you got to the\r\nknight who saved me. "I'm going to\r\nbecome a knight too!" ...But, he\r\nreplied, “it's not a sword you\r\nneed, but a strong heart.”...\r\nI’m starting again from scratch!
+I've always been weakly and sick,\r\nbut after I was saved from a by a\r\npassing knight, I thought “I want\r\nto become strong too!” So as part\r\nof step 1, will you help me get a\r\nknight's sword?
+I showed the sword you got to the\r\nknight who saved me. “I'm going\r\nto become a knight too!” ...But,\r\nhe replied, “To be a knight, it's\r\nnot a sword you need, but a strong\r\nheart.” ...I’m going to think\r\nthings through again from the top!
 Man-Eating Plants (1)
 Botanist　Ragfect
-I've studied plants from all across\r\nthe globe, and yet I've never seen\r\nthe huge Man-Eating Mandrakes that\r\nsupposedly grow in the ruins. Could\r\nyou please bring back one of their\r\nseeds for me?
-So this is the Drake Seed you\r\nbrought back. Hmm... Fascinating...\r\nI can feel the hunger to know more\r\nraging inside me. It's because of\r\nyou that I was able to find this\r\ngreat curiosity! Thank you.
-The Melancholy of Rhenus (2)
-Worried Archaeologist　Rhenus
-This time, I was attacked by a\r\ngiant Odd Jelly in the second layer\r\nof ruins. I've said this before,\r\nbut that size is something else...\r\nAnd yet again, no one will believe\r\nme! Can you get proof?
-There really is a huge Odd Jelly,\r\nisn't there?! Now people won’t be\r\nable call me a liar!!\r\nI owe you one, seriously. Cheers!
-Hells Gatekeeper Resurrected
+I've studied plants from all\r\nacross the globe, and yet I've\r\nnever seen the huge Man-Eating\r\nMandrakes that supposedly grow in\r\nthe ruins. Could you please bring\r\nback one of their seeds for me?
+So this is the Drake Seed you\r\nbrought back... Hmm...\r\nFascinating... I can feel the\r\nhunger to know more raging\r\ninside me. It's because of you\r\nthat I feel this way! Thank you.\r\nI’ll get to work right away!
+The Melancholy of Renus (2)
+Worried Archaeologist　Renus
+This time, I was attacked by a\r\ngiant Odd Jelly in the second\r\nlayer of the ruins. I've said this\r\nbefore, but that size is something\r\nelse... And yet again, no one will\r\nbelieve me! Can you get proof?
+There really is a huge Odd Jelly,\r\nisn't there?! Now people won’t be\r\nable to keep calling me a liar!!\r\nI owe you one, seriously. Cheers!
+A Gatekeeper Resurrected
 Survey Team Captain　Rasvel
-Cerberus, in the first layer of the\r\nruins has somehow been revived. We\r\nhaven't investigated that room\r\nproperly yet, but now we're stuck\r\nwhilst he's in the way. Would you\r\nmind removing him once more?
-It seems you made quick work of\r\nmy request. I've heard from other\r\nmembers of my team that we really\r\nowe you a lot, and personally, I\r\ncan't thank you enough. I hope we\r\ncan keep counting on your help.
+Cerberus, in the first layer of\r\nthe ruins has somehow been revived.\r\nWe haven't investigated that room\r\nyet, but now we can’t progress\r\nwhilst he's in the way. Would you\r\nmind removing him once more?
+It seems you made quick work of\r\nmy request. I've heard from other\r\nmembers of my team that we really\r\nowe you a lot, and personally, I\r\ncan't thank you enough. I hope we\r\ncan continue to count on you if\r\nanything else happens.
 The Guild’s Challenge (2)
 Adventurer's Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from C rank\r\nlevel quests! Now, show us what\r\nyou're made of! 
-You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil C rank requests.\r\nThis is the make-or-break point for\r\nmost Treasure Hunters.\r\nKeep up your momentum! Good luck!
+You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil C rank requests.\r\nThis is the make-or-break point\r\nfor most Treasure Hunters.\r\nKeep up your momentum! Good luck!
 ぷにぷに好きの女(2)
 ぷにぷに好きの女　ミカコ
 お久しぶりですわね。以前あなたに\r\n捕まえてもらったグリーンジェルは\r\n家を荒らすので、野生にかえしたの\r\nだけど……いなくなると恋しくなる\r\nものね。今度は赤くて可愛らしい子\r\nを連れてきてくれないかしら？
@@ -378,3 +378,4 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 冒険者ギルド
 キミの実力はこれまでの実績により\r\n十分過ぎるほどに光り輝いている。\r\nおそらくこの依頼が、ギルドで請け\r\n負う事の出来る最後となるだろう。\r\n心してかかるがよい。そして、その\r\n名を世界に轟かすのだ！
 見事だ。もはやこの冒険者ギルドは\r\n主にとって窮屈なものであろう。\r\n今後は、これまで積み重ねた実績を\r\n生かし、世界に羽ばたいてゆけ！\r\n天高く舞ったその羽が千切れぬ事を\r\n遠く小さな村より祈っている……
+

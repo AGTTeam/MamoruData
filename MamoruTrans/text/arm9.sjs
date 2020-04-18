@@ -13,10 +13,10 @@ Archduke Kucellbull
 Ronixis
 Veres
 Data Select
-契約金は戻ってきません。\n依頼を取り消しますか？
-<C02>%s<C01> learnt!
+Abandon the quest? The contract\n   money won’t be returned.
+ 　<C02>%s<C01> learnt!
 Flagstone
-Quest had been abandoned.
+Quest has been abandoned.
 Item Shop
 %s added to recipe list!
 Accessories
@@ -32,7 +32,7 @@ Talk
 %s %dx created!
 Blacksmith
 Finish looking through the\n  quest clear details？
-強化できません
+Can’t be enhanced.
 （New Game）
 Go to the ruins?
 Guild
@@ -139,12 +139,12 @@ Don't equip
  File 1
  File 2
  File 3
-データを読めませんでした\n電源を切って\nカードを差し込み直してください
-データを書けませんでした\n電源を切って\nカードを差し込み直してください
-不明のエラー
-データが壊れているので\n消去します
-破損データを消去しています
-破損データを消去しました
+Data could not be read.\nPlease turn off the power &\nre-insert the game card.
+Data could not be written.\nPlese turn off the power &\nre-insert the game card.
+Unknown error
+Data is corrupted.\nIt will be erased.
+Deleting corrupted data...
+Corrupted data deleted.
 <$1b>X8Delete the data in File %d?\n<$1b>X12This cannot be undone.
 <$1b>X12Deleting the file...
 File %d has been deleted.
@@ -244,7 +244,7 @@ Come back once you've completed a quest.
 You aren't currently on any quests, so there's\nnothing to see here.
 Oh? Leaving so soon?
 You can't take on two requests at the same time.\nFinish your current quest first.
-You can abandon your current quest, but note\nthat the contract fee you paid won't be\nreturned. 
+You can abandon your current quest, but note\nthat the contract fee you paid won't be returned.\n
 This quest is to assess your abilities as a new\nhunter.\nPlease see it through to the end.
 You can report that you've finished a request at\nthe reception desk.\nDrop by any time.
 
@@ -549,10 +549,10 @@ What’s it say?\n\n\n
 どうやら、 このスキルを登録すれば\n気絶の持続時間が軽減するようだわ。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>強い気持ち<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>強い気持ち<C04> ？\n\n\n
-『強い気持ちを持って冒険に臨めば、\n臆病な気持ちなどすぐに吹き飛ばせる――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n臆病の持続時間が軽減するようだわ。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>allocation skill<C04> called ‘<C03>Determination<C04>’.\n\n
+<C03>Determination<C04>?\n\n\n
+“If you face your adventures with determination,\nyou can easily shrug off feelings of fear”, or so\nit says.\n
+So it seems that assigning this skill will reduce\nthe duration you’re frightened.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>allocation skill<C04> that allows you to become ‘<C03>Heat\nResistant<C04>’.\n
@@ -697,14 +697,14 @@ What’s it say?\n\n\n
 ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>自然治癒<I><C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>自然治癒<I><C04> ？\n\n\n
-『人智を超えた自然治癒の能力が開花し、\n身体に受けた傷を自動的に癒してくれる――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\nHPが自動的に回復していくみたいよ。\n\n
-うまく利用すれば、 回復系のアイテムを\n節約出来るかもしれないわね。\n\nま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>allocation skill<C04> called ‘<C03>Auto-heal Ⅰ<C04>’.\n\n
+<C03>Auto-heal Ⅰ<C04>?\n\n\n
+“An ability to spontaneously recover that goes\nbeyond human understanding will emerge, allowing\nwounds to the body to be automatically healed.”\n
+Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>自然治癒<II><C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
+どうやらこの書は、 <C03>自然治癒 Ⅱ<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
 <C03>自然治癒<II><C04> ？\n\n\n
 『進化した自然治癒能力を得ることができ、\n日常生活では擦り傷など見なくなるだろう――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\nHPが自動的に回復していくみたいよ。\n\n
@@ -712,7 +712,7 @@ What’s it say?\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>自然治癒<III><C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>自然治癒<III><C04> ？\n\n\n
+<C03>自然治癒Ⅲ<C04> ？\n\n\n
 『驚異的な自然治癒力をその肉体に宿せる\nようになる。　その効果は驚きだ――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\nHPが自動的に回復していくみたいよ。\n\n
 うまく利用すれば、 回復系のアイテムを\n節約出来るかもしれないわね。\n\nま、 If you think you might need it, why don’t you try\nequipping it?\n\n
@@ -925,19 +925,19 @@ Yes... To summarise it...\n\n\n
 It goes without saying that the number of times\nthe grass can be collected from will increase as\na result...”\n
 ...Does it really make any difference whether or\nnot the grass is admired...?\n\n
 Well, if you do come across a patch of grass, why\ndon’t try you harvesting some material from it\nand see what's changed?\n
-Yeah, will do.\n\n\n
+Yeah,  no harm in trying.\n\n\n
 <C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Grass +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Gardener<C04>’.\n
 <C03>The Apprentice Gardener<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-『……立派な庭師を目指すという強い\n気持ちを持ち、 草の手入れ技術を\nマスターすることによって、\n
-草の扱いに長け、草むらから\n採取出来る回数が増加する……』 だって。\n\n
-……トレジャーハンターたる者、 どのような\n技術でも、 備えておいてムダはない ！\n\n……とでも言いたいのかしら ？\n\n\n
-ま、 草むらを見つけたら素材を採取してみて、\nどのように変化したのかチェックしてみれば\nいいんじゃない ？\n
+“...By having a strong desire to become a good\ngardener and mastering the skills required for\nthe upkeep of grass,\n
+you will excel at managing grass, and hence the\nnumber of times you can harvest material from\nit will increase...”\n
+...As a treasure hunter, no matter what kind of\nskill it is, anything you acquire will never go to\nwaste!\n...Or something like that.\n\n\n
+Well, if you do come across a patch of grass, why\ndon’t try you harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　採取の回数がアップしました！\n\n<C03>　　　 　【草むら＋3】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Grass +3】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 どうやらこの書は、 <C03>ガーデナー<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
