@@ -930,7 +930,7 @@ Yeah, will do.\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Gardener<C04>’.\n
-<C03>The Apprentice Gardener<C04>?
+<C03>The Apprentice Gardener<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 『……立派な庭師を目指すという強い\n気持ちを持ち、 草の手入れ技術を\nマスターすることによって、\n
 草の扱いに長け、草むらから\n採取出来る回数が増加する……』 だって。\n\n
@@ -1085,9 +1085,9 @@ Well, she probably means me.\n\n\n
 Wha--!?\n\n\n
 I mean it.\nEven though I look like this, I'm an archaeologist.\n\nI discovered this site a few years ago and snuck\nin here on my own to investigate.\n\nAnd as a result, the mummy-hunter became the\nmummy, or skeleton... you get the drift.\n\nHa ha ha haa--\n*Cough, cough*!\n\nOh, pardon me. Even though this body is hollow,\nit's easy for things to get caught. Dearie me...\n\n
 Er... So, what you're saying is...\n\n\n
-Right. It's exactly what it looks like; I'm already\ndead.\n\nIt seems the power left here by the ancient\npeople still persists to this day...\n\nNot realising that, I was driven on by curiosity,\nand, thanks to an onslaught of hidden monsters,\nsaid my goodbyes to this world.\nBut strangely, even though I died, my soul didn't\nleave my bones, thus I got a body that will never\nrot.\n...However, it’s all down to the power of a most\ncurious stone called Magicite that fills these ruins.\n\nIf I take one step outside of this place, I might\nnever move again.\n\nBut, well I don't let it get me down. Thanks to\nthis, I can investigate the ruins without having\nto worry about time.\nHa ha ha haa--\n*Cough, cough*!\n\n......\n\n\n...My only regret is that I did such terrible thing\nto my wife.\n\n
+Right. It's exactly what it looks like; I'm already\ndead.\n\nIt seems the power left here by the ancient\npeople still persists to this day...\n\nNot realising that, I was driven on by curiosity,\nand, thanks to an onslaught of hidden monsters,\nsaid my goodbyes to this world.\nBut strangely, even though I died, my soul didn't\nleave my bones, thus I got a body that will never\nrot.\n...However, it’s all down to the power of a most\ncurious stone called Magicite that fills these ruins.\n\nIf I take one step outside of this place, I might\nnever move again.\n\nBut, well I don't let it get me down. Thanks to\nthis, I can investigate the ruins without having\nto worry about time.\nHa ha ha haa--\n*Cough, cough*!\n\n......\n\n\n...I’ve done such an awful thing to my wife...\n\n\n
 ...\n\n\n
-But I'm doing fine, despite being dead and all.\n\n\nI'm sorry to have to ask this, but could you let\nmy wife know what happened?\n\n
+Still, I'm doing fine, despite being dead and all.\n\n\nI'm sorry to have to ask this, but could you let\nmy wife know what happened?\n\n
 Yeah, I'll tell her.\n\n\n
 Thank you.\nWell, do be careful on the way.\n\n
 You too, keep well.\n\n\n
@@ -2416,3 +2416,4 @@ First off, I guess I should drop by the guild...\n\n\n
 ……ヴェルスの考えていることは\nわからないけど、\n\n
 この鍵があれば、 遺跡の奥へ\n進めそうだな。\n\n
 ……さて、 仕事に戻るか。\n\n\n
+
