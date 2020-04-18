@@ -27,13 +27,13 @@ Recipes
 %s<$1b>X8forged!
      No Data
 Talk
-<C02>%s %s<C01> obtained！
+　<C02>%s %s<C01> obtained！
 %s\nPrice: ＄%6d
 %s %dx created!
 Blacksmith
 Finish looking through the\n  quest clear details？
 Can’t be enhanced.
-（New Game）
+(New Game)
 Go to the ruins?
 Guild
 Sub-weapon

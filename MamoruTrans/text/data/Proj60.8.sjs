@@ -5,13 +5,13 @@
 石盤
 \r\n   People repeat their stupid\r\n   mistakes knowing full well\r\n      how foolish they are.\r\n\r\n    If there’s power in their\r\n            sights...\r\n   They do it all the more so.\r\n\r\n Only by continuing forward can\r\n they avoid wasting their lives.\r\n
 石盤
-\r\n　　　新たなる扉を開いた先\r\n　　　下へ下へと沈みゆけば\r\n　　 いきり立つ鋭利な針山と\r\n　　　　 死臭に包まれる\r\n\r\n　　 勇気を持って乗り越えよ\r\n\r\n　さすれば一つ目の鍵は目の前だ\r\n
+When a new door is opened, if you\r\n  descend deep, deep down, you'll\r\n find the sharp end of those who\r\n　　　lost their patience.\r\n\r\n　　 Overcome it with bravery.\r\n\r\n　　 The first key is in sight.\r\n
 石盤
-\r\n　 大きくひらけたふたつの部屋\r\n\r\n　　そのふたつの橋渡しを担い\r\n 　　こぢんまりと重なり合う\r\n　　小さな小さなふたつの部屋\r\n\r\n　そのどちらかに眠りし鍵こそが\r\n　　 二つ目の珠玉に相応しい\r\n
+　　　Two large open rooms.\r\n\r\n　　Two small, small overlapping\r\n  　rooms that bridge the gap\r\n　　　　　　　between them.\r\n\r\n　Either way, the second jewel\r\n　　　 is the missing key.\r\n
 石盤
-\r\n　恐れを抱いては辿り着けぬ場所\r\n\r\n　　　踏み出す勇気を失わず\r\n　　 恐怖に打ち勝ち飛び出せ\r\n\r\n　　 平らな道を歩くだけでは\r\n　　　　　手には入らぬ\r\n　　 三つ目の鍵が待つ場所へ\r\n
+　A place that can't be reached\r\n　　whilst holding on to fear.\r\n　Don't lose the courage to step\r\n　forward. Overcome fear and fly.\r\n\r\n　 To the place which cannot be\r\n　 reached by following the easy\r\n　path, where the third key waits.\r\n
 石盤
-\r\n　　 引き返したくば引き返せ\r\n\r\n　 咎める者などいるはずもない\r\n\r\n 　　　…ただ、最短距離で\r\n　　　　　逃げ帰る道程\r\n　　 新たなる道への可能性を\r\n　　　見つけたとしたら…？\r\n
+　If you want to flee, do it now.\r\n\r\n　　 There is no one to blame.\r\n\r\n　　　 ...But what if there's a\r\n　possibility of finding a new path\r\n　that is a faster way to home...?\r\n
 石盤
 \r\n\n\n　Mind the cliff! →\r\n\r\n　※This gloomy chasm is\r\n　　bottomless. Heed caution,\r\n　　rushing ahead will be your\r\n　　downfall.\r\n\r\n
 石盤
@@ -38,3 +38,4 @@
 　　　苦難の道と知りながら\r\n　　　 力を求める愚か者よ\r\n\r\n　　先に待つは巨大なる砂の蛇\r\n\r\n　鋼鉄よりも堅いそのうろこには\r\n　　傷一つ付けること、叶わぬ\r\n\r\n　　　　　　引き返せ\r\n　その命、無駄にすることはない
 石盤
 \r\n No matter what happens, you are\r\n      not allowed to stop.\r\n\r\n No matter what happens, you are\r\n    not allowed to look back.\r\n\r\n      Just push forward...\r\n     Then the way will open.\r\n
+
