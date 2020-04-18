@@ -4,6 +4,7 @@ MamoruTrans/text_backup/*
 MamoruTrans/readme.txt
 MamoruTrans/DarthNemesis.dll
 MamoruTrans/MamoruTrans.exe
+font_data.bin
 extract*
 out_*
 repack*
