@@ -5,13 +5,13 @@
 石盤
 \r\n   People repeat their stupid\r\n   mistakes knowing full well\r\n      how foolish they are.\r\n\r\n    If there’s power in their\r\n            sights...\r\n   They do it all the more so.\r\n\r\n Only by continuing forward can\r\n they avoid wasting their lives.\r\n
 石盤
-When a new door is opened, if you\r\n  descend deep, deep down, you'll\r\n find the sharp end of those who\r\n　　　lost their patience.\r\n\r\n　　 Overcome it with bravery.\r\n\r\n　　 The first key is in sight.\r\n
+\r\n When a new door is opened, if you\r\n　descend deep, deep down, you'll\r\n find the sharp end of those who\r\n　　　　lost their patience.\r\n\r\n　　 Overcome it with bravery.\r\n\r\n　　 The first key is in sight.\r\n
 石盤
-　　　Two large open rooms.\r\n\r\n　　Two small, small overlapping\r\n  　rooms that bridge the gap\r\n　　　　　　　between them.\r\n\r\n　Either way, the second jewel\r\n　　　 is the missing key.\r\n
+\r\n　　　Two large open rooms.\r\n\r\n　　Two small, small overlapping\r\n　　rooms that bridge the gap\r\n　　　　　between them.\r\n\r\n　 Either way, the second jewel\r\n　　　　is the missing key.\r\n
 石盤
-　A place that can't be reached\r\n　　whilst holding on to fear.\r\n　Don't lose the courage to step\r\n　forward. Overcome fear and fly.\r\n\r\n　 To the place which cannot be\r\n　 reached by following the easy\r\n　path, where the third key waits.\r\n
+\r\n　A place that can't be reached\r\n　　 whilst holding on to fear.\r\n Don't lose the courage to step\r\n forward. Overcome fear and fly.\r\n\r\n　To the place which cannot be\r\n　reached by following the easy\r\n path, where the third key waits.\r\n
 石盤
-　If you want to flee, do it now.\r\n\r\n　　 There is no one to blame.\r\n\r\n　　　 ...But what if there's a\r\n　possibility of finding a new path\r\n　that is a faster way to home...?\r\n
+\r\n　If you want to flee, do it now.\r\n\r\n　　There is no one to blame.\r\n\r\n　　 ...But what if there's a\r\n　 chance of finding a new path\r\n that is a faster way to home...?\r\n
 石盤
 \r\n\n\n　Mind the cliff! →\r\n\r\n　※This gloomy chasm is\r\n　　bottomless. Heed caution,\r\n　　rushing ahead will be your\r\n　　downfall.\r\n\r\n
 石盤
