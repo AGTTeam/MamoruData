@@ -35,7 +35,7 @@
 石盤
 \r\n　　　　 この先に待つは\r\n　　　猛々しき真紅の守護者\r\n\r\n　我ら <[>レヴィールの民<]> により\r\n　　　生み出されし異界の者\r\n\r\n　　 　　踏み入れし者は\r\n 　最期への覚悟を決めるがよい\r\n
 石盤
-He who seeks power whilst knowing\r\n the path of hardship is a fool.\r\n\r\n　Waiting beyond is the sand snake.\r\n\r\n　His scales, harder than steel,\r\n　　　cannot be scratched.\r\n\r\n　　　　　　Turn back.\r\n　　Don't throw away your life.
+He who seeks power whilst knowing\r\n the path of hardship is a fool.\r\n\r\n Waiting beyond is the sand snake.\r\n\r\n　His scales, harder than steel,\r\n　　　cannot be scratched.\r\n\r\n　　　　　　Turn back.\r\n　　Don't throw away your life.
 石盤
 \r\n No matter what happens, you are\r\n      not allowed to stop.\r\n\r\n No matter what happens, you are\r\n    not allowed to look back.\r\n\r\n      Just push forward...\r\n     Then the way will open.\r\n
 

@@ -55,17 +55,17 @@ Create a new save in File %d\n<$1b>X20and start playing?
 What arrre you buying?
 What arrre you selling?
 View permanent skills.
-View allocation skills.
+View assigned skills.
   Retry
   Quit
 Permanent
-Allocation
+Assigned
 Yes
   No
 Use sword
 Roll
 Permanent Skills
-Allocation Skills
+Assigned Skills
 Smithing Order
 Enhancement Order
 Save
@@ -483,13 +483,13 @@ O-oi! Donft wave that thing about!\n\n\n
 „Ren decided to leave the small monster who\n@wasn't giving him a chance to speak and put\n@that place behind him.\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Timing<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Timing<C04>f.\n\n
 <C03>Timing<C04>?\n\n\n
 gYou will be able to keep up your opponents\nwithout missing the mark...h, or so it says.\n\n
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Let's see... Hmmm...\nAhh... Interesting...\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> that allows you to e<C03>forsee<C04>f the\nfuture.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to e<C03>forsee<C04>f the\nfuture.\n
 <C03> Forsight<C04>?\n\n\n
 gThe foreseeing ability enables you to predict\nthe enemies movements, before they happenh,\nor so it says.\n
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -501,7 +501,7 @@ What's it say?\n\n\n
 ‚Â‚Ü‚èA “o˜^‚³‚¦‚·‚ê‚ÎUŒ‚‚Ì–½’†—¦‚ª\nƒAƒbƒv‚·‚é‚Æ‚¢‚¤ƒXƒLƒ‹‚Ì‚æ‚¤‚ËB\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Let's see... Hmmm...\nAhh... Interesting...\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called the e<C03>Quick Thinking<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the e<C03>Quick Thinking<C04>f.\n\n
 <C03>Quick Thinking<C04>?\n\n\n
 gNo matter the situation, you will be able to\nthink on your feet and move accordingly", or\nso it says.\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -531,13 +531,13 @@ Whatfs it say?\n\n\n
 ‚Â‚Ü‚èA “o˜^‚³‚¦‚·‚ê‚ÎˆÚ“®‘¬“x‚ª\nƒAƒbƒv‚·‚é‚Æ‚¢‚¤ƒXƒLƒ‹‚Ì‚æ‚¤‚ËB\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> that allows you to e<C03>resist poison<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to e<C03>resist poison<C04>f.\n\n
 <C03>Resist poison<C04>?\n\n\n
 gYour body will be able to produce antitoxins\nthat half the effects of being poisonedh, or\nso it says.\n
 So it seems that assigning this skill will reduce\nthe duration youfre poisoned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> that allows you to e<C03>resist\nparalysis<C04>f.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to e<C03>resist\nparalysis<C04>f.\n
 <C03>Resist Paralysis<C04>?\n\n\n
 gYour body will be able to resist the effect of a\nparalyzing sting by up to a half", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration youfll be paralyzed.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -549,13 +549,13 @@ Whatfs it say?\n\n\n
 ‚Ç‚¤‚â‚çA ‚±‚ÌƒXƒLƒ‹‚ğ“o˜^‚·‚ê‚Î\n‹Câ‚Ì‘±ŠÔ‚ªŒyŒ¸‚·‚é‚æ‚¤‚¾‚íB\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Determination<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Determination<C04>f.\n\n
 <C03>Determination<C04>?\n\n\n
 gIf you face your adventures with determination,\nyou can easily shrug off feelings of fearh, or so\nit says.\n
 So it seems that assigning this skill will reduce\nthe duration youfre frightened.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> that allows you to become e<C03>Heat\nResistant<C04>f.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to become e<C03>Heat\nResistant<C04>f.\n
 <C03>Heat Resistant<C04>?\n\n\n
 gBy curing the skin, you can make it highly heat\nresistant and flame retardant", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration youfll be burned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -579,13 +579,13 @@ It has character, don't you think?\nAlright, we should stop at the guild first.\
 „‚Í‚Ç‚±‚É‚¢‚é‚Å‚µ‚å‚¤H\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called the e<C03>Warrior's Right Arm<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the e<C03>Warrior's Right Arm<C04>f.\n\n
 <C03>Warrior's Right Arm<C04>?\n\n\n
 gYou can host the offensive power of a battle-\nscarred warrior within your body", or so it says.\n\n
 In other words, it's a skill that will increase the\n power of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called the e<C03>Demon's Right Arm<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the e<C03>Demon's Right Arm<C04>f.\n\n
 <C03>Demon's right arm<C04>?\n\n\n
 gYour body will become host to an offensive power\nlike that of a demon", or so it says.\n\n
 In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -597,7 +597,7 @@ Whatfs it say?\n\n\n
 ‚Â‚Ü‚èA “o˜^‚³‚¦‚·‚ê‚ÎŒ•‚ğg‚Á‚½UŒ‚‚Ì\nˆĞ—Í‚ªƒAƒbƒv‚·‚é‚Æ‚¢‚¤ƒXƒLƒ‹‚Ì‚æ‚¤‚ËB\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called the e<C03>Hunter's Left Hand<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the e<C03>Hunter's Left Hand<C04>f.\n\n
 The <C03>Hunter's Left Hand<C04>?\n\n\n
 gLike the fist of a skilled hunter, you can deal a\npowerful blow to distant enemiesh, or so it says.\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -621,7 +621,7 @@ Whatfs it say?\n\n\n
 ‚Â‚Ü‚èA “o˜^‚³‚¦‚·‚ê‚Î–hŒä—Í‚ª\nƒAƒbƒv‚·‚é‚Æ‚¢‚¤ƒXƒLƒ‹‚Ì‚æ‚¤‚ËB\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called the e<C03>Steel Wall<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the e<C03>Steel Wall<C04>f.\n\n
 <C03>Steel Wall<C04>?\n\n\n
 gBy obtaining a body as tough as steel, you will\nbe able to deflect impact", or so it says.\n\n
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why donft you try\nequipping it?\n\n
@@ -641,7 +641,7 @@ Whatfs it say?\n\n\n
 ‚ÜA If you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Forward Roll - Student<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Forward Roll - Student<C04>f.\n\n
 <C03>Forward Roll<C04>... <C03>Student<C04>?\n\n\n
 Let's see...  It's a evasive manoeuvre, that is,\na technique to help you better get the hang\nof making a forward roll.\n
 Apparently, by having this skill assigned, you'll\nward off enemy attacks whilst rolling.\n\nSo with this, you should be able to easily avoid\nenemy attacks that you used to have trouble\ndodging.\n
@@ -697,7 +697,7 @@ Whatfs it say?\n\n\n
 ‚ÜA If you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Auto-heal ‡T<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Auto-heal ‡T<C04>f.\n\n
 <C03>Auto-heal ‡T<C04>?\n\n\n
 gAn ability to spontaneously recover that goes\nbeyond human understanding will emerge, allowing\nwounds to the body to be automatically healed.h\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
@@ -732,7 +732,7 @@ Whatfs it say?\n\n\n
 ‚ÜA If you think you might need it, why donft you try\nequipping it?\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Awakening Power<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Awakening Power<C04>f.\n\n
 <C03>Awakening Power<C04>?\n\n\n
 gYou can draw out power beyond your natural\nlimitsh, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to unleash a very powerful blow at random... \nI.e, you'll deal a critical hit in a single blow.\n...Not being able to choose when seems kinda\ninconvenient, though.\n\n
@@ -757,7 +757,7 @@ Well, if you think you might need it, why donft you\ntry equipping it?\n\n
 „l‰ù‚Á‚±‚¢ƒ€ƒ‹ƒ€ƒ‹‚É•Ê‚ê‚ğ‚°A\n@ƒŒƒ“‚Í‚»‚Ìê‚ğŒã‚É‚µ‚½B\n\n
 Letfs see... Hmmm...\nAhh... Interesting...\n\n
 Whatfs it say?\n\n\n
-This book seems to contain information about an\n<C03>allocation skill<C04> called e<C03>Throwing A Strike<C04>f.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called e<C03>Throwing A Strike<C04>f.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
 In other words, it's a skill that will change your\nstandard attack into a more powerful technique,\nas long as it's been assigned.\n
@@ -847,9 +847,9 @@ It might be a good idea to take another look at\nthe skills you had to leave out
 <C05>@@@@@INFORMATION<C04>\n\n\n\n@@Skill points increased!\n\n<C03>@@@@@ ySP{5z<C04>\n\n\n
 It's everywhere.... A room buried by sand, huh?\n...It's hard to move.\n\n
 „In a certain room in the second layer of the\n@ruins...\n\n
-„Almost the entirety of one side was buried in\n@sand. Seeing that, Ren let out an involuntarily\n@sigh.\n
+„The floor was almost entirety covered in sand.\n@Seeing that, Ren let out an involuntarily\n@sigh.\n
 „Just as he had made up his mind to continue\n@forward, a faint sign of life stirred in the\n@back of the room.\n
-„Not letting his guard down, Ren slowly\n@approached the source of the sign...\n@Standing there was...\n
+„Not letting his guard down, Ren slowly approached\n@the source of the sign...\n@Standing there was...\n
 Veres? What are you doing?\n\n\n
 ...!?\n\n\n
 What, it's just you Ren? Don't scare me like that!\n\n\n
@@ -1403,8 +1403,8 @@ It sounds kinda weird...\n\n\n
 But, if you come across somewhere where it's\ntoo narrow to walk through, or think an enemy\nis about to strike...\n
 ...then it might be worth giving this <C03>evasive\nmanoeuvre<C04> thing a shot, right?\n\n
 Yeah, no harm in trying.\n\n\n
-<C05>@@@@@INFORMATION<C04>\n\n<C03>@yPermanent Skillsz<C04>\n@These begin to take effect\n@as soon as they're learnt.\n\n<C03>@yAllocation Skillsz<C04>\n@Once learnt, the skill must\n@be allocated to take effect.\n@(SP is required)
-<C05>@@@@@INFORMATION<C04>\n\n@You can visit gSkillsh from\n@the menu to <C03>view permanent\n@skills<C04> and <C03>assign allocation\n@skills<C04>.\n\n@It's worth checking whenever\n@you learn a new skill.\n
+<C05>@@@@@INFORMATION<C04>\n\n<C03>@yPermanent Skillsz<C04>\n@These begin to take effect\n@as soon as they're learnt.\n\n<C03>@yAssigned Skillsz<C04>\n@Once learnt, the skill must\n@be allocated to take effect.\n@(SP is required)
+<C05>@@@@@INFORMATION<C04>\n\n@You can visit gSkillsh from\n@the menu to <C03>view permanent\n@skills<C04> and <C03>assign assigned\n@skills<C04>.\n\n@It's worth checking whenever\n@you learn a new skill.\n
 Just like this, if you bring a book that contains\ninformation about a skill to the guild, I'll teach\nyou about it.\n
 Only then will you be able to learn the skill.\n\n\n
 So... in order to learn a skill, I have to <C03>bring\nthe skill book back with me from the ruins, and\ntake it here, to the guild<C04>.\n
