@@ -64,8 +64,8 @@ Yes
   No
 Use sword
 Roll
-Permanent Skill
-Allocation Skill
+Permanent Skills
+Allocation Skills
 Smithing Order
 Enhancement Order
 Save
@@ -779,16 +779,16 @@ What’s it say?\n\n\n
 つまり、 このスキルを登録すれば\nジャンプ中の攻撃がより進化した技へと\n変化する、 というわけね。\n
 へ～……<C03>ジャンプ回転攻撃<C04>ねぇ……\n\n\n……想像出来ないな。\n\n\n
 そうね……一度登録してみて、\n試してみるのもいいんじゃない ？\n\n使い方によっては、 今後現れる敵に対して\nかなりの脅威になるんじゃないかしら ？\n\n
-これが <[>魔晶石<]> ってやつみたいだ。\n\n\n
-見つけたのか ！ ？\n\n\n
-……って言っても、 それは <[>魔晶石<]> の\nカケラらしくて、 何の効果もない。\n\n
-言うならば、 ただ光ってるってだけで、\nその辺の石ころと何も変わらないってことだ。\n\n
-そうか……\nでも、 カケラがあるってことは、\n本体もどこかにあるってことだよな ？\n
-おそらく、 な。\n\n\n
-それはそうと、 何で隠そうとしたんだ ？\nこれを持ち帰るのが俺たちの任務だろ ？\n\n
-あ、 いや～……\nお前をビックリさせてやろうと思ってたんだ。\n\n
-こっちでも色々と調べててさ。\n何とかこの石の本質、みたいなものが\n分かりかけてきたんだよ。\n
-石の本質…… ？\n\n\n
+It looks like this is that ‘Magicite' thing.\n\n\n
+You found it!?\n\n\n
+...That said, this is just a fragment of Magicite,\nit's not good for anything.\n\n
+In other words, all it does is sparkle, no\ndifferent from any of the other stones around\nhere.\n
+I see...\nBut, if this is a fragment, then that must mean\nthere's a main body somewhere, right?\n
+Most likely.\n\n\n
+Anyway, why did you try to hide it?\nBringing this back with us is our mission, isn't it?\n\n
+Oh, well you know~...\nI was thinking that I'd surprise you with it.\n\n
+I've been looking into all sorts of things.\nI think I've more or less figured out the true\nnature of this stone.\n
+The true nature...?\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat ups your physical strength.\n\n
@@ -845,21 +845,21 @@ Ups... dexterity?\n\n\n
 えぇ。　これでこれまで諦めていた数多くの\nスキルも、同時に登録しておけるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
-一面、 砂に埋もれた部屋……か。\n……動きづらいな。\n\n
-＞遺跡第二層の、 とある部屋……\n\n\n
-＞ほぼ一面が黄砂により埋まってしまった\n　その部屋を見て、 レンは思わずため息をこぼす。\n\n
-＞決心を決めて一歩を踏み出そうとしたその瞬間、\n　部屋奥の方で微かに気配を感じた。\n\n
-＞レンは、警戒しながらも、一歩一歩と\n　気配のする方へ近づいていく。\n　すると……\n
-ヴェルス ？　何してるんだ ？\n\n\n
-…… ！ ？\n\n\n
-なんだ、 レンか。　驚かすなよ。\n\n\n
-＞そこにいたのは、 別行動を取っていた\n　ヴェルスであった。\n\n
-＞ヴェルスはレンに気づくなり、\n　手に持っていた何かを隠すような\n　素振りを見せる。\n
-ん ？　何だそれ ？\n\n\n
-え、 何が ？\n\n\n
-とぼけるな。　今、 何か隠したろ ？\n見せてみろよ。\n\n
-はぁ……見つかっちまったか……\nほらっ。\n\n
-＞ヴェルスはレンに向かって光り輝く\n　小さな石を投げた。\n\n
+It's everywhere.... A room buried by sand, huh?\n...It's hard to move.\n\n
+＞In a certain room in the second layer of the\n　ruins...\n\n
+＞Almost the entirety of one side was buried in\n　sand. Seeing that, Ren let out an involuntarily\n　sigh.\n
+＞Just as he had made up his mind to continue\n　forward, a faint sign of life stirred in the\n　back of the room.\n
+＞Not letting his guard down, Ren slowly\n　approached the source of the sign...\n　Standing there was...\n
+Veres? What are you doing?\n\n\n
+...!?\n\n\n
+What, it's just you Ren? Don't scare me like that!\n\n\n
+＞It was Veres, up to something.\n\n\n
+＞On noticing Ren, he appeared to have hidden\n　something in his hand.\n\n
+Hm? What's that?\n\n\n
+Huh? What's what?\n\n\n
+Don't play dumb. What did you hide just then?\nShow me.\n\n
+*Sigh...*\nI guess I've been found out... Here.\n\n
+＞Veres gave in and showed Ren the small, glittering\n　stone he had been holding.\n\n
 ……ずいぶんと奥まで来たな。\n\n\n
 ＞部屋は所々が崩れ、 千年の刻を眠り続けた\n　という事実を語りかけてくるようである。\n\n＞その様子を見たレンは\n　幼さの残る顔一面に、 薄く笑みを浮かべた。\n\n
 眠りについてからこれまで\n人が入り込んだ気配はなし、 か……\n\nつまり、 調査の対象として\nもってこいというわけだ。\n\n
@@ -1332,43 +1332,43 @@ Well, good luck with your investigation.\nI'll be cheering you on from behind.\n
 ……エルザが、 危ない。\n\n\n
 ＞ヴェルスが行おうとしていることが何なのか……\n　今のレンにはわからなかった。\n\n
 ＞それでも、 エルザの身に危険が\n　迫っていることだけは察知していた。\n\n
-ま、 それはそうと。\n前に見せた書物に書いてあった\n<[>レヴィールの民<]> なんだが……\n
-どうやら、 千年前に滅んだエデンバルの時代に、\n錬金術を使って <[>魔晶石<]> を\n生み出した者たちの事らしいんだ。\n
-錬金術で…… <[>魔晶石<]> を ？\n\n\n
-……どんどん信憑性が無くなってるな。\n錬金術なんて、 作り話の類だろ ？\n\n
-でも現に石は存在している。\n\n\n
-……不思議な石を生み出す為の、\n不思議な力が存在した。\n\n
-わかんない事だらけだけど、\n今はそれで納得しておくしかないだろ ？\n\n
-……まぁ、 な。\n\n\n
-で、 古代文明の崩壊は、 <[>魔晶石<]> の\n力に頼りすぎたせいだって言われてる……\n\n
-つまり、 あの書物に書いてあった\n” レヴィールの民が犯した罪 “ ってのは、\n<[>魔晶石<]> を生み出した事だったんだよ。\n
-……なるほどな。\nということは、 この石はそれだけ\n危険な物ってことになるのか。\n
-ま、 でも現物を見てみなきゃ何とも言えねぇ上に、\n大公様からの命令だからな。\n\n
-俺たちがここであーだこーだ言ったって\nどうなるわけでもない。\n\n
-…………\n\n\n
-それに、 上手くいけば……\n……これは絶好のチャンスなんだ。\n\n
-ん？　何か言ったか？\n\n\n
-い、 いや、 何も。\n\n\n
-とりあえず、 俺はもっとこいつを調べてみるから、\nそっちはそっちで、 がんばれよ。\n\n
-あ、 おい ！　ちょっと待て……\nって本当に人の話を聞かないやつだな。\n\n
-＞レンの声が聞こえているのかいないのか……\n　ヴェルスは足早に去っていった。\n\n
-…………\n\n\n
-<[>魔晶石<]> は <[>レヴィールの民<]> が\n生み出したもの……か。\n\n
-…………\n\n\n
-あれ、 なんだ……\n右手が、 おかしい…… ？\n\n
-＞突然、 右の手に違和感を感じたレンは、\n　思わず剣を手に取ってみた。\n\n
-なんだか、 いつも以上の力で\n溢れているような気がする……\n……どういう事だ ？\n
-＞レンは右の手から溢れ出る力に\n　困惑の色を隠せなかった。\n\n
-＞頭をよぎるのは、 先ほどまで\n　<[>魔晶石<]> のカケラをその右手で\n　触れていた、 ということ。\n
-＞もし、 これがあの石の力であれば……\n\n\n
-＞ヴェルスは、 気づいていなかったのか……\n　それとも……\n\n
-＞答えの見えぬ問いかけを続けていた時、\n　それは突然、 足下から姿を現した……\n\n
-ギュィーーーーーーーー ！ ！ ！\n\n\n
-で、 でかい ！ ？\nこんなヤツが砂の中に ！ ？\n\n
-……くそっ。\nこの遺跡、 本当に何でもアリだな。\n\n
-ギュィーーーーーーーー ！ ！ ！\n\n\n
-……やるしかない、 か。\n\n\n
-＞覚悟を決めたレンは柄を強く握り締め、\n　巨大な砂蛇に対し、 剣先を向けた……\n\n
+Well, anyways.\nAbout the nation of Reville in the book I showed\nyou before...\n
+Apparently, they're the ones who used alchemy to\ncreate magic stones in the days of Edenbar, which\nwas destroyed a thousand years ago.\n
+Using alchemy... to make Magicite?\n\n\n
+...It's getting more and more unbelievable.\nAlchemy is the stuff of fiction, right?\n\n
+But, the stone really exists.\n\n\n
+...To create a miraculous stone, you need a\nmiraculous power.\n\n
+There's a lot we don't know, but now you've gotta\nbelieve at least that much, right?\n\n
+...I guess so.\n\n\n
+So, it's said that ancient civilization's collapse\nwas due to their over-reliance on the power of\nMagicite...\n
+Meaning, the “sin committed by the nation of Reville”\nmentioned in that book is that they created the\nMagicite.\n
+...That makes sense.\nDoes that mean that this stone is dangerous?\n
+Well, it's hard to say anything without seeing the\nreal thing, plus it was an order from the Archduke.\n\n
+It doesn't make a difference whatever we say here.\n\n
+...\n\n\n
+Besides, if things go well...\n...This could be a great opportunity.\n\n
+Hm? Did you say something?\n\n\n
+N-no, nothing.\n\n\n
+I'll try to find out more about it for now, so\ngood luck with everything on your end.\n\n
+H-hey! Wait a sec--\n...He never listens to a word anyone else has\nto say, that guy.\n
+＞Whether or not he had heard Ren's voice...\n　Veres left quickly.\n\n
+...\n\n\n
+The Magicite was created by the Nation of Reville,\n　huh...?\n\n
+...\n\n\n
+What..? My right hand feels off...\n\n
+＞Suddenly feeling something strange in his right\n　hand, Ren subconsciously drew his sword.\n\n
+Somehow, I feel like I'm overflowing with more\npower than usual...\n...What is this?\n
+＞Ren couldn't hide his bewilderment at the power\n　overflowing from his right hand.\n\n
+＞The thought that until then, he had been\n　holding the fragment of Magicite in his\n　right hand crossed his mind.\n
+＞If this is the power of that stone...\n\n\n
+＞Had Veres not noticed it... or...\n\n\n
+＞Whilst running that question through his mind\n　without coming to an answer, something suddenly\n　appeared from beneath the ground.\n
+Gaaaoorr----!!!\n\n\n
+I-it's huge!?\nThis thing was in the sand--!?\n\n
+...Damn.\nGuess anything really is possible in this place.\n\n
+Gaaaoorr----!!!\n\n\n
+...I've got no choice, huh?\n\n\n
+＞Determined, Ren gripped the sword tightly in\n　his hand and pointed it at the giant sand snake.\n\n
 ＞Ren signed the request and place it next to\n　Charnet, who was busy seeing to someone else.\n\n
 ＞Then, with perfect timing, the other visitor\n　left, and Charnet returned to check over\n　the piece of paper.\n
 Perfect.　Looks like that didn't give you any\ntrouble.\n\n
