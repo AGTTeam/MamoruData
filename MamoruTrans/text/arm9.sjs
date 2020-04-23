@@ -782,12 +782,12 @@ What’s it say?\n\n\n
 It looks like this is that ‘Magicite' thing.\n\n\n
 You found it!?\n\n\n
 ...That said, this is just a fragment of Magicite,\nit's not good for anything.\n\n
-In other words, all it does is sparkle, no\ndifferent from any of the other stones around\nhere.\n
+In other words, all it does is sparkle, no different\nfrom any of the other stones around here.\n\n
 I see...\nBut, if this is a fragment, then that must mean\nthere's a main body somewhere, right?\n
 Most likely.\n\n\n
-Anyway, why did you try to hide it?\nBringing this back with us is our mission, isn't it?\n\n
-Oh, well you know~...\nI was thinking that I'd surprise you with it.\n\n
-I've been looking into all sorts of things.\nI think I've more or less figured out the true\nnature of this stone.\n
+More to the point, why did you try to hide it?\nBringing this back with us is our mission, isn't it?\n\n
+Oh, well you know～\nI was thinking that I'd surprise you with it.\n\n
+I've been some research of my own, you know.\nI think I've more or less figured out the true\nnature of this stone.\n
 The true nature...?\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
@@ -847,19 +847,19 @@ It might be a good idea to take another look at\nthe skills you had to leave out
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
 It's everywhere.... A room buried by sand, huh?\n...It's hard to move.\n\n
 ＞In a certain room in the second layer of the\n　ruins...\n\n
-＞The floor was almost entirety covered in sand.\n　Seeing that, Ren let out an involuntarily\n　sigh.\n
+＞The floor was almost entirety covered in sand.\n　Seeing that, Ren let out an involuntarily sigh.\n\n
 ＞Just as he had made up his mind to continue\n　forward, a faint sign of life stirred in the\n　back of the room.\n
-＞Not letting his guard down, Ren slowly approached\n　the source of the sign...\n　Standing there was...\n
+＞Not letting his guard down, Ren slowly\n　approached the source of the sign...\n　Standing there was...\n
 Veres? What are you doing?\n\n\n
 ...!?\n\n\n
 What, it's just you Ren? Don't scare me like that!\n\n\n
-＞It was Veres, up to something.\n\n\n
+＞It was Veres, who had left on a different\n　mission.\n\n
 ＞On noticing Ren, he appeared to have hidden\n　something in his hand.\n\n
 Hm? What's that?\n\n\n
 Huh? What's what?\n\n\n
 Don't play dumb. What did you hide just then?\nShow me.\n\n
 *Sigh...*\nI guess I've been found out... Here.\n\n
-＞Veres gave in and showed Ren the small, glittering\n　stone he had been holding.\n\n
+＞Veres gave in and showed Ren the small,\n　glittering stone he had been holding.\n\n
 ……ずいぶんと奥まで来たな。\n\n\n
 ＞部屋は所々が崩れ、 千年の刻を眠り続けた\n　という事実を語りかけてくるようである。\n\n＞その様子を見たレンは\n　幼さの残る顔一面に、 薄く笑みを浮かべた。\n\n
 眠りについてからこれまで\n人が入り込んだ気配はなし、 か……\n\nつまり、 調査の対象として\nもってこいというわけだ。\n\n
@@ -1332,8 +1332,8 @@ Well, good luck with your investigation.\nI'll be cheering you on from behind.\n
 ……エルザが、 危ない。\n\n\n
 ＞ヴェルスが行おうとしていることが何なのか……\n　今のレンにはわからなかった。\n\n
 ＞それでも、 エルザの身に危険が\n　迫っていることだけは察知していた。\n\n
-Well, anyways.\nAbout the nation of Reville in the book I showed\nyou before...\n
-Apparently, they're the ones who used alchemy to\ncreate magic stones in the days of Edenbar, which\nwas destroyed a thousand years ago.\n
+Well, speaking of... About the nation of Reville in\nthat book I showed you before...\n\n
+Apparently, they're the ones who used alchemy to\ncreate Magicite in the days of Edenbar, which\nwas destroyed a thousand years ago.\n
 Using alchemy... to make Magicite?\n\n\n
 ...It's getting more and more unbelievable.\nAlchemy is the stuff of fiction, right?\n\n
 But, the stone really exists.\n\n\n
@@ -1341,34 +1341,34 @@ But, the stone really exists.\n\n\n
 There's a lot we don't know, but now you've gotta\nbelieve at least that much, right?\n\n
 ...I guess so.\n\n\n
 So, it's said that ancient civilization's collapse\nwas due to their over-reliance on the power of\nMagicite...\n
-Meaning, the “sin committed by the nation of Reville”\nmentioned in that book is that they created the\nMagicite.\n
-...That makes sense.\nDoes that mean that this stone is dangerous?\n
-Well, it's hard to say anything without seeing the\nreal thing, plus it was an order from the Archduke.\n\n
-It doesn't make a difference whatever we say here.\n\n
+Meaning, the “sin committed by the nation of\nReville” mentioned in that book is that they\ncreated the Magicite.\n
+...That makes sense.\nDoes that mean this stone is that dangerous?\n
+Well, it's hard to say much without seeing the real\nthing, plus, it was an order from the Archduke.\n\n
+It doesn't make a difference whatever we think here.\n\n
 ...\n\n\n
 Besides, if things go well...\n...This could be a great opportunity.\n\n
 Hm? Did you say something?\n\n\n
 N-no, nothing.\n\n\n
 I'll try to find out more about it for now, so\ngood luck with everything on your end.\n\n
-H-hey! Wait a sec--\n...He never listens to a word anyone else has\nto say, that guy.\n
-＞Whether or not he had heard Ren's voice...\n　Veres left quickly.\n\n
+H-hey! Wait a sec--\n...He never listens to a word anyone else has to\nsay, that guy.\n
+＞Veres left quickly, before he’d even had the\nchance to hear Ren calling.\n\n
 ...\n\n\n
-The Magicite was created by the Nation of Reville,\n　huh...?\n\n
+The Magicite was created by the nation of Reville,\nhuh...?\n\n
 ...\n\n\n
-What..? My right hand feels off...\n\n
+What..?\nMy right hand feels... off...\n\n
 ＞Suddenly feeling something strange in his right\n　hand, Ren subconsciously drew his sword.\n\n
-Somehow, I feel like I'm overflowing with more\npower than usual...\n...What is this?\n
+Somehow, I feel like I'm overflowing with more power\nthan usual...\n...What is this?\n
 ＞Ren couldn't hide his bewilderment at the power\n　overflowing from his right hand.\n\n
-＞The thought that until then, he had been\n　holding the fragment of Magicite in his\n　right hand crossed his mind.\n
+＞It crossed his mind that until just then, he had\n　been holding the fragment of Magicite in that same\n　hand.\n
 ＞If this is the power of that stone...\n\n\n
-＞Had Veres not noticed it... or...\n\n\n
-＞Whilst running that question through his mind\n　without coming to an answer, something suddenly\n　appeared from beneath the ground.\n
+＞Had Veres not noticed it... or...?\n\n\n
+＞Whilst running that question through his mind\n　without solution, something suddenly appeared\n　from beneath the ground.\n
 Gaaaoorr----!!!\n\n\n
 I-it's huge!?\nThis thing was in the sand--!?\n\n
-...Damn.\nGuess anything really is possible in this place.\n\n
+...Damn.\nAnything really is possible in this place.\n\n
 Gaaaoorr----!!!\n\n\n
 ...I've got no choice, huh?\n\n\n
-＞Determined, Ren gripped the sword tightly in\n　his hand and pointed it at the giant sand snake.\n\n
+＞Determined, Ren gripped the sword tightly in his\n　hand and pointed it at the giant sand snake.\n\n
 ＞Ren signed the request and place it next to\n　Charnet, who was busy seeing to someone else.\n\n
 ＞Then, with perfect timing, the other visitor\n　left, and Charnet returned to check over\n　the piece of paper.\n
 Perfect.　Looks like that didn't give you any\ntrouble.\n\n
@@ -1961,73 +1961,73 @@ Ah... I should be getting back soon.\n\n\n
 Yeah.　We'd better be going soon too...\n\n\n
 Right.\nWell, we'll be off then, Elza.\n\n
 Yes... But please, be careful.\n\n\n
-ロニキスさん ！　早く ！\n\n\n
-エ、 エルザ様。\nもう少しゆっくりとお歩きを……\n\n
-もぅ……だらしのない。\n\n\n
-そんなことで、 騎士団の団長が勤まるの ？\n\n\n
-ははは。\nこれは痛い所を突かれてしまいましたな。\n\n
-しかし、 せっかく大公より\n街へ出るお許しが出たというのに、\n\n
-わざわざこのような何もない村へ足を運ばれるとは、\n一体どのような風の吹き回しでございますか？\n\n
-だって、 レンとヴェルスは\n今この村にいるのでしょう ？\n\n
-な……あの二人に会うために、\nわざわざ、 このような場所まで来たのですか ！ ？\n\n
-えぇ、 そうよ。\nとくにレンは、 城へ戻っても顔を\n見せないでしょ ？\n
-それなら私の方から\n出向いてあげようと思って。\n\n
-……エルザ様。\n私は、 長らくお側に付かせていただいて\nおりますゆえ、 ようく存じております。\n
-同年代の友人などもつくることが出来ず……\n寂しい思いをしておられることや、\nその気持ちを、 無理に閉じこめておられることも。\n
-その気品あるお姿こそ、\n公女としての真のお姿であり、\n私は誇らしく思っておりました。\n
-ただ、 あの二人と出会ってからというもの、\n少し、 公女としての枠を越え過ぎているのでは\nないかと……\n
-…………\n\n\n
-無礼を承知で申し上げます。\n\n\n
-接するなとまでは申しません。\nただ、 あなた様は一国の公女。\n彼らはただの騎士。\n
-この枠を、 どうか踏み越えぬよう、\nそのお心に刻んでいただきとうございます。\n\n
-……わかってるわよ。\n\n\n
-エルザ様……\n\n\n
-いつも、 レンにも同じような事を言われているし、\nむしろ、 彼らと話しているときの方が、\n見えない壁の存在を、 強く感じるもの……\n
-…………\n\n\n
-そんなことより、 せっかくここまで来たのだもの。\n今日くらい、 お話させてもらってもいいわよね ？\n\n
-……そうですな。\n生憎、 私以外の者はおりませんし、\n本日は目をつぶると致しましょう。\n
-ありがと。\n\n\n
-では、 私はこの村のギルドへ行き、\nレンとヴェルスの情報を聞いて参ります。\n\n
-エルザ様は、 暫しこちらでお待ちください。\n\n\n
-えぇ。　お願いね。\n\n\n
-…………\n\n\n
-やっぱり、 ダメなことなのよね……\n\n\n
-……公女になんて、 生まれなきゃよかった。\n\n\n
-……ダメダメ。　こんな暗い顔してちゃ。\nせっかくレンに会えるんだから、\n笑顔でいなきゃ、 笑顔で。\n
-そうよ ！　笑うのよエルザ ！\n変えようがないことで悩んでたって\nしょうがないもの。\n
-私は、 私なんだから。\n\n\n
-…………\n\n\n
-……ロニキスさん、 遅いな。\n\n\n
-ケケケケ……\n\n\n
-きゃ ！　ま、 魔物…… ！ ？\n\n\n
-ケケケケ……\n\n\n
-ちょ、 ちょっとやだ……\nこ、 こないでよ……\n\n
-だ、 誰か……助けて……\n……レン…… ！ ！\n\n
-エルザ ！ ！\n\n\n
-レ、 レン…… ！\n\n\n
-大丈夫か ？\n……ってお前、 こんな所で何やってんだよ ？\n\n
-……レン、 良かった……\n私……私……\n\n
-まったく……\n危なっかしい所は昔から変わらないな。\n\n
-ほら。　立てよ。\n\n\n
-…………\n\n\n
-どうしたんだ ？\n\n\n
-……たてない。\n\n\n
-……は ？\n\n\n
-腰、 抜けちゃったみたい……\n\n\n
-……はぁ。\n\n\n
-……ほら。\n\n\n
-……え ？\n\n\n
-乗れよ。　背中。\n\n\n
-え、 いいの ？\n\n\n
-こんなところに置いていくわけには\nいかないだろ ？\n……これも仕事だ。\n
-……ありがと。\n……よいしょっと。\n\n
-うっ。　……お前、 案外おも……\n\n\n
-それ以上言ったらぶつからね ！\n\n\n
-……もうぶったろ。\n\n\n
-ふふふ……\n\n\n
-……なんだよ ？\n\n\n
-え、 覚えてない ？\n前にもこんなこと、 あったよね ？\n\n
-そうか ？\n\n\n
+Sir Ronixis! Hurry!\n\n\n
+L-Lady Elza. Please slow down a little...\n\n
+Goodness... You're slacking behind!\n\n\n
+Is that such behaviour appropriate for the Knight\nCommander?\n\n
+Hahaha.\nYou've hit me where it hurts most.\n\n
+Still, even though you were finally given permission\nby the Archduke to leave the city...\n\n
+Whatever made you want to come all this way to such\nan empty village?\n\n
+Well, Ren are Veres are in this village right now,\naren't they?\n\n
+Wha... You came all this way just to see those two!?\n\n\n
+Yes, that's right.\nEspecially Ren, he never shows his face whenever he\ncomes back to the castle, you know?\n
+That's why I thought I'd go to see him.\n\n
+...Lady Elza. I have been by your side for a long\ntime now, so I know.\n\n
+You have not been able to make any friends your own\nage...  That can be lonely, or you may have already\nforced yourself to lock away those feelings.\n
+But when I see you with that noble air, befitting of\na princess, I feel proud.\n\n
+However, since meeting those two, I fear you may have\n crossed the line a little...\n\n
+...\n\n\n
+I know what I've said is rude.\n\n\n
+I don't mean it to be hurtful. It's just that you are\nthis kingdom's princess, and they are but knights.\n\n
+Please bear the weight of that in mind so that you do\nnot act irresponsibly.\n\n
+...I'm well aware.\n\n\n
+Lady Elza...\n\n\n
+Ren is always telling me the same thing, and, when I'm\ntalking to them, I feel the existence of that invisible\nwall even stronger...\n
+...\n\n\n
+But more importantly, we've come all this way,\nafter all! May I speak with them?\n\n
+...You're right.\nRegrettably, it seems I am your only bodyguard,\nand just for today, I shall overlook it.\n
+Thank you.\n\n\n
+Then, I'll head to the village guild to ask for\nnews of Ren and Veres.\n\n
+Lady Elsa, please wait here for a while.\n\n\n
+Right. I'll leave it to you.\n\n\n
+...\n\n\n
+So, it really is hopeless...\n\n\n
+...I wish I hadn't been born a princess.\n\n\n
+...No. I can't let myself get depressed.\nSince I've come all this way to see Ren, I\nmust greet him with a happy, smiling face.\n
+Right! Smile, Elza!\nThere's no use worrying about things that can't\nbe changed.\n
+Because I am me, after all.\n\n\n
+...\n\n\n
+...Ronixis is sure running late.\n\n\n
+Kekekeke...\n\n\n
+Eek! A m-monster...!?\n\n\n
+Kekekeke...\n\n\n
+N-no...!\nD-don't come near me...!\n\n
+S-someone... please......\nRen...!!\n\n
+Elza!!\n\n\n
+R-Ren...!\n\n\n
+Are you okay?\n...Wait, what are you even doing here?\n\n
+...Ren, you saved me...\nI... I.......\n\n
+Honestly...\nYour habit of getting into trouble hasn't changed.\n\n
+Here. Stand up.\n\n\n
+...\n\n\n
+What's wrong?\n\n\n
+...I can't get up.\n\n\n
+...Huh?\n\n\n
+I don't have the strength...\n\n\n
+...*Sigh*.\n\n\n
+...Here.\n\n\n
+...Eh?\n\n\n
+Get on my back.\n\n\n
+Is that okay?\n\n\n
+I can't exactly leave you here, can I?\n...This is part of my job too.\n
+...Thank you.\n...Here goes....\n\n
+Ngh. ...You're unexpectedly heav--\n\n\n
+Say any more and I'll hit you!\n\n\n
+...You already have.\n\n\n
+Hehehe...\n\n\n
+...What?\n\n\n
+You don't remember?\nThis has happened before, you know?\n\n
+Is that right?\n\n\n
 あったよ。　えっとほら……私が城下町で\n知らない男の人に絡まれてたとき、\nレンが助けに来てくれたじゃない。\n
 公女様のお買い物の護衛を\n頼まれたときか……\n\n
 ……そういえば、 あのときも腰抜かして\n立てなくなってたな。\n\n
