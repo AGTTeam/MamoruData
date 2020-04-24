@@ -136,9 +136,9 @@ Don't equip
 %s　×%d
  Combine
   Cancel
- File 1
- File 2
- File 3
+　File 1
+　File 2
+　File 3
 Data could not be read.\nPlease turn off the power &\nre-insert the game card.
 Data could not be written.\nPlese turn off the power &\nre-insert the game card.
 Unknown error
@@ -201,11 +201,11 @@ Leave Ruins
 Leave Room
 Door
 
-Paralysed
-Poisoned
-Fainted
-Burned
-Frightened
+Paralysis
+Poison
+Faint
+Burn
+Fear
 Items
 Equipment
 Quest Log
@@ -303,15 +303,15 @@ Full status ailment immunity
 ＳＰ
 Melee ATK
 Ranged ATK
-回数
-溜め
-範囲
-DEF
-命中率
-EVA
+Use
+Charge ATK
+Range
+Defense
+Accuracy
+Evade rate
 ATK SPD
-移動速度
-属性
+Move SPD
+Attribute
 No effect.
 This item can’t be used.
 Recovers 50 HP
@@ -1333,7 +1333,7 @@ Well, good luck with your investigation.\nI'll be cheering you on from behind.\n
 ＞ヴェルスが行おうとしていることが何なのか……\n　今のレンにはわからなかった。\n\n
 ＞それでも、 エルザの身に危険が\n　迫っていることだけは察知していた。\n\n
 Well, speaking of... About the nation of Reville in\nthat book I showed you before...\n\n
-Apparently, they're the ones who used alchemy to\ncreate Magicite in the days of Edenbar, which\nwas destroyed a thousand years ago.\n
+Apparently, they're the ones who used alchemy to\ncreate Magicite in the days of Edenbar, which was\ndestroyed a thousand years ago.\n
 Using alchemy... to make Magicite?\n\n\n
 ...It's getting more and more unbelievable.\nAlchemy is the stuff of fiction, right?\n\n
 But, the stone really exists.\n\n\n
@@ -1344,14 +1344,14 @@ So, it's said that ancient civilization's collapse\nwas due to their over-relian
 Meaning, the “sin committed by the nation of\nReville” mentioned in that book is that they\ncreated the Magicite.\n
 ...That makes sense.\nDoes that mean this stone is that dangerous?\n
 Well, it's hard to say much without seeing the real\nthing, plus, it was an order from the Archduke.\n\n
-It doesn't make a difference whatever we think here.\n\n
+It doesn't make a difference whatever we think\nhere.\n\n
 ...\n\n\n
 Besides, if things go well...\n...This could be a great opportunity.\n\n
 Hm? Did you say something?\n\n\n
 N-no, nothing.\n\n\n
 I'll try to find out more about it for now, so\ngood luck with everything on your end.\n\n
 H-hey! Wait a sec--\n...He never listens to a word anyone else has to\nsay, that guy.\n
-＞Veres left quickly, before he’d even had the\nchance to hear Ren calling.\n\n
+＞Veres left quickly, before he’d even had the\n　chance to hear Ren calling.\n\n
 ...\n\n\n
 The Magicite was created by the nation of Reville,\nhuh...?\n\n
 ...\n\n\n
@@ -1359,7 +1359,7 @@ What..?\nMy right hand feels... off...\n\n
 ＞Suddenly feeling something strange in his right\n　hand, Ren subconsciously drew his sword.\n\n
 Somehow, I feel like I'm overflowing with more power\nthan usual...\n...What is this?\n
 ＞Ren couldn't hide his bewilderment at the power\n　overflowing from his right hand.\n\n
-＞It crossed his mind that until just then, he had\n　been holding the fragment of Magicite in that same\n　hand.\n
+＞It crossed his mind that until just then, he had\n　been holding the fragment of Magicite in that\n　same  hand.\n
 ＞If this is the power of that stone...\n\n\n
 ＞Had Veres not noticed it... or...?\n\n\n
 ＞Whilst running that question through his mind\n　without solution, something suddenly appeared\n　from beneath the ground.\n
@@ -1963,38 +1963,38 @@ Right.\nWell, we'll be off then, Elza.\n\n
 Yes... But please, be careful.\n\n\n
 Sir Ronixis! Hurry!\n\n\n
 L-Lady Elza. Please slow down a little...\n\n
-Goodness... You're slacking behind!\n\n\n
-Is that such behaviour appropriate for the Knight\nCommander?\n\n
+Goodness... You're all over the shop!\n\n\n
+Is such behaviour appropriate for the Knight\nCommander?\n\n
 Hahaha.\nYou've hit me where it hurts most.\n\n
 Still, even though you were finally given permission\nby the Archduke to leave the city...\n\n
-Whatever made you want to come all this way to such\nan empty village?\n\n
+Whatever made you want to come all this way to\n such an empty village?\n\n
 Well, Ren are Veres are in this village right now,\naren't they?\n\n
-Wha... You came all this way just to see those two!?\n\n\n
-Yes, that's right.\nEspecially Ren, he never shows his face whenever he\ncomes back to the castle, you know?\n
+Wha-- You came all this way just to see those two!?\n\n\n
+Yes, that's right.\nEspecially Ren, he never shows his face whenever\nhe comes back to the castle, you know?\n
 That's why I thought I'd go to see him.\n\n
 ...Lady Elza. I have been by your side for a long\ntime now, so I know.\n\n
-You have not been able to make any friends your own\nage...  That can be lonely, or you may have already\nforced yourself to lock away those feelings.\n
-But when I see you with that noble air, befitting of\na princess, I feel proud.\n\n
-However, since meeting those two, I fear you may have\n crossed the line a little...\n\n
+You have not been able to make any friends your\nown age... That can be lonely, or you may have\nalready had to lock away those feelings.\n
+But when I see you with that noble air, befitting\nof a princess, it makes me proud.\n\n
+However, since meeting those two, I fear you may\nhave crossed the line a little...\n\n
 ...\n\n\n
 I know what I've said is rude.\n\n\n
-I don't mean it to be hurtful. It's just that you are\nthis kingdom's princess, and they are but knights.\n\n
-Please bear the weight of that in mind so that you do\nnot act irresponsibly.\n\n
+I don't mean it to be hurtful. It's just that you\nare this kingdom's princess, and they are but\nknights.\n
+Please bear the weight of that in mind so that\nyou do not act irresponsibly.\n\n
 ...I'm well aware.\n\n\n
 Lady Elza...\n\n\n
-Ren is always telling me the same thing, and, when I'm\ntalking to them, I feel the existence of that invisible\nwall even stronger...\n
+Ren is always telling me the same thing, and, when\nI'm talking to them, I feel the existence of that\ninvisible wall even stronger...\n
 ...\n\n\n
-But more importantly, we've come all this way,\nafter all! May I speak with them?\n\n
+But more importantly, we're finally here.\nI am allowed to talk to them, right?\n\n
 ...You're right.\nRegrettably, it seems I am your only bodyguard,\nand just for today, I shall overlook it.\n
 Thank you.\n\n\n
-Then, I'll head to the village guild to ask for\nnews of Ren and Veres.\n\n
-Lady Elsa, please wait here for a while.\n\n\n
+Then, I'll head to the village guild to ask for news\nof Ren and Veres.\n\n
+Lady Elza, please wait here for a while.\n\n\n
 Right. I'll leave it to you.\n\n\n
 ...\n\n\n
 So, it really is hopeless...\n\n\n
 ...I wish I hadn't been born a princess.\n\n\n
-...No. I can't let myself get depressed.\nSince I've come all this way to see Ren, I\nmust greet him with a happy, smiling face.\n
-Right! Smile, Elza!\nThere's no use worrying about things that can't\nbe changed.\n
+...No, no! I can't let myself get depressed.\nSince I've come all this way to see Ren, I must\ngreet him with a happy, smiling face.\n
+Right! Smile, Elza!\nThere's no use worrying about things that can't be\nchanged.\n
 Because I am me, after all.\n\n\n
 ...\n\n\n
 ...Ronixis is sure running late.\n\n\n
@@ -2002,12 +2002,12 @@ Kekekeke...\n\n\n
 Eek! A m-monster...!?\n\n\n
 Kekekeke...\n\n\n
 N-no...!\nD-don't come near me...!\n\n
-S-someone... please......\nRen...!!\n\n
+S-someone... save me......\nRen...!!\n\n
 Elza!!\n\n\n
 R-Ren...!\n\n\n
 Are you okay?\n...Wait, what are you even doing here?\n\n
-...Ren, you saved me...\nI... I.......\n\n
-Honestly...\nYour habit of getting into trouble hasn't changed.\n\n
+...Ren, thank goodness...\nI... I.......\n\n
+Jeez...\nYour habit of getting into trouble hasn't changed.\n\n
 Here. Stand up.\n\n\n
 ...\n\n\n
 What's wrong?\n\n\n
@@ -2026,58 +2026,58 @@ Say any more and I'll hit you!\n\n\n
 ...You already have.\n\n\n
 Hehehe...\n\n\n
 ...What?\n\n\n
-You don't remember?\nThis has happened before, you know?\n\n
+Eh, you don't remember?\nThis has happened before, you know?\n\n
 Is that right?\n\n\n
-あったよ。　えっとほら……私が城下町で\n知らない男の人に絡まれてたとき、\nレンが助けに来てくれたじゃない。\n
-公女様のお買い物の護衛を\n頼まれたときか……\n\n
-……そういえば、 あのときも腰抜かして\n立てなくなってたな。\n\n
-……だって、 本当に恐かったんだもん。\n\n\n
-でも、 レンあのとき言ってくれたよね……\n\n\n
-……俺がオマエを守る、 って。\n\n\n
-あの一言で、 私かなり安心したんだよ。\n\n\n
-……そんなこと言ったか ？\n\n\n
-言ったよ。\n\n\n
-さぁ、 俺は知らん。\n\n\n
-む～……またそうやってはぐらかす……\nレンはいっつもそう。\n\n
-そういえば……あのとき\n聞きそびれた事があったんだ。\n\n
-聞きそびれたこと ？\n\n\n
-うん。　……レンに助けてもらったのは、\n今回で二回目だけど、\n\n
-どうして、 助けてくれたの ？\n……やっぱり、 それが仕事だから ？\n\n
-…………\n\n\n
-ねぇ……答えて……\n\n\n
-エルザ様ぁ～。\nギルドで話を聞いて来たのですが……ってレン ！ ？\n\n
-あ、 団長。\n\n\n
-……タイミング悪すぎ。\n\n\n
-ん ？　何かおっしゃいましたか ？\n\n\n
-何でもないわよ……\n\n\n
-と、 そんなことより、 なぜレンがここに居て、\nなぜエルザ様をおぶっているのだ ？\n\n
-なんでここにいるのか聞きたいのは\n俺の方だっての。\n\n
-それより団長、 エルザ一人置いて\nどこほっつき歩いてたんだよ ？\n\n
-＞レンは、 エルザが魔物に襲われていたことを\n　ロニキスに伝えた。\n　\n
-な、 なんと……魔物が ！ ？\nエエエエエエルザ様 ！　お、 おおお怪我は ！ ？\n\n
-大丈夫よ。　ちょっと腰が抜けちゃっただけ。\nどこにもケガなんてないわ。\n\n
-そ、 それは何よりでございます。\n\n\n
-何よりじゃねぇよ。\nこんな所まで連れてきて……\n\n
-たまたま俺が通り掛かったから\n良かったものを……\n\n
-あぁ……確かに、 軽率であったな。\nレン、 すまなかった。\n\n
-それにエルザ様、 お許しを……\n\n\n
-ちょ、 ちょっと本当に大丈夫だから、\nそんなに頭下げないで。　ね ？\n\n
-しかし……何しに来たのか知らないけど、\nエルザを連れてさっさと帰った方が\nいいんじゃないか ？\n
-そうだな。　日も暮れる頃だ。\nそろそろ戻るとするか。\n\n
-え ？　もう帰っちゃうの ？\n\n\n
-危険な目に遭ってしまったばかりですし、\nお休みになりませんと……\n\n
-……うん。　わかった。\n\n\n
-レン、 お城で待ってるから、\n今度帰ってきたときは絶対に顔を出してよ。\n絶対だからね。\n
-……エルザ様。\n\n\n
-……あ。\n\n\n
-わかったから……今日はもう帰れ。\n\n\n
-団長も、 もうオッサンなんだし、\nあんまり無茶なことするなよ。\n\n
-むっ。　今の言葉は聞き捨てならんな。\n\n\n
-……もぅ、 私先にいってるよ。\n\n\n
-あ、 お、 お待ちくだされ ！\n\n\n
-……あの二人、 本当に何しに来たんだよ ？\n\n\n
+It did! Let me think... it was when I was caught in\na fight with some man I didn't know in the castle\ntown, and you came to save me.\n
+That time I was asked to escort you shopping,\nhuh...?\n\n
+...Come to think of it, you were too faint to stand\nback then as well.\n\n
+...T-that's because it was really frightening.\n\n\n
+But you said something to me back then...\n\n\n
+...“I will protect you.”\n\n\n
+With that simple statement, I felt so reassured.\n\n\n
+...I said that?\n\n\n
+You did.\n\n\n
+Well, not that I remember.\n\n\n
+Grr～ ...You're just going to play it off again...?\nYou're always like that.\n\n
+Which reminds me... There was something I forgot\nto ask you that time.\n\n
+Something you wanted to ask?\n\n\n
+Yes. ...This is the second time you've come to my\nrescue now, but...\n\n
+Why did you help me?\n...Is it just because it's your job?\n\n
+...\n\n\n
+Hey... answer me...\n\n\n
+Lady Elza!\nI went to speak to the guild but... Wh-- Ren!?\n\n
+Oh, Captain.\n\n\n
+...You have the worst timing.\n\n\n
+Hm? Did you say something?\n\n\n
+It was nothing...\n\n\n
+So, what are you doing here, and why is Lady Elza\non your back?\n\n
+I'm the one who should be asking you what you're\ndoing here.\n\n
+But more importantly, Captain, why did you leave\nElza alone whilst you wandered off?\n\n
+＞Ren told Ronixis about how Elza had been\n　attacked by a monster.\n
+W-what did you say... A monster!?\nL-l-l-l-lady Elza! A-a-are you hurt!?\n\n
+I'm fine. My legs were just paralysed by the shock.\nI'm not injured anywhere.\n\n
+I-I am glad to hear that.\n\n\n
+Save it.\nYou're the one who brought her here...\n\n
+It's just good that I happened to be passing by\nwhen I did...\n\n
+Yes... It was most reckless of me.\nI'm sorry, Ren.\n\n
+And Lady Elza, please forgive me... \n\n\n
+I-I really am fine, so don't look so glum. Okay?\n\n\n
+Still... I don't know what you came here for, but\nwouldn't it be better to take Elza home as soon\nas possible?\n
+You're right. It will be starting to get dark soon.\nWe should head back.\n\n
+Eh? We're leaving already?\n\n\n
+You've only just escaped from danger, you really ought\nto rest...\n\n
+...Yes. I understand.\n\n\n
+Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you must drop by.\nPromise me.\n
+...Lady Elza...\n\n\n
+...Ah--\n\n\n
+Fine, I've get it, so go home already.\n\n\n
+And Captain, you're an old man already, so don't\noverdo it.\n\n
+Nck. I'm going to ignore what you just said.\n\n\n
+...Honestly! I'm going on ahead.\n\n\n
+W-w-wait for me!\n\n\n
+...What did those two even come here for?\n\n\n
 Phew...\nIt feels like it's been a really long time since I\nlast saw daylight.\n
-But, never in my wildest dreams would I have\nguessed there were such beats with three heads.\n\n
+But, never in my wildest dreams would I have\nguessed there were such beasts with three heads.\n\n
 That has to be... the result of the Magicite.\n\n\n
 Meaning there's a high chance that the stone is\nresting within the ruins.\n\n
 I'm also curious about the ‘Nation of Reville' in\nthe book that Veres found...\n\n
