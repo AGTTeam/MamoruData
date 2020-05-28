@@ -296,9 +296,9 @@ Full status ailment immunity
 自動回復（小）
 自動回復（中）
 自動回復（大）
-移動速度アップ
-命中率アップ
-全品２割引
+Raises movement speed
+Raises hit rate 
+20% discount off\neverything
 ＨＰ
 ＳＰ
 Melee ATK
@@ -306,13 +306,13 @@ Ranged ATK
 Use
 Charge ATK
 Range
-Defense
+Defence
 Accuracy
 Evade rate
 ATK SPD
 Move SPD
 Attribute
-No effect.
+No effect
 This item can’t be used.
 Recovers 50 HP
 Recovers 100 HP
@@ -410,7 +410,7 @@ Welcome!\nThis Item Shop stocks everrrything.\nWhat would you like?\n
 Welcome to the Adventure's Guild.\n\n
 Welcome to the Adventure's Guild.\nHow may I help you today?\n\n
 Now then, how may I help you today?\n
-Oh? Looks like you've got another <C03>skill book<C04> on\nyou. Lend it here.\n
+Oh? Looks like you've got another <C03>skill book<C04> on\nyou. Pass it here.\n
 ...What, you again?\n\n\n
 I'm busy.\nHurry up and go home before you get hurt.\n\n
 また温もりを求めて\nやって来たのですか ？\n\n
@@ -791,57 +791,57 @@ I've been some research of my own, you know.\nI think I've more or less figured 
 The true nature...?\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your physical strength.\n\n
-Ups... physical strength?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
+Raises... physical strength?\n\n\n
 Yes. Looks like it reduces the risk of dying\ninstantly when receiving a devastating blow,\nto a certain extent, at least.\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about your equipment,\nso try to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　 eVitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your physical strength.\n\n
-Ups... physical strength?\n\n\n
-えぇ。　これでまたひとつ成長を迎えて\nこれまでよりも長い間、遺跡内を\n探索出来るんじゃないかしら ？\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about your equipment,\nso try to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
+Raises... physical strength?\n\n\n
+Yes. I wonder if this will allow you to stay\nout exploring the ruins even longer than before?\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your physical strength.\n\n
-Ups... physical strength?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
+Raises... physical strength?\n\n\n
 えぇ。　これでかなり強い攻撃を\n受けたとしても、\n平気な顔でいられるんじゃない ？\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about your equipment,\nso try to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your dexterity.\n\n
-Ups... dexterity?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
+Raises... dexterity?\n\n\n
 Looks like by increasing your dexterity, you can\nhave more skills assigned.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your dexterity.\n\n
-Ups... dexterity?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
+Raises... dexterity?\n\n\n
 Yes. This should allow you to assign even more\nskills.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your dexterity.\n\n
-Ups... dexterity?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
+Raises... dexterity?\n\n\n
 えぇ。　さまざまなスキルを\n一度にたくさん使用できるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your dexterity.\n\n
-Ups... dexterity?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
+Raises... dexterity?\n\n\n
 えぇ。　これでこれまで以上に\nたくさんのスキルを登録しておけるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
-This book seems to be about a <C03>permanent skill<C04>\nthat ups your dexterity.\n\n
-Ups... dexterity?\n\n\n
+This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
+Raises... dexterity?\n\n\n
 えぇ。　これでこれまで諦めていた数多くの\nスキルも、同時に登録しておけるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
 <C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
@@ -879,21 +879,22 @@ The <C03>Earth's Weak Points<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 “... There are so called ‘weak spots' hidden on\nwalls and columns.\n\n
 By identifying those spots and applying force,\nanyone can easily destroy them”, or so it says. \n\n
-“It's easy" they say...\nSounds fishy to me...\n\n
+“It's easy” they say...\nSounds fishy to me...\n\n
 Well, if you find a pillar that looks like it might\nbreak, why don't you give it a go?\n\n
 Yeah, it’s worth a shot.\n\n\n
 <C05>　　　　　INFORMATION<C04>\n\n You can now destroy cracked\n columns and ordinary stone\n statues.\n\n Break down columns, carving a\n path towards new areas hidden\n further in the ruins.\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
-内容は ？　どうだった ？\n\n\n
-どうやらこの書は、 <C03>空を舞う者<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
-<C03>空を舞う者<C04> ？\n\n\n
+And? What's it say?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> which allows you to<C03>soar through the sky<C04>.\n
+<C03>Soar through the sky<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-『……空中で、 体が地面へと落下するまでの\n一瞬の間に、 恐れる心をはね除け、\nいま一歩足を踏み出すのだ ！\n
-さすれば、 更なる飛躍がキミを\n待っているだろう……』 だって。\n\n
-つまり、 空中でジャンプができると…… ？\nもはや人間の成せる技じゃないわね……\n\n
-ま、 ジャンプ中にもう一度ジャンプしてみて、\nどうなるか試してみればいいんじゃない ？\n\n
+“...In the air, the second before your body is\nabout to touch the ground, cast aside your fearful\nmind and take a step forward!\n
+If you do, another leap will await you...”, or\nso it says.\n\n
+In other words, you can jump mid-air...?\nWe’re no longer talking about the realm of\nhuman possibility here...\n
+Well, why not try jumping again during a jump and\nsee what happens?\n\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n<C03>二段ジャンプ<C04>が可能になりました。\n\n空中で再びジャンプ（Bボタン）を\nすることにより、\nこれまで届かなかった高い場所や\n飛び越えられなかった大きな穴を\n突破出来るようになるでしょう。\n
+<C05>　　　　　INFORMATION<C04>\n\n
+<C03>Double jumping<C04> is now possible.\n\nBy jumping again in the air,\n(B button) you will be able\nto get to high places that or\ncross over big holes that you\nweren't able reach before.\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Forest Lover<C04>’.\n
@@ -1967,18 +1968,18 @@ Goodness... You're all over the shop!\n\n\n
 Is such behaviour appropriate for the Knight\nCommander?\n\n
 Hahaha.\nYou've hit me where it hurts most.\n\n
 Still, even though you were finally given permission\nby the Archduke to leave the city...\n\n
-Whatever made you want to come all this way to\n such an empty village?\n\n
+Whatever made you want to come all this way to\nsuch an empty village?\n\n
 Well, Ren are Veres are in this village right now,\naren't they?\n\n
-Wha-- You came all this way just to see those two!?\n\n\n
+Wha--\nYou came all this way just to see those two!?\n\n
 Yes, that's right.\nEspecially Ren, he never shows his face whenever\nhe comes back to the castle, you know?\n
 That's why I thought I'd go to see him.\n\n
-...Lady Elza. I have been by your side for a long\ntime now, so I know.\n\n
+...Lady Elza. I have been by your side for a long\ntime now, so I know...\n\n
 You have not been able to make any friends your\nown age... That can be lonely, or you may have\nalready had to lock away those feelings.\n
 But when I see you with that noble air, befitting\nof a princess, it makes me proud.\n\n
-However, since meeting those two, I fear you may\nhave crossed the line a little...\n\n
+However, since meeting those two, I fear you may\nhave crossed the line of proper conduct...\n\n
 ...\n\n\n
 I know what I've said is rude.\n\n\n
-I don't mean it to be hurtful. It's just that you\nare this kingdom's princess, and they are but\nknights.\n
+I don't mean to mean offense. It's just, you are\nthis kingdom's princess, and they are\nbut knights.\n
 Please bear the weight of that in mind so that\nyou do not act irresponsibly.\n\n
 ...I'm well aware.\n\n\n
 Lady Elza...\n\n\n
@@ -1987,14 +1988,14 @@ Ren is always telling me the same thing, and, when\nI'm talking to them, I feel 
 But more importantly, we're finally here.\nI am allowed to talk to them, right?\n\n
 ...You're right.\nRegrettably, it seems I am your only bodyguard,\nand just for today, I shall overlook it.\n
 Thank you.\n\n\n
-Then, I'll head to the village guild to ask for news\nof Ren and Veres.\n\n
+Then, I'll head to the village guild to ask for\nnews of Ren and Veres.\n\n
 Lady Elza, please wait here for a while.\n\n\n
 Right. I'll leave it to you.\n\n\n
 ...\n\n\n
 So, it really is hopeless...\n\n\n
 ...I wish I hadn't been born a princess.\n\n\n
-...No, no! I can't let myself get depressed.\nSince I've come all this way to see Ren, I must\ngreet him with a happy, smiling face.\n
-Right! Smile, Elza!\nThere's no use worrying about things that can't be\nchanged.\n
+...No, no! I can't let myself get depressed.\nSince I've come all this way to see Ren, I must\ngreet him with a cheerful, smiling face.\n
+Right! Smile, Elza!\nThere's no use worrying about things that can't\nbe changed.\n
 Because I am me, after all.\n\n\n
 ...\n\n\n
 ...Ronixis is sure running late.\n\n\n
@@ -2038,11 +2039,11 @@ With that simple statement, I felt so reassured.\n\n\n
 ...I said that?\n\n\n
 You did.\n\n\n
 Well, not that I remember.\n\n\n
-Grr～ ...You're just going to play it off again...?\nYou're always like that.\n\n
-Which reminds me... There was something I forgot\nto ask you that time.\n\n
+Grr～ ...You're just going to play cool again...?\nYou're always like that.\n\n
+Which reminds me... There was something I forgot to\nask you that time.\n\n
 Something you wanted to ask?\n\n\n
 Yes. ...This is the second time you've come to my\nrescue now, but...\n\n
-Why did you help me?\n...Is it just because it's your job?\n\n
+Why did you help me?\n...Just because it's your job?\n\n
 ...\n\n\n
 Hey... answer me...\n\n\n
 Lady Elza!\nI went to speak to the guild but... Wh-- Ren!?\n\n
@@ -2054,8 +2055,8 @@ So, what are you doing here, and why is Lady Elza\non your back?\n\n
 I'm the one who should be asking you what you're\ndoing here.\n\n
 But more importantly, Captain, why did you leave\nElza alone whilst you wandered off?\n\n
 ＞Ren told Ronixis about how Elza had been\n　attacked by a monster.\n
-W-what did you say... A monster!?\nL-l-l-l-lady Elza! A-a-are you hurt!?\n\n
-I'm fine. My legs were just paralysed by the shock.\nI'm not injured anywhere.\n\n
+W-what did you say... A monster!?\nL-l-l-l-lady Elza! A-a-are you hurt--!?\n\n
+I'm fine. My legs were just paralysed by the\nshock. I'm not injured anywhere.\n\n
 I-I am glad to hear that.\n\n\n
 Save it.\nYou're the one who brought her here...\n\n
 It's just good that I happened to be passing by\nwhen I did...\n\n
@@ -2065,14 +2066,14 @@ I-I really am fine, so don't look so glum. Okay?\n\n\n
 Still... I don't know what you came here for, but\nwouldn't it be better to take Elza home as soon\nas possible?\n
 You're right. It will be starting to get dark soon.\nWe should head back.\n\n
 Eh? We're leaving already?\n\n\n
-You've only just escaped from danger, you really ought\nto rest...\n\n
-...Yes. I understand.\n\n\n
-Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you must drop by.\nPromise me.\n
+You've only just escaped from danger, you really\nought to take it easy...\n\n
+...Alright.\n\n\n
+Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you must drop by. Promise\nme!\n
 ...Lady Elza...\n\n\n
 ...Ah--\n\n\n
-Fine, I've get it, so go home already.\n\n\n
+Fine, I've got it, so go home already.\n\n\n
 And Captain, you're an old man already, so don't\noverdo it.\n\n
-Nck. I'm going to ignore what you just said.\n\n\n
+Nck! I'm going to ignore what you just said.\n\n\n
 ...Honestly! I'm going on ahead.\n\n\n
 W-w-wait for me!\n\n\n
 ...What did those two even come here for?\n\n\n

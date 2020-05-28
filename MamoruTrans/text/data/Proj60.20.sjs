@@ -137,7 +137,7 @@ I heard that you did a wonderful\r\njob of eliminating them. ...But,\r\nwhen I t
 A Forgotten Thank You
 Injured Ex-ArchaeologistÅ@Roy
 When I was an Archaeologist, some\r\nscaffolding collapsed, trapping\r\nme, but I was saved by a Kobold... \r\nI never got the chance to show my\r\ngratitude... Could you find him,\r\nand give him this letter?
-Ah, so he's still doing well.\r\nI'm glad. The injury to my leg\r\nmeans I couldn't go to thank him\r\nmyself, but I hope my feelings\r\ncame across.
+Ah, so he's still doing well. \r\nI'm glad to hear that. The injury\r\nto my leg means I couldn't go to\r\nthank him myself, but I hope my\r\nfeelings came across.
 Starting With The Look
 Knighthood HopefulÅ@Dodoris
 I've always been weakly and sick,\r\nbut after I was saved from a by a\r\npassing knight, I thought ÅgI want\r\nto become strong too!Åh So as part\r\nof step 1, will you help me get a\r\nknight's sword?
