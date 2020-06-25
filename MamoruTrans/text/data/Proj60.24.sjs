@@ -27,11 +27,11 @@ Elixir
 Power Protein
 A drug that temporarily\r\nenhances muscle strength.\r\nIncreases the amount of\r\ndamage you can do to an\r\nenemy.
 Strong Power
-筋力を一時的に強化する薬。\r\nそっと触るだけでも大きな\r\nダメージを与えてしまう恐れ\r\nがあるため、注意が必要。
+A drug that temporarily\r\nenhances muscle strength.\r\nEven a small amount can\r\ncause damage if used\r\nincorrectly, so caution\r\nis required.
 Body Protein
 A medicine that temporarily\r\nenhances the body.\r\nAllows you to tolerate pain\r\nslightly more.
 Strong Body
-肉体を一時的に強化する薬。\r\n膨らんだ筋肉のラインは\r\n美しさすら兼ね備えている。
+A medicine that temporarily\r\nenhances the body. Gain\r\nbeautifully strong muscles.
 Air Feet
 A medicine that temporarily\r\nenhances walking ability.\r\nAllows you to run like the\r\nwind.
 Jet Feet
@@ -47,13 +47,13 @@ Pickled Aphids
 Smoked Sage
 Smoke from burning sage.\r\nInhaling it makes you immune\r\nto poison for a set period\r\nof time.
 Rosmarin Spiced Meat
-お肉にロスマリンを詰めた\r\n味のある一品。\r\n麻痺の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
+A delicious dish of meat\r\nstuffed with Rosmarin.\r\nMakes you immune to\r\nparalysis for a set\r\nperiod of time.
 Foxglove Dumpling
 ジギタリスをきざんだものを\r\n肉団子に詰めた爽やかな品。\r\n臆病の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
 Thigh Meat with Aloe
 モモ肉のソテーにアロエを\r\n添えた風味豊かな一品。\r\n火傷の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
 Invigorating Ribs
-隠し味にハッカ草を使った、\r\nバラ肉の盛り合わせ。\r\nその特徴のある刺激的な味で\r\n気絶の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
+A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect\r\nof stun for a set period\r\nof time.
 Green Syringe
 体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
 Blue Syringe
@@ -82,3 +82,4 @@ Shadow Summoner
 存在感を消し去るように薄い\r\n影を身体に纏うことで、敵の\r\n攻撃を一定時間無効化出来る\r\n戦闘用のアイテム。
 Breath Of Life
 An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst\r\nhaving it in your\r\npossession.\r\nBreaks after use.
+

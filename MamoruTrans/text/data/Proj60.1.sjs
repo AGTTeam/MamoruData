@@ -1,17 +1,17 @@
 Thin Blade
 A widely used sword. Because\r\nit is easy to handle, it's a\r\npopular item that everyone is\r\nsaid to have used at least\r\nonce as a beginner.
 Short Sword
-A small sword with a double\r\nedged blade.  Short and\r\nlight, it is possible to\r\nperform quick consecutive\r\nattacks. Fairly standard\r\nand easy to handle.
+A small sword with a double-\r\nedged blade.  Short and light,\r\nit is possible to perform\r\nquick consecutive attacks.\r\nFairly standard and easy to\r\nhandle.
 Cutlass
 Made for slashing, it was\r\ndesigned with a curved\r\nblade. Short, light and\r\neasy to handle, it can\r\nbe used to great effect\r\nin cramped conditions.
-ククリ
-凹状に湾曲した刀身を持つ剣。\r\n戦闘にも使用されるが農作業や\r\n家事、狩猟など幅広く活躍する\r\n実用的な一品。
-アングレイド
-突きという行為に重点を\r\n置いた小剣。刀身の先端に\r\n返しが付いており、貫いた\r\n相手の肉をかき切ることが\r\nできる。
+Kukri
+A sword with a concave curved\r\nblade. A practical item with a\r\nwide range of uses including\r\nnot only combat, but farming,\r\nhousework and hunting.
+Anglade
+A small sword designed for\r\nthrusting. There is a barb at\r\nthe head of the blade, which\r\nallows it rip out the flesh of\r\nits victims.
 Stiletto
 Thin and sharp, it’s a sword\r\nspecialized for thrusting.\r\nUnusually light and easy to\r\ncarry, many people carry it\r\naround as a second support\r\nweapon.
 Stone Sword
-A sword carved from a single\r\nstone. It is sturdy, but\r\nbecause it is used to deliver\r\na heavy blow for a small size,\r\none can't hope much for its\r\ncutting ability.
+A sword carved from a single\r\nstone. It is sturdy, but\r\nbecause it is used to deliver\r\na heavy blow for a small size,\r\none can't expect much from\r\nits cutting ability.
 Tinky Sword
 A straight sword with a spear-\r\nlike blade. Although it is\r\nmainly designed for piercing,\r\nthe presence of the “barb”\r\nat the tip plays a large role \r\nin slicing through objects.
 Eared Dagger
@@ -19,29 +19,29 @@ An asymmetrical, double-\r\nedged blade. Made with one\r\nside wider than the ot
 Katar
 A small double-edged sword\r\nwith a sharp tip in the\r\nshape of a leaf. It can be\r\nused for both piercing and\r\nslashing but on the down-\r\nside, it’s rather heavy.
 Harpe
-A sword that can demonstrate\r\nits incredible sharpness from\r\nany angle due to the fast\r\nslashing action created by\r\nthe double curve used for the\r\nblade.
-アンテニーダガー
-両刃でありながら、刀身は\r\n緩やかにカーブしており、\r\n刃先に向かうほど分厚くなる。\r\n切ることに特化した作りで\r\n流れるような攻撃を素早く\r\n繰り出せる。
+A sword that can demonstrate\r\nits incredible sharpness from\r\nany angle due to the fast\r\nslashing action created by\r\nthe double curve used for\r\nthe blade.
+Antennae Dagger
+Despite having a double-edge,\r\nthe blade is gently curved,\r\nbecoming thicker toward the\r\nhead. Designed for slicing,\r\nit's possible to make fluid\r\nattacks.
 Kodachi
 A small sword forged with\r\na focus on sharpness. Made\r\nof high-quality materials,\r\nit is not something that\r\nyour average person could\r\nhope to obtain.
-ブロードエッジ
-刀身が平らで、幅の広い\r\n両刃の片手半剣。\r\n切ることに特化した作り\r\nで比較的扱いやすい半面、\r\n破損しやすくもある。
-リングダガー
-柄の部分にリング状の金具\r\nを付けることで、\r\n持ちやすさと使いやすさが\r\n飛躍的に向上したダガー。
-レックスレイド
-巨獣の骨や歯を使って作ら\r\nれた剣。切れ味ではなく、\r\n破壊力を重視することで、\r\n軽量ながらまずまずの威力\r\nを誇る。
-ソードブレイカー
-相手の攻撃を防御、または\r\n武器を破壊することに\r\n特化した防御型の剣。\r\n片刃が受け流し専用の\r\n特殊な形状をしている。
-クファンジャル
-通称"肉切りナイフ"と\r\n呼ばれるＳ字型に彎曲した\r\n小剣。鮮やかな装飾が\r\n施されており、王侯貴族に\r\n愛されている。
-竜鱗剣
-鋼のように硬い竜の鱗を\r\n丹精込めて研ぐことで、\r\n鉄に優るとも劣らない\r\n切れ味を実現した小剣。
-グラディウス
-刀身は比較的短いが、\r\n肉厚で幅広の両刃と鋭角に\r\n尖った先端を併せ持った\r\n扱いやすい剣。
-疾風剣
-疾風が吹き荒れる程の\r\nスピードで剣を自在に振る\r\nことができるといわれる\r\n小剣。小さい割に破壊力も\r\n備わっている。
-子虎剣
-短い刀身で片刃の剣。\r\n細部に渡り、職人の手で\r\n細かく作り込まれており、\r\n握りやすく、愛用者が多い\r\nことでも有名である。
+Broad Edge
+A double-edged, hand-and-a-half\r\nsword with a wide, flat blade.\r\nDesigned for slicing, it is\r\nrelatively easy to handle,\r\nbut also easily damaged.
+Ring Dagger
+By attaching a ring-shaped\r\nmetal fitting to the hilt,\r\nboth the ease of holding\r\nand ease of use have been\r\ndramatically improved.
+Rex Raid
+A sword made from the bones\r\nand teeth of a giant. By\r\nfocusing on destructive\r\npower rather than sharpness,\r\nit boasts of a light weight\r\nbut impressive power.
+Sword Breaker
+A defensive sword designed\r\nfor deflecting attacks or\r\ndestroying the opponent's\r\nweapon. One side has special\r\nteeth made for parrying.
+Khanjar
+An S-shaped sword, commonly\r\nreferred to as a “carving\r\nknife”. It is brightly decorated\r\nand loved by nobles.
+Dragon Scale Sword
+A small sword that is no less\r\nsharp than an iron blade, made\r\nby carefully sharpening hard-\r\nas-steel dragon scales.
+Gladius
+The blade is relatively short,\r\nbut it is an easy-to-handle\r\nsword that combines a wide\r\ndouble-edged blade with a\r\nsharp point.
+Tempest Sword
+A small sword said to be\r\npossible to swing at speeds\r\nwhich produce whirlwinds. \r\nDespite its small size, it\r\nhas great destructive power.
+Tiger Sword
+A single-edged sword with a\r\nshort blade. Because it was\r\nmade by a smith with a\r\nparticular attention to\r\ndetail, it's easy to grip\r\nand has many loyal users.
 スティング
 小人族が愛用していた三種\r\nの剣のひとつ。人間が扱う\r\nには少し小さいが、その分\r\n素早い攻撃を仕掛けることが\r\nできる。
 スクラマサクス
@@ -178,3 +178,4 @@ A large sword that combines\r\nthe power of a large axe and\r\nease of handling 
 湖の精霊から授かったとされる\r\n聖剣。光り輝く刀身を持ち、\r\n対峙した者は稲妻に打たれた\r\nかのような衝撃を受ける。
 ストームブリンガー
 禍々しいオーラを放ち、\r\n刺し貫いた者の魂を吸い上げ、\r\n成長すると言い伝えられた\r\n文字通りの“魔剣”。
+

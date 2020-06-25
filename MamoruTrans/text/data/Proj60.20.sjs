@@ -112,8 +112,8 @@ Are you familiar with the giant\r\nBaku Moths? A swarm of them showed\r\nup in t
 I was worried that I would lose\r\nthe wheat fields from my grandpa's\r\ngrandpa's grandpa, but they've\r\nbeen saved, thanks to you!\r\nThank you, thank you, thank you!\r\nThis means the world to me!
 A Girl's Lost Property
 Young LadyÅ@Gina
-Mama said Ågdon't get close to the\r\nruinsÅh, but I went there to play\r\nwith Julis in secret. And then, I\r\ndropped the hair clip Mama gave\r\nme somewhere in the yellow walled\r\nroom near the entrance! 
-Honestly, I'd given up hope of\r\never seeing this again. But it's\r\nso nice to have it back... It's\r\nan important hair clip, and best\r\nof all, now Mama won't shout at\r\nme. Thank youuuuu! I won't forget\r\nthis.
+Mummy said Ågdon't get close to the\r\nruinsÅh, but I went there to play\r\nwith Julis in secret. And then, I\r\ndropped the hair clip Mummy gave\r\nme somewhere in the yellow walled\r\nroom near the entrance! 
+Honestly, I'd given up hope of\r\never seeing this again. But it's\r\nso nice to have it back... It's\r\nan important hair clip, and best\r\nof all, now Mummy won't shout at\r\nme. Thank youuuuu! I won't forget\r\nthis.
 Scared Hunter
 Treasure HunterÅ@Minerva
 No way!! Why?! What the hell!?\r\nWhy is such a thing in the ruins!?\r\n...Hot, cold, narrow, even cock-\r\nroaches I'm totally cool with,\r\nbut... spirits are the one thing\r\nI just can't handle!! Help!!

@@ -203,7 +203,7 @@ Door
 
 Paralysis
 Poison
-Faint
+Stun
 Burn
 Fear
 Items
@@ -311,7 +311,7 @@ Accuracy
 Evade rate
 ATK SPD
 Move SPD
-Attribute
+Effect
 No effect
 This item canÅft be used.
 Recovers 50 HP
@@ -890,11 +890,10 @@ This book appears to date back to the ancient\ncivilisation. It seems to be abou
 Yes... To summarise it...\n\n\n
 Åg...In the air, the second before your body is\nabout to touch the ground, cast aside your fearful\nmind and take a step forward!\n
 If you do, another leap will await you...Åh, or\nso it says.\n\n
-In other words, you can jump mid-air...?\nWeÅfre no longer talking about the realm of\nhuman possibility here...\n
+In other words, you can jump mid-air...?\nWeÅfre talking far beyond the realm of\nhuman possibility here...\n
 Well, why not try jumping again during a jump and\nsee what happens?\n\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n
-<C03>Double jumping<C04> is now possible.\n\nBy jumping again in the air,\n(B button) you will be able\nto get to high places that or\ncross over big holes that you\nweren't able reach before.\n
+<C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n<C03>Double jumping<C04> is now possible.\n\nBy jumping again in the air,\n(B button) you will be able\nto get to high places that or\ncross over big holes that you\nweren't able reach before.\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Forest Lover<C04>Åf.\n

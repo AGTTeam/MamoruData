@@ -87,7 +87,7 @@ Old Insect Shell
 蒼彩の甲殻
 <C03>Description:<C04>\r\n鎧の代表格でもあるバグアー\r\nマーなど、さまざまな加工品\r\nに利用される青黒い甲殻。\r\n<C03>Dropped By:<C04>\r\n「ピルバグ」
 Small Ochre Insect Leg
-<C03>Description:<C04>\r\nA thin ochre leg. There’s a\r\nsmall hole at the tip filled\r\nwith a paralyzing fluid.\r\n<C03>Dropped By:<C04>\r\nDizard Bug
+<C03>Description:<C04>\r\nA thin ochre leg. There's a\r\nsmall hole at the tip filled\r\nwith a paralyzing fluid.\r\n<C03>Dropped By:<C04>\r\nDizard Bug
 Ochre Shell
 <C03>Description:<C04>\r\nA yellow shell with amazing\r\nstrength. Famously used to\r\nmanufacture Dizard Armour.\r\n<C03>Dropped By:<C04>\r\nDizard Bug
 紅虫の細足
@@ -212,8 +212,8 @@ Pellucid Crystal
 <C03>Description:<C04>\r\n石の内側で半永久的に燃え続\r\nけると言われる炎が揺らめい\r\nている不思議な結晶石。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
 霧氷結晶
 <C03>Description:<C04>\r\nマイナス２００度の氷が中に\r\n閉じ込められた結晶石。表面\r\nはひんやり冷たい程度。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
-薄い鉄板
-<C03>Description:<C04>\r\n薄く伸ばして板状に加工した\r\nレジュム鉄。この状態にする\r\nことで扱いやすくなる。\r\n（加工品）
+Thin Iron Plate
+<C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Stretching it thin makes\r\nit easier to use.\r\n(Processed Goods) 
 Broad Iron Plate
 <C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Easy to make into a\r\nstrong sword or armour, but\r\ncomes with a hefty weight.\r\n(Processed Goods)
 Thin Iron Bar
@@ -298,12 +298,12 @@ Fascina Powder
 <C03>Description:<C04>\r\n巨人族の眼。両手を使って\r\n持たなければならないほど\r\n巨大である。\r\n<C03>Dropped By:<C04>\r\n「サイクロプス」
 Squishy Toe Beans
 <C03>Description:<C04>\r\nThe paw of a quadrupedal\r\nanimal. Needless to say,\r\nit's soft and squishy.\r\n<C03>Dropped By:<C04>\r\nUnknown
-砂蛇の黄鱗
-<C03>Description:<C04>\r\n砂中に住み着いた大蛇の鱗。\r\n鉄よりも固いと言われるその\r\n鱗は、超高級である。\r\n<C03>Dropped By:<C04>\r\nUnknown
-砂蛇の体液
-<C03>Description:<C04>\r\n砂中に巣を作る性質を持つ大\r\n蛇の体液。服や貴金属などを\r\n溶かしてしまう性質を持つ。\r\n<C03>Dropped By:<C04>\r\nUnknown
-砂の塊
-<C03>Description:<C04>\r\n砂蛇が飲み込んだ砂の塊。体\r\n液の作用で極限にまで硬直し\r\n鉄より強固と有名である。\r\n<C03>Dropped By:<C04>\r\nUnknown
+Sand Snake Scales
+<C03>Description:<C04>\r\nThe scale of a sand-dwelling\r\nsnake. A high-grade item\r\nsaid to be harder than iron.\r\n<C03>Dropped By:<C04>\r\nUnknown 
+Sand Snake Biofluid
+<C03>Description:<C04>\r\nThe bodily fluids of a sand\r\nsnake. Has the ability to\r\nmelt clothes and metals.\r\n<C03>Dropped By:<C04>\r\nUnknown
+Lump of Sand
+<C03>Description:<C04>\r\nA lump of sand swallowed by a\r\nsand snake. Famous for being\r\nstronger than iron.\r\n<C03>Dropped By:<C04>\r\nUnknown
 Dragon Claws
 <C03>Description:<C04>\r\nHuge claws from a dragon's\r\nhands. A supple curve\r\ntapers into a sharp point.\r\n<C03>Dropped By:<C04>\r\nDragon
 Dragon Scales
@@ -325,9 +325,9 @@ Dirty Cloth
 黒い布きれ
 <C03>Description:<C04>\r\n禍々しいオーラを放っており\r\n手に取ると体が重く感じる。\r\n\r\n<C03>Dropped By:<C04>\r\n「ブラッドレイス」
 Small Lump
-<C03>Description:<C04>\r\nA small chunk of something.\r\nWhat  exactly it’s made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
+<C03>Description:<C04>\r\nA small chunk of something.\r\nWhat  exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
 Large Lump
-<C03>Description:<C04>\r\nA big chunk of something.\r\nWhat exactly it’s made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nOgre, Gigas
+<C03>Description:<C04>\r\nA big chunk of something.\r\nWhat exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nOgre, Gigas
 Giant Loincloth
 <C03>Description:<C04>\r\nA favourite garment of the\r\ngiants.\r\nMade from animal hides.\r\n<C03>Dropped By:<C04>\r\nGigas, Cyclops
 Ordinary Hammer
@@ -335,7 +335,7 @@ Ordinary Hammer
 Mythical Hammer
 <C03>Description:<C04>\r\nA mythical hammer that\r\nstories say was used by\r\ncraftsmen to produce\r\nlegendary treasures.\r\n(Processed goods)
 Syringe
-<C03>Description:<C04>\r\nA brand new syringe.\r\nIt’s empty inside, so\r\ncan't be used as is.\r\n(Processed goods)
+<C03>Description:<C04>\r\nA brand new syringe.\r\nIt's empty inside, so\r\ncan't be used as is.\r\n(Processed goods)
 不気味なお面
 <C03>Description:<C04>\r\n薄汚れ、所々が欠けたお面。\r\n不気味な顔が彫られており、\r\n装着すると呪われる……？\r\n<C03>Dropped By:<C04>\r\n「ブラッドレイス」
 甲冑の留め具
@@ -354,3 +354,4 @@ Encyclopaedia
 <C03>Description:<C04>\r\n持ち主を失い、武器としての\r\n生を遂げた剣。錆びた刀身に\r\n欠けた柄。もはや使用出来る\r\nようなものではない。
 Dull Spear
 <C03>Description:<C04>\r\nA short spear that looks\r\nlike it was used as a\r\nthrowing javelin. The end\r\nis dented, suggesting that\r\nsomething used to be\r\nattached.
+
