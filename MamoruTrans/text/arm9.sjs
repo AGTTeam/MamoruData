@@ -7,7 +7,7 @@ Select a save slot.
 Ren
 Charnet
 Lagnus
-Avanc
+Avancf
 Elza
 Archduke Kucellbull
 Ronixis
@@ -17,7 +17,7 @@ Abandon the quest? The contract\n   money won’t be returned.
  　<C02>%s<C01> learnt!
 Flagstone
 Quest has been abandoned.
-Item Shop
+Item Sho
 %s added to recipe list!
 Accessories
 Treasure Chest
@@ -450,11 +450,11 @@ Oh...? To think there'd be a skeleton here...\nI'm amazed it's managed to stay u
 *Creak...*\n\n\n
 ...Hm? It seemed to move just then...\n\n\n...Must have been my imagination.\n\n\n
 ＞It didn’t seem like anything was about to happen,\n　so Ren continued on.\n\n
-…………\n\n\n
-お……こんなところに火が焚かれてる。\n\n\n誰かがここで焚き火でもしたのか…… ？\n\n\n
-＞遺跡内のとある一室。\n　炎の明かりを見つけたレンは、\n　冷えた体を温めようとゆっくり近づく。\n
-遺跡の中って、 案外寒いからな……\nこれは助かる。\n\n
-＞メラメラと燃える炎に両手を差し出し、\n　その温もりに身をあずける。\n\n＞…　…　…　…\n\n\n＞しばしの休息を楽しんだレンは、\n　再びその足を動かし始めた。\n\n
+......\n\n\n
+Strange... There's a fire here.\n\n\nDid someone abandon their bonfire...?\n\n\n
+＞Having found a blazing fire, Ren slowly drew\n　closer to warm his cold body.\n\n
+It's unexpectedly cold in these ruins...\nThis fire's a lifesaver.\n\n
+＞Holding both hands out to the crackling fire, \n　he surrendered his body to the warmth.\n\n＞...　...　...　...\n\n\n＞After enjoying the short break, Ren got back\n　on his feet once again.\n\n
 ようやく来たか……\n待ちわびたよ。\n\n
 ヴェルス ！\nエルザをどこにやった ！ ？\n\n
 安心しろ。　奥の部屋で眠ってる。\n危害は加えてない。\n\n
@@ -794,57 +794,57 @@ What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises... physical strength?\n\n\n
 Yes. Looks like it reduces the risk of dying\ninstantly when receiving a devastating blow,\nto a certain extent, at least.\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　 eVitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always keep a sense of danger.\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises... physical strength?\n\n\n
-Yes. I wonder if this will allow you to stay\nout exploring the ruins even longer than before?\n\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+Yes. I wonder if this will allow you to stay out\nexploring the ruins even longer than before?\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always keep a sense of danger.\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises... physical strength?\n\n\n
 えぇ。　これでかなり強い攻撃を\n受けたとしても、\n平気な顔でいられるんじゃない ？\n
-Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always have a sense of danger.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　【HP＋200】<C04>\n\n\n
+Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always keep a sense of danger.\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 Looks like by increasing your dexterity, you can\nhave more skills assigned.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 Yes. This should allow you to assign even more\nskills.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 えぇ。　さまざまなスキルを\n一度にたくさん使用できるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 えぇ。　これでこれまで以上に\nたくさんのスキルを登録しておけるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 えぇ。　これでこれまで諦めていた数多くの\nスキルも、同時に登録しておけるように\nなるんじゃないかしら ？\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP＋5】<C04>\n\n\n
+<C05>　　　　　INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 It's everywhere.... A room buried by sand, huh?\n...It's hard to move.\n\n
 ＞In a certain room in the second layer of the\n　ruins...\n\n
 ＞The floor was almost entirety covered in sand.\n　Seeing that, Ren let out an involuntarily sigh.\n\n
@@ -885,26 +885,26 @@ Yeah, it’s worth a shot.\n\n\n
 <C05>　　　　　INFORMATION<C04>\n\n You can now destroy cracked\n columns and ordinary stone\n statues.\n\n Break down columns, carving a\n path towards new areas hidden\n further in the ruins.\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 And? What's it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> which allows you to<C03>soar through the sky<C04>.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> which allows you to <C03>soar through the sky<C04>.\n
 <C03>Soar through the sky<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-“...In the air, the second before your body is\nabout to touch the ground, cast aside your fearful\nmind and take a step forward!\n
-If you do, another leap will await you...”, or\nso it says.\n\n
-In other words, you can jump mid-air...?\nWe’re talking far beyond the realm of\nhuman possibility here...\n
+“...In the air, the second before your body is\nabout to touch the ground, cast aside your\nfearful mind and take a step forward!\n
+If you do, another leap will await you...”, or so\nit says.\n\n
+In other words, you can jump mid-air...?\nWe’re talking far beyond the realm of human\npossibility here...\n
 Well, why not try jumping again during a jump and\nsee what happens?\n\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n<C03>Double jumping<C04> is now possible.\n\nBy jumping again in the air,\n(B button) you will be able\nto get to high places that or\ncross over big holes that you\nweren't able reach before.\n
+<C05>　　　　　　INFORMATION<C04>\n\n  <C03>Double jumping<C04> is now possible.\n\n  By jumping again in the air,\n  (B button) you will be able to\n get to high places or cross\n  big holes that you weren't\n  able to reach before.\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Forest Lover<C04>’.\n
 <C03>The Forest Lover<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-“...By having a love of the forest, the trees,\nnature itself...\n\n
+“...By having a love of the forest, the trees,\nand nature itself...\n\n
 ...one will refine their tree observation skills,\nincreasing the number of times they are able\nto harvest from them."\n
 I feel like they're laying it on a bit thick there,\nbut...\n\n
 Well, if you do come across a large tree, why don’t\nyou try harvesting some material from it and see\nwhat's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Tree +2】<C04>\n\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Tree +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 どうやらこの書は、 <C03>樹木との調和<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
@@ -926,7 +926,7 @@ It goes without saying that the number of times\nthe grass can be collected from
 ...Does it really make any difference whether or\nnot the grass is admired...?\n\n
 Well, if you do come across a patch of grass, why\ndon’t try you harvesting some material from it\nand see what's changed?\n
 Yeah,  no harm in trying.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Grass +2】<C04>\n\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Grass +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Gardener<C04>’.\n
@@ -937,7 +937,7 @@ you will excel at managing grass, and hence the\nnumber of times you can harvest
 ...As a treasure hunter, no matter what kind of\nskill it is, anything you acquire will never go to\nwaste!\n...Or something like that.\n\n\n
 Well, if you do come across a patch of grass, why\ndon’t try you harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Grass +3】<C04>\n\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Grass +3】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 どうやらこの書は、 <C03>ガーデナー<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
@@ -959,7 +959,7 @@ As a result, one will develop a habit of observing\nrocky areas, allowing them t
 ...Not sure I really understand what there is to\nadore about rocks.\n\n
 Well, if you do come across some rocks, why don’t\nyou try harvesting some material from it and see\nwhat's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Rocks +2】<C04>\n\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Rocks +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Miner<C04>’.\n
@@ -970,7 +970,7 @@ As a result, the number of times you can collect\nfrom rocks will increase signi
 ...Are they trying to scout people for the mines?\n\n\n
 Well, if you do come across some rocks, why don’t\nyou try harvesting some material from it and see\nwhat's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          【Rocks +3】<C04>\n\n
+<C05>　　　　　　INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Rocks +3】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 どうやらこの書は、 <C03>岩石マスター<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
@@ -1978,13 +1978,13 @@ But when I see you with that noble air, befitting\nof a princess, it makes me pr
 However, since meeting those two, I fear you may\nhave crossed the line of proper conduct...\n\n
 ...\n\n\n
 I know what I've said is rude.\n\n\n
-I don't mean to mean offense. It's just, you are\nthis kingdom's princess, and they are\nbut knights.\n
+I don't mean to cause offense. It's just, you are\nthis kingdom's princess, and they are but knights.\n\n
 Please bear the weight of that in mind so that\nyou do not act irresponsibly.\n\n
 ...I'm well aware.\n\n\n
 Lady Elza...\n\n\n
 Ren is always telling me the same thing, and, when\nI'm talking to them, I feel the existence of that\ninvisible wall even stronger...\n
 ...\n\n\n
-But more importantly, we're finally here.\nI am allowed to talk to them, right?\n\n
+But regardless, we did come all this way.\nI am allowed to talk to them, right?\n\n
 ...You're right.\nRegrettably, it seems I am your only bodyguard,\nand just for today, I shall overlook it.\n
 Thank you.\n\n\n
 Then, I'll head to the village guild to ask for\nnews of Ren and Veres.\n\n
@@ -2038,7 +2038,7 @@ With that simple statement, I felt so reassured.\n\n\n
 ...I said that?\n\n\n
 You did.\n\n\n
 Well, not that I remember.\n\n\n
-Grr～ ...You're just going to play cool again...?\nYou're always like that.\n\n
+Grr～ ...You're just going to play it cool again...?\nYou're always like that.\n\n
 Which reminds me... There was something I forgot to\nask you that time.\n\n
 Something you wanted to ask?\n\n\n
 Yes. ...This is the second time you've come to my\nrescue now, but...\n\n
@@ -2063,11 +2063,11 @@ Yes... It was most reckless of me.\nI'm sorry, Ren.\n\n
 And Lady Elza, please forgive me... \n\n\n
 I-I really am fine, so don't look so glum. Okay?\n\n\n
 Still... I don't know what you came here for, but\nwouldn't it be better to take Elza home as soon\nas possible?\n
-You're right. It will be starting to get dark soon.\nWe should head back.\n\n
+You're right. It will be getting dark soon.\nWe should head back.\n\n
 Eh? We're leaving already?\n\n\n
 You've only just escaped from danger, you really\nought to take it easy...\n\n
 ...Alright.\n\n\n
-Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you must drop by. Promise\nme!\n
+Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you must drop by.\nPromise me!\n
 ...Lady Elza...\n\n\n
 ...Ah--\n\n\n
 Fine, I've got it, so go home already.\n\n\n

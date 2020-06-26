@@ -136,7 +136,7 @@ I've seen them! The sight of those\r\nhuge monsters lurking around the\r\nruins!
 I heard that you did a wonderful\r\njob of eliminating them. ...But,\r\nwhen I told my former boss that I\r\ndidn't want to go into the ruins\r\nbecause I was scared, he fired me.\r\nDamn... I spent so much on making\r\nthat request too...
 A Forgotten Thank You
 Injured Ex-Archaeologist　Roy
-When I was an Archaeologist, some\r\nscaffolding collapsed, trapping\r\nme, but I was saved by a Kobold... \r\nI never got the chance to show my\r\ngratitude... Could you find him,\r\nand give him this letter?
+When I was an Archaeologist, some\r\nscaffolding collapsed, trapping me,\r\nbut I was saved by a Kobold... \r\nI never got the chance to show my\r\ngratitude... Could you find him, and\r\ngive him this letter?
 Ah, so he's still doing well. \r\nI'm glad to hear that. The injury\r\nto my leg means I couldn't go to\r\nthank him myself, but I hope my\r\nfeelings came across.
 Starting With The Look
 Knighthood Hopeful　Dodoris
@@ -158,86 +158,86 @@ The Guild’s Challenge (2)
 Adventurer's Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from C rank\r\nlevel quests! Now, show us what\r\nyou're made of! 
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil C rank requests.\r\nThis is the make-or-break point\r\nfor most Treasure Hunters.\r\nKeep up your momentum! Good luck!
-ぷにぷに好きの女(2)
-ぷにぷに好きの女　ミカコ
-お久しぶりですわね。以前あなたに\r\n捕まえてもらったグリーンジェルは\r\n家を荒らすので、野生にかえしたの\r\nだけど……いなくなると恋しくなる\r\nものね。今度は赤くて可愛らしい子\r\nを連れてきてくれないかしら？
-はぅあぁ……素晴らしいわ！！\r\nこの指で突いた感触…たまらない！\r\nこれだからぷにぷには止められない\r\nのよね。…でも、前の子たちより\r\n更に暴力的な気がするわ…。\r\n…魔物はやめて、近所の道具屋で\r\nゼリーでも買ってこようかしら…。
-時を越えたプレゼント
-妹想いな男　ヴァレン
-昔、大きな花びらで髪飾りを作って\r\n妹にあげたことがあるんだ。それを\r\nいまでも憶えてて「また作って！」\r\nなんて言うんだ。でもこの辺りには\r\nもう咲いてない…。あと探してない\r\nのは遺跡だけ。お願いできないか？
-おぉ！採ってきてくれたのか？！\r\nやっぱり、人の手の及ばぬ遺跡内部\r\nには、まだまだ咲いていたんだな。\r\n…え？攻撃された？花に？\r\n…俺の知ってる花は動いたりしない\r\nけどな…。まぁ、でもこの花びらで\r\n間違いないよ！ホントにありがと！
-それは空から突然に…
-青臭い男性　アイール
-彼女と二人で村外れの草原で空を\r\n眺めていたんだ。そしたらやつらが\r\n突然現れて…僕の楽しみにしていた\r\n彼女の手作り弁当が…うぅっ！\r\nお願いだ！報酬は弾むから、\r\n憎きやつらを懲らしめてくれ！
-ギルドから依頼完了の連絡を受けて\r\nすぐに例の草原に彼女を連れて\r\n行ってみたんだ。そしたら元通り\r\n静かで良い雰囲気に戻っていて、\r\nゆっくり彼女の手作り弁当を食べる\r\n事が出来たよ。本当にありがとう。\r\nさて、明日もまた出掛けようかな。
-美しく舞い落ちる粉
-切羽詰まった男　モリスン
-遺跡の第三層に出現するオニビガと\r\nいう巨大なガを知っているか？\r\nあいつが出すリンプンから質の良い\r\n薬が作れると効いたんだ。\r\n…娘が病気で、その薬がどうしても\r\n必要なんだ！頼む！集めてきてくれ！
-これが巨大ガの出すリンプンか…。\r\nこれを使えば娘の病気も治って、\r\nまた元気な顔を見せてくれるはず。\r\n本当にありがとう！\r\n…良い報酬は出せなかったけど、\r\n心から感謝しているよ！
-かよい合う「心」と「心」
-筋肉質の漁師　エルドラド
-海の男ってのは、一度海に出りゃ\r\n半年以上戻らないことだってある。\r\n長く妻には寂しい想いをさせた…。\r\nで、ここいらで恩返しをしてぇと\r\n思ってな。…悪ぃんだが妻に似合う\r\n綺麗な花を、集めてくれねぇかな。
-今日、さっそく妻に日頃の感謝の\r\n気持ちと一緒に……とまではいかな\r\nかったが、恥ずかしながら、集めて\r\nもらった花束を渡してきたよ。\r\n憎まれ口を叩かれたが、それでも\r\nあいつ嬉しそうだったよ。\r\nありがとな。あんたのおかげだ。
-少年のたからもの
-元気な少年　ジュリス
-ジーナと遺跡に行ったときに、緑色\r\nの壁で、こわれそうな柱がある部屋\r\nにボクたちの「おたから」を置いて\r\nきたんだけど……最近ママの監視が\r\nきびしくて取りに行けないんだ…。\r\nお願い！遺跡に行って取ってきて！
-おにいちゃん！ありがとう！\r\nこの箱の中には色々と大切なものが\r\n入っているからね。だれかに持って\r\nいかれるんじゃないかと、ヒヤヒヤ\r\nしてたんだ。…ちなみに、箱の中\r\nのぞいたりしてないよね？
-過ぎ去りし日々のあやまち
-ガージル村の女性　ビオラ
-ムルムルは、黒い体に羽が生えてて\r\n別名「悪魔の子」って言われてる。\r\n昔、村に迷い込んだムルムルも、\r\nみんな縁起が悪いって石を投げて\r\nいじめてた…。何も悪いことして\r\nないのに…私あの子に謝りたいよ。
-あの子、怒ってなかったんだね…。\r\nあんなにひどいこと、しちゃった\r\nのに…。わたし、情けないな…。\r\nうん。決めた。今度は自分の足で\r\n遺跡に行ってみる。危険なのは\r\nわかってる……けど、直接会って\r\nちゃんと謝っておかなくちゃ。
-方向音痴はお金で解決(1)
-トレジャーハンター　ラッド
-俺の名前はラッド。お前たちと同じ\r\nギルドに登録しているハンターだ。\r\nだが、方向音痴な俺はいつも遺跡で\r\n迷ってしまって仕事所じゃない…。\r\n６割くらいでいいから、遺跡の地図\r\nを見せてもらえないだろうか？
-キミの描いた地図をそのまんま俺の\r\n地図に描き写させてもらったよ。\r\n報酬は俺が遺跡で見つけたお宝さ。\r\n……え？バカにしないでくれ！！\r\n残り40％くらいなら自分の力だけで\r\n踏破してやるさ！\r\nここから俺の快進撃が始まるぜ！！
-お前のその歯で噛み砕け！
-元気な老婆　アンディス
-最近の若いもんは、ハンバーグやら\r\nケーキやら、やわらかいものばかり\r\n食べとるが、私は魚の骨までかぶり\r\nつくことをポリシーにしとる！\r\n…じゃが歳と共に歯も弱ってきた。\r\n何でも噛み砕ける歯が欲しいのぅ。
-これがドラゴンの歯かい？\r\n…ちょっと青白いのが気になるけど\r\n確かに、かたいね。これを付ければ\r\n何も気にせずリンゴも丸かじり\r\n出来そうじゃよ。……そうじゃ。\r\n近所の人達にも教えてやろうかね。
-憧れのマイホーム！
-貸家に住む男　グレゴリー
-不甲斐ない男と言われ続けた俺が\r\n家庭を持って早６年と７ヶ月。\r\n子供も３人。…一家の大黒柱として\r\n家の一軒や二軒建てねばならぬ時が\r\n来たんだ！そこで！材料となる丸太\r\nを集めて来てもらいてぇ。頼むぜ！
-確かに丸太を集めてくれと言った。\r\n自分の家は、自分の手で建てる決意\r\nから出た言葉だった。\r\n…だが、いざあの数の丸太を前に\r\nすると…さすがに一人ではどうにも\r\nならん！俺には仕事もあるしな！\r\nさてと、今度は人手を探すか……。
-小さな灯火
-悩める遺跡調査員　ミズカ
-遺跡調査中に本隊とはぐれてしまい\r\n一人闇の中をさまよっていたとき、\r\n暗闇の中、私を導いてくれたのが\r\n火の玉のような魔物だった。出口が\r\n見えた瞬間に消えちゃって、お礼を\r\n言えなかったことが心残りなの…。
-あの子、やっぱり暗い場所でしか\r\n生きていけない体なんだね。\r\nそれなのに、私を明るい場所まで\r\n導いてくれるなんて……ちょっと\r\n感動しちゃうじゃない。\r\n…また迷子になっちゃおうかな、\r\nなんてね。
-ひとつのものに注ぐ愛
-武器マニア　ラスティン
-子供の頃から剣や防具が大好きで、\r\n鍛冶屋の前でずっと眺めてたんだ。\r\nでも、眺めるのは今日でおしまい。\r\nボクだって自分の剣が欲しいんだ！\r\nそこで、一番のお気に入りである\r\nスティングを調達してくれないか？
-これだよ！これこれ！このカタチ。\r\n…ほっんとに惚れ惚れするよね。\r\nさて、部屋のどこに飾ろうかな…\r\n…え？使わないのかって？\r\nそんなもったいないこと出来るわけ\r\nないだろ？！飾り棚に入れて、毎日\r\n眺めるのさ。ふふふふ。
-臆病者と、臆病者
-臆病な遺跡調査員　ダッサル
-第三層にいるは本当に\r\n臆病者だよ。遠くから弓矢で\r\n狙ってすぐに逃げる……。\r\n僕が行って懲らしめてやりたいけど\r\n少しノドの調子が悪くてさ……。\r\n代わりに行ってくれないか？
-臆病でいたずら好きのホップリン達\r\nを懲らしめてくれたんだってね。\r\nいや本当にノドの調子さえ良ければ\r\nボクが行ったんだけど……残念だ。\r\n……え、いや、怖がってるわけじゃ\r\nないって！本当に調子が悪かったん\r\nだよ！嘘じゃないよ！？
-その先に見えるもの
-トレジャーハンター　レモッド
-俺はいつだって一人だ。仲間と共に\r\nお宝を見つけちまったら取り分で\r\nもめちまうし、めんどうだ。…だが\r\nヤツと眼が合った瞬間、俺の考えは\r\n変わったよ。ヤツ相手に一人は無謀\r\nだ。誰だってそう思うだろ？
-まさか…。本当かよ…。\r\n…俺は俺の考え、感じたものが\r\n正しかったのかどうかを証明して\r\n欲しかったんだ。どうやら…俺は\r\nただの弱虫だったようだな。\r\nあんた、バケモノという名の恐怖\r\nの先に何を見て戦ってたんだ？
-最高の材料で最強の一振り
-孤高の武器職人　スターリン
-念願叶って騎士になった息子の\r\n初陣が目の前に迫ってるんだ。\r\n武器職人として最強の一振りを\r\nプレゼントしてやりてぇんだが、\r\n身近にあるような材料じゃ駄目だ…\r\n頼む！最高の材料を集めてくれ！
-望み通りの材料がそろったよ。\r\nさすがプロは仕事が早いな！\r\n俺も早速、息子に渡す剣の制作に\r\n取り掛かるとするよ。\r\nこれで息子の晴れ姿を親父として\r\n後押しできるってもんだ。\r\n本当にありがとよ！感謝してるぜ！
-振り抜くは渾身の一撃
-怯える元遺跡調査員　ガンズ
-以前巨人族の討伐で世話になったが\r\n憶えてるか？あの後調査隊はクビに\r\nなったけど、趣味で遺跡に潜り込ん\r\nでたんだ。そしたら奥に進むにつれ\r\nまたヤツの足音と地鳴りが聞こえる\r\nんだよ…。頼む！何とかしてくれ！
-またまた世話になっちまったな。\r\n…けど、聞くところによると、俺を\r\nクビにした調査隊の隊長も、あんた\r\nが倒した巨人族を恐れて、ギルドに\r\n依頼しようとしていたらしいんだ。\r\n…くそっ！それなら高い金払って\r\nまで依頼出すんじゃなかったよ…。
-寝ても覚めても練習あるのみ！
-熱血青年　ブレアル
-やっぱり何かひとつでも人より一歩\r\n秀でた能力が欲しいと思わないか？\r\n俺の場合はナイフ投げの技術を極め\r\nようと思うんだ。\r\nだから、たくさん練習出来るように\r\n獣牙を集めて来てくれないか？
-これだけ獣牙があれば、朝起きて\r\n投げて、昼ご飯の前に投げて、\r\n夜寝る前に投げて……\r\nま、毎日練習できそうだよ！！！！\r\nこれで俺もナイフ投げマスターに\r\n一歩近づけるかな…フヒヒヒヒ。
-ほら吹きレナスの憂鬱(3)
-悩める遺跡調査員　レナス
-またまた見つけたのよ！！！今度は\r\n第三層の奥で巨大フレイムプリン！\r\nあの大きさは反則よね…。\r\nで、やっぱり今回も誰一人信じては\r\nくれないわ…。あなただけが頼り！\r\nまた証拠を見つけて持ち帰ってね！
-ね？ね？ね？ホントのホントに巨大\r\nフレイムプリンが存在したでしょ？\r\n私のことをほら吹き呼ばわりした者\r\n達の唖然とした顔が思い浮かぶわ！\r\nふふふ。いい気味ね。\r\nホントにありがと！また何かあれば\r\nよろしく頼むわね！
-蘇りしは巨大なる砂蛇
-遺跡調査隊の女隊長　ラズベル
-以前あなたが倒してくれた第二層の\r\n奥にいた砂の大蛇が、どういうわけ\r\nか復活したようなの。あの部屋より\r\n奥はまだ未調査だったから、今回も\r\n立ち往生よ…。悪いんだけど、また\r\nお世話になっちゃっていいかしら？
-ありがと。以前の依頼の分も併せて\r\nお礼を言わせてもらうわ。\r\n本当にあなたの強さには関心させら\r\nれるわね。ギルドの人には名前しか\r\n聞かせてもらってないから、どんな\r\n人なのか興味が出てきたわ。ねぇ。\r\n遺跡調査隊へ入隊する気はない？
-ギルドからの挑戦状(3)
-冒険者ギルド
-この依頼は、ギルドに所属する\r\nトレジャーハンター達の実力を\r\nチェックするためのものだ！\r\nこれをクリアーすることでＢランク\r\nの依頼からは完全に卒業だ！\r\nさぁ、キミの実力を見せてみろ！
-うむ。キミの実力、しかと見た！\r\nこれでもうキミにＢランクの依頼を\r\nお願いすることはなくなるだろう。\r\nさすが、皆が一目置くだけのことは\r\nある、といったところだな。\r\nでは、引き続き精進したまえ！！
+Squishy Loving Woman (2)
+Squishy Loving Woman　Mikaco
+It's been a while, hasn't it?\r\nThat Green Gel you caught for me\r\nended up laying waste to the house,\r\nso I decided to release it back...\r\nBut now it's gone, I miss it. This\r\ntime, could get a little red cutie?
+Waaah... amazing!! The feel of poking\r\nit with my finger... I can't resist!\r\nI adore the squishiness. ...But, I\r\nfeel like it's even more violent\r\nthan my last... I wonder if there's\r\na pet store for Gels without any\r\nmonsters...
+A Timeless Gift
+Caring Older Brother　Valen
+A long time ago, I used to make hair\r\naccessories for my little sister\r\nusing large flower petals. She still\r\nasks for them, but the flowers no\r\nlonger bloom around here... The only\r\nplace l haven't looked is the ruins.
+Woah Did you pick these for me!?\r\nSo they really are still blooming\r\nin the ruins beyond human reach.\r\n...Huh? You were attacked? By the\r\nflowers? ...The ones I knew didn't\r\nmove... But, there's no mistaking\r\nthese petals! Thanks a bunch!
+They Come from The Sky...
+Inexperienced Youth　Ayer
+My girlfriend and I were sat on the\r\noutskirts of the village watching\r\nthe sky. And then, they appeared... \r\nHer handmade lunch that I was so\r\nlooking forward to... Nngh! Please!\r\nMake the awful things pay!
+After the guild got in touch, we\r\nheaded straight out to our usual\r\nmeadow. The nice and peaceful\r\natmosphere was back, and I was able\r\nto take my time eating her handmade\r\nlunch... Thank you very much. Mmm,\r\nmaybe we'll go back again tomorrow.
+Beautiful Powder
+Man At Wits End　Morrison
+Do you know about the huge Onibi\r\nMoth which lives in the third layer\r\nof the ruins? I heard you can make\r\na good medicine out of the scales\r\nthey shed. Please! My daughter is\r\nill, and I need that medicine!
+So these are the scales from the\r\ngiant moth... If I use this I should\r\nbe able to heal my daughter's\r\nsickness and see her smiling face\r\nagain. Thank you, thank you! ...I'm\r\nsorry I couldn't give you more, but\r\nI am truly grateful!
+A Heart To Heart
+Muscular Fisherman　Eldorad
+Seamen live a life where, once they\r\nset sail, they don't return to land\r\nfor at least six months. I've left\r\nmy wife all alone for a long time...\r\nSo, I wanted to give her something\r\nback. Could you get some flowers?
+Today, I meant to tell my wife the\r\nmoment I saw her how grateful I was\r\nbut... I couldn't do it. Instead, I\r\njust handed her the flowers in\r\nembarrassment. She got mad at me\r\nand started shouting, but I think\r\nshe was secretly pleased. Thanks!
+A Boy's Treasure
+Cheerful Boy　Julis
+When I went to the ruins with Gina,\r\nI left our treasure in a room with\r\ngreen walls and a crumbling pillar,\r\nbut... recently Mummy's been really\r\nstrict with watching us so I haven't\r\nbeen able to get it back... 
+Bro! Thank you! There are all sorts\r\nof precious things inside this box.\r\nI was really worried that someone\r\nelse was going to take it. ...By the\r\nway, you didn't look inside, right?
+Mistake from Years Gone By
+Women from Garzil Village　Viola
+Because of their appearance,\r\nMurmur are known as the “Devil's\r\nChildren”. Long ago, when a Murmur\r\nwandered into our village, everyone\r\ncalled it a bad omen and threw\r\nrocks at it... I want to apologise.
+Even though we did such a terrible\r\nthing, it wasn't angry... I'm so\r\npathetic... Right. That's it! I'm\r\ngoing to go to the ruins myself. I\r\nknow it's dangerous, but I have to\r\ngo in-person and apologise properly.
+Money Solves Everything (1)
+Treasure Hunter　Rudd
+The name's Rudd. I'm a hunter\r\nregistered at the same guild as you.\r\nBut, I'm always getting lost in the\r\nruins and I can never get any work\r\ndone... Can you show me your map?\r\nEven 60％ complete'd be enough.
+I was able to copy down the map you\r\nshowed me to my own. As payment, you\r\ncan have this treasure I found in the\r\nruins. ...Huh? Don't make mock me!!\r\nIf it's just the last 40％, I can do it\r\nmyself! This is where my moment begins!!
+Chew with Your Teeth!
+Cheery Old Woman 　Andis
+Young kids these days only eat soft\r\nthings like burgers and cakes, but I\r\nmake it a policy to bite down to the\r\nbone! ...But, my teeth are getting\r\nweaker with age. I want teeth that\r\ncan chew anything.
+This is a dragon's tooth? ...I'm\r\nworried it'll stick out a little,\r\nbut it certainly seems hard.\r\nWith this, I bet I could even bite\r\ninto an apple without fear.\r\n...Maybe I should tell my neighbors’\r\nabout it too?
+My dream home!
+Sitting Tenant　Gregory
+It's been 6 years and 7 months since\r\nI started a family after being called\r\na worthless man. I even have three\r\nchildren. ...But, the time has come\r\nfor me to prove my worth as the\r\nman of the house, by building one!
+Yup, these are the logs I asked for.\r\nI did say that I was determined to\r\nbuild my own house with hands. ...But,\r\nseeing all these logs in person...\r\nThere's no way I can do this alone!\r\nI have a job too, you know?! I guess\r\nI'd better look for some manpower... 
+A Small Light
+Uneasy Archaeologist　Mizuka
+Once, when I got separated from\r\nthe rest of the survey team, there\r\nwas a fireball-like monster who\r\nhelped guide me. It disappeared as\r\nsoon as we reached the exit, and\r\nI regret not being able to thank it...
+So as I thought, it can't survive in\r\nbright places. But it still guided\r\nme all the way to the exit...\r\nI'm so touched. ...Maybe I should\r\nget lost again? Just kidding!
+A Devoted Love
+Weapon Crazy 　Rustin
+I've loved swords and armour since\r\nI was a kid, and I always stop and\r\nadmire them when I pass the black-\r\nsmiths. But today, it ends. I want\r\na sword of my very own! So could\r\nyou bring me my favourite, a Sting?
+This is it! This beautiful shape.\r\n...It really is lovely. Now then,\r\nwhere should I put it... ...Huh?\r\nYou thought I wanted to use it?\r\nAs if I'd do something so\r\nsacrilegious! I'm going to put\r\nit on display and just admire it.
+Cowards and the Cowardly
+Scared Archaeologist　Tassel
+There's a creature in the third layer\r\nwho truly is a coward. It shoots at\r\nyou from a distance using bow and\r\narrow, and then flees. I want to go\r\nand teach him a lesson, but I think\r\nI'm coming down with something, so...
+I heard that you showed those cowardly\r\nHoplins' who's boss! Aah, if only my\r\nthroat was a little better, I would\r\nhave done it myself. ...What a shame.\r\n...Huh? N-no, it wasn't just because\r\nI was scared! I really am ill, you\r\nknow! I’m not lying!!
+What Lies Beyond
+Treasure Hunter　Reymond
+I've always been alone. If you find\r\ntreasure with other people, it's a\r\npain to decide who gets what.\r\n...But when I first saw them, it\r\nchanged my mind. Going up against\r\nthat alone would be crazy, right?
+No way... You really... I wanted\r\nsomeone to prove that I was right, \r\nbut... Apparently, I'm just a\r\nweakling. What on earth have you\r\nbeen up against before that goes\r\nbeyond the horror of those beasts?
+The Strongest Slash
+Lonely Armourer　Starlin
+After achieving his long-held wish\r\nto become a knight, my son's first\r\nbattle is fast approaching. As a\r\nweapon maker, I want to give him a\r\npresent with the strongest slashing\r\npower, but my materials are no good.
+I've got the materials I wanted.\r\nAs expected, you pro's sure work fast!\r\nI'll get to work on making a sword\r\nto give to my son. Then, it'll be\r\njust like I'm there, supporting my\r\nson in battle. Thanks for your help!\r\nI'll be forever grateful!
+Following Things Through
+Ex-Archaeologist　Guns
+You once wiped out a bunch of giants\r\nfor me, if you remember? I was fired\r\nfrom the survey team, but I've still\r\nbeen exploring the ruins as a hobby. \r\nAs I got further in, I heard the\r\nsound of large footsteps again...
+You saved my ass again! But, I heard\r\nthat the guy who fired me also sent\r\na request to the guild asking for\r\nsomeone to defeat the giants you\r\nkilled. Damn! That means I didn't\r\neven need to put out this stupidly\r\nexpensive request...
+The Only Way Is Practise!
+Hot-blooded Youth　Brail
+Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my case, I want to master the\r\nart of throwing knives. So, can\r\nyou gather up some tusks so that\r\nI can get plenty of practise?
+With this many tusks, I can throw\r\nsome after I wake up in the morning,\r\nthrow some before lunch and throw\r\nsome at night before bed... Well\r\nbasically, I can practice every day!\r\nI'm one step closer to my dream of\r\nbecoming a knife throwing master...\r\nMwa hah hah hah!
+The Melancholy of Renus (3)
+Worried Archaeologist　Renus
+There's another one!!! This time, I\r\nfound a giant Flame Flan in the third\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof! You're my only hope.
+See? See? See? There really, really\r\nis a giant Flame Flan, right? I can't\r\nwait to see the stunned faces of\r\neveryone who called me a liar! Hehe.\r\nCheers! I'll be counting on you if\r\nanything else happens!
+The Sand Snake Resurrected
+Survey Team Captain　Rasvel
+It seems the sand snake in the\r\nsecond layer of the ruins has\r\nsomehow been revived. We still\r\nhaven't finished in that room\r\nyet, but now we can't go in.\r\nCould you take care of it?
+Thank you. And thank you for last\r\ntime again, as well. I'm curious\r\nabout how strong you really are!\r\nAll we get from the guild is your\r\nname, so I can't help but wonder.\r\nSay, would you be interested in\r\njoining the survey team?
+The Guild’s Challenge (3)
+Adventurer's Guild
+This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from B rank\r\nlevel quests! Now, show us what\r\nyou're made of!
+You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil B rank requests.\r\nWe take our hats off to you on this\r\nworthy achievement. Please continue\r\nto devote yourself!!
 もぞもぞ…うねうね…
 虫嫌いの女　エルレ
 私、ほんっとに虫がダメなの！！\r\nもぞもぞ、うねうね動くあの感じ…\r\n…ダメ。考えただけで全身に鳥肌が\r\n立っちゃう…。そんなのが遺跡には\r\nたくさんいるらしいじゃない…。\r\nお願い！早く私を安心させて！！
