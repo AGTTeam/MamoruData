@@ -7,7 +7,8 @@ Hrodvitnir
 Shem Ha-Meforash
 ドゥム・ハ・ソラリス Dum Ha-Solaris?
 ディークヴルム
-ゴルドヴィーヴル
+Gold Guivre
 Crimson Burn
 Lustre Nidhoggr
 Amphisbaena
+

@@ -128,7 +128,7 @@ Hrodvitnir
 Ancient Giant
 Wels
 Daekwurm
-Gordvouivre
+Gold Guivre
 Crimson Burn
 Lustre Nidhoggr
 Amphisbaena
@@ -139,9 +139,10 @@ Eingana
 Fenrir
 Hrodvitnir
 Daekwurm
-Gordvouivre
+Gold Guivre
 Crimson Burn
 Lustre Nidhoggr
 Lustre Nidhoggr
 Amphisbaena
 Amphisbaena
+

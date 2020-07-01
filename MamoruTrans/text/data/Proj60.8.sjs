@@ -31,9 +31,9 @@
 石盤
 \r\n　　　 ゲーム本編のクリア\r\n　　 おめでとうございます！\r\n　\r\n　　これより先はとても強力な\r\n　　　魔物が徘徊しています。\r\n　 腕に自信のある冒険者の皆様、\r\n　　是非、奥へ辿り着けるよう\r\n　　　　頑張ってください。\r\n
 石盤
-\r\n　　　　 この先に待つは\r\n　　　 輝きし黄金の守護者\r\n\r\n　我ら <[>レヴィールの民<]> により\r\n　　　生み出されし異界の者\r\n\r\n　　 　　踏み入れし者は\r\n 　最期への覚悟を決めるがよい\r\n
+   Waiting beyond here is the\r\n   guardian of sparkling gold.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n  Those who would dare to enter\r\n   should be prepared to take\r\n       their last breath.
 石盤
-\r\n　　　　 この先に待つは\r\n　　　猛々しき真紅の守護者\r\n\r\n　我ら <[>レヴィールの民<]> により\r\n　　　生み出されし異界の者\r\n\r\n　　 　　踏み入れし者は\r\n 　最期への覚悟を決めるがよい\r\n
+   Waiting beyond here is the\r\n ferocious guardian of crimson.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n Those who would dare to enter\r\n should be prepared to take\r\n their last breath.
 石盤
 He who seeks power whilst knowing\r\n the path of hardship is a fool.\r\n\r\nWaiting beyond is the sand snake.\r\n\r\n　His scales, harder than steel,\r\n　　　cannot be scratched.\r\n\r\n　　　　　　Turn back.\r\n　　Don't throw away your life.
 石盤

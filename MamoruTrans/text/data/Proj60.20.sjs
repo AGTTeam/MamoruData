@@ -161,7 +161,7 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 Squishy Loving Woman (2)
 Squishy Loving Woman　Mikaco
 It's been a while, hasn't it?\r\nThat Green Gel you caught for me\r\nended up laying waste to the house,\r\nso I decided to release it back...\r\nBut now it's gone, I miss it. This\r\ntime, could get a little red cutie?
-Waaah... amazing!! The feel of poking\r\nit with my finger... I can't resist!\r\nI adore the squishiness. ...But, I\r\nfeel like it's even more violent\r\nthan my last... I wonder if there's\r\na pet store for Gels without any\r\nmonsters...
+Waaah... amazing!! The feel of poking\r\nit with my finger... I can't resist!\r\nI adore the squishiness. ...But, I\r\nfeel like it's even more violent\r\nthan my last... I wonder if there's\r\na pet store for Gels without any\r\nmonsters somewhere...
 A Timeless Gift
 Caring Older Brother　Valen
 A long time ago, I used to make hair\r\naccessories for my little sister\r\nusing large flower petals. She still\r\nasks for them, but the flowers no\r\nlonger bloom around here... The only\r\nplace l haven't looked is the ruins.
@@ -177,11 +177,11 @@ So these are the scales from the\r\ngiant moth... If I use this I should\r\nbe a
 A Heart To Heart
 Muscular Fisherman　Eldorad
 Seamen live a life where, once they\r\nset sail, they don't return to land\r\nfor at least six months. I've left\r\nmy wife all alone for a long time...\r\nSo, I wanted to give her something\r\nback. Could you get some flowers?
-Today, I meant to tell my wife the\r\nmoment I saw her how grateful I was\r\nbut... I couldn't do it. Instead, I\r\njust handed her the flowers in\r\nembarrassment. She got mad at me\r\nand started shouting, but I think\r\nshe was secretly pleased. Thanks!
+Today, I meant to tell my wife the\r\nmoment I saw her how grateful I was\r\nbut... I couldn't do it. Instead, I\r\njust handed her the flowers in\r\nembarrassment. She got mad at me\r\nand started shouting, but I think\r\nshe was secretly pleased!
 A Boy's Treasure
 Cheerful Boy　Julis
-When I went to the ruins with Gina,\r\nI left our treasure in a room with\r\ngreen walls and a crumbling pillar,\r\nbut... recently Mummy's been really\r\nstrict with watching us so I haven't\r\nbeen able to get it back... 
-Bro! Thank you! There are all sorts\r\nof precious things inside this box.\r\nI was really worried that someone\r\nelse was going to take it. ...By the\r\nway, you didn't look inside, right?
+When I went to the ruins with Gina,\r\nI left our treasure in a room with\r\ngreen walls and a crumbling pillar,\r\nbut... recently Mummy's been really\r\nstrict with watching us so I haven't\r\nbeen able to get it back...
+Bro! Thank you! There are all sorts\r\nof precious things inside this box.\r\nI was really worried that someone\r\nelse was going to take it.\r\n...By the way, you didn't look\r\ninside, right?
 Mistake from Years Gone By
 Women from Garzil Village　Viola
 Because of their appearance,\r\nMurmur are known as the “Devil's\r\nChildren”. Long ago, when a Murmur\r\nwandered into our village, everyone\r\ncalled it a bad omen and threw\r\nrocks at it... I want to apologise.
