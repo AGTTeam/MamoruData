@@ -253,16 +253,16 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %s　Deliver %d
 %s　Delivery
 %s　Chat
-%s遺跡探索率　%d％以上
-%s宝物入手率　%d％以上
+%sRuins Exploration %d％ or more
+%s　Treasure Found %d％ or more
 
 %s
 %s
 %s
 %s
 %s
-%s遺跡探索率
-%s宝物入手率
+%s Ruins Exploration
+%s Treasure Found
 Select
 Back
 登録
@@ -287,15 +287,15 @@ Treasure
 Misc
 Food
 何もなし
-Poison immunity
-Fear immunity
-Paralysis immunity
-Burn immunity
-Stun immunity
-Full status ailment immunity
-自動回復（小）
-自動回復（中）
-自動回復（大）
+Poison immune
+Fear immune
+Paralysis immune
+Burn immune
+Stun immune
+State immunity
+Auto-Heal（S）
+Auto-Heal（M）
+Auto-Heal（B）
 Raises movement speed
 Raises hit rate 
 20% discount off\neverything
@@ -311,7 +311,7 @@ Accuracy
 Evade rate
 ATK SPD
 Move SPD
-Effect
+Cause
 No effect
 This item can’t be used.
 Recovers 50 HP
@@ -349,18 +349,18 @@ Heavy damage to visible\nenemies
 Revival on death
 狂戦士への変貌
 None
-緊急回避可
-障害物破壊可
-二段ジャンプ可
+Perform forward rolls
+Destroy objects
+Double jump
 会心の一撃可
-SP +5
-HP +200
-攻撃（斬）＋小
-攻撃（斬）＋中
-攻撃（斬）＋大
-攻撃（投）＋小
-攻撃（投）＋中
-攻撃（投）＋大
+SP ＋5
+HP ＋200
+Attack（Slash）＋Small
+Attack（Slash）＋Medium
+Attack（Slash）＋Big
+Attack（Throw）＋Small
+Attack（Throw）＋Medium
+Attack（Throw）＋Big
 移動速度＋小
 移動速度＋中
 移動速度＋大
@@ -387,11 +387,11 @@ HP +200
 火傷無効
 全異常半減
 全異常無効
-自動回復（小）
-自動回復（中）
-自動回復（大）
-お金を獲得（小）
-お金を獲得（大）
+Auto-Heal（S）
+Auto-Heal（M）
+Auto-Heal（B）
+Get money（S）
+Get money（B）
 三段突き
 五段突き
 回転ジャンプ攻撃
@@ -413,15 +413,15 @@ Now then, how may I help you today?\n
 Oh? Looks like you've got another <C03>skill book<C04> on\nyou. Pass it here.\n
 ...What, you again?\n\n\n
 I'm busy.\nHurry up and go home before you get hurt.\n\n
-また温もりを求めて\nやって来たのですか ？\n\n
-まぁ、 遠慮なさらず、\n炎の温もりを存分に堪能してください。\n\n
+Have you come for warmth again?\n\n\n
+Well, no need to hold back.\nDo make use of my flames to your heart's content.\n\n
 あら ？　またいらしてくれたの ？\n今日はどんなお話をしましょうか。\n\n
 Wiggle! Have you come to play, wiggle?\n\n\n
 ...Eh? You're busy right now, wiggle?\n\n\n
 Next time, then!\nLet's play together next time, wiggggle!\n\n
-ムル ！　ひさしぶりムル ！\nムルとお話するムル ！\n\n
-ムル ？　いま時間がないムル ？\n\n\n
-じゃあ早くようじをすませてくるムル ！\nで、 ムルと話すムル ！ ！\n\n
+Mur! It's been a while, mur!\nTalk to mur!\n\n
+Mur? You're busy now, mur?\n\n\n
+Hurry up and finish your business, mur!\nThen you can talk to mur!!\n\n
 お ？　どうした ？\nワシの訓練を受ける気になったか ？\n\n
 ……そうあからさまに嫌な顔を\nせんでも良いだろうに。\n\n
 まぁ、気が向いたらいつでも来るがよい。\nワシはいつでもここにおるからな。\n\n
@@ -453,7 +453,7 @@ Oh...? To think there'd be a skeleton here...\nI'm amazed it's managed to stay u
 ......\n\n\n
 Strange... There's a fire here.\n\n\nDid someone abandon their bonfire...?\n\n\n
 ＞Having found a blazing fire, Ren slowly drew\n　closer to warm his cold body.\n\n
-It's unexpectedly cold in these ruins...\nThis fire's a lifesaver.\n\n
+It's unexpectedly cold in these ruins...\nThis thing's a lifesaver.\n\n
 ＞Holding both hands out to the crackling fire, \n　he surrendered his body to the warmth.\n\n＞...　...　...　...\n\n\n＞After enjoying the short break, Ren got back\n　on his feet once again.\n\n
 ようやく来たか……\n待ちわびたよ。\n\n
 ヴェルス ！\nエルザをどこにやった ！ ？\n\n
@@ -495,13 +495,13 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let's see... Hmmm...\nAhh... Interesting...\n\n
 What's it say?\n\n\n
-どうやらこの書は、 <C03>神の眼力<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>神の眼力<C04> ？\n\n\n
-『神と名の付くほどの眼力を手にすることで\n敵の動きの全てを見極めることが出来る――』\nって書いてあるわ。\n
-つまり、 登録さえすれば攻撃の命中率が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Divine Eyesight<C04>’.\n\n
+<C03>Divine Eyesight<C04>?\n\n\n
+“Obtain the power of the gods and witness every\nmove made by your opponent", or so it says.\n\n
+In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let's see... Hmmm...\nAhh... Interesting...\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>Quick Thinking<C04>’.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Quick Thinking<C04>’.\n\n
 <C03>Quick Thinking<C04>?\n\n\n
 “No matter the situation, you will be able to\nthink on your feet and move accordingly", or\nso it says.\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
@@ -513,7 +513,7 @@ What’s it say?\n\n\n
 つまり、 登録さえすれば回避率が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>A Gust of Wind<C04>’.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>A Gust of Wind<C04>’.\n\n
 <C03>A Gust of Wind<C04>?\n\n\n
 “Obtain a body so light that you can feel the\nmight of the wind”, or so it says.\n\n
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
@@ -531,13 +531,13 @@ What’s it say?\n\n\n
 つまり、 登録さえすれば移動速度が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>resist poison<C04>’.\n\n
-<C03>Resist poison<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist Poison<C04>’.\n\n
+<C03>Resist Poison<C04>?\n\n\n
 “Your body will be able to produce antitoxins\nthat half the effects of being poisoned”, or\nso it says.\n
 So it seems that assigning this skill will reduce\nthe duration you’re poisoned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>resist\nparalysis<C04>’.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist\nParalysis<C04>’.\n
 <C03>Resist Paralysis<C04>?\n\n\n
 “Your body will be able to resist the effect of a\nparalyzing sting by up to a half", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you’ll be paralyzed.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
@@ -555,8 +555,8 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 So it seems that assigning this skill will reduce\nthe duration you’re frightened.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to become ‘<C03>Heat\nResistant<C04>’.\n
-<C03>Heat Resistant<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist Burn<C04>’.\n\n
+<C03>Resist Burn <C04>?\n\n\n
 “By curing the skin, you can make it highly heat\nresistant and flame retardant", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you’ll be burned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -638,84 +638,84 @@ What’s it say?\n\n\n
 <C03>無の境地<C04> ？\n\n\n
 『無の境地に達するほどの精神力を宿すことで\n空気の流れを読めるようになる――』\nって書いてあるわ。\n
 つまり、 登録さえすれば回避率が\nアップするというスキルのようだけど…\n\n……もはや仙人と呼ばれる域ね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Forward Roll - Student<C04>’.\n\n
 <C03>Forward Roll<C04>... <C03>Student<C04>?\n\n\n
-Let's see...  It's a evasive manoeuvre, that is,\na technique to help you better get the hang\nof making a forward roll.\n
-Apparently, by having this skill assigned, you'll\nward off enemy attacks whilst rolling.\n\nSo with this, you should be able to easily avoid\nenemy attacks that you used to have trouble\ndodging.\n
+Let's see... It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
+Apparently, by having this skill assigned, you\ncan ward off enemy attacks whilst rolling.\n\nSo with this, you should be able to easily avoid\nenemy attacks that you used to have trouble\ndodging.\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>前転【師範】<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>前転<C04>……<C03>師範<C04> ？\n\n\n
-えっと……緊急回避、 つまり前転のコツを\n掴むためのテクニックが書かれているわ。\n\n
-どうやら、 このスキルを登録すれば\n前転中は完全に敵の攻撃を\n受け流せるようになるみたいよ。\n……まさに前転マスターね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Forward Roll - Master<C04>’.\n\n
+<C03>Forward Roll<C04>... <C03>Master<C04>?\n\n\n
+Let's see... It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
+Apparently, by having this skill assigned, you'll be\nable to completely fend off enemy attacks whilst\ndoing a forward roll.\n...Seems to fit the name, then.\n\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>猛毒の免疫<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>猛毒の免疫<C04> ？\n\n\n
-『その効果を無効化してしまうほど\n免疫力を高めることが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n猛毒の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you ‘<C03>Poison Immunity<C04>’.\n\n
+<C03>Poison Immunity<C04>?\n\n\n
+“You can boost your immunity enough to nullify any\neffect", or so it says.\n\n
+Apparently, by having this skill assigned, you won't\nneed to worry about being poisoned.\n\n...That's quite the handy skill.\n\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>麻痺の免疫<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
 <C03>麻痺の免疫<C04> ？\n\n\n
 『その効果を無効化してしまうほど\n免疫力を高めることが出来る――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\n麻痺の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>鋼の心臓<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>鋼の心臓<C04> ？\n\n\n
-『どのような状況に陥ったとしても決して\n動じる事のない鋼の心を手に入れられる――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n気絶の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Steel Heart<C04>’.\n\n
+<C03>Steel Heart<C04>?\n\n\n
+“You can obtain a heart of steel that will never\nquiver, no matter the situation you fall into", or\nso it says.\n
+Apparently, by having this skill assigned, you won't\nneed to worry about being stunned.\n\n...That's quite the handy skill.\n\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>折れない心<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
 <C03>折れない心<C04> ？\n\n\n
 『幾度となく襲いくる恐怖に打ち勝って\n来たからこそ培われた心を持てる――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\n臆病の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>業火の免疫<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
 <C03>業火の免疫<C04> ？\n\n\n
 『業火にすら耐えうるほどの免疫力を\n体内で作り出すことが出来る――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\n火傷の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>免疫力の塊<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
 <C03>免疫力の塊<C04> ？\n\n\n
 『体に異常をきたす全ての効果を無効化して\nしまうほどの免疫力を得ることが出来る――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\n全異常状態に対する心配は必要なし\nってことみたいよ。\n……これは便利なスキルね。\nちょっとずるいくらいよ……\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Auto-heal Ⅰ<C04>’.\n\n
-<C03>Auto-heal Ⅰ<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Auto-Heal Ⅰ<C04>’.\n\n
+<C03>Auto-Heal Ⅰ<C04>?\n\n\n
 “An ability to spontaneously recover that goes\nbeyond human understanding will emerge, allowing\nwounds to the body to be automatically healed.”\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
-If used properly, you might be able to save on\nhealing items.\n\n Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>自然治癒 Ⅱ<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>自然治癒<II><C04> ？\n\n\n
-『進化した自然治癒能力を得ることができ、\n日常生活では擦り傷など見なくなるだろう――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\nHPが自動的に回復していくみたいよ。\n\n
-うまく利用すれば、 回復系のアイテムを\n節約出来るかもしれないわね。\n\nま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Auto-Heal Ⅱ<C04>’.\n\n
+<C03>Auto-Heal Ⅱ<C04>?\n\n\n
+“You can expand your natural healing ability, and\nmake everyday cuts and bruises a thing of the\npast”, or so it says.\n
+Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>自然治癒<III><C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>自然治癒Ⅲ<C04> ？\n\n\n
+<C03>Auto‐Heal Ⅲ<C04>?\n\n\n
 『驚異的な自然治癒力をその肉体に宿せる\nようになる。　その効果は驚きだ――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\nHPが自動的に回復していくみたいよ。\n\n
-うまく利用すれば、 回復系のアイテムを\n節約出来るかもしれないわね。\n\n Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
+Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Beggar's Obstinance<C04>’.\n\n
@@ -729,7 +729,7 @@ What’s it say?\n\n\n
 <C03>富豪の余裕<C04> ？\n\n\n
 『大富豪の余裕をもってすれば、 定期的に\nお金を入手出来るようになる――』\nって書いてあるわね。\n
 どうやら、 このスキルを登録すれば\n自動的に所持金が増えていくようだわ。\n\n……もはや、 贅沢の極みね。\n\n\n
-ま、 If you think you might need it, why don’t you try\nequipping it?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Awakening Power<C04>’.\n\n
@@ -744,24 +744,24 @@ Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 その後、 俺たちは同い年ってだけで、\n訓練や実戦を共にすることが増えた。\n\n
 ……間近でお前を見てきて、 あきらめたよ。\n\n\n
 どう足掻いたって、 俺には越えられない壁だ……\nって、 現実を突きつけられた。\n\n
-ムル ！\n\n\n
-……ん ？\n\n\n
-こんなトコロでナニしてるムル ？ ？\n\n\n
-……遺跡を探索しているんだけど、\nお前は…… ？\n\n
-ボクはココでぼーっとしてたムル ！ ！\n\n\n
-あ、 そう。\nへー……\n\n
-（つまりヒマってことか……）\n\n\n
-ボクもうちょっとここでくつろぐムル ！ ！\nいっしょにくつろぎたくなったら、\nいつでもココに来るムル ！ ！\n
-あ、あぁ……\nでも今は忙しいから、 また今度な。\n\n
-待ってるムルル～ ！ ！\n\n\n
-＞人懐っこいムルムルに別れを告げ、\n　レンはその場を後にした。\n\n
+Mur!\n\n\n
+...Hm?\n\n\n
+Whatcha doing here, mur??\n\n\n
+...I'm exploring the ruins, but... I could ask you\nthe same.\n\n
+Mur is just daydreaming!!\n\n\n
+Ah, I see.\nHeh...\n\n
+(Basically, it has nothing better to do...)\n\n\n
+Mur likes relaxing here!!\nIf you wanna chill with mur, you can come\nanytime!!\n
+R-right...\nI'm busy right now, but maybe another time.\n\n
+Mur waits for you～!!\n\n\n
+＞Saying goodbye to the friendly Murmur, Ren took\n　his leave.\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Throwing A Strike<C04>’.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
 In other words, it's a skill that will change your\nstandard attack into a more powerful technique,\nas long as it's been assigned.\n
-Oh～ ...A <C03>three-step strike<C04>, huh?\n\n\n
+Heh～ ...A <C03>three-step strike<C04>, huh?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -1123,38 +1123,38 @@ Hm? What is it?\n\n\n
 M-mm... Well... Roy...\n\n\nPass this message on to that human, Roy.\n\n\n“Don't ever come back to the ruins! Even if you\nget hurt, I'm not gonna help you!”\n\n
 Wha...?\n\n\n
 ＞As if trying to have the final say, the Kobold\n　disappeared from sight.\n\n＞The Kobold's awkward tenderness left Ren with a\n　small fuzzy feeling in his chest.\n\n
-ムル ！\n\n\n
-……ん ？\n\n\n
-こんなトコロでナニしてるムル ？ ？\n\n\n
-……やけに人懐っこいな。\n\n\n
-……依頼にあったムルムルは、 過去に\n人間から酷い扱いを受けていたらしいし、\n\n
-人を嫌いにはなっても\n人懐っこくはならない、 か。\n\n
-ムル ？ ？\nなにをブツブツ言ってるムル ？ ？\n\n
-えっと……\n（……念のため聞いてみるか）\n\n
-お前、 過去に人間の住んでいる村に\n出向いたことはあるか ？\n\n
-ニンゲンの、 すんでいるトコ……\n\n\n
-……いったことあるムル。\n\n\n
-本当か ！ ？\n\n\n
-……それで、 ムル、 おこられるムル ？\n……また、 石をなげにきたムル ？\n\n
-……石を、 投げる ？\n\n\n
-むかし、 ニンゲンとなかよくなりたくて\nニンゲンがいっぱいいた村にいったムル。\n\n
-そしたら、 みんなこわい顔で\nムルに石をなげてきたムル。\n\n
-ムル、 こわくなってすぐに逃げたムル……\n\n\n
-ニンゲンのいるところに\nかってに入ったから、みんなおこったムル ？\n\n
-……いや、 そうじゃないんだ。\n\n\n
-そのときは、 突然お前のような魔物が\n村に入ってきたから、みんな驚いたんだよ。\n\n
-魔物の中にはお前のように人懐っこいのもいるけど、\nやっぱり人間に襲いかかってくるやつらの方が多い。\n\n
-それで、 お前の姿を見て、\n襲ってくると勘違いしたんじゃないかな。\n\n
-ムル、 そんなことしないムル ！\nただ、 なかよくしたかっただけムル……\n\n
-大丈夫。　人間の中にも、\nお前と仲良くしたいと思っているやつもいる。\n\n
-……お前が人間の村で追い返されていたとき、\nその村人たちの中に<C03>ビオラ<C04>っていう\n女の人がいたんだ。\n
-その人が、 お前に会ってあやまりたいんだってさ。\n行って、 友達になってこいよ。\n\n
-ほんとうムル ？\nほんとうのほんとうムル ？ ？\n\n
-あぁ、 それを伝えるのが俺の仕事だ。\n\n\n
-じゃあ、 確かに伝えたからな。\n気をつけて行ってこい。\n\n
-ムル ！ ！\n行ってくるムル ！　ありがとうムル ！\n\n
-＞嬉しそうに飛び跳ねながら去っていくムルムルの\n　後ろ姿を、 レンは静かに見守っていた……\n\n
-あら、 いらっしゃい。\n\n\n
+Mur!\n\n\n
+...Hm?\n\n\n
+Whatcha doing here, mur??\n\n\n
+...You're awfully chatty.\n\n\n
+I received a request about a Murmur who was\ntreated badly by humans in the past...\n\n
+But even if it didn't come to hate humans, there's\nno way it'd be this friendly, right?\n\n
+Mur??\nWhatcha muttering about, mur??\n\n
+Er...\n(...Maybe I should still ask, just in case?)\n\n
+Have you ever been to a village where humans live?\n\n\n
+Where humans live...\n\n\n
+...Mur been.\n\n\n
+Really!?\n\n\n
+...Are you gonna get mad with mur?\n...Are you gonna throw rocks at mur again?\n\n
+...Throw rocks?\n\n\n
+Long ago, mur went to a village full of humans\nbecause mur wanted to be friends with them.\n\n
+And then, everyone started shouting and throwing\nrocks at mur.\n\n
+Mur got scared and ran away, mur...\n\n\n
+Did everyone get mad because mur went to a human\nplace?\n\n
+...No, that's not it.\n\n\n
+At that time, they were probably surprised that a\nmonster suddenly entered the village.\n\n
+Some monsters are friendly like you, but there are\nstill a lot of them who attack humans.\n\n
+So, when they saw you, I guess they misunderstood\nand thought you were going to attack.\n\n
+Mur wouldn't do something like that, mur!\nMur just wanted to get along...\n\n
+It's okay. There are some humans who want to get\nto know you too.\n\n
+...When you were being driven away from village,\nthere was a woman there named <C03>Viola<C04>.\n\n
+She wants to meet you and apologise.\nYou should go and make friends.\n\n
+Really, mur?\nReally, really, mur?\n\n
+Yeah. I was hired to pass along the message.\n\n\n
+Well, now you know.\nGo, and be safe.\n\n
+Mur!!\nMur going! Thank you, mur!\n\n
+＞Ren quietly watched the Mumur, as it happily\n　bounced away...\n\n
+Oh, welcome.\n\n\n
 ＞冒険者ギルドは、 相も変わらず\n　秘宝に夢を馳せた冒険者たちで\n　賑わっていた。\n
 ちょっと聞いた ？\n都の方、 とんでもない事になってるみたいよ。\n\n
 その事と関係しているのか分からないけど、\n最近、 遺跡の内部で定期的に地震が\n起きたりしてたみたいだし……\n
@@ -1239,49 +1239,49 @@ Well, good luck with your investigation.\nI'll be cheering you on from behind.\n
 ...This isn't so bad, I guess.\n\n\n
 ＞The treasure slumbering in the ancient ruins...\n　The band of monsters ready to attack...\n\n
 ＞It was so faint that the person himself didn't\n　even notice his heart quietly throbbing...\n\n
-…………\n\n\n
-お……こんなところに火が焚かれてる。\n\n\n誰かがここで焚き火でもしたのか…… ？\n\n\n
-＞遺跡内のとある一室。\n　炎の明かりを見つけたレンは、\n　冷えた体を温めようとゆっくり近づく。\n
-遺跡の中って、 案外寒いからな……\nこれは助かる。\n\n
-＞メラメラと燃える炎に両手を差し出し、\n　その温もりに身をあずける。\n\n＞…………\n\n\n
-あの……\n\n\n
-…………\n\n\n
-もし、 そこの方。\n\n\n
-ん……気のせい、 かな ？\n\n\n
-いえ、 気のせいなどでは\nございませんよ。\n\n
-やっぱり、 気のせい……\n\n\n
-……って、 え ？ ！　だ、 誰だ ！ ？\n\n\n
-ここですよ、 ここ。\n\n\n
-ど、 どこだ ！ ？　出てこい ！ ！\n\n\n
-いや、 だからここですよ。\nあなたの目の前にいるじゃないですか。\n\n
-目の前…… ？　まさか、 この炎 ？ ！\n\n\n
-あぁ～ようやく気づいていただけましたか。\n\n\n
-いや、 だって他の火の玉の魔物は\nずっと動き回っているのに、\nお前全然動かないから……\n
-ははは。　いや～最近どうも体調が優れなくて。\nここで一休みしてたんですよ。\n\n
-やっぱり、 柄にもないこと\nするもんじゃないですね。\n\n
-柄にもないこと…… ？\n\n\n
-もしかして、 <C03>ミズカ<C04>っていう遺跡調査員を\n助けてあげた火の玉ってのは、お前か？\n\n
-ミズカ……はて、そのような名前は\n記憶にないですが、\n\n
-ただ……少し前、 道に迷ったらしき女性を\n出口までご案内したことはありますが…… ？\n\n
-それだ。　やっぱりお前だったんだ。\n\n\n
-……でも、 何で出口へ案内したことで\n体調が悪くなるんだ ？\n\n
-いやぁ……お恥ずかしいことなのですが、\n\n\n
-我々光を放つようなタイプの魔物というものは、\n太陽光に弱い生き物でして……\n\n
-出口付近まで行ってしまったことで、\n微量ながら光を浴びてしまったようなのです。\n\n
-それ以来、 ずっとこうして\n休んでいるのですが……\n\n
-……そうだったのか。\n\n\n
-まぁでも、 おかげさまで、 そろそろ\n動き回れるようになりそうです。\n\n
-……なぁ、 ひとつ聞いてもいいか ？\n\n\n
-どうぞ。\n\n\n
-どうして光に弱いって分かっているのに、\nわざわざ出口まで案内してあげたんだ？\n\n
-……困っている女性を放っておくわけには\nいきませんからね。\n\n
-わたし、 紳士で通ってますから。\n\n\n
-……あ、 そか。\n\n\n
-まぁ、 とにかく。\nそのとき助けられたミズカって人からの伝言。\n\n
-“ありがとう” ってさ。\n\n\n
-当然の事をしたまでです。\n礼には及びませんよ。\n\n
-では、 そろそろわたしは行くとします。\nあなたも、 お気を付けて。\n\n
-……あ、 あいつ……どこまでもカッコイイな……\n\n\n
+......\n\n\n
+Strange... There's a fire here.\n\n\nDid someone abandon their bonfire...?\n\n\n
+＞Having found a blazing fire, Ren slowly drew\n　closer to warm his cold body.\n\n
+It's unexpectedly cold in these ruins...\nThis thing's a lifesaver.\n\n
+＞Holding both hands out to the crackling fire,\n　he surrendered his body to the warmth.\n\n＞.........\n\n\n
+...Umm...\n\n\n
+...\n\n\n
+Hello, good sir?\n\n\n
+Mm... Maybe I'm imagining things?\n\n\n
+No, it is no such thing.\n\n\n
+Yeah, just my imagination...\n\n\n
+--W-wait?! Who's there!?\n\n\n
+I am right here.\n\n\n
+W-where!? Show yourself!!\n\n\n
+As I said, I'm right here, in front of you.\n\n\n
+In front of me...? It can't be, this fire--!?\n\n\n
+Indeed～ You finally realised?\n\n\n
+No, well... All the other fireball monsters are\nalways moving around, but you didn't move at all...\n\n
+Haha, I see～ Lately, I haven't been feeling too\nwell, so I decided to rest here.\n\n
+I suppose my actions really have been out of\ncharacter for one such as myself.\n\n
+Out of character...?\n\n\n
+Were you the one who helped an archaeologist\ncalled <C03>Mizuka<C04>?\n\n
+Mizuka... I don't know anyone by that name,\nalthough...\n\n
+Not long ago, there was an incident where I guided\na lost woman to the exit...?\n\n
+That's the one. So it was you.\n\n\n
+But, why would guiding someone to the exit make\nyou get sick?\n\n
+Well... It is embarrassing to admit this, but...\n\n\n
+We, light-emitting beings are vulnerable to sunlight.\n\n\n
+It seems I was exposed to light, be it a small\namount, as I went near the vicinity of the exit.\n\n
+Ever since then, I have been resting here...\n\n\n
+...I see.\n\n\n
+Well, thanks to you, it seems that I will be able\nto move again soon.\n\n
+...Can I ask you something?\n\n\n
+By all means.\n\n\n
+Why did you go out of your way to show Mizuka\nto the exit, knowing that you are vulnerable to\nlight?\n
+...I could never abandon a woman in need.\n\n\n
+I am a gentlemen, after all.\n\n\n
+...That so?\n\n\n
+Well, anyway.\nI've a message she asked me to pass on.\n\n
+“Thank you."\n\n\n
+I only did what was right.\nI need no thanks.\n\n
+Well, it's about time that I was off.\nDo take care.\n\n
+...He was a pretty cool guy... for a fireball.\n\n\n
 でも、 この石があれば、 俺はお前を\n超越した力を手に入れることが出来る…… ！\n\n
 再び、 俺が注目を浴びる日が来る ！\n\n\n
 そんなことの為に……\n\n\n
@@ -1394,14 +1394,14 @@ Yeah, I'll have it done in no time.\n\n\n
 ＞Peeling himself away from the counter, Ren\n　waved to Charnet and quickly made his way\n　out of the Guild.\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What is it?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent skill<C04>\nwhich allows you to perform <C03>evasive manoeuvres<C04>.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent skill<C04>\nwhich allows you to perform <C03>Evasive Manoeuvres<C04>.\n
 <C03>Evasive Manoeuvres<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 “...By curling your body into a small ball and\nrolling quickly, you'll be able to pass through\nnarrow paths with ease...\n
 It can also help you to avoid enemy attacks..."\n\n
 It sounds kinda weird...\n\n\n
 But, if you come across somewhere where it's\ntoo narrow to walk through, or think an enemy\nis about to strike...\n
-...then it might be worth giving this <C03>evasive\nmanoeuvre<C04> thing a shot, right?\n\n
+...Then it might be worth giving this <C03>evasive\nmanoeuvre<C04> thing a shot, right?\n\n
 Yeah, no harm in trying.\n\n\n
 <C05>　　　　　INFORMATION<C04>\n\n<C03>　【Permanent Skills】<C04>\n　These begin to take effect\n　as soon as they're learnt.\n\n<C03>　【Assigned Skills】<C04>\n　Once learnt, the skill must\n　be allocated to take effect.\n　(SP is required)
 <C05>　　　　　INFORMATION<C04>\n\n　You can visit “Skills” from\n　the menu to <C03>view permanent\n　skills<C04> and <C03>assign assigned\n　skills<C04>.\n\n　It's worth checking whenever\n　you learn a new skill.\n
@@ -2416,4 +2416,5 @@ First off, I guess I should drop by the guild...\n\n\n
 ……ヴェルスの考えていることは\nわからないけど、\n\n
 この鍵があれば、 遺跡の奥へ\n進めそうだな。\n\n
 ……さて、 仕事に戻るか。\n\n\n
+
 

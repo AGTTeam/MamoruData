@@ -185,47 +185,47 @@ Bro! Thank you! There are all sorts\r\nof precious things inside this box.\r\nI 
 Mistake from Years Gone By
 Women from Garzil Village　Viola
 Because of their appearance,\r\nMurmur are known as the “Devil's\r\nChildren”. Long ago, when a Murmur\r\nwandered into our village, everyone\r\ncalled it a bad omen and threw\r\nrocks at it... I want to apologise.
-Even though we did such a terrible\r\nthing, it wasn't angry... I'm so\r\npathetic... Right. That's it! I'm\r\ngoing to go to the ruins myself. I\r\nknow it's dangerous, but I have to\r\ngo in-person and apologise properly.
+Even though we did such a terrible\r\nthing, it wasn't angry...\r\nI'm such a fool... Right. That's it!\r\nI'm going to go to the ruins myself.\r\nI know it's dangerous, but I have to\r\ngo in person and apologise properly.
 Money Solves Everything (1)
 Treasure Hunter　Rudd
 The name's Rudd. I'm a hunter\r\nregistered at the same guild as you.\r\nBut, I'm always getting lost in the\r\nruins and I can never get any work\r\ndone... Can you show me your map?\r\nEven 60％ complete'd be enough.
-I was able to copy down the map you\r\nshowed me to my own. As payment, you\r\ncan have this treasure I found in the\r\nruins. ...Huh? Don't make mock me!!\r\nIf it's just the last 40％, I can do it\r\nmyself! This is where my moment begins!!
+I was able to copy down the map\r\nyou showed me to my own.\r\nAs payment, you can have this\r\ntreasure I found in the ruins.\r\n...Huh? Don't mock me!! If it's just\r\nthe last 40％, I manage on my own!\r\nThis is where my moment begins!!
 Chew with Your Teeth!
-Cheery Old Woman 　Andis
+Cheery Old Woman　Andis
 Young kids these days only eat soft\r\nthings like burgers and cakes, but I\r\nmake it a policy to bite down to the\r\nbone! ...But, my teeth are getting\r\nweaker with age. I want teeth that\r\ncan chew anything.
-This is a dragon's tooth? ...I'm\r\nworried it'll stick out a little,\r\nbut it certainly seems hard.\r\nWith this, I bet I could even bite\r\ninto an apple without fear.\r\n...Maybe I should tell my neighbors’\r\nabout it too?
+This is a dragon's tooth?\r\n...I'm worried it'll stick out a little, \r\nbut it certainly seems hard.\r\nWith this, I bet I could even bite\r\ninto an apple without fear.\r\n...Maybe I should tell my neighbors'\r\nabout it too?
 My dream home!
 Sitting Tenant　Gregory
-It's been 6 years and 7 months since\r\nI started a family after being called\r\na worthless man. I even have three\r\nchildren. ...But, the time has come\r\nfor me to prove my worth as the\r\nman of the house, by building one!
-Yup, these are the logs I asked for.\r\nI did say that I was determined to\r\nbuild my own house with hands. ...But,\r\nseeing all these logs in person...\r\nThere's no way I can do this alone!\r\nI have a job too, you know?! I guess\r\nI'd better look for some manpower... 
+It's been 6 years & 7 months since\r\nI started a family after being called\r\na worthless man. I even have three\r\nchildren. ...But, the time has come\r\nfor me to prove my worth as the\r\nman of the house, by building one!
+Yup, these are the logs I asked for.\r\nI did say that I was determined to\r\nbuild my own house with hands. ...But\r\nseeing all these logs in person...\r\nThere's no way I can do this alone!\r\nI have a job too, you know?! I guess\r\nI'd better look for some manpower... 
 A Small Light
 Uneasy Archaeologist　Mizuka
-Once, when I got separated from\r\nthe rest of the survey team, there\r\nwas a fireball-like monster who\r\nhelped guide me. It disappeared as\r\nsoon as we reached the exit, and\r\nI regret not being able to thank it...
-So as I thought, it can't survive in\r\nbright places. But it still guided\r\nme all the way to the exit...\r\nI'm so touched. ...Maybe I should\r\nget lost again? Just kidding!
+Once, when I got separated from\r\nthe rest of the survey team, there\r\nwas a fireball-like monster who\r\nhelped me. But, it disappeared as\r\nsoon as we reached the exit, and\r\nI regret not being able to thank it.
+So as I thought, it can't survive in\r\nbright places. But it still guided me\r\nall the way to the exit...\r\nI'm so touched. ...Maybe I should get\r\nlost again? Kidding!
 A Devoted Love
-Weapon Crazy 　Rustin
+Weapon Crazy　Rustin
 I've loved swords and armour since\r\nI was a kid, and I always stop and\r\nadmire them when I pass the black-\r\nsmiths. But today, it ends. I want\r\na sword of my very own! So could\r\nyou bring me my favourite, a Sting?
 This is it! This beautiful shape.\r\n...It really is lovely. Now then,\r\nwhere should I put it... ...Huh?\r\nYou thought I wanted to use it?\r\nAs if I'd do something so\r\nsacrilegious! I'm going to put\r\nit on display and just admire it.
 Cowards and the Cowardly
-Scared Archaeologist　Tassel
-There's a creature in the third layer\r\nwho truly is a coward. It shoots at\r\nyou from a distance using bow and\r\narrow, and then flees. I want to go\r\nand teach him a lesson, but I think\r\nI'm coming down with something, so...
-I heard that you showed those cowardly\r\nHoplins' who's boss! Aah, if only my\r\nthroat was a little better, I would\r\nhave done it myself. ...What a shame.\r\n...Huh? N-no, it wasn't just because\r\nI was scared! I really am ill, you\r\nknow! I’m not lying!!
+Cowardly Archaeologist　Tassel
+There's a creature in the 3rd layer\r\nwho truly is a coward. It shoots at\r\nyou from a distance using bow and\r\narrow, and then flees. I want to go\r\nand teach him a lesson, but I think\r\nI'm coming down with something, so...
+I heard that you showed those\r\ncowardly Hoplins' who's boss! \r\nAah, if only my throat was a\r\nlittle better, I would have done\r\nit myself... What a shame. ...Huh?\r\nN-no, it wasn't just because I was\r\nscared! I really am ill, you know!
 What Lies Beyond
 Treasure Hunter　Reymond
 I've always been alone. If you find\r\ntreasure with other people, it's a\r\npain to decide who gets what.\r\n...But when I first saw them, it\r\nchanged my mind. Going up against\r\nthat alone would be crazy, right?
-No way... You really... I wanted\r\nsomeone to prove that I was right, \r\nbut... Apparently, I'm just a\r\nweakling. What on earth have you\r\nbeen up against before that goes\r\nbeyond the horror of those beasts?
+No way... You really...?\r\nI wanted someone to prove that I\r\nwas right, but... Apparently, I'm\r\njust a weakling. What on earth\r\nhave you been up against before\r\nthat goes beyond the horror of\r\nthose beasts?
 The Strongest Slash
 Lonely Armourer　Starlin
 After achieving his long-held wish\r\nto become a knight, my son's first\r\nbattle is fast approaching. As a\r\nweapon maker, I want to give him a\r\npresent with the strongest slashing\r\npower, but my materials are no good.
-I've got the materials I wanted.\r\nAs expected, you pro's sure work fast!\r\nI'll get to work on making a sword\r\nto give to my son. Then, it'll be\r\njust like I'm there, supporting my\r\nson in battle. Thanks for your help!\r\nI'll be forever grateful!
+I've got the materials I wanted.\r\nAs expected, you pro's sure work\r\nfast! I'll get to work on making\r\na sword to give to my son soon.\r\nThen, it'll be just like I'm there,\r\nsupporting him in battle.\r\nThanks for your help!
 Following Things Through
 Ex-Archaeologist　Guns
-You once wiped out a bunch of giants\r\nfor me, if you remember? I was fired\r\nfrom the survey team, but I've still\r\nbeen exploring the ruins as a hobby. \r\nAs I got further in, I heard the\r\nsound of large footsteps again...
+You once subdued a bunch of giants\r\nfor me, if you remember? I was fired\r\nfrom the survey team, but I've still\r\nbeen exploring the ruins as a hobby. \r\nAs I got further in, I heard the\r\nsound of large footsteps again...
 You saved my ass again! But, I heard\r\nthat the guy who fired me also sent\r\na request to the guild asking for\r\nsomeone to defeat the giants you\r\nkilled. Damn! That means I didn't\r\neven need to put out this stupidly\r\nexpensive request...
 The Only Way Is Practise!
 Hot-blooded Youth　Brail
-Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my case, I want to master the\r\nart of throwing knives. So, can\r\nyou gather up some tusks so that\r\nI can get plenty of practise?
-With this many tusks, I can throw\r\nsome after I wake up in the morning,\r\nthrow some before lunch and throw\r\nsome at night before bed... Well\r\nbasically, I can practice every day!\r\nI'm one step closer to my dream of\r\nbecoming a knife throwing master...\r\nMwa hah hah hah!
+Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my case, I want to master the\r\nart of throwing knives. Could you\r\ngather up some tusks so that I can\r\nget plenty of practise?
+With this many tusks, I can throw\r\nsome after I wake up in the morning,\r\nsome before lunch and some at night\r\nbefore bed... Well basically, I can\r\npractice every day! I'm one step\r\ncloser to my dream of becoming a\r\nknife throwing master... Mwahaha!
 The Melancholy of Renus (3)
 Worried Archaeologist　Renus
 There's another one!!! This time, I\r\nfound a giant Flame Flan in the third\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof! You're my only hope.

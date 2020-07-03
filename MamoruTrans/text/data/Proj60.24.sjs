@@ -7,19 +7,19 @@ The result of finding the\r\nperfect blend of ingredients\r\nthat utilises the m
 Ethanol
 A potent medicine that\r\nalleviates the symptoms\r\nof toxins that have\r\npenetrated the body.\r\nComes in liquid form,\r\nmaking it easy to take.
 Oxidol
-Mitigates the symptoms of\r\npoison, and soothes pain\r\nwithin the body.
+Mitigates the symptoms of\r\npoison and soothes pain\r\nwithin the body.
 Nam Extract
 A medicine capable of\r\nrelieving paralysis that\r\nslows the function of the\r\nnerves. Has a thick yogurt-\r\nlike consistency.
 Nam Powder
-痺れ成分を緩和する効力を\r\n持つと共に、体に受けた痛み\r\nをも和らげる効果がある。
+Mitigates numbness and\r\nsoothes pain within the\r\nbody.
 Mental Care
 When taken intentionally, it\r\nhelps to relieve mental pain\r\nand anxiety. However, it\r\nhas no effect on stress\r\nthat occurred naturally.
 Mental Treatment
-精神を静めると共に、\r\n体に受けた痛みをも和らげる\r\n効果がある。
+Calms the mind and soothes\r\npain within the body.
 Cool Jelly
 A cold jelly used to suppress\r\na rising fever. If eaten,\r\ncools the body down from\r\nthe inside out. Be sure to\r\nfollow the directions for\r\nuse carefully.
 Cool Flan
-体に溜まった余分な熱を\r\n冷ましてくれると共に、\r\n痛みをも和らげる効果がある\r\nゼリー状の薬。
+A jelly-like medicine\r\nthat cools excess heat\r\naccumulated in the body\r\nand relieves pain.
 Elixsar
 A legendary nostrum said\r\nto cure all ails. It has\r\na startlingly bitter taste\r\nthat sends a shiver through\r\nthe entire body. Side\r\neffects include fainting.
 Elixir
@@ -35,7 +35,7 @@ A medicine that temporarily\r\nenhances the body. Gain\r\nbeautifully strong mus
 Air Feet
 A medicine that temporarily\r\nenhances walking ability.\r\nAllows you to run like the\r\nwind.
 Jet Feet
-脚力を一時的に強化できる薬。\r\nフットエアーと比べ、長持ち\r\nするため、長距離の移動には\r\n欠かせない一品。
+A medicine that temporarily\r\nenhances walking ability.\r\nIt lasts longer than Air\r\nFeet, so is an essential\r\nfor long-distance travel.
 Roast Ribs
 バラ肉を丸ごと火であぶった\r\nダイナミックな料理。\r\nお腹がいっぱいになり、\r\n体力も回復する。
 Roast Thigh Meat
@@ -55,23 +55,23 @@ Thigh Meat with Aloe
 Invigorating Ribs
 A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect\r\nof stun for a set period\r\nof time.
 Green Syringe
-体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
+By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof poison.
 Blue Syringe
-体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
+By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof fear.
 Yellow Syringe
-体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
+By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof paralysis.
 Red Syringe
-体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
+By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof being burned.
 White Syringe
-体内に薬を浸透させることで\r\n長時間、猛毒の効果から身を\r\n守ってくれる。
+By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof being stunned.
 Standard Syringe
-体内に薬を浸透させることで\r\n全ての異常状態からその身を\r\n守ってくれる。\r\n\r\n持続時間：短い
+By injecting medicine into\r\nthe body, it provides relief\r\nfrom all status ailments.\r\n\r\nDuration: Short
 Medical Syringe
-体内に薬を浸透させることで\r\n全ての異常状態からその身を\r\n守ってくれる。\r\n\r\n持続時間：長い
+By injecting medicine into\r\nthe body, it provides relief\r\nfrom all status ailments.\r\n\r\nDuration: Long
 Coating Liquid
 A tool that can temporarily\r\nboost the power of weapons.\r\nSimply apply to a blade,\r\nand it will take effect\r\nstraight away.
 Coating Agent
-一時的に武器の威力をアップ\r\nさせるための道具。\r\nコーティング液よりも効果が\r\n長持ちする上に、仕上がりの\r\n美しさにも定評がある。
+A tool that can temporarily\r\nboost the power of weapons.\r\nNot only does it last longer\r\nthan Coating Liquid, but it\r\nis reputed to give a\r\nbeautiful finish.
 Life's Guidepost
 A handy tool that allows you\r\nto return to the village in\r\nan instant, wherever you \r\nare.\r\nEssential for adventurers.
 Rain Calamity
@@ -79,7 +79,7 @@ A tool which can be used to\r\ninflict damage nearby foes.\r\nNote that if there
 The Door To Hades
 使用することで、付近にいる\r\n魔物にダメージを与えること\r\nが出来る。\r\n近くに敵がいないと、効果を\r\n発揮しないので注意が必要。
 Shadow Summoner
-存在感を消し去るように薄い\r\n影を身体に纏うことで、敵の\r\n攻撃を一定時間無効化出来る\r\n戦闘用のアイテム。
+An item which allows you to\r\nshroud yourself in a thin\r\nshadow, hiding your presence\r\nand nullifying enemy attacks\r\nfor a set period of time.
 Breath Of Life
 An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst\r\nhaving it in your\r\npossession.\r\nBreaks after use.
 
