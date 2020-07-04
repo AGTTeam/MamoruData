@@ -125,7 +125,7 @@ Is that right... My husband has\r\nalready... That's just like him...\r\nHe was 
 Swordsman Without Pride
 Wandering Swordsman　Bordeaux
 I travel the world to practise my\r\nskills, and heard that there are\r\narmoured swordsmen in these ruins.\r\nSo, I set off at once and... was\r\ndefeated in a flash. Could you\r\nget revenge for me?
-I only sent that request to see\r\nwhether there really was someone\r\nwho could best those fiends...\r\nYou truly took them all down?\r\n...Incredible. I wonder if I\r\nshould give up on my dream, and\r\nbecome a treasure hunter too...
+I only sent that request to see\r\nwhether there really was someone\r\nwho could best those fiends...\r\nYou truly took them all down?\r\n...Incredible. I wonder if I should\r\ngive up on my dream, and become\r\na treasure hunter too...
 Glittering Stone (1)
 High-Flying Lady　Rondina
 I adore beautiful stones.\r\nIndeed... aren't Emeralds just\r\nperfect for me, who exudes hope\r\nand joy? Well, one should think\r\nyou'd best go and find some for\r\nme, toodle-pip.
@@ -219,7 +219,7 @@ Lonely Armourer　Starlin
 After achieving his long-held wish\r\nto become a knight, my son's first\r\nbattle is fast approaching. As a\r\nweapon maker, I want to give him a\r\npresent with the strongest slashing\r\npower, but my materials are no good.
 I've got the materials I wanted.\r\nAs expected, you pro's sure work\r\nfast! I'll get to work on making\r\na sword to give to my son soon.\r\nThen, it'll be just like I'm there,\r\nsupporting him in battle.\r\nThanks for your help!
 Following Things Through
-Ex-Archaeologist　Guns
+Fearful Ex-Archaeologist　Guns
 You once subdued a bunch of giants\r\nfor me, if you remember? I was fired\r\nfrom the survey team, but I've still\r\nbeen exploring the ruins as a hobby. \r\nAs I got further in, I heard the\r\nsound of large footsteps again...
 You saved my ass again! But, I heard\r\nthat the guy who fired me also sent\r\na request to the guild asking for\r\nsomeone to defeat the giants you\r\nkilled. Damn! That means I didn't\r\neven need to put out this stupidly\r\nexpensive request...
 The Only Way Is Practise!

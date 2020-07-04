@@ -543,10 +543,10 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 So it seems that assigning this skill will reduce\nthe duration you’ll be paralyzed.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>気絶耐性<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>気絶耐性<C04> ？\n\n\n
-『気絶の効果を半減させるほどの耐性を\n体内に作り出すことが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n気絶の持続時間が軽減するようだわ。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist Stun<C04>’.\n
+<C03>Resist Stun<C04>?\n\n\n
+“Your body will be able to resist the effect of\nbeing stunned by up to a half", or so it says.\n\n
+So it seems that assigning this skill will reduce\nthe duration you’ll be stunned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Determination<C04>’.\n\n
@@ -556,7 +556,7 @@ So it seems that assigning this skill will reduce\nthe duration you’re frighten
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist Burn<C04>’.\n\n
-<C03>Resist Burn <C04>?\n\n\n
+<C03>Resist Burn<C04>?\n\n\n
 “By curing the skin, you can make it highly heat\nresistant and flame retardant", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you’ll be burned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -603,10 +603,10 @@ The <C03>Hunter's Left Hand<C04>?\n\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>黄金の左手<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>黄金の左手<C04> ？\n\n\n
-『黄金に輝く左手で投げるナイフは\nこれまで以上の威力を発揮する――』\nって書いてあるわ。\n
-つまり、 登録さえすればナイフを使った攻撃の\n威力がアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>Golden Left Hand<C04>’.\n\n
+The <C03>Golden Left Hand<C04>?\n\n\n
+“Knives thrown with a glistening golden left hand\nwill demonstrate more power than ever before."\n\n
+In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 どうやらこの書は、 <C03>スナイパー<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
@@ -662,10 +662,10 @@ Apparently, by having this skill assigned, you won't\nneed to worry about being 
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>麻痺の免疫<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>麻痺の免疫<C04> ？\n\n\n
-『その効果を無効化してしまうほど\n免疫力を高めることが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n麻痺の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you ‘<C03>Paralysis Immunity<C04>’.\n\n
+<C03>Paralysis Immunity<C04>?\n\n\n
+“You can boost your immunity enough to nullify any\neffect", or so it says.\n\n
+Apparently, by having this skill assigned, you won't\nneed to worry about being paralysed.\n\n...That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -940,15 +940,15 @@ Yeah, will do.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Grass +3】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-どうやらこの書は、 <C03>ガーデナー<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
-<C03>ガーデナー<C04> ？\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>Green-Fingered<C04>’.\n
+<C03>Green-Fingered<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-『庭は俺にまかせろ ！　と言わんばかりの\n気迫と心意気で草花と接することにより、\n\n
-草むらで、 より多くの採取が\n出来るようになる……』 だって。\n\n
-庭はまかせろって……\n\n\nじゃあ、 ギルドの庭をあなたに\nあずけてみようかしら…… ？\n\n
-ま、 草むらを見つけたら素材を採取してみて、\nどのように変化したのかチェックしてみれば\nいいんじゃない ？\n
+“By having the spirit and resolve as if to say\n‘Entrust the garden to me!' when tending to\nbudding plants,\n
+you will be able to to harvest much more from\nthis natural wonder."\n\n
+“Entrust the garden”...\n\n\nI wonder if should get you to look after Guild's\ngarden for us...?\n\n
+Well, if you do come across a patch of grass, why\ndon’t you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　採取の回数がアップしました！\n\n<C03>　　　 　【草むら＋4】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Grass +4】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Rock Enthusiast<C04>’.\n
