@@ -113,12 +113,12 @@ Athena
 Athena
 Themis
 Themis
-マルケミア
-マルケミア
+Makaria
+Makaria
 Murmur
 Pazuzu
 Pazuzu
-アルシェル  Alluziel?
+Alciel
 Cerberus
 Azi Dahaka
 Jormungandr

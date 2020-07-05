@@ -111,7 +111,7 @@ What? Leaving already?\n
   Cancel
 Tools
 Materials
-Important
+Key Items 
 %s\nTotal: Åê%6d
   Enhance
   Cancel
@@ -885,8 +885,8 @@ Yeah, itÅfs worth a shot.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n You can now destroy cracked\n columns and ordinary stone\n statues.\n\n Break down columns, carving a\n path towards new areas hidden\n further in the ruins.\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 And? What's it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> which allows you to <C03>soar through the sky<C04>.\n
-<C03>Soar through the sky<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the <C03>Taking Flight<C04>.\n
+<C03> Taking Flight<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...In the air, the second before your body is\nabout to touch the ground, cast aside your\nfearful mind and take a step forward!\n
 If you do, another leap will await you...Åh, or so\nit says.\n\n
@@ -1384,7 +1384,7 @@ Anyway, as you walk around the ruins, you can\nfinish it yourself.\n\n
 And, there's also a guide published by the guild\naimed at helping new treasure hunters get started.\n\n
 You've got to look out for yourself.\nMake sure you have a read through it so you\ndon't end up crying and regretting it later.\n
 <C05>    Å@ ÅyMap of the RuinsÅz<C04>\n\n When you're inside the ruins,\n a map will be displayed on the\n lower screen.\n <C03>The map will automatically\n update whenever you enter a\n new room.<C04>\n Try walking through every nook and\n cranny to complete it.
-<C05>     ÅyExploration GuideÅz<C04>\n\n It contains various bits of\n useful info. You can check\n the contents at any time by\n pressing the START button to\n call the <C03>menu, and then going\n to your ÅgItemsÅh and choosing\n the ÅgImportantÅh category.<C04>
+<C05>     ÅyExploration GuideÅz<C04>\n\n It contains various bits of\n useful info. You can check\n the contents at any time by\n pressing the START button to\n call the <C03>menu, and then going\n to your ÅgItemsÅh and choosing\n the ÅgKeyÅh category.<C04>
 A guide to exploring... hm.\n\n\n
 As with anything, you need to have a firm grasp\nof the basics, right?\n\n
 Especially when it comes to suspicious men who\nlook more like kids, wouldn't-you-say?\n\n
@@ -1650,7 +1650,7 @@ Yeah. I'll take you up on that.\n\n\n
 <C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n You can now buy, sell and\n craft items at Avanc's shop.\n\n <C03>Buy:<C04> Purchase items or\n      equipment.\n <C03>Sell:<C04> Sell your belongings.\n <C03>Craft:<C04>Combine materials/tools\n      to create new items.
 Now, now...\n\n\n 
 Well, I'll give you this present as a token of\nour frrriendship!\n\n
-ÅÑRen placed the book he received into the\nÅ@ÅgImportantÅh category of his bag.\n\n
+ÅÑRen placed the book he received into the\nÅ@ÅgKeyÅh category of his bag.\n\n
 It's a handy book with some hints about collecting\nmaterials!\n\n
 It's full of really, rrreally handy info, so make\nsure you look through it properly later!\n\n
 <C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\nÅ@When you defeat monsters in\nÅ@the ruins, they might drop\nÅ@tools or materials.\n\nÅ@You can figure out what kind\nÅ@of items will be dropped from\nÅ@the monster's appearance and \nÅ@type, so get slaying!
@@ -1836,7 +1836,7 @@ For your first visit only!\nIt's a special service. After this, you'll have to\n
 Fyi... The <C03>Foil<C04> is a ÅgMedium SwordÅh, and the \n<C03>Long Sword<C04> is a ÅgBig SwordÅh.\n\n
 It's not a big deal, but it might be good to think\nof it as ÅepractiseÅf when you use them, at least\nuntil you get used to it.\n
 ...Speaking of, this is for you too.\n\n
-ÅÑRen placed the book he received into the\nÅ@ÅgImportantÅh category of his item pouch.\n\n
+ÅÑRen placed the book he received into the\nÅ@ÅgKeyÅh category of his item pouch.\n\n
 The book has a detailed description of the\ncharacteristics for each main weapon category.\n\n
 If you want to know the differences between\nSmall Swords, Medium Swords and Big Swords\nthen you should give it a read.\n
 <C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n\n   The Main Weapons (swords)\n     are divided into three\n   major categories; Small\n    Swords, Medium Swords\nÅ@     and Big Swords.\n\n           

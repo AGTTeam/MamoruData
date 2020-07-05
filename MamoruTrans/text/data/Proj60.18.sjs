@@ -40,12 +40,12 @@ Paper Bush Foliage
 <C03>Description:<C04>\r\nA branch that has split into\r\nthree. Green leaves and scattered\r\nhere and there.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Tree
 White Oak Bark
 <C03>Description:<C04>\r\nThe bark of a large tree\r\ncalled Shirakashi. It is\r\nextremely versatile.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Tree
-Blessing of a Large Tree
+Nature's Blessing
 <C03>Description:<C04>\r\nThe root of an Erle tree.\r\nIt's full of water, so is\r\nuseful on a long trip.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Tree
 Flexible Branch
 <C03>Description:<C04>\r\nA branch with a tough exterior,\r\nand rubbery interior. It makes\r\na loud noise when shaken quickly.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
 Sturdy Wood
-<C03>Description:<C04>\r\nAn extremely sturdy and good\r\nquality wood that can withstand\r\nrough treatment.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
+<C03>Description:<C04>\r\nAn extremely sturdy and\r\ngood quality wood that can\r\nwithstand rough treatment.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
 Special Branch
 <C03>Description:<C04>\r\nA branch from the Tree of\r\nLife. (A 1,000 year old tree.)\r\nIt's unbelievably strong.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
 Yellow Seed
@@ -53,9 +53,9 @@ Yellow Seed
 Green Ash Leaves
 <C03>Description:<C04>\r\nLush leaves from an Ash Tree,\r\nsaid to be sacred. They have a\r\nvibrant lustre and shine.\r\n<C03>Main Collection Site:<C04>\r\n
 Ash Bark
-<C03>Description:<C04>\r\nBark from an Ash Tree, said to\r\nbe sacred. Unusually tough,\r\nit's impossible to strip directly.\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\nBark from an Ash Tree, said to\r\nbe sacred. Unusually tough,\r\nit's impossible to strip directly.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Ash Roots
-<C03>Description:<C04>\r\nThick roots from an Ash Tree,\r\nsaid to be sacred. When drunk,\r\nit's said to banish wrinkles...\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\nThick roots from an Ash Tree,\r\nsaid to be sacred. When drunk,\r\nit's said to banish wrinkles...\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Berries
 <C03>Description:<C04>\r\nBerries from a tree. Both\r\nedible, and used to add a\r\nfinishing touch to products.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Haku Seed
@@ -65,28 +65,29 @@ Nail Nut
 Drake Seed
 <C03>Description:<C04>\r\nThe withered bud of a\r\nMandrake. Unbelievably\r\nheavy for what it is.\r\n<C03>Dropped By:<C04>\r\nMan-Eating Mandrake
 Xechs Nut
-<C03>Description:<C04>\r\nA nut that emits a rotten\r\nodour. If you break the shell,\r\nthe stench gets even worse.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
-ポレの実
-<C03>Description:<C04>\r\nポレヴィークの実。完熟した\r\nものは非常に柔らかで、皮の\r\nまま食すことが出来る。\r\n<C03>Dropped By:<C04>\r\n「人喰いポレヴィーク」
+<C03>Description:<C04>\r\nA nut that emits a rotten\r\nodour. If you break the shell\r\nthe stench gets even worse.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
+Pole Fruit
+<C03>Description:<C04>\r\n
+Fruit from a Polevik. Soft\r\nwhen ripe, even the skin\r\nis edible.r\n<C03>Dropped By:<C04>\r\nMan-Eating Polevik
 Small Petal
 <C03>Description:<C04>\r\nA petal the size of a palm.\r\nOften used in folk art.\r\n\r\n<C03>Dropped By:<C04>\r\nKahaku, Mandrake
-大きな花びら
-<C03>Description:<C04>\r\n両手でも持ちきれないほどに\r\n大きな植物の花びら。服飾品\r\nなどの加工に用いられる。\r\n<C03>Dropped By:<C04>\r\n「ポレヴィーク」
-黄金の花びら
-<C03>Description:<C04>\r\nポレヴィークの花びらと子房\r\nの間などで希に見つけること\r\nが出来る価値の高い花びら。\r\n<C03>Dropped By:<C04>\r\n「人喰いポレヴィーク」
-灼凜花
-<C03>Description:<C04>\r\n紅蓮の花びらを持つ小花。咲\r\nき乱れるその光景は、一帯が\r\n炎にのまれたように見える。\r\n<C03>Main Habitat:<C04>\r\n Unknown
-鈴氷花
-<C03>Description:<C04>\r\n氷の花びらを持つ小花。青白\r\nく輝く美しさに誘われ触れて\r\nしまうと、全身が凍り付く。\r\n<C03>Main Habitat:<C04>\r\n Unknown
-プリフィカシオン
-<C03>Description:<C04>\r\nクセルブル公国の国花であり\r\n公国騎士団の入団式典で、\r\n団員の証と共に配布される。\r\n<C03>Main Habitat:<C04>\r\n Unknown
+Large Petal
+<C03>Description:<C04>\r\nA petal of a plant that is too\r\nlarge to hold by hand. Used\r\nto make clothing.\r\n<C03>Dropped By:<C04>\r\nPolevik
+Golden Petal
+<C03>Description:<C04>\r\nA rare, valuable petal that can\r\nbe found between the petals and\r\novary of a Polevik.r\n<C03>Dropped By:<C04>\r\nMan-Eating Polevik
+Sarcodes Flower
+<C03>Description:<C04>\r\nA small flower with crimson\r\npetals. In bloom, it looks\r\nas though engulfed in flames.\r\n<C03>Main Habitat:<C04>\r\nUnknown
+Snowbell Flower
+<C03>Description:<C04>\r\nA small flower with ice petals.\r\nOne touch will freeze your\r\nbody solid.\r\n<C03>Main Habitat:<C04>\r\nUnknown
+Purea
+<C03>Description:<C04>\r\nThe national flower of\r\nthe Kucellbull Dukedom.\r\nA symbol of knighthood.\r\n<C03>Main Habitat:<C04>\r\nUnknown
 Old Insect Shell
 <C03>Description:<C04>\r\nA small shell cast off by\r\nan insect.\r\n<C03>Dropped By:<C04>\r\nPill Bug, Voll Bug,\r\nDizard Bug
-蒼虫の細足
-<C03>Description:<C04>\r\n直径13mmという細さからは考\r\nえられぬほどの強度を持つ虫\r\nの足。青黒い色をしている。\r\n<C03>Dropped By:<C04>\r\n「ピルバグ」
-蒼彩の甲殻
-<C03>Description:<C04>\r\n鎧の代表格でもあるバグアー\r\nマーなど、さまざまな加工品\r\nに利用される青黒い甲殻。\r\n<C03>Dropped By:<C04>\r\n「ピルバグ」
-Small Ochre Insect Leg
+Navy Insect Leg
+<C03>Description:<C04>\r\nA leg with incredible power\r\nfor its 13μm diameter.\r\nHas a blue-black colour.\r\n<C03>Dropped By:<C04>\r\nPill Bug
+Navy Shell
+<C03>Description:<C04>\r\nA blue-black shell used\r\nto make various processed\r\ngoods such as Bug Armour.\r\n<C03>Dropped By:<C04>\r\nPill Bug
+Ochre Insect Leg
 <C03>Description:<C04>\r\nA thin ochre leg. There's a\r\nsmall hole at the tip filled\r\nwith a paralyzing fluid.\r\n<C03>Dropped By:<C04>\r\nDizard Bug
 Ochre Shell
 <C03>Description:<C04>\r\nA yellow shell with amazing\r\nstrength. Famously used to\r\nmanufacture Dizard Armour.\r\n<C03>Dropped By:<C04>\r\nDizard Bug
@@ -106,8 +107,8 @@ Buzz
 <C03>Description:<C04>\r\nAn insect that makes a\r\nbuzzing sound by moving\r\nits wings.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Tree
 Rollie Pollie
 <C03>Description:<C04>\r\nAn insect that looks like a\r\nround ball. Typically never\r\nspotted moving around.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
-ゾウボタル
-<C03>Description:<C04>\r\n巨大なホタル。夜が一瞬の内\r\nに昼になるほどの明るさの光\r\nを発する。直視は危険。\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Tree
+Elephant Firefly
+<C03>Description:<C04>\r\nA giant firefly. It emits a\r\nlight so bright that night\r\ninstantly becomes day.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Tree
 Red Beetle
 <C03>Description:<C04>\r\nA beetle with so much blood\r\nthat its whole body is a\r\nbright red colour.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 モノクロヘビ
@@ -121,11 +122,11 @@ Queen Ant
 Ribs
 <C03>Description:<C04>\r\nA soft meat with a lot of\r\nfat and rich flavour.\r\n\r\n<C03>Dropped By:<C04>\r\nHellhound, Basilisk
 Thigh Meat
-<C03>Description:<C04>\r\nA succulent and satisfying\r\nmeat with a slight bite\r\nto it.\r\n<C03>Dropped By:<C04>\r\nHellhound, Basilisk
-骨付きバラ肉
-<C03>Description:<C04>\r\n骨が付くことでボリュームが\r\n増した、体力を付けたいとき\r\nにもってこいの食材。\r\n<C03>Dropped By:<C04>\r\n「ベヒーモス」
-骨付きモモ肉
-<C03>Description:<C04>\r\n骨付きでボリューム感が大幅\r\nにアップしたモモ肉。かぶり\r\nつきたくなること必至。\r\n<C03>Dropped By:<C04>\r\n「ベヒーモス」
+<C03>Description:<C04>\r\nA succulent and satisfying\r\nmeat with a slight bite to it.\r\n\r\n<C03>Dropped By:<C04>\r\nHellhound, Basilisk
+Ribs on the Bone
+<C03>Description:<C04>\r\nThe added bulk of the bone\r\nmakes it a perfect food for\r\nbuilding muscle.\r\n<C03>Dropped By:<C04>\r\nBehemoth
+Thigh on the Bone
+<C03>Description:<C04>\r\nThe bone gives a sense of\r\nincreased volume. Makes you\r\nwant to sink your teeth in.\r\n<C03>Dropped By:<C04>\r\nBehemoth
 Rotten Meat
 <C03>Description:<C04>\r\nMeat with an awful stench.\r\nEating some will likely\r\nupset your stomach...\r\n<C03>Dropped By:<C04>\r\nLiving Dead, Walking Dead
 Sap
@@ -150,8 +151,8 @@ Gel-like Lump
 <C03>Description:<C04>\r\nA mysterious sticky gel-like\r\nmass. When licked, it\r\nparalyses the taste buds.\r\n<C03>Dropped By:<C04>\r\nGiant Green Gel
 Jelly-like Lump
 <C03>Description:<C04>\r\nA squishy jelly-like mass.\r\nTasty and slightly sweet,\r\nbut tough to chew.\r\n<C03>Dropped By:<C04>\r\nGiant Odd Jelly
-プリン状の塊
-<C03>Description:<C04>\r\nプリン状でぷるぷるの塊。適\r\n度な弾力と、とろけるような\r\nやわらかさを持つ。\r\n<C03>Dropped By:<C04>\r\n「巨大フレイムプリン」
+Flan-like Lump
+<C03>Description:<C04>\r\nA squishy pudding-like mass.\r\nWobbly and soft, it melts in\r\nyour mouth.\r\n<C03>Dropped By:<C04>\r\nGiant Flame Flan
 腐った骨
 <C03>Description:<C04>\r\n長い年月を経て腐りボロボロ\r\nになった小さな骨。握り締め\r\nると簡単に崩れそうだ……\r\n<C03>Dropped By:<C04>\r\n「リビングデッド」
 Decomposing Bone
@@ -184,12 +185,12 @@ Parvum Stone
 <C03>Description:<C04>\r\nAn ordinary pebble that fell\r\non the ground. Palm-sized.\r\n\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Grande Stone
 <C03>Description:<C04>\r\nAn ordinary stone that fell\r\non the ground. Too big to\r\nhold with just one hand.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
-Acumino Stone
+Acumino Greenstone
 <C03>Description:<C04>\r\nGreen moss is stuck to the\r\nsurface. Without a clean\r\nthe stone has no value.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
-レドンド緑石
-<C03>Description:<C04>\r\n美しい曲線を描いた丸い石。\r\n表面にこびり付いた緑ゴケを\r\n落とすと、つるすべである。\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
+Redondo Greenstone
+<C03>Description:<C04>\r\nA beautiful round stone. A\r\nsmooth surface lays hidden\r\nbehind the green moss.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Nivelle Rock
-<C03>Description:<C04>\r\nA rock with a bumpy surface.\r\nIt's rolling all over the\r\nplace.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
+<C03>Description:<C04>\r\nA rock with a bumpy\r\nsurface. Can be found\r\nnearly everywhere.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 Nivelle Bedrock
 <C03>Description:<C04>\r\nA large, heavy rock that's\r\nbeen squashed flat as a\r\npancake over time.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Rhegium Iron Ore
@@ -206,12 +207,12 @@ Albineus Mineral
 <C03>Description:<C04>\r\nA porous, pure white mineral\r\nwith a harsh radiance.\r\n\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Pellucid Crystal
 <C03>Description:<C04>\r\nA clear transparent crystal.\r\nIt can store up light to\r\nilluminate dark rooms.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
-アクリア結晶
-<C03>Description:<C04>\r\n無色透明の結晶石。石の内部\r\nに水が入っているかのような\r\n揺らめく輝きを持つ。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
-灼炎結晶
-<C03>Description:<C04>\r\n石の内側で半永久的に燃え続\r\nけると言われる炎が揺らめい\r\nている不思議な結晶石。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+Aquria Crystal
+<C03>Description:<C04>\r\nA clear transparent crystal.\r\nHas a shimmering radiance as\r\nif water was trapped inside.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
+Blazing Crystal
+<C03>Description:<C04>\r\nA mysterious stone containing\r\na flame said to never go out.\r\n\r\n<C03>Main Collection Site:<C04>\r\n Unknown
 霧氷結晶
-<C03>Description:<C04>\r\nマイナス２００度の氷が中に\r\n閉じ込められた結晶石。表面\r\nはひんやり冷たい程度。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\nマイナス２００度の氷が中に\r\n閉じ込められた結晶石。表面\r\nはひんやり冷たい程度。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Thin Iron Plate
 <C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Stretching it thin makes\r\nit easier to use.\r\n(Processed Goods) 
 Broad Iron Plate
@@ -224,24 +225,24 @@ Jade
 <C03>Description:<C04>\r\nA round, blue stone. It has\r\na beautiful appearance but\r\nis just a common stone.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 溶岩
 <C03>Description:<C04>\r\n赤々と燃えたぎる岩石。常に\r\n素手で触れられないほどの\r\n熱を発し続けている。\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
-水晶玉
-<C03>Description:<C04>\r\n透き通った巨大なガラス玉。\r\nそこには人や物などの真実の\r\n姿を映す力があるとされる。\r\n<C03>Dropped By:<C04>\r\n「マルケミア」
-黄泉玉
-<C03>Description:<C04>\r\n魂を吸い取ると言われる石。\r\n月の光に照らすと、魂を吸わ\r\nれた者の顔が浮かび上がる。\r\n<C03>Dropped By:<C04>\r\n「レムレスランプ」
+Crystal Ball
+<C03>Description:<C04>\r\nA huge glass ball. Said to\r\nhave the power to reflect\r\nones' true colours.\r\n<C03>Dropped By:<C04>\r\nMakaria
+Infernal Ball
+<C03>Description:<C04>\r\nA stone said to steal souls.\r\nIn the light of the moon, the\r\nfaces of the damned appear.\r\n<C03>Dropped By:<C04>\r\nLemres Lamp
 プラチナ鉱石
-<C03>Description:<C04>\r\n白い光沢を放つ金属。酸に対\r\nして強い耐食性を示しており\r\n錆びを恐れず使える。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n白い光沢を放つ金属。酸に対\r\nして強い耐食性を示しており\r\n錆びを恐れず使える。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 ミスリル鉱石
-<C03>Description:<C04>\r\n銀の輝きと鋼の強さをしのぐ\r\n希少価値の高い金属。\r\n\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n銀の輝きと鋼の強さをしのぐ\r\n希少価値の高い金属。\r\n\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 ダマスカス鋼
-<C03>Description:<C04>\r\n性質の異なる二種類の金属を\r\n鍛接（たんせつ）することで\r\n生み出される鋼鉄。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n性質の異なる二種類の金属を\r\n鍛接（たんせつ）することで\r\n生み出される鋼鉄。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Raw Red Stone
-<C03>Description:<C04>\r\nUnprocessed red rock. By\r\nprocessing it, the value\r\nis greatly increased.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
+<C03>Description:<C04>\r\nUnprocessed red rock. By\r\nprocessing it, the value is\r\ngreatly increased.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Raw Green Stone
-<C03>Description:<C04>\r\nUnprocessed green rock. By\r\nprocessing it, the value\r\nis greatly increased.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
+<C03>Description:<C04>\r\nUnprocessed green rock. By\r\nprocessing it, the value is\r\ngreatly increased.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Raw Yellow Stone
-<C03>Description:<C04>\r\nUnprocessed yellow rock. By\r\nprocessing it, the value\r\nis greatly increased.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
+<C03>Description:<C04>\r\nUnprocessed yellow rock. By\r\nprocessing it, the value is\r\ngreatly increased.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 七色の原石
-<C03>Description:<C04>\r\n未加工ながら七色に輝く不可\r\n思議な岩石。加工することで\r\n価値は大きくアップする。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n未加工ながら七色に輝く不可\r\n思議な岩石。加工することで\r\n価値は大きくアップする。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 ルビー
 <C03>Description:<C04>\r\n赤色の宝石。\r\n高額で取引される。\r\n（加工品）
 エメラルド
@@ -251,25 +252,25 @@ Raw Yellow Stone
 レインボーダイヤ
 <C03>Description:<C04>\r\n見る角度によって異なる輝き\r\nを見せるダイヤの変種。持つ\r\n者に幸福をもたらすと言い伝\r\nえられている。\r\n（加工品）
 聖花ペリドット
-<C03>Description:<C04>\r\n聖なる花と謳われる宝石。そ\r\nの輝きは退魔の力を持つとさ\r\nれ、儀式などで多用される。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n聖なる花と謳われる宝石。そ\r\nの輝きは退魔の力を持つとさ\r\nれ、儀式などで多用される。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 ラピスラズリ
-<C03>Description:<C04>\r\n群青色の岩石。宝石のように\r\n美しい光を放つが、粉末状に\r\nすると薬品としても使える。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n群青色の岩石。宝石のように\r\n美しい光を放つが、粉末状に\r\nすると薬品としても使える。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 ホシノイシ
-<C03>Description:<C04>\r\n宇宙（そら）より降り堕ちた\r\n隕石。不思議な力がこもって\r\nおり、ぼんやりと光を放つ。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n宇宙（そら）より降り堕ちた\r\n隕石。不思議な力がこもって\r\nおり、ぼんやりと光を放つ。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 賢者の石
-<C03>Description:<C04>\r\n万能薬として伝えられる伝説\r\n上の石。石と名がつくも定め\r\nられた形状はない。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\n万能薬として伝えられる伝説\r\n上の石。石と名がつくも定め\r\nられた形状はない。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 なぞの鉱石
-<C03>Description:<C04>\r\nどのような成分が含まれてい\r\nるのか、その一切が謎に包ま\r\nれた鉱石。\r\n<C03>Main Collection Site:<C04>\r\n Unknown
+<C03>Description:<C04>\r\nどのような成分が含まれてい\r\nるのか、その一切が謎に包ま\r\nれた鉱石。\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 なぞの石盤
-<C03>Description:<C04>\r\n何か文字が刻まれているよう\r\nだが判別不可能な謎の石版。\r\n百科事典などがあれば……？\r\n<C03>主な発見地：<C04>\r\n Unknown
+<C03>Description:<C04>\r\n何か文字が刻まれているよう\r\nだが判別不可能な謎の石版。\r\n百科事典などがあれば……？\r\n<C03>主な発見地：<C04>\r\nUnknown
 Ancient Slate
 <C03>Description:<C04>\r\nA stone plate covered in\r\nancient writing. Describes\r\nhow to use Magicite.\r\n<C03>Mainly Found In:<C04>\r\nUnknown
 Long Thin Fangs
 <C03>Description:<C04>\r\nSmall fangs with a sharp\r\npoint.\r\n\r\n<C03>Dropped By:<C04>\r\nBlack Ptera
 Thorny Wing
 <C03>Description:<C04>\r\nA wing covered in sharp,\r\nclaw-like thorns.\r\n\r\n<C03>Dropped By:<C04>\r\nUpyr
-淡紅の羽毛
-<C03>Description:<C04>\r\n淡い炎の揺らめきのようにも\r\n見える赤い羽毛。\r\n\r\n<C03>Dropped By:<C04>\r\n「ゲイルバット」
+Light Red Plumage
+<C03>Description:<C04>\r\nA red feather reminiscent\r\nof a pale, flickering flame.\r\n\r\n<C03>Dropped By:<C04>\r\nGale Bat
 Sharp Crooked Claw
 <C03>Description:<C04>\r\nA small claw from an animal.\r\nBy small, it's about the\r\nsize of a human hand.\r\n<C03>Dropped By:<C04>\r\nBasilisk
 Giant Beast's Nail
@@ -277,9 +278,10 @@ Giant Beast's Nail
 Glowing Talons
 <C03>Description:<C04>\r\nDemonic talons that give off\r\na strange pale light. Cuts\r\nthrough metal with ease.\r\n<C03>Dropped By:<C04>\r\nMurmur
 Soft Tail
-<C03>Description:<C04>\r\nThe tail of a small, soft\r\nanimal. Popular with young\r\nwomen.\r\n<C03>Dropped By:<C04>\r\nPazuzu
-闇に揺らめく翼
-<C03>Description:<C04>\r\n熱を持った小さな黒い羽。\r\n手に持って扇ぐと熱風を巻き\r\n起こすことが出来る。\r\n<C03>Dropped By:<C04>\r\n「アルシェル」
+<C03>Description:<C04>\r\n
+The tail of a small, soft\r\nanimal. Popular with young\r\nwomen.\r\n<C03>Dropped By:<C04>\r\nPazuzu
+Night-Flying Wings
+<C03>Description:<C04>\r\nSmall, warm black feathers.\r\nIf you use them as a fan,\r\nt generates a hot wind.\r\n<C03>Dropped By:<C04>\r\nAlciel
 Basilisk Skin
 <C03>Description:<C04>\r\nThe skin of the quadrupedal\r\nBasilisk. Highly sought\r\nafter for its elasticity.\r\n<C03>Dropped By:<C04>\r\nBasilisk
 Huge Moth Wings
@@ -292,8 +294,8 @@ Benone Powder
 <C03>Description:<C04>\r\nPowder from the wings of a\r\nhuge moth.\r\nPoisonous if inhaled.\r\n<C03>Dropped By:<C04>\r\nGiant Moth
 Fascina Powder
 <C03>Description:<C04>\r\nWhite powder from the wings\r\nof a huge moth. Reminiscent\r\nof powdered snow.\r\n<C03>Dropped By:<C04>\r\nBaku Moth
-エルフェゴの粉
-<C03>Description:<C04>\r\n巨大蛾の羽に付着した赤粉。\r\n羽ばたくたびに火の粉が舞い\r\n踊るかのように映る。\r\n<C03>Dropped By:<C04>\r\n「オニビガ」
+Elfego Powder
+<C03>Description:<C04>\r\nRed powder from the wings\r\nof a huge moth. Bright like\r\nsparks from a flame.\r\n<C03>Dropped By:<C04>\r\nOnibi Moth
 巨人の眼玉
 <C03>Description:<C04>\r\n巨人族の眼。両手を使って\r\n持たなければならないほど\r\n巨大である。\r\n<C03>Dropped By:<C04>\r\n「サイクロプス」
 Squishy Toe Beans
@@ -322,8 +324,8 @@ Dirty Cloth
 <C03>Description:<C04>\r\nA shabby piece of cloth.\r\nLooks like it could use\r\na wash.\r\n<C03>Dropped By:<C04>\r\nGhost
 白い布きれ
 <C03>Description:<C04>\r\n光が反射しているかのような\r\n真っ白い輝きを放つ。\r\n\r\n<C03>Dropped By:<C04>\r\n「エルリク」
-黒い布きれ
-<C03>Description:<C04>\r\n禍々しいオーラを放っており\r\n手に取ると体が重く感じる。\r\n\r\n<C03>Dropped By:<C04>\r\n「ブラッドレイス」
+Black Cloth
+<C03>Description:<C04>\r\nIt emits a terrifying aura\r\nand feels heavy in one's\r\nhands.\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
 Small Lump
 <C03>Description:<C04>\r\nA small chunk of something.\r\nWhat  exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
 Large Lump
@@ -338,20 +340,23 @@ Syringe
 <C03>Description:<C04>\r\nA brand new syringe.\r\nIt's empty inside, so\r\ncan't be used as is.\r\n(Processed goods)
 不気味なお面
 <C03>Description:<C04>\r\n薄汚れ、所々が欠けたお面。\r\n不気味な顔が彫られており、\r\n装着すると呪われる……？\r\n<C03>Dropped By:<C04>\r\n「ブラッドレイス」
-甲冑の留め具
-<C03>Description:<C04>\r\n甲冑のつなぎ目を留めるため\r\nの部品。甲冑以外のものにも\r\n使えそうな気はする。\r\n<C03>Dropped By:<C04>\r\n「シルバーナイト」
+Armour Straps
+<C03>Description:<C04>\r\nParts for tying together armour.\r\nSeems like it could have a\r\nnumber of other uses.\r\n<C03>Dropped By:<C04>\r\nSilver Knight
 Piece Of Flint
-<C03>Description:<C04>\r\nLights fires with ease when\r\nrubbed against a stone.\r\nAn indispensable tool.\r\n<C03>Dropped By:<C04>\r\nWill o' the Wisp
+<C03>Description:<C04>\r\
+nLights fires with ease when\r\nrubbed against a stone.\r\nAn indispensable tool.\r\n<C03>Dropped By:<C04>\r\nWill o' the Wisp
 Poison Sac
 <C03>Description:<C04>\r\nAn organ belonging to a\r\ngiant beast used to store\r\npoisonous body fluids.\r\n<C03>Dropped By:<C04>\r\nUnknown
 Encyclopaedia
-<C03>Description:<C04>\r\nAn encyclopaedia filled with\r\nknowledge. A must-have for\r\nexploring the ruins.\r\n(Processed goods) 
-忘れ去られた剣
-<C03>Description:<C04>\r\n人々の記憶より忘れ去られ、\r\nただ静かに眠り続けた剣。\r\n痛みが激しく、とても実戦で\r\n使えるような代物ではない。
+<C03>Description:<C04>\r\n
+An encyclopaedia filled with\r\nknowledge. A must-have for\r\nexploring the ruins.\r\n(Processed goods)
+Forgotten Sword
+<C03>Description:<C04>\r\n
+A sword that faded from\r\npeople's memories and has\r\nlaid buried ever since. It\r\naches with sorrow, and has\r\nno place on the battlefield.
 朽ち果てた剣
 <C03>Description:<C04>\r\n長い年月をかけ、徐々に朽ち\r\n果ててしまった名剣の末路。\r\n強く振り抜くだけで、所々が\r\n欠け落ちてしまいそうだ。
-失われし剣
-<C03>Description:<C04>\r\n持ち主を失い、武器としての\r\n生を遂げた剣。錆びた刀身に\r\n欠けた柄。もはや使用出来る\r\nようなものではない。
+Misplaced Sword
+<C03>Description:<C04>\r\nA sword that lost its\r\nowner. The blade is\r\nrusted and the hilt\r\nmissing. No longer fit\r\nfor purpose.
 Dull Spear
 <C03>Description:<C04>\r\nA short spear that looks\r\nlike it was used as a\r\nthrowing javelin. The end\r\nis dented, suggesting that\r\nsomething used to be\r\nattached.
 

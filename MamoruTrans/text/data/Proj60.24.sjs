@@ -19,7 +19,7 @@ Calms the mind and soothes\r\npain within the body.
 Cool Jelly
 A cold jelly used to suppress\r\na rising fever. If eaten,\r\ncools the body down from\r\nthe inside out. Be sure to\r\nfollow the directions for\r\nuse carefully.
 Cool Flan
-A jelly-like medicine\r\nthat cools excess heat\r\naccumulated in the body\r\nand relieves pain.
+A jelly-like medicine that\r\ncools excess heat\r\naccumulated in the body\r\nand relieves pain.
 Elixsar
 A legendary nostrum said\r\nto cure all ails. It has\r\na startlingly bitter taste\r\nthat sends a shiver through\r\nthe entire body. Side\r\neffects include fainting.
 Elixir
@@ -55,19 +55,19 @@ Thigh Meat with Aloe
 Invigorating Ribs
 A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect\r\nof stun for a set period\r\nof time.
 Green Syringe
-By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof poison.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof poison.
 Blue Syringe
-By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof fear.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof fear.
 Yellow Syringe
-By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof paralysis.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof paralysis.
 Red Syringe
-By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof being burned.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof being burned.
 White Syringe
-By injecting medicine into\r\nthe body, it provides long\r\nterm relief from the effects\r\nof being stunned.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof being stunned. 
 Standard Syringe
-By injecting medicine into\r\nthe body, it provides relief\r\nfrom all status ailments.\r\n\r\nDuration: Short
+By injecting medicine into the\r\nbody, it provides relief from\r\nall status ailments.\r\n\r\nDuration: Short
 Medical Syringe
-By injecting medicine into\r\nthe body, it provides relief\r\nfrom all status ailments.\r\n\r\nDuration: Long
+By injecting medicine into the\r\nbody, it provides relief from\r\nall status ailments.\r\n\r\nDuration: Long
 Coating Liquid
 A tool that can temporarily\r\nboost the power of weapons.\r\nSimply apply to a blade,\r\nand it will take effect\r\nstraight away.
 Coating Agent
@@ -81,5 +81,5 @@ The Door To Hades
 Shadow Summoner
 An item which allows you to\r\nshroud yourself in a thin\r\nshadow, hiding your presence\r\nand nullifying enemy attacks\r\nfor a set period of time.
 Breath Of Life
-An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst\r\nhaving it in your\r\npossession.\r\nBreaks after use.
+An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst having\r\nit in your possession.\r\nBreaks after use.
 

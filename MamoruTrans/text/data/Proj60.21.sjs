@@ -2,7 +2,7 @@ Evasive Manoeuvres
 You can dodge attacks\r\nand pass through narrow\r\npassages.\r\n\r\nUsage: Y (A) button
 Earth's Weak Points
 You can destroy columns that\r\nare obstructing your path.\r\n\r\nUsage: Attack a cracked\r\ncolumn
-空を舞う者
+Taking Flight
 背中に翼が生えたかのような\r\n華麗な身のこなしで宙を舞う\r\nことが出来る。\r\n\r\n操作：ジャンプ中にＢボタン
 The Forest Lover
 森を、木を、自然を愛するが\r\nあまり、樹木をよく観察する\r\n心が芽生え、大樹から採取を\r\n行える回数が増加する。
@@ -60,7 +60,7 @@ Timing
 敵との間合いやタイミングを\r\nはかれるようになり、攻撃の\r\n命中率が上昇するスキル。\r\n\r\n必要ＳＰ：1
 Foresight
 先読みの能力が開花して敵の\r\n動きを見極められるように\r\nなり、命中率が上昇する。\r\n\r\n必要ＳＰ：2
-神の眼力
+Divine Eyesight
 神と名が付くほどの眼力で敵\r\nの一挙手一投足を見極める\r\nことで攻撃の命中率が大幅に\r\n上昇する。\r\n\r\n必要ＳＰ：3
 Quick Thinking
 どんな状況下でも機敏な動作\r\nを取れるようになり、回避率\r\nが上昇するスキル。\r\n\r\n必要ＳＰ：1
@@ -84,7 +84,7 @@ Poison Immunity
 その効果を無効化してしまう\r\nほど、猛毒に対する免疫力を\r\n高めることが出来る。\r\n\r\n必要ＳＰ：3
 Resist Paralysis
 痺れ効果を半減させるほどの\r\n耐性を体内に作り出すことが\r\n出来るスキル。\r\n\r\n必要ＳＰ：2
-Fear Immunity
+Paralysis Immunity
 その効果を無効化してしまう\r\nほど、麻痺に対する免疫力を\r\n高めることが出来る。\r\n\r\n必要ＳＰ：3
 Resist Stun
 強い衝撃に対して常日頃から\r\n備えておくことで、ここぞと\r\nいう時に効果を発揮出来る。\r\n\r\n必要ＳＰ：2
@@ -94,7 +94,7 @@ Determination
 強い気持ちを持って冒険に\r\n挑む姿勢が大切。そうすれば\r\n臆病な気持ちなんてすぐに\r\n吹っ飛ばせるさ。\r\n\r\n必要ＳＰ：2
 折れない心
 幾度となく襲い掛かる危険を\r\n潜り抜けてきたからこそ\r\n培われた強い心の持ち主に\r\nなれるスキル。\r\n\r\n必要ＳＰ：3
-Heat Resistant
+Resist Burn
 熱に対する耐性が強い体質に\r\n変化することで、火傷の効果\r\nを半減させることができる。\r\n\r\n必要ＳＰ：2
 業火の免疫
 業火にさえ耐えうるほどに\r\n炎への免疫を高めることで、\r\n火傷を負わない体になれる\r\n驚きのスキル。\r\n\r\n必要ＳＰ：3
@@ -108,7 +108,7 @@ Auto‐Heal Ⅱ
 さらに進化した自然治癒能力\r\nを得ることが出来るスキル。\r\n普通に生活する分には、擦り\r\n傷など見ることもなくなる。\r\n\r\n必要ＳＰ：3
 Auto‐Heal Ⅲ
 驚異的な治癒力を持てるよう\r\nになるスキル。回復アイテム\r\nの使用頻度が激減することは\r\n間違いない。\r\n\r\n必要ＳＰ：4
-貧民の意地
+Beggar's Obstinance
 貧民の意地をもってして\r\n定期的にお金を入手出来る\r\nようになるスキル。\r\n\r\n必要ＳＰ：6
 富豪の余裕
 富豪の余裕からか、\r\n定期的にお金を入手出来る\r\nようになるスキル。\r\n\r\n必要ＳＰ：8
