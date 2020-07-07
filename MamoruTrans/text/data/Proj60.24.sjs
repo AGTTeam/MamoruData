@@ -23,7 +23,7 @@ A jelly-like medicine that\r\ncools excess heat\r\naccumulated in the body\r\nan
 Elixsar
 A legendary nostrum said\r\nto cure all ails. It has\r\na startlingly bitter taste\r\nthat sends a shiver through\r\nthe entire body. Side\r\neffects include fainting.
 Elixir
-不治の病とともに、衰えた\r\n肉体をも癒す効果を持った\r\n伝説の秘薬。体がとろけて\r\nしまいそうなほどに甘い。
+A legendary nostrum that not\r\nonly restores a weakened\r\nbody but can cure incurable\r\ndiseases. Addictively sweet.
 Power Protein
 A drug that temporarily\r\nenhances muscle strength.\r\nIncreases the amount of\r\ndamage you can do to an\r\nenemy.
 Strong Power
@@ -37,21 +37,21 @@ A medicine that temporarily\r\nenhances walking ability.\r\nAllows you to run li
 Jet Feet
 A medicine that temporarily\r\nenhances walking ability.\r\nIt lasts longer than Air\r\nFeet, so is an essential\r\nfor long-distance travel.
 Roast Ribs
-バラ肉を丸ごと火であぶった\r\nダイナミックな料理。\r\nお腹がいっぱいになり、\r\n体力も回復する。
+A dynamic dish of whole ribs\r\nslow-cooked over a fire. Fills\r\nthe stomach and restores\r\nstrength.
 Roast Thigh Meat
-モモ肉を丸ごと火であぶった\r\nダイナミックな料理。\r\nお腹がいっぱいになり、\r\n体力も回復する。
+A dynamic dish of thigh meat\r\nslow-cooked over a fire. Fills\r\nthe stomach and restores\r\nstrength.
 Aphid Powder
 A fine powder made from\r\ndried aphids.\r\nIt's a superior item\r\nthat both recovers\r\nhealth and enhances\r\nphysical strength.
 Pickled Aphids
-アカマムシを丸ごと一匹酒に\r\n漬け、熟成させた飲み物。\r\n飲むとノドの奥がヒリヒリと\r\n痛むが、粉末よりも回復や\r\n強化の効果が期待出来る。
+A drink of whole aphids\r\npickled in alcohol. Burns\r\nthe throat when taken, but\r\nis more effective than the\r\npowder.
 Smoked Sage
 Smoke from burning sage.\r\nInhaling it makes you immune\r\nto poison for a set period\r\nof time.
 Rosmarin Spiced Meat
 A delicious dish of meat\r\nstuffed with Rosmarin.\r\nMakes you immune to\r\nparalysis for a set\r\nperiod of time.
 Foxglove Dumpling
-ジギタリスをきざんだものを\r\n肉団子に詰めた爽やかな品。\r\n臆病の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
+An invigorating dumpling\r\nstuffed with meat and\r\nminced foxgloves. Makes\r\nyou immune to fear for a\r\nset period of time.
 Thigh Meat with Aloe
-モモ肉のソテーにアロエを\r\n添えた風味豊かな一品。\r\n火傷の効果を一定時間無効化\r\nしてくれる効果を持つ料理。
+A flavourful dish of sauteed\r\nmeat garnished with aloe.\r\nmakes you immune to burn for\r\na set period of time. 
 Invigorating Ribs
 A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect\r\nof stun for a set period\r\nof time.
 Green Syringe
@@ -77,9 +77,8 @@ A handy tool that allows you\r\nto return to the village in\r\nan instant, where
 Rain Calamity
 A tool which can be used to\r\ninflict damage nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
 The Door To Hades
-使用することで、付近にいる\r\n魔物にダメージを与えること\r\nが出来る。\r\n近くに敵がいないと、効果を\r\n発揮しないので注意が必要。
+A tool which can be used to\r\ninflict damage nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
 Shadow Summoner
 An item which allows you to\r\nshroud yourself in a thin\r\nshadow, hiding your presence\r\nand nullifying enemy attacks\r\nfor a set period of time.
 Breath Of Life
 An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst having\r\nit in your possession.\r\nBreaks after use.
-

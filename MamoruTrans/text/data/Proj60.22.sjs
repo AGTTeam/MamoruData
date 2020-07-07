@@ -1,40 +1,40 @@
-ナイフ
-一般的な普通のナイフ。\r\n破壊力は皆無だがその小さな\r\nサイズから幾らでも持ち運ぶ\r\nことができる。
-スピニングレイ
-刃に毒が塗られたナイフ。\r\n突き刺すことで相手の体に\r\n毒が入り込むよう設計された\r\n恐ろしい武器。
-小刀
-刀と同じように研ぎ澄まされ\r\nた刃を持つ小刀。ナイフの\r\nように投げて使用するのだが\r\nその切れ味には目を見張る\r\nものがある。
-守護刀
-戦場で振るう為ではなく、\r\n持つ者を守護する役割を\r\n担った霊的な刀。対峙した\r\n者の魂を抜き取るなど、何か\r\nといわく付きの武器である。
-チキンナイフ
-調理用ナイフ。このナイフで\r\nさばかれた鶏肉は、極上の\r\n味わいを持つと言われる。\r\n調理のプロも推薦の一品！
-サクス
-片刃の短刀。握り部分がやや\r\n峰側に湾曲しているという\r\n特徴から、持ちやすくて投げ\r\nやすい。
-カルド
-包丁のような形状をした\r\n短剣。片刃で鋭い切先を持ち\r\n突き刺しやすい。
-トライデント
-先端が三つに分かれた投擲用\r\nの武器。左右二つは中央の刃\r\nを補助する役目を担っており\r\n一度刺さると真っ直ぐに引き\r\n抜こうとしても抜けない。
-スプリングナイフ
-投げるのではなく、腕に取り\r\n付けた専用のケースから飛び\r\n出すようにして、敵を仕留め\r\nるナイフ。発射速度により、\r\n威力は大きく上下する。
-獣牙
-獣の牙を研ぎ澄ますことで、\r\n牙本来の攻撃性をそのままに\r\n投擲用の武器として生まれ\r\n変わった一品。身に付けると\r\nワイルドさもアップ！
-バゼラード
-柄頭と鍔が平行になっている\r\n短剣。薄い両刃で、軽く投擲\r\nに向いた作りとなっている。
-シカ
-極端なまでに彎曲した刃と、\r\n刃に対して直角に柄がついた\r\n片刃の短刀。
-チンクエディア
-非常に幅広の刀身を持った\r\n短剣。上手く投げれば\r\n大ダメージを期待できるが\r\nその重量から、かなりの\r\n腕力が求められる。
-アゾット
-柄頭に水晶がはめ込まれて\r\nおり、そこに一匹の悪魔が\r\n封じ込められているとされる\r\n短剣。
-蛇刀
-柄には大蛇の皮を、刃には\r\n大蛇の牙をあしらったという\r\n蛇づくしの一本。大蛇の牙\r\nには痺れ効果がある為、\r\n突き刺さると体を思い通りに\r\n動かせなくなる。
-ジャンビーヤ
-戦闘でも十分な威力を発揮す\r\nる反面、社会的にさまざまな\r\n儀式などでも頻繁に用いられ\r\nる神聖なナイフである。
-ユニコーン
-ユニコーンの角のような形を\r\nしていることからその名が\r\n付けられた投擲用の武器。\r\n切る事はできず、ただ突き\r\n刺すためだけに使用する。
-ミョルニル
-大きさを自由自在に変化させ\r\nることの出来る投擲用武器。\r\n圧倒的な破壊力を持つ反面、\r\n清めの能力を発揮することも\r\nあると言われている。
-魔槍ブリューナク
-投擲後、光の軌跡を残して\r\n飛ぶことから「槍」と表現され\r\nている。\r\n神々の四つの至宝の一つ。
-グングニル
-敵を貫いた後、必ず持ち主の\r\n元に戻ると言われている伝説\r\nの武器。その魔力により貫け\r\nぬものはないという……
+Knife
+A common, ordinary knife.\r\nIts destructive power is\r\nminimal, but it's so small\r\nyou can carry as many\r\nas you like.
+Spinning Ray
+A knife smeared with poison.\r\nA fearsome weapon designed\r\nto inject poison into an\r\nenemy when stabbed.
+Pocket Knife
+A small knife with a sharpened\r\nblade just like a sword. It was\r\nmade to be used as a throwing\r\nknife, but it's slicing ability\r\nis remarkable.
+Self‐Defence Knife
+An unearthly blade used to\r\nprotect the owner, not to\r\nswing on a battlefield.
+Chicken Knife
+A kitchen knife. Chicken cut\r\nwith this knife is said to be\r\nexceptionally tasty. It's even\r\nendorsed by professional chefs!
+Seax
+Single-edged dagger.\r\nBecause the handle is slightly\r\ncurved, it's easy to hold and\r\nto throw.
+Kard
+A dagger shaped like a kitchen\r\nknife. Allows for easy\r\npenetration thanks to the\r\nsharp single-edged tip.
+Trident
+A weapon with three heads.\r\nThe ones either side assist\r\nthe central blade, and once\r\nlodged in something, it will\r\nnot come out even when pulled.
+Ballistic Knife
+A knife that brings down\r\nenemies by springing out\r\nof a special case attached\r\nto the wrist, rather than\r\nbeing thrown.
+Beast Fang
+By sharpening an animal's\r\ntooth, it has been reborn\r\nas a throwing knife while\r\nmaintaining the original\r\naggression of a fang.\r\nHas a wild vibe when worn!
+Baselard
+A dagger whose pommel and\r\nhilt run parallel to the\r\nblade. Designed with a thin\r\ndouble-edge to be lightweight\r\nfor throwing.
+Sica
+An extremely curved dagger\r\nwith a single-edged blade\r\nand a handle at its\r\nperpendicular.
+Cinquedea
+A dagger with an unusually\r\nwide blade. Can deal great\r\ndamage if thrown well, but\r\nrequires considerable\r\nstrength due to its\r\nheavy weight.
+Azoth
+A dagger with a crystal\r\nembedded in the handle,\r\nwhich is said to hold a\r\ndemonic spirit.
+Serpent Blade
+A blade with a snake skin\r\nhandle and fang decoration.\r\nThanks to the numbing effect\r\nof the fangs, when pierced by\r\nthem, one becomes unable to\r\nmove as they want.
+Janbiya
+A sacred knife that is\r\npowerful enough to use\r\nin battle, but often seen\r\nseen in various social\r\nceremonies.
+Unicorn
+A weapon named after its\r\nunicorn horn-like shape.\r\nIt cannot be used to cut\r\nthings, only to pierce them.
+Mjolnir
+A weapon that can freely\r\nchange size. While it has\r\noverwhelming destructive\r\npower, it is said to also\r\nhave the power to purify\r\nevil.
+Brionac
+Described as a spear as\r\nit leaves a trail of light\r\nafter being thrown.\r\nOne of the Four Treasures\r\nof the gods.
+Gungnir
+A legendary weapon said\r\nto always return to its\r\nowner after piercing an\r\nenemy. According to the\r\nstories, there's nothing\r\nit cannot be overcome...
