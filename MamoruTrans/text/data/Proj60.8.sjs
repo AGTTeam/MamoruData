@@ -25,9 +25,9 @@
 石盤
 \r\n\n\n　← Mind the cliff!\r\n\r\n　※This gloomy chasm is\r\n　　bottomless. Heed caution,\r\n　　rushing ahead will be your\r\n　　downfall.\r\n\r\n
 石盤
-\r\n\r\n\r\n 　Barmiza Ruins　Second Layer\r\n\r\n ―The path to suffering buried―\r\n          in yellow sand\r\n\r\n\r\n
+\r\n\r\n\r\n 　Barmiza Ruins　Second Layer\r\n\r\n   　―The door buried in―\r\n　        yellow sand\r\n\r\n\r\n
 石盤
-\r\n\r\n\r\n\r\n　　　バルミザ遺跡　第三層\r\n　　 ―妖しき紅光の導く道―\r\n\r\n\r\n\r\n
+\r\n\r\n\r\n  　Barmiza Ruins　Third Layer\r\n\r\n―The path laid by a mysterious―\r\n        　crimson light. \r\n\r\n\r\n
 石盤
 \r\n　　　 ゲーム本編のクリア\r\n　　 おめでとうございます！\r\n　\r\n　　これより先はとても強力な\r\n　　　魔物が徘徊しています。\r\n　 腕に自信のある冒険者の皆様、\r\n　　是非、奥へ辿り着けるよう\r\n　　　　頑張ってください。\r\n
 石盤

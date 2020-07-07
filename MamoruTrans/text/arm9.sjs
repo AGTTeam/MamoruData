@@ -293,16 +293,16 @@ Paralysis immune
 Burn immune
 Stun immune
 State immunity
-Auto-Heal（S）
-Auto-Heal（M）
-Auto-Heal（B）
+Auto-Heal （S）
+Auto-Heal （M）
+Auto-Heal （B）
 Raises movement speed
 Raises hit rate 
 20% discount off\neverything
 ＨＰ
 ＳＰ
 Melee ATK
-Ranged ATK
+Range ATK
 Use
 Charge ATK
 Range
@@ -311,7 +311,7 @@ Accuracy
 Evade rate
 ATK SPD
 Move SPD
-Cause
+ATR
 No effect
 This item can’t be used.
 Recovers 50 HP

@@ -31,8 +31,8 @@ A dirty medal which proves\r\nyou've fulfilled all the\r\nD rank quests at the\r
 Gina's Hair Clip
 A hair clip given to Gina,\r\na village girl from Liruka,\r\non her 10th birthday. It's\r\nnot particularly expensive,\r\nbut to Gina, it is a\r\nprecious treasure.
 あ
-おたから？
-リルカ村に住む少年ジュリス\r\nが、村娘ジーナと共に自分達\r\nの大切なものを詰め込んだ\r\n古びた木箱。フタには鍵が\r\n掛けられており、中をのぞき\r\n見ることは出来そうにない。
+Treasure?
+An old wooden box belonging\r\nto Julis, a young boy from\r\nLiruka Village, which he and\r\nhis sister Gina filled with\r\nprecious things. There seems\r\nto be no way to look inside.
 あ
 Ruins Key
 The door it unlocks was set\r\nup by the Adventurer's Guild \r\nto prevent unauthorised\r\naccess. As proof, the key\r\nhas been engraved with the\r\nguild's coat of arms.
