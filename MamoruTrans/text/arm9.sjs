@@ -17,7 +17,7 @@ Abandon the quest? The contract\n   money won’t be returned.
  　<C02>%s<C01> learnt!
 Flagstone
 Quest has been abandoned.
-Item Sho
+Item Shop
 %s added to recipe list!
 Accessories
 Treasure Chest
@@ -561,10 +561,10 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 So it seems that assigning this skill will reduce\nthe duration you’ll be burned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>抵抗力の塊<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>抵抗力の<C04>……<C03>塊<C04> ？\n\n\n
-『全ての異常状態に対しての耐性を\n高めることが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n全異常状態の持続時間が軽減するようだわ。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Resistant Rock<C04>’.\n\n
+<C03>Resistant<C04>... <C03>Rock<C04>?\n\n\n
+“You can enhance your resistance to all abnormal\nstatuses", or so it says.\n\n
+So it seems that assigning this skill will reduce\nthe duration of all abnormal states.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 ＞Liruka Village was located to the south of the\n　Kucellbull Dukedom.\n\n　
 ＞It was a beautiful village, lush with greenery,\n　and a gentle sea breeze that occasionally\n　swept over the lands.\n
 So this is Liruka Village?\n...Sure is rustic, alright.\n\n
@@ -1047,22 +1047,22 @@ Wiggle! Come back to play sometime, wiggle!\nAnd say hi to Raith for me, wiggle!
 ＞そこにいたのは、 さきの戦いの影響か、\n　ぼろぼろに傷ついたヴェルスであった。\n　\n
 ＞その覚束ぬ足取りは、 先ほどまでの\n　男とは別人を思わせる。\n　\n
 ＞そして、 ここまでの道のりに全ての力を\n　使い果たしてしまったかのように、\n　ヴェルスはその場で倒れ込んだ……\n
-…………\n\n\n
-＞とある大きな部屋に出たレンは\n　いつものように調査の対象を探し始める。\n\n＞しかし、 油断はしていない。\n　微かな物音をも逃さぬように、\n　常に神経を尖らせていた。\n＞そのとき……\n\n\n
-ったく。　何匹いやがるんだよ……\n\n\n
-＞レンは迷うことなく\n　舞い降りてくる巨体に向けて剣を構えた。\n\n
-……ここのところ、\n遺跡内ガ騒シクテかなわぬ。\n\nどうやら……その原因ハおぬしら\nニンゲンのようじゃな。\n\n身勝手な都合でワレラヲ呼ビ出シ、\n遺跡ノ<C03>ガーディアン<C04>としての\n楔（くさび）ヲ打チ込んだかと思エバ……\n今度ハ遺跡ヲ荒らすため侵入してくる始末……\n\n\n全く以て、 勝手な生き物よのう……\n\n\n
-……他のドラゴンも同じように\nまるでこの場所に捕らえられているかのような\n言い方をしていた。\n
-お前たちは、 自分の意志で\nこの遺跡を守っているんじゃないのか…… ？\n\n
-黙レ ！ ！\n\n\n……誰が好き好ンデ、 このような薄暗く狭い場所で\n永久に生き続けようなどと思うか……\n\nレヴィールの怨念ガ、\n妾（わらわ）ノ手足ヲ掴んで離さぬのだ…… ！ ！\n\n……自ラノ犯した罪ノ尻ぬぐいヲ\nさせよって……\n\n
-…… <[>魔晶石<]> のことか ？\n\n\n
-……よく知っておるデハないか。\n\n\nやつらはアノ石ガ人ノ手に渡らぬよう、\n我らヲ守護者としてコノ遺跡ニ繋ギ止めた……\n\nおぬしラノような者どもヲ\n闇の底へと屠るタメニ、 な。\n\n
-……残念だが、 俺はこんなところで\n倒れるわけにはいかない。\n\n
-事のついでだ。\nその繋ぎ止められた魂を、 俺が解き放ってやる。\n\n
-ニンゲンのガキが……\n生意気ヲぬかしよる。\n\n
-……じゃが、 敵に回シタ相手ガまずかったの。\n\n\n
-妾が教エテしんぜよう……\n圧倒的な恐怖という名のチカラヲ……\n\n
-ニンゲン程度には踏み込こめぬ\n領域があるということヲ…… ！ ！\n\n
+...\n\n\n
+＞Entering a large room, Ren began to search for\n　the target of the investigation as usual.\n\n＞But, he didn't drop his guard.\n　He was always careful to keep an ear out for\n　even the slightest sound.\n＞And that's when he noticed...\n\n\n
+*Sigh*\nJust how many of these things are there... \n\n
+＞Ren pointed his sword at the giant body that\n　came swooping down without hesitation.\n\n
+...I thought I'd heard an awful ruckus coming from\nthis area.\n\nIt appears the cause was an unruly human... \n\n\nFor one selfish reason to the next they summon\nus to serve as guardians of the ruins...\n\nAnd now, they invade in order to lay it to waste.\n\n\nMercy me, what truly selfish creatures.\n\n\n
+...The other dragons said similar things, as though\nthey were trapped here.\n\n
+Aren't you protecting these ruins of your own accord...?\n\n
+Silence!!\n\n\nWho would choose to spend an eternity confined in\nthis narrow, gloomy place?\n\nReville's malice grabbed hold of my limbs and\nrefused to let go...!!\n\nAnd now I'm left to clear up after the mess they\nmade...\n\n
+...You mean the Magicite? \n\n\n
+...Aren't you well-informed?\n\n\nAye, they bound us as protectors of these\nRuins to stop anyone from getting their\nhands on that stone.\n...That includes sending fools like you to depths\nof darkness.
+...Sorry to disappoint you, but I've no intention\nof losing my life in a place like this.\n\n
+But I'll take the opportunity to free your\nfettered soul.\n\n
+Human whelps... So impertinent.\n\n\n
+...You are wrong to make an enemy of me.\n\n\n
+I will teach you... the power of overwhelming fear...\n\n\n
+There are things that humans should never toy with...!!\n\n\n
 ......\n\n\n
 Oh...? To think there'd be a skeleton here...\nI'm amazed it's managed to stay upright...\n\n
 *Creak...*\n\n\n

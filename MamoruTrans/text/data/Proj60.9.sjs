@@ -1,9 +1,9 @@
 Light Hall
-Blue Hall
+Green Hall
 Harp Hall
 Earth Hall
 Fire Hall
-Green Hall
+Blue Hall
 Mallet Hall
 Divine Hall
 Last Hall

@@ -94,13 +94,13 @@ A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 14th page torn\r
 Adventurer's Record 15
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 15th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
 …わたしは、我が目を疑った。あの\r\n巨大な魔人のような存在は、この世\r\nにあってはならぬものだ…！あれが\r\n<C03><[>魔晶戦争<]><C04>で使用された戦闘兵器\r\nなのか……この遺跡の扉を不用意に\r\n開いたのは間違いだったのかもしれ\r\nない…。一歩間違えれば、再び世界\r\n崩壊が現実の物となってしまう…。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
-Rotation
+Rotation 【Escape】
 Learn: <C03>Evasive Manoeuvres<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
-Destruction
+Destruction 【Columns】
 Learn: <C03>Earth's Weak Points<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
-Sky Mastery
+Sky 【Soar】
 Learn: <C03>Taking Flight<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
 Trees 【Part 1】
@@ -244,10 +244,10 @@ Learn: <C03>Resist Burn<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the
 Immunity 【Burn】
 概要：<C03>業火の免疫<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
 あ
-Total Resistance
+Resistance 【All】
 概要：<C03>抵抗力の塊<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
 あ
-Total Immunity
+Immunity 【All】
 概要：<C03>免疫力の塊<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
 あ
 Healing 【Obtainment】
@@ -265,7 +265,7 @@ Learn: <C03> Beggar's Obstinance<C04>\r\nType : Assigned Skill\r\nNote : Once le
 Gold 【Millionaire】
 概要：<C03>富豪の余裕<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
 あ
-Power
+Power 【Critical】
 Learn: <C03>Awakening Power<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Martial Arts 【Three Steps】
@@ -277,4 +277,3 @@ Learn: <C03>Mastering The Strike<C04>\r\nType : Assigned Skill\r\nNote : Once le
 Martial Arts 【Air】
 Learn: <C03>Air Master<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
-

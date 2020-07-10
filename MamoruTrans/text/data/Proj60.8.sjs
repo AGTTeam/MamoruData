@@ -33,7 +33,7 @@
 石盤
    Waiting beyond here is the\r\n   guardian of sparkling gold.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n  Those who would dare to enter\r\n   should be prepared to take\r\n       their last breath.
 石盤
-   Waiting beyond here is the\r\n ferocious guardian of crimson.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n Those who would dare to enter\r\n should be prepared to take\r\n their last breath.
+   Waiting beyond here is the\r\n ferocious guardian of crimson.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n  Those who would dare to enter\r\n   should be prepared to take\r\n       their last breath.
 石盤
 He who seeks power whilst knowing\r\n the path of hardship is a fool.\r\n\r\nWaiting beyond is the sand snake.\r\n\r\n　His scales, harder than steel,\r\n　　　cannot be scratched.\r\n\r\n　　　　　　Turn back.\r\n　　Don't throw away your life.
 石盤

@@ -42,32 +42,32 @@ Tempest Sword
 A small sword said to be\r\npossible to swing at speeds\r\nwhich produce whirlwinds. \r\nDespite its small size, it\r\nhas great destructive power.
 Tiger Sword
 A single-edged sword with a\r\nshort blade. Because it was\r\nmade by a smith with a\r\nparticular attention to\r\ndetail, it's easy to grip\r\nand has many loyal users.
-スティング
-小人族が愛用していた三種\r\nの剣のひとつ。人間が扱う\r\nには少し小さいが、その分\r\n素早い攻撃を仕掛けることが\r\nできる。
-スクラマサクス
-片刃の刀剣。刀身が短い\r\n反面、その軽さから\r\n連続した攻撃に発展させ\r\nやすいことが大きな特徴。
-精霊の剣
-精霊の加護を受け作られた\r\n小剣。持ち歩くだけで、\r\n体に受けた傷が癒される\r\nと言われている。
-グラムドリング
-小人族が愛用していた三種の\r\n剣のひとつ。\r\n重量を感じぬほど軽い割に\r\n丈夫で使い勝手が良い。
-オルク・リスト
-小人族が愛用していた三種の\r\n剣のひとつ。スティングや\r\nグラムドリングに比べて\r\n切れ味と耐久性が大幅に\r\nアップした剣。
-カラドボルグ
-"硬い稲妻"の異名を持つ剣。\r\n淡く黄色に輝く刀身を素早く\r\n振り抜くことにより、まるで\r\n目の前で稲妻が光ったかの\r\nような錯覚を起こす。
-氷剣クルタナ
-又の名を "慈悲の剣" という\r\n切っ先が歪に反り返った小さ\r\nな剣。刀身は異常に冷たく、\r\n斬りつけられると、傷口から\r\n体内にかけて凍り付く。
-魔剣アロンダイト
-大地の力を取り込み、刀身を\r\n美しく輝かせる片手剣。\r\nどれだけ使用しても欠ける事\r\nがないため、自動修復の力を\r\n持っていると言われている。
+Sting
+One of three types of swords\r\nloved by dwarves. It's a\r\nlittle small for human use,\r\nbut can launch a quick attack.
+Scramasax
+A single-edged sword. Although\r\nit's short, it's big plus is\r\nthat its light weight makes\r\nit easy to perform continuous\r\nattacks.
+Sword of Spirits
+A small sword made with the\r\nblessing of the spirits. It's\r\nsaid that just carrying it\r\naround heals the body's wounds.
+Glamdring
+One of three types of swords loved\r\nby dwarves. Light enough that you\r\ndon't feel the weight, it's durable\r\nand easy to use.
+Orcrist
+One of three types of swords loved\r\nby dwarves. Bests both Sting and\r\nGlamdring in terms of sharpness.
+Caladbolg
+A sword whose name means “Hard-\r\nLightning”. Quickly swinging the\r\npale-yellow blade creates the\r\nillusion of a flash of lightning\r\nright before your eyes.
+Ice Blade Curtana
+Also known as the “Sword of\r\nMercy”, it is a short sword\r\nwhose point extends backwards.\r\nThe blade is abnormally cold,\r\nand when used, it freezes a\r\nwound from the inside.
+Magic Sword Arondight
+A beautiful one-handed sword\r\nimbued with the power of the\r\nearth. Said to be able to\r\nrepair itself as it doesn't\r\ndull no matter how much it\r\nis used.
 Fleuret
 A medium sword widely used\r\nfor fencing practice. It\r\nhas a rounded tip to prevent\r\ninjury during practice.
 Middle Sword
 A double-edged sword. Because\r\nit is fragile and not very\r\nsharp, it's rarely used in\r\ncombat and is instead used\r\nby beginners for practise.
 Tinku Blade
 Heavy for a middle sword and\r\nhard to hold in one hand,\r\nit provides both reach and\r\nincredible destructive power\r\nat the expense of easy\r\nhandling.
-シクルソード
-刀身の先が曲線を描くように\r\n作られた中剣。使い勝手を\r\n保ちつつリーチの拡大に成功。
-サーベル
-片手で使用することに特化\r\nした片刃の中剣。幅広の\r\n刀身で劣化しにくく、\r\n使いやすい剣の一つとして\r\n挙げられる。
+Sickle Sword
+A medium sized sword with a\r\ncurved tip. Successfully\r\nbalances usability with\r\nachieving a larger reach.
+Sabre
+A single-edged medium sized\r\nsword that specializing in\r\none-handed use. Easy to use,\r\nand has a wide blade that is\r\nsaid to be resistant to\r\ndamage.
 Acicular
 A straight one-handed sword\r\nwith a sharp tip.\r\nMade for stabbing, the\r\nblade is carefully designed\r\nto strip the enemy's flesh\r\nwhen pulling the sword back.
 スティールソード

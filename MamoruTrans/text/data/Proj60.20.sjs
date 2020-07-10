@@ -224,8 +224,8 @@ You once subdued a bunch of giants\r\nfor me, if you remember? I was fired\r\nfr
 You saved my ass again! But, I heard\r\nthat the guy who fired me also sent\r\na request to the guild asking for\r\nsomeone to defeat the giants you\r\nkilled. Damn! That means I didn't\r\neven need to put out this stupidly\r\nexpensive request...
 The Only Way Is Practise!
 Hot-blooded YouthÅ@Brail
-Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my case, I want to master the\r\nart of throwing knives. Could you\r\ngather up some tusks so that I can\r\nget plenty of practise?
-With this many tusks, I can throw\r\nsome after I wake up in the morning,\r\nsome before lunch and some at night\r\nbefore bed... Well basically, I can\r\npractice every day! I'm one step\r\ncloser to my dream of becoming a\r\nknife throwing master... Mwahaha!
+Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my case, I want to master the\r\nart of throwing knives. Could you\r\ngather up some fangs so that I\r\ncan get plenty of practise?
+With this many fangs, I can throw\r\nsome after I wake up in the morning,\r\nsome before lunch and some at night\r\nbefore bed... Well basically, I can\r\npractice every day! I'm one step\r\ncloser to my dream of becoming a\r\nknife throwing master... Mwahaha!
 The Melancholy of Renus (3)
 Worried ArchaeologistÅ@Renus
 There's another one!!! This time, I\r\nfound a giant Flame Flan in the third\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof! You're my only hope.
