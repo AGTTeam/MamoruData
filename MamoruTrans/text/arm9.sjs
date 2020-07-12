@@ -7,7 +7,7 @@ Select a save slot.
 Ren
 Charnet
 Lagnus
-Avancf
+Avanc
 Elza
 Archduke Kucellbull
 Ronixis
@@ -561,10 +561,10 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 So it seems that assigning this skill will reduce\nthe duration you’ll be burned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Resistant Rock<C04>’.\n\n
-<C03>Resistant<C04>... <C03>Rock<C04>?\n\n\n
-“You can enhance your resistance to all abnormal\nstatuses", or so it says.\n\n
-So it seems that assigning this skill will reduce\nthe duration of all abnormal states.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Resistant Mass<C04>’.\n\n
+<C03>Resistant<C04>... <C03>Mass<C04>?\n\n\n
+“You can enhance your resistance to all ailments",\nor so it says.\n\n
+So it seems that assigning this skill will reduce\nthe duration of all status ailments.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 ＞Liruka Village was located to the south of the\n　Kucellbull Dukedom.\n\n　
 ＞It was a beautiful village, lush with greenery,\n　and a gentle sea breeze that occasionally\n　swept over the lands.\n
 So this is Liruka Village?\n...Sure is rustic, alright.\n\n
@@ -690,10 +690,10 @@ What’s it say?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>免疫力の塊<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>免疫力の塊<C04> ？\n\n\n
-『体に異常をきたす全ての効果を無効化して\nしまうほどの免疫力を得ることが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n全異常状態に対する心配は必要なし\nってことみたいよ。\n……これは便利なスキルね。\nちょっとずるいくらいよ……\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Immune Bundle<C04>’.\n\n
+<C03>Immune Bundle<C04>?\n\n\n
+“You can boost your immunity enough to nullify\nall ailments", or so it says.\n\n
+Apparently, by having this skill assigned, you won't\nneed to worry about status ailments.\n\n...That is one handy skill.\nIt even seems a bit unfair...\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -760,17 +760,17 @@ What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Throwing A Strike<C04>’.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
-In other words, it's a skill that will change your\nstandard attack into a more powerful technique,\nas long as it's been assigned.\n
+In other words, it's a skill that will change your\nthrust attack into a more powerful technique,\nas long as it's been assigned.\n
 Heh～ ...A <C03>three-step strike<C04>, huh?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>突きの極意<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>突きの極意<C04> ？\n\n\n
-えぇ。　突き攻撃の応用技として\n<C03>五段突き<C04>の使用方法が書かれているわ。\n\n
-つまり、 このスキルを登録すれば\nこれまでの突き攻撃が、 より強力な技に\n変化する、 というわけね。\n
-へ～……<C03>五段突き<C04>ねぇ……\n\n\n……そう上手く出来るのかよ。\n\n\n
-そうね……一度登録してみて、\n試してみるのもいいんじゃない ？\n\nどうするのかは、 あなた次第よ。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Secrets of the Strike<C04>’.\n\n
+<C03>Secrets of the Strike<C04>?\n\n\n
+Yes. Specifically, it's referring to the method of\nthrowing a five-step attack.\n\n
+In other words, it's a skill that will change your\nthrust attack into a more powerful technique,\nas long as it's been assigned.\n
+Heh～ ...A <C03>five-step strike<C04>, huh?\n...I wonder whether it's any good.\n\n
+Indeed... Why don't you equip it sometime and give\nit a try?\n\nIt's your choice to stick with it or not, after all.\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Air Master<C04>’.\n\n
@@ -1048,21 +1048,21 @@ Wiggle! Come back to play sometime, wiggle!\nAnd say hi to Raith for me, wiggle!
 ＞その覚束ぬ足取りは、 先ほどまでの\n　男とは別人を思わせる。\n　\n
 ＞そして、 ここまでの道のりに全ての力を\n　使い果たしてしまったかのように、\n　ヴェルスはその場で倒れ込んだ……\n
 ...\n\n\n
-＞Entering a large room, Ren began to search for\n　the target of the investigation as usual.\n\n＞But, he didn't drop his guard.\n　He was always careful to keep an ear out for\n　even the slightest sound.\n＞And that's when he noticed...\n\n\n
-*Sigh*\nJust how many of these things are there... \n\n
-＞Ren pointed his sword at the giant body that\n　came swooping down without hesitation.\n\n
-...I thought I'd heard an awful ruckus coming from\nthis area.\n\nIt appears the cause was an unruly human... \n\n\nFor one selfish reason to the next they summon\nus to serve as guardians of the ruins...\n\nAnd now, they invade in order to lay it to waste.\n\n\nMercy me, what truly selfish creatures.\n\n\n
+＞Entering a large room, Ren began to investigate\n　as usual.\n\n＞But, he didn't drop his guard.\n　He was always careful to keep an ear out for\n　even the slightest sound.\n＞And that's when he noticed...\n\n\n
+*Sigh*\nJust how many of these things are there...?\n\n
+＞Without hesitation, Ren pointed his sword at the\n　giant body that came swooping down.\n\n
+...I thought I heard an awful ruckus coming from\nthis direction.\n\nIt appears the cause was an unruly human... \n\n\nFor one selfish reason to the next they summon\nus to serve as guardians of the ruins...\n\nAnd now, they invade in order to destroy them.\n\n\nMercy me, what truly selfish creatures.\n\n\n
 ...The other dragons said similar things, as though\nthey were trapped here.\n\n
-Aren't you protecting these ruins of your own accord...?\n\n
+Aren't you protecting these ruins of your own\naccord...?\n\n
 Silence!!\n\n\nWho would choose to spend an eternity confined in\nthis narrow, gloomy place?\n\nReville's malice grabbed hold of my limbs and\nrefused to let go...!!\n\nAnd now I'm left to clear up after the mess they\nmade...\n\n
 ...You mean the Magicite? \n\n\n
-...Aren't you well-informed?\n\n\nAye, they bound us as protectors of these\nRuins to stop anyone from getting their\nhands on that stone.\n...That includes sending fools like you to depths\nof darkness.
+...Aren't you well-informed?\n\n\nAye, they bound us as protectors of these ruins\nto stop anyone from getting their hands on that\nstone.\n...That includes sending fools like you to depths\nof darkness.\n
 ...Sorry to disappoint you, but I've no intention\nof losing my life in a place like this.\n\n
-But I'll take the opportunity to free your\nfettered soul.\n\n
+But I'd gladly take the opportunity to free your\nfettered soul.\n\n
 Human whelps... So impertinent.\n\n\n
 ...You are wrong to make an enemy of me.\n\n\n
 I will teach you... the power of overwhelming fear...\n\n\n
-There are things that humans should never toy with...!!\n\n\n
+There are things that humans should never tamper\nwith...!!\n\n
 ......\n\n\n
 Oh...? To think there'd be a skeleton here...\nI'm amazed it's managed to stay upright...\n\n
 *Creak...*\n\n\n
@@ -1850,7 +1850,7 @@ Well anyway, for now you can try out the store\nand go check out what we have.\n
 If you already have materials and money, you\ncan get making new weapons straight away.\n\n
 So, what'll it be?\n\n\n
 \n　　　Kucellbull Castle    Audience Chamber　 　\n\n
-＞By decree of the Archduke Kucellbull, every\n　knight in the Dukedom had arrived in that\n　small, decorative room.\n
+＞By decree of the Archduke Kucellbull, every\n　knight in the duchy had arrived in that\n　small, decorative room.\n
 ＞The room was strangely quiet, as if their\n　nerves had barred the sound.\n\n
 ＞The knights, sworn to serve their country,\n　couldn't help but feel uneasy about the \n　summons, which they had no right to refuse.\n
 ＞They were trying to avoid the gaze of...\n\n\n
@@ -1978,7 +1978,7 @@ But when I see you with that noble air, befitting\nof a princess, it makes me pr
 However, since meeting those two, I fear you may\nhave crossed the line of proper conduct...\n\n
 ...\n\n\n
 I know what I've said is rude.\n\n\n
-I don't mean to cause offense. It's just, you are\nthis kingdom's princess, and they are but knights.\n\n
+I don't mean to cause offense. It's just, you are\nthis dukedom's princess, and they are but knights.\n\n
 Please bear the weight of that in mind so that\nyou do not act irresponsibly.\n\n
 ...I'm well aware.\n\n\n
 Lady Elza...\n\n\n
@@ -2268,153 +2268,151 @@ First off, I guess I should drop by the guild...\n\n\n
 あいつ、 遺跡で “ここを俺たちの城にする”\nって言ってたな……\n\n
 ……エルザ ！ ！\n\n\n
 ＞レンは、 再び遺跡を目指し、 城を跡にした。\n　\n　\n
-ふぅ……\nさすがに少し、 疲れたな。\n\n
-三ツ首の獣に、 巨大な砂蛇……\nそれに、 ドラゴン……\n\n
-なんか、 頭がおかしくなりそうだ。\n\n\n
-……とりあえず、\n<[>魔晶石<]> のカケラの事もあるし、\n一度、 クセルブル城に戻ろう。\n
-＞顔には疲労の色が見え隠れしていたが、\n　それでも足早に、 レンは城へと歩み出した。\n　\n
-公国騎士団所属、 レン。\nただいま戻りました。\n\n
-おぉ。　レンか。\n\n\n
-して、 何か進展はあったのか ？\n\n\n
-実は……\n\n\n
-＞レンは、 <[>魔晶石<]> を生み出したという\n　<[>レヴィールの民<]> について……\n　\n
-＞通常では考えられぬほどに巨大化した砂蛇や、\n　深緑、黄金、真紅のドラゴンについて……\n　\n
-＞そして、 遺跡第二層の奥でヴェルスが見せてくれた \n　<[>魔晶石<]> のカケラについて、 大公に報告した。\n　\n
-…… <[>魔晶石<]> のカケラ、 か。\n\n\n
-しかし、 そのカケラには石本来の効力が無いと、\nそうヴェルスは言っておったのだな ？\n\n
-えぇ……\n\n\n
-＞レンは、 あえて石に触れたことにより得た\n　変化のことは、 報告しなかった。\n　\n
-＞何より、 あの現象が石の力なのかどうか、\n　本人でさえハッキリとしていないのだから……\n　\n
-だが主の言うとおり、 カケラが残っているという\nことで、 完全なる <[>魔晶石<]> の存在の可能性が \nますます高くなったということだな。\n
-ふむ……良いぞ。\nかの力を我が物に出来る日が近づいておる……\n\n
-…… ？\n\n\n
-では、 そろそろ遺跡の調査も終盤であろうが、\nこれまで以上に気を引き締め、\n必ず、 <[>魔晶石<]> を見つけるのだ。\n
-よいな ？\n\n\n
-はっ。\n\n\n
-＞一通りの報告を終えたレンは、\n　考え込むような顔で立ち止まる。\n　\n
-……別に、 あいつが何をしていようと\n俺には関係ないが、\n\n
-大公の命令に反するようなことがあれば、\n力ずくでも止める必要はある、 か……\n\n
-＞遺跡でヴェルスの取った行動が、\n　レンの頭の奥に、 微かに引っかかっていた……\n　\n
-おぉ。　レンじゃないか。\n\n\n
-団長……\n\n\n
-お前、 また大公に報告だけして\n向こうに戻るつもりだったんじゃないか？\n\n
-そのつもりだが ？\n\n\n
-……もう少し他人の考えに興味を持てないのか ？\n\n\n
-俺だって、 お前たちのことを\n心配してないわけじゃないんだぞ ？\n\n
-どれだけ心配されたところで、\n遺跡に行かなきゃならない事に変わりはない。\n\n
-それに、 確かにおかしな場所だけど、\n必要以上に気を張るような任務でもない。\n\n
-……そういう問題ではないのだがな。\n\n\n
-そういえば、 ヴェルスはどうした ？\n一緒じゃないのか ？\n\n
-あいつは、 何か別件があるとかで\n今は別々に調査している。\n\n
-別件 ？\n\n\n
-聞いてみたが、 はぐらかすばかりで……\n内容はよく分からないが……重要な任務らしい。\n\n
-そうか。　なんだか珍しいな。\n\n\n
-珍しい？\n\n\n
-ともに騎士団へ入団を果たした日から、\nお前たち、 ほとんど一緒にいたじゃないか。\n\n
-訓練も、 実戦も、 おまけに部屋も相部屋だしな。\n\n\n
-別に望んで一緒にいたわけじゃない。\n\n\n
-だが、 楽しくないわけじゃなかっただろう ？\n\n\n
-覚えているか ？　お前たちが、 エルザ様を\n不審者呼ばわりした夜のことを……\n\n
-あぁ……無実の俺たちを怒鳴ったあと、\nいい歳して一人酒が趣味だとかなんとか、\n哀れな話を聞かせてくれたときのことだろ ？\n
-……だいたい当たってるが、\nもう少し上司を敬え。\n\n
-あのとき、 約束しただろ ？\nお前たちが一人前になったら、 三人で飲もうと。\n\n
-……まだ一人前、 というわけでないが、\nこうして二人、 任務を任されるようにまでなった。\n\n
-この一件が片付いたら……\n\n\n
-俺は酒は飲まない。\n\n\n
-一杯くらい付き合え ！\n\n\n
-あのときからお前たちはずっと一緒だったろう ？\n\n\n
-そんなお前たちを見てきたからこそ、\n一人で任務を遂行する姿に、\n嬉しかったり、 寂しかったりするわけだよ。\n
-……ずいぶんと老けた発言だな。\n\n\n
-ははは。　歳はそれほど離れてはいないが、\n感覚的には息子を育てる父親のようなものだからな。\n\n
-多少めんどくさくても付き合え。\n俺はお前たちが可愛いんだ。\n\n
-ヴェルスに会ったら、 伝えておいてくれよ。\nそれじゃ、 またな。\n\n
-……息子、 か。\n\n\n
-＞団長と話し終えた後、 レンは城を出るため、\n　出口へと向かって歩き出した。\n　\n
-＞すると、 レンの進路を遮るようにして立つ\n　一人の少女の姿が目に入った……\n　\n
-…………\n\n\n
-……よ、 よぅ。\n\n\n
-また……\n\n\n
-…… ？\n\n\n
-また約束破って出て行く所だったんでしょ ？\n\n\n
-あ……いや……\n\n\n
-もぅ……本当に私のことなんて\n何も考えてないのね。\n\n
-…………\n\n\n
-考えているさ。　自国の公女を守るのも、\n騎士の仕事のひとつだ。\n\n
-同じように、 今進めている調査も立派な仕事だ。\n大公にも、 急かされているしな。\n\n
-はいはい。　そうですね。\n\n\n
-…………\n\n\n
-……あ、 そういえば、\nヴェルス、 見なかった ？\n\n
-ヴェルス ？　いや、 ずっと一人だが ？\n……あいつがどうかしたのか ？\n\n
-少し前、 中庭でヴェルスと会ったの。\n\n\n
-最初、 何かぶつぶつ独り言を言っているようで……\n私、 話しかけたんだ。\n\n
-そしたら……\n何かこう、 いつもと違うというか……\n\n
-すごく説明しにくい事なんだけど……\nヴェルスであってヴェルスでない、 みたいな ？\n\n
-……意味がわからない。\n\n\n
-んー……\nとにかくヴェルスの様子がおかしかったのよ。\n\n
-レンなら何か知ってるんじゃないかと\n思ったんだけど……\n\n
-あいつはいつだっておかしいだろ。\n\n\n
-……ヴェルスが聞いたら泣いちゃうぞ ？\n\n\n
-あ、 そうだ。　ねぇ、 ちょっとあっち向いて。\n\n\n
-あっち ？\n\n\n
-えぇ、 後ろ。　こっちに背中向けて立って。\n\n\n
-どうして ？\n\n\n
-いいから早く。\n\n\n
-これ、 あげるね。\n\n\n
-ネックレス…… ？\n\n\n
-レンに似合うかなぁって思って。\n\n\n
-あ、 あとね、 付けた人の身を守ってくれる\n効果もあるんだって。\n\n
-危険な場所に行っているレンにこそ\nぴったりでしょ ？\n\n
-だから、 心配しすぎだって……\n\n\n
-いいじゃない。\nしすぎたって、 減るものじゃないし。\n\n
-そういう問題じゃない。\n\n\n
-そういう問題なの。\n\n\n
-……ヴェルスのことも気になるし、\nお願い……本当に無茶だけはしないでね。\n\n
-…………\n\n\n
-……ね ？　……お願い。\n\n\n
-……約束は、 出来ない。\n\n\n
-どうして ？\n\n\n
-俺はこの国に仕えている身だ。\n\n\n
-大公の命令であれば、 命を落とすような任務だって\n受けなければならない。\n\n
-そういう仕事だ。\n\n\n
-だから、 無茶なこともするかもしれないし、\n……帰ってこないかもしれない。\n\n
-だいたい、 公女と騎士だ。\n軽々しい約束なんて出来るはずもないし、\n\n
-……こっちとしても、 したくない。\n\n\n
-…………\n\n\n
-……そう、 だよね。\n\n\n
-私が公女で、 あなたは騎士。\nそれは変えようがないことだもんね。\n\n
-……私、 そろそろ戻らないと。\n\n\n
-あぁ……俺も、 もう行くよ。\n\n\n
-えぇ。　それじゃ……気をつけて。\n\n\n
-……ごめんな。\n\n\n
-…………\n\n\n
-……さて、 遺跡に戻らないと。\nヴェルスの事も気になるしな……\n\n
-エルザには、 はぐらかしておいたけど、\nあいつ、 確かにおかしい。\n\n
-……たぶん、 あの石のカケラを手に入れてから。\n\n\n
-…………\n\n\n
-早めに見つけた方がいいな……\n\n\n
-＞レンは、 再びリルカ村を目指し、\n　クセルブル城を後にした。\n　\n
-……さて、 と。\n\n\n
-もう一度遺跡の中を調査しに行くか。\n\n\n
-ちょっと待つデシ～ ！ ！ ！ ！\n\n\n
-……なんだ ？\n\n\n
-やぁやぁやぁ。\n元気デシか ？\n\n
-……アーヴァンク、 か。\n\n\n
-どうしたんだ ？　そんなに慌てて。\n\n\n
-レンにお届け物デシ ！\nこれを渡しに来たデシ ！\n\n
-さぁさぁさぁ ！\n早く受け取るデシ ！\n\n
-これは、 遺跡で使える鍵か。\nどうして俺に ？\n\n
-知らないデシ。\n\n\n
-さっきたまたま出会った栗色で長髪の男の人に、\nレンに出会ったら渡してくれって頼まれたデシ。\n\n
-（……栗色の長髪 ？　ヴェルスか ？）\n\n\n
-で、 そいつは他に何か言ってなかったか ？\n\n\n
-何も言ってなかったデシよ。\n\n\n
-……そうか。　わかった、 ありがと。\n\n\n
-いーってことデシ。\n\n\n
-そ　の　か　わ　り　！\n\n\n
-また、 必ずアーヴァンクの道具屋に\n顔を出すデシ ！\n\n
-商品そろえて待ってるデシ～ ！\n\n\n
-……ヴェルスの考えていることは\nわからないけど、\n\n
-この鍵があれば、 遺跡の奥へ\n進めそうだな。\n\n
-……さて、 仕事に戻るか。\n\n\n
-
-
+*Sigh...*\nThat was pretty exhausting.\n\n
+A three-headed beast, a giant sand snake, and...\ndragons...\n\n
+It's enough to make anyone lose their mind.\n\n\n
+And there's also the matter of the Magicite\nfragment... I guess I should head back to\nKucellbull Castle for the time being.\n
+＞Despite the weariness slipping in and out of his\n　bones, Ren made his way back to the castle with\n　speed.\n
+Ren of the Duchy Knights calling.\nI have returned.\n\n
+Oh it's you, Ren?\n\n\n
+Well, has there been any progress?\n\n\n
+As a matter of fact...\n\n\n
+＞Ren told the Archduke of the nation of Reville\n　who created the Magicite...\n
+＞The sand snake who had grown larger than ever\n　thought possible, the dragons of dark green,\n　gold and crimson...\n
+＞And the fragment of Magicite that Veres had\n　shown him deep within the second layer of the\n　ruins.\n
+...A fragment of Magicite, hm?\n\n\n
+But Veres said the fragment doesn't have the\ninherent power of the stone, correct?\n\n
+Yes...\n\n\n
+＞Ren hadn't mention the changes he'd felt after\n　touching the fragment.\n\n
+＞After all, even he wasn't sure whether that\n　phenomenon had been caused by the power of\n　the stone...\n
+But as you say, the fact that a fragment remains,\nmeans the possibility of a perfect piece of Magicite\nexisting is becoming more and more likely.\n
+Hm... Very good.\nThe day when I can make that power my own draws\nnearer...\n
+...?\n\n\n
+Well, it may be the final stage of the ruins\ninvestigation, but focus more than ever and\ndeliver the Magicite without fail.\n
+Understood?\n\n\n
+Sire!\n\n\n
+＞After finishing his general report Ren came to\n　a stop, with a face that looked lost in thought.\n\n
+...It doesn't really matter to me what that guy\ngets up to.\n
+But if it goes against the Archduke's orders,\nthen I'll have to put a stop to it, even if it\nmeans using force.\n
+＞Veres' actions inside the ruins still weighed on\n　his mind...\n
+Oh, if it isn't Ren!\n\n\n
+Captain...\n\n\n
+Don't tell me you were just planning to report\nto the Archduke and head off again, were you?\n\n
+That was the idea...\n\n\n
+Can't you have a little more concern for other\npeople's feelings?\n\n
+It's not like even I don't worry about you guys,\nyou know?\n\n
+No matter how worried you are, it won't change\nthe fact that I have to leave for the ruins.\n\n
+And, though it is certainly a strange place, it's\nnot a mission that puts me under any more strain\nthan normal.\n
+...That's not the problem here.\n\n\n
+Speaking of, what happened to Veres?\nHe's not with you?\n\n
+He said he had a different matter to investigate.\n\n\n
+Something else?\n\n\n
+I've tried asking, but he always dodges the\nquestion... I don't know what it's about, but...\nit seemed to be important.\n
+I see. That's rare.\n\n\n
+Rare?\n\n\n
+From the day you both joined the Knights, you've\nnearly always been together.\n\n
+Training, fighting, and even your room is shared.\n\n\n
+It's not like we were particularly trying to stick\ntogether.\n\n
+But it's not that you don't enjoy it, right?\n\n\n
+Do you remember? That night when you branded\nLady Elza as suspicious...\n\n
+Yeah. You mean when, after shouting at us innocent\nvictims, this guy old enough to know better told us\na sad story about his hobby of drinking alone?\n
+...That's the gist of it, but show a little more\nrespect for your boss.\n\n
+We made a promise back then, remember?\nThat when you came of age, the three of us would\ndrink together.\n
+...You're still not of age, yet you two came to be\nentrusted with a mission like this.\n\n
+Once it's all been settled...\n\n\n
+I don't drink.\n\n\n
+At least have one!\n\n\n
+We've been together ever since then, right?\n\n\n
+Since I've been watching over you all this time,\nwhen I see you going off fulfilling your duties by\nyourselves, it makes me happy, and a bit lonely.\n
+...You sound like an old man.\n\n\n
+Hahaha. Our ages aren't that far apart, but\nsomehow I feel like a father raising a son.\n\n
+Even if you are a pain, I still want to be there.\nThe two of you are precious to me.\n\n
+If you see Veres, pass that on for me.\nWell then, until next time.\n\n
+...Sons, huh?\n\n\n
+＞After talking with the captain, Ren headed for\n　the exit, ready to leave the castle.\n\n
+＞But when he got there, he found a girl blocking\n　the path.\n\n
+...\n\n\n
+...H-hey.\n\n\n
+Again...\n\n\n
+...?\n\n\n
+You were about to break your promise and leave\nagain, weren't you?\n\n
+Ah-- No...\n\n\n
+Honestly... You really don't think about me.\n\n\n
+...\n\n\n
+I do. Protecting the dukedom's princess is one of\na knight's jobs.\n\n
+Just like how making progress on the investigation\nis proper work. The Archduke has been urging us\non, too.\n
+Right, right. Of course.\n\n\n
+...\n\n\n
+...Ah, speaking of which, have you seen Veres?\n\n\n
+Veres? No, I've been here alone this whole time.\n...Did something happen to him?\n\n
+I saw him in the courtyard not long ago.\n\n\n
+He seemed to be mumbling to himself about\nsomething at first... So, I spoke to him.\n\n
+And then... how should I put this... Something\nseemed different than usual.\n\n
+It's hard to explain, but... like Veres was not\nquite Veres?\n\n
+...I don't follow.\n\n\n
+Mmm... Anyway, there was something off about his\nmanner.\n\n
+I thought you might know something...\n\n\n
+That guy's always been weird, you know.\n\n\n
+...If Veres hears you say that, he'll cry.\n\n\n
+Oh, right!\nSay, could you face the other way a second?\n\n
+The other way?\n\n\n
+Yes, behind you.\nStand here with your back to me.\n\n
+Why?\n\n\n
+Never mind that, turn around!\n\n\n
+Here, this is for you.\n\n\n
+A necklace...?\n\n\n
+I thought it might suit you.\n\n\n
+And it's supposed to protect whoever wears it.\n\n\n
+So it's perfect for you always visiting dangerous\nplaces, right?\n\n
+I told you, you worry too much...\n\n\n
+It's fine～ It's not like it can do any harm.\n\n\n
+That's not the point.\n\n\n
+It's precisely the point.\n\n\n
+...I'm worried about Veres too.\nPlease... Promise me you won't overdo it.\n\n
+...\n\n\n
+...Okay?\n...Please.\n\n
+...I can't promise anything.\n\n\n
+Why not?\n\n\n
+I serve the duchy.\n\n\n
+If it's an order from the Archduke, I must accept\nthe mission even if it puts my life in danger.\n\n
+That's the job.\n\n\n
+That's why, I might end up having to do reckless\nthings, or ...I might not return one day. \n\n
+And, we're talking princesses and knights.\nI can't just go about making thoughtless promises.\n\n
+...Nor do I want to.\n\n\n
+...\n\n\n
+...Right...\n\n\n
+I'm a princess, and you're a knight.\nThat will never change.\n\n
+...I should be heading back soon.\n\n\n
+Ah, I ought to go too.\n\n\n
+Right. Well... do be careful.\n\n\n
+...I'm sorry.\n\n\n
+...\n\n\n
+...Well then, guess I should head back to the\nruins. I'm worried about Veres...\n\n
+I dodged the issue with Elza but, there's definitely\nsomething funny going on with him.\n\n
+...Probably since he first got his hands on that\nstone fragment.\n\n
+...\n\n\n
+I'd better find him, and fast...\n\n\n
+＞Ren once again left Kucellbull Castle, and made\n　his way for Liruka Village.\n\n
+Now then...\n\n
+Should I start with exploring the ruins?\n\n\n
+Purrrrease wait～!\n\n\n
+...What--?\n\n\n
+Hello hello hello!\nHave you been well?\n\n
+Avanc?\n\n\n
+What's wrong? Calling me out in such a panic...\n\n\n
+Delivery for Ren!\nI came to give you this!\n\n
+Now now now!\nHurrry up and open it!\n\n
+A key for the ruins? Why give it to me?\n\n\n
+I don't know.\n\n\n
+I just bumped into a man with long chestnut-\ncoloured hair who asked me to give it you\nwheneverrr I next saw you.\n
+(...Long chestnut-coloured hair? Does he mean\nVeres?)\n\n
+Did he say anything else?\n\n\n
+That was it.\n\n\n
+...I see. Well, thank you.\n\n\n
+That is to say...\n\n\n
+I n   e x c h a n g e～!\n\n\n
+Make surrre you stop by Avanc's Item Shop next\ntime you need something!\n\n
+There are all sorrrts of items waiting for you～!\n\n\n
+...I don't know what Veres is thinking, but...\n\n\n
+Now that I have this key, I should be able to go\ndeeper into the ruins.\n\n
+...Okay, guess it's back to work.\n\n\n

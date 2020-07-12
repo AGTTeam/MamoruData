@@ -228,28 +228,28 @@ Doesn't everyone want to have a\r\nskill which they're the best at? \r\nIn my ca
 With this many fangs, I can throw\r\nsome after I wake up in the morning,\r\nsome before lunch and some at night\r\nbefore bed... Well basically, I can\r\npractice every day! I'm one step\r\ncloser to my dream of becoming a\r\nknife throwing master... Mwahaha!
 The Melancholy of Renus (3)
 Worried Archaeologist　Renus
-There's another one!!! This time, I\r\nfound a giant Flame Flan in the third\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof! You're my only hope.
-See? See? See? There really, really\r\nis a giant Flame Flan, right? I can't\r\nwait to see the stunned faces of\r\neveryone who called me a liar! Hehe.\r\nCheers! I'll be counting on you if\r\nanything else happens!
+There's another one!!! This time, I\r\nfound a giant Flame Flan in the 3rd\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof. You're my only hope!
+See? See? See? There really, really\r\nis a giant Flame Flan, right? I can't\r\nwait to see the stunned faces of\r\neveryone who called me a liar!\r\nCheers! I'll be counting on you if\r\nanything else happens!
 The Sand Snake Resurrected
 Survey Team Captain　Rasvel
 It seems the sand snake in the\r\nsecond layer of the ruins has\r\nsomehow been revived. We still\r\nhaven't finished in that room\r\nyet, but now we can't go in.\r\nCould you take care of it?
-Thank you. And thank you for last\r\ntime again, as well. I'm curious\r\nabout how strong you really are!\r\nAll we get from the guild is your\r\nname, so I can't help but wonder.\r\nSay, would you be interested in\r\njoining the survey team?
+Thank you. And thank you for last\r\ntime again, as well. I'm curious about\r\nhow strong you really are!\r\nAll we get from the guild is your\r\nname, so I can't help but wonder.\r\nSay, would you be interested in\r\njoining the survey team?
 The Guild’s Challenge (3)
 Adventurer's Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from B rank\r\nlevel quests! Now, show us what\r\nyou're made of!
-You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil B rank requests.\r\nWe take our hats off to you on this\r\nworthy achievement. Please continue\r\nto devote yourself!!
-もぞもぞ…うねうね…
-虫嫌いの女　エルレ
-私、ほんっとに虫がダメなの！！\r\nもぞもぞ、うねうね動くあの感じ…\r\n…ダメ。考えただけで全身に鳥肌が\r\n立っちゃう…。そんなのが遺跡には\r\nたくさんいるらしいじゃない…。\r\nお願い！早く私を安心させて！！
-遺跡内の虫を撃退してくれたのね。\r\n別に私自身は遺跡なんかには絶対に\r\n入らないけど、近くにたくさんいる\r\nってだけで不安で夜も寝れなかった\r\nのよ。でも今夜からは安眠できそう\r\nだわ。ほんとにありがとね。
-美しく輝く石(2)
-高飛車な貴婦人　ロンディーヌ
-わたくし、美しく輝く石が大好き\r\nなんですの。そうですわね…\r\n溢れんばかりの愛のパワーを持った\r\nわたくしにこそ、ルビーなんて\r\nぴったりじゃないかしら？\r\nさぁ、今すぐ集めに行きなさいな。
-これですわ！この宝石の持つ輝き\r\nこそ、わたくしにぴったりよ。\r\nいや…むしろ世界中でわたくしに\r\nしか似合わないのではないかしら…\r\nそう思わない？\r\nまぁとにかく、また欲しくなったら\r\nお声をお掛けしますわね。
-すすり泣く声のする方へ
-年老いた女性　グランジェ
-夜の闇が深くなる頃、遺跡の方から\r\n女性のすすり泣く声が聞こえてくる\r\nんじゃ。…それも毎晩のようにな。\r\n調査隊の人などに話を聞いてみると\r\nどうやら、第三層付近にいるという\r\nゴーストの声のようなのじゃが…。
-昨日から突然すすり泣くゴーストの\r\n声が聞こえなくなったと思っとった\r\nんじゃが、そうか…おぬしが彼女を\r\n元気づけてやってくれたんじゃな。\r\nこれで私の心のモヤモヤも、晴れた\r\n気がするよ。年寄りのわがままを\r\n聞いて貰ってありがとうよ。
+You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil B rank requests.\r\nWe take our hats off to you on\r\nthis worthy achievement.\r\nPlease continue to devote yourself!!
+Creepy... crawlies...
+Bug-Hating Woman　Elle
+I really hate bugs! That creepy\r\ncrawling thing they do... Yuck.\r\nJust thinking about it gives me\r\ngoosebumps. I heard there are\r\ntons of them in the ruins...\r\nPlease! Set my mind at peace!!
+So you've fought off the bugs in\r\nthe ruins. It's not that I plan\r\nto go there myself, but I couldn't\r\nsleep at night knowing there were\r\nso many nearby. Though, I think\r\nI'll be able to sleep just fine\r\ntonight. Thank you very much.
+Glittering Stone (2)
+High-Flying Lady　Rondina
+I adore beautiful stones. That's\r\nright... Aren't Rubies just\r\nperfect for me, who overflows\r\nwith the power of love? Well,\r\none should think you'd best go\r\nand find some toodle-pip.
+My! The radiance of this gem truly\r\nis perfect for me. No... In truth,\r\nI am the only one in this world\r\nworthy of it... Don't you agree?\r\nWell, I shall be in touch if I\r\nhave need of you again.\r\n　　　　　　　　-Yours faithfully.
+To the Wailing Voice
+Old Woman　Granje
+As the night grows darker, I hear\r\nthe sound of a woman sobbing coming\r\nfrom the ruins. When I spoke to some\r\npeople on the survey team, they said\r\nit was the voice of a ghost in the\r\nthird layer...
+Last night, I suddenly stopped hearing\r\nthe voice of the ghost wailing...\r\nI see now. You cheered her up, didn't\r\nyou? I feel like a fog has lifted from\r\nmy heart too. Thank you for listening\r\nto the selfishness of this old woman.
 闇に蠢く小さな悪魔
 黒髪の遺跡調査員　ミルシェ
 赤色の壁で構成された遺跡の第三層\r\n付近に、赤黒い体毛の小さな悪魔の\r\n子が出没するんだけど、いたずらに\r\n私たちの持ち込んだ食料を盗んだり\r\n凶暴な魔物を呼び寄せたりするので\r\n困ってるの。何とかしてくれない？

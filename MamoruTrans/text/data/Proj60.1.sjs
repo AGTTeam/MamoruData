@@ -43,17 +43,17 @@ A small sword said to be\r\npossible to swing at speeds\r\nwhich produce whirlwi
 Tiger Sword
 A single-edged sword with a\r\nshort blade. Because it was\r\nmade by a smith with a\r\nparticular attention to\r\ndetail, it's easy to grip\r\nand has many loyal users.
 Sting
-One of three types of swords\r\nloved by dwarves. It's a\r\nlittle small for human use,\r\nbut can launch a quick attack.
+One of three types of swords\r\nloved by dwarves. It's a little\r\nsmall for human use, but can\r\nlaunch a quick attack.
 Scramasax
 A single-edged sword. Although\r\nit's short, it's big plus is\r\nthat its light weight makes\r\nit easy to perform continuous\r\nattacks.
 Sword of Spirits
-A small sword made with the\r\nblessing of the spirits. It's\r\nsaid that just carrying it\r\naround heals the body's wounds.
+A small sword made with the\r\nblessing of the spirits. It's\r\nsaid that just carrying it\r\naround heals the body's\r\nwounds.
 Glamdring
-One of three types of swords loved\r\nby dwarves. Light enough that you\r\ndon't feel the weight, it's durable\r\nand easy to use.
+One of three types of swords\r\nloved by dwarves. Light enough\r\nthat you don't feel the weight,\r\nit's durable and easy to use.
 Orcrist
-One of three types of swords loved\r\nby dwarves. Bests both Sting and\r\nGlamdring in terms of sharpness.
+One of three types of swords\r\nloved by dwarves. Bests both\r\nSting and Glamdring in terms\r\nof sharpness.
 Caladbolg
-A sword whose name means “Hard-\r\nLightning”. Quickly swinging the\r\npale-yellow blade creates the\r\nillusion of a flash of lightning\r\nright before your eyes.
+A sword whose name means Hard-\r\nLightning. Quickly swinging the\r\npale-yellow blade creates the\r\nillusion of a flash of lightning\r\nright before your eyes.
 Ice Blade Curtana
 Also known as the “Sword of\r\nMercy”, it is a short sword\r\nwhose point extends backwards.\r\nThe blade is abnormally cold,\r\nand when used, it freezes a\r\nwound from the inside.
 Magic Sword Arondight
@@ -70,112 +70,112 @@ Sabre
 A single-edged medium sized\r\nsword that specializing in\r\none-handed use. Easy to use,\r\nand has a wide blade that is\r\nsaid to be resistant to\r\ndamage.
 Acicular
 A straight one-handed sword\r\nwith a sharp tip.\r\nMade for stabbing, the\r\nblade is carefully designed\r\nto strip the enemy's flesh\r\nwhen pulling the sword back.
-スティールソード
-両刃の片手剣。他の中剣と\r\n比べると少し重量があり、\r\n扱いやすさに欠けるも、\r\nその破壊力は絶大。
-ボーンイグザード
-主な材料に頑丈な骨を\r\n用いた中剣。\r\n鉄製の剣と比べて、優るとも\r\n劣らない切れ味と強度を\r\n実現しつつ軽量化に成功。
+Steel Sword
+A double-edged one-handed\r\nsword. Compared to other\r\nmedium swords, it's a little\r\nheavy and harder to use, but\r\nits destructive power is\r\nenormous.
+Bone Izzard
+A medium sized sword forged\r\nfrom sturdy bones. It's\r\nstrength and sharpness are\r\ncomparable to the Steel Sword,\r\nwhile managing to be a lighter\r\nweight.
 Saw
 Mainly used for felling\r\ntrees.\r\nIt's not well suited for\r\ncombat, but its mighty\r\nstrength shouldn't be\r\ndevalued.
-バイキング
-足場の悪い海の上で戦う海賊\r\nたちが、自分達の手で生み出\r\nしたと伝えられる剣。\r\n異常とも取れるほど振りやす\r\nいが、威力は期待出来ない。
-ライトニングエッジ
-稲妻のそれを思わせる異様な\r\n形の刀身を持った剣。\r\n見た目ほど使いづらくはなく\r\nそこそこの威力も持っている\r\nが、持ち運びに不便である。
+Viking
+A sword said to have been\r\ncreated by pirates who fought\r\non the sea where there is poor\r\nfooting. It's so easy to swing\r\nthat it could even be called\r\nstrange, though one can't hope\r\nfor too much power-wise.
+Lightning Edge
+A sword with an oddly shaped\r\nblade that's reminiscent of\r\nlightning. It's not as hard\r\nto use as it looks, and it's\r\nreasonably powerful, but it\r\nis inconvenient to carry.
 Knight's Sword
 A sword provided to knights\r\nof the kingdom. Because it\r\nwas designed to be used with\r\na shield, it is light and\r\neasy to hold with one hand.
 Crescent Moon Katana
 A sword with a curved blade\r\nreminiscent of a crescent\r\nmoon. It has a blade on the\r\nouter edge and is known as\r\na sword chosen by eccentrics.
-鉄刀
-匠の業で鍛えられた珠玉の\r\n一品である。\r\n一振りするごとに、風を切る\r\n音が響き渡る。
-紫翔剣
-驚く程のスピードで\r\n抜刀することができる。\r\n一瞬の勝負にかけた剣。
-ルーンブレード
-柄の部分にルーン文字が\r\n刻み込まれた両刃の剣。\r\n持ち主の能力に合わせて\r\n切れ味が変化すると言われ\r\nているが、定かではない。
-ハラディ・ソル
-様々な鉱石を配合すること\r\nにより誕生した片手半剣。\r\n柄や鞘に美しい装飾が\r\n施されているのも大きな\r\n特徴である。
-フレイ・ヴィンス
-両刃の片手剣。大きな特徴\r\nはないが、手にした者は、\r\nどのような状況でも勝利を\r\n掴むことができると言われ\r\nている。
-クリスモルダー
-プラチナによる強度補強に\r\nよって半永久的に切れ味を\r\n維持することに成功した、\r\n実験的な一品。
-ファルクス
-一体成形で、全て金属で\r\n作られた剣。Ｓ字型の刀身\r\nを持ち、両手で振り回して\r\n相手を打ち切ることに\r\n特化した作りをしている。
-炎晶剣
-振りぬく速度が速ければ\r\n速いほど、刀身から高熱を\r\n放つ異色の剣。この剣に\r\n切られた瞬間、傷口からは\r\n炎が舞い上がるという。
-ロストヴァイン
-ドワーフが考案したとされる\r\n不死の剣。刀身は薄く平らに\r\n伸ばされ、軽く扱いやすい。\r\nその上、絶大な強度を誇る。
-妖刀ムラクサ
-刃の両面に、波打つ大きな\r\n波紋が美しく揃った美しい\r\n剣。とにかく切れ味が\r\n素晴らしいの一言。
-ファルシオン
-比較的短い刀身ながら肉厚\r\nで分厚く、長剣並の重量を\r\n持ち、鈍器を扱うように\r\n叩きつけて使用する武器。
-宝剣ヴァルムンク
-その昔、英雄として名を\r\n馳せたシグルドが愛した\r\nと言われている名剣。\r\n黄金の柄に青い宝玉が\r\n埋め込まれ、鞘は金色の\r\n打紐で巻き上げている。
-新生ヴァルムンク
-ヴァルムンクを鍛え上げる\r\nことで完成した宝剣。\r\n切れ味、強度などどれを\r\n取ってもワンランク上を\r\nいく仕上がりである。
-ヴァルキリーソード
-柄の部分に美しい女神の彫刻\r\nが施された片刃の片手剣。\r\n戦いにおいての縁起物であり\r\n戦の前などには祭壇に飾られ\r\nたりもする。
-オートクレール
-純潔と称されるその剣は、\r\n悪意を持った者が振るうと\r\nその身を焼き焦がすと\r\n言い伝えられている。
-聖剣デュランダル
-黄金の柄を持つ両刃の片手\r\n剣。決して折れることはなく、\r\n大理石をも断ち切ることが\r\nできると言われている。
-魔剣ティルフィング
-持ち主を破滅へ導くと伝えら\r\nれている魔剣。\r\nサイズの割には異常に重く、\r\n使い手を選ぶ剣ではあるが、\r\n使いこなした時の恩恵は計り\r\n知れない……
+Tekkan
+A true gem forged by the\r\nhands of an artisan. With\r\neach swing, the sound of\r\nthe splintered wind echoes\r\nall around.
+Dancing Sword
+A sword which can be drawn\r\nwith astonishing speed, for\r\na quick resolution to a fight.
+Rune blade
+A double-edged sword with\r\nrunes engraved on the handle.\r\nIt's said that the sharpness\r\nchanges according to the\r\nowner's ability, though the\r\ntruth remains unclear.
+Haladie
+A one-handed half-sword\r\ncreated by mixing various\r\nores. Its best feature is\r\nthe beautiful decorations\r\non both the handle and\r\nsheath.
+Freyr Vincere
+A double-edged one-handed\r\nsword. It has no special\r\nfeatures, but it's said\r\nthat whoever possesses it\r\ncan be victorious no matter\r\nwhat fate throws their way.
+Moro Kris
+Invented by way of experimenting\r\nwith platinum reinforcement that\r\nallows it to preserve its\r\nsharpness semi-permanently.
+Falx
+A sword made in one piece\r\nusing a metal mould. Has\r\nan S-shaped blade and is\r\nspecialized for using both\r\nhands to cut down opponents.
+Fire Sword
+A unique sword. The faster\r\nthe swing, the hotter the\r\nblade becomes. It is said\r\nthat as the sword slices\r\nthrough something, flames\r\nsoar from the wound.
+Lostvayne
+An everlasting sword said\r\nto have been devised by\r\nDwarves. The thin and flat\r\nblade is lightweight and\r\neasy to handle. On top of\r\nthat, it boasts of tremendous\r\nstrength.
+Demon Blade Muramasa
+An elegant sword with a\r\nbeautiful undulating hamon\r\non both sides of the blade.\r\nTo add to that, it's also\r\nwonderfully sharp.
+Falchion
+A thick weapon that despite\r\nbeing relatively short, has\r\nthe weight of a long sword.\r\nHandled as though it were\r\nblunt by making forcible\r\nstriking motions.
+Sacred Sword Balmung
+A sword said to have been\r\nloved by Siegfried, who made\r\na name for himself as a hero\r\nin the days of yore. Blue\r\njewels are embedded in the\r\ngolden handle, and a golden\r\nbraid is wound around the\r\nsheath.
+Reformed Balmung
+A sacred sword, formed as a\r\nresult of tempering Balmung.\r\nBoth its sharpness and strength\r\nrank a tier higher.
+Valkyrie Sword
+A single-edged, one-handed\r\nsword with a beautiful goddess\r\nsculpture on the handle. A lucky\r\ncharm for battle, it's sometimes\r\nfound displayed on altars.
+Hauteclere
+True to its name meaning\r\n‘high and neat’, it’s a sword\r\nsaid to burns the hands of any\r\nmalicious person who tries\r\nwield it.
+Holy Sword Durendal?
+A double-edged one-handed\r\nsword with a golden handle.\r\nIt is said that it will never\r\nbreak and can even slice\r\nthrough marble.
+Magic Sword Tyrfing
+A magic sword said to lead\r\nits owner to ruin. Unusually\r\nheavy for its size, despite\r\nbeing a sword with its own\r\ntemperament, the benefits of\r\nmastering it are immeasurable...
 Long Sword
 A long, double-edged sword.\r\nIt is easy to handle even\r\nwith one hand because of\r\nits long reach and light\r\nweight, making it a perfect\r\nsword for beginners.
 Bastard Sword
 A one-edged one-handed sword.\r\nMade with a focus on both\r\nslicing and stabbing, it is\r\nan exceptionally easy to use\r\nsword that only continues to\r\ngrow in popularity.
 Claymore
 A two-handed, double-edged\r\nsword. Lightweight for its\r\nsize and with an easy-to-\r\ngrip hilt, it is moderately\r\neasy to handle.
-ロッククラッシュ
-ボコボコの刃を持ち、切れ味は\r\n皆無。叩きつけるようにして\r\n使用する大剣。武器のダメージ\r\nを気にせず使用出来る荒々しい\r\n剣というイメージがある。
-エストック
-大剣という部類の中では比較的\r\n細身の刀身を持ち、狙いを定め\r\nて切ることを容易に行える使い\r\n勝手の良い剣である。
-フィランギ
-切ることにも突くことにも\r\n適した大剣。刀身は切先から\r\n３分の２ほどまでが両刃で、\r\n残り根元付近が片刃と珍しい\r\n形状をしている。
-ロムパイア 
-木製の柄を持ったＳ字型の剣。\r\n重く、攻撃時の隙が大きく\r\nなる反面、その破壊力は\r\n期待以上の成果をもたらして\r\nくれるだろう。
+Rock Crusher
+A large sword with a blunt,\r\nwavy blade used to smash\r\nthings. Gives the impression\r\nof a boorish sword that can\r\nbe swung around without fear\r\nof damaging it.
+Estoc
+An easy-to-use sword that is\r\nrelatively slim for a large\r\nsword, and allows one to\r\neffortlessly pinpoint their\r\ntarget.
+Firangi
+A large sword suitable for\r\nslicing and stabbing. Has an\r\nunusual shape whereby its\r\ndouble-edged from the point\r\nto about two-thirds down,\r\nand single-edged for the\r\nremainder.
+Rhomphaia
+An S-shaped sword with a\r\nwooden handle. It's heavy\r\nand leaves you with a lot of\r\nopenings while attacking, but\r\nits destructive power brings\r\neven greater results than it\r\nsuggests.
 Zweihander
 A large, dull sword, full\r\nof dents. Used for striking,\r\nit conjures the image of a\r\nrough weapon that can be\r\nswung around without fear\r\nof damaging the blade.
-シールドソード
-柄の先が大きく広がった形を\r\nしており、剣を振りながら\r\n相手の攻撃を防ぐことが出来る\r\nという、攻守の機能を\r\n併せ持った使い勝手の良い剣。
-フランベルジュ 
-両刃の両手剣。火柱を思わせる\r\nような波状の切刃を持っており\r\n切りつけた傷口は歪な形になり\r\n致命傷となる。
+Shield Sword
+An easy-to-use sword that\r\ncombines offence and defence.\r\nThe shield that spreads from\r\nthe handle prevents opponents\r\nfrom retaliating as you swing it.
+Flamberge 
+A two-handed, double-edged\r\nsword. With its serrated\r\nedge reminiscent of a pillar\r\nof flames, it creates jagged,\r\nfatal wounds.
 Large Bone Sword
 A large sword lavishly made\r\nwith giant bones.\r\nKnown for its speciality, the\r\nthorned blade which excels at\r\nstripping the skin off prey,\r\nit is a frightening sword.
-砕骨刀
-肉厚な刀身で、刃は切るため\r\nではなく、もぎ取るために\r\n付けられたような大剣。\r\n叩きつけるように使用する。
+Osteotome
+A thick sword, designed not\r\nto cut through other swords,\r\nbut to wrench them away from\r\ntheir owners. Used by striking\r\ndown.
 Battle Sword
 A large sword that combines\r\nthe power of a large axe and\r\nease of handling to form a\r\nversatile weapon. It doesn't\r\nmake for many openings, and\r\nallows you to react quickly.
-ねこのまほろば
-ぷにぷにの肉球が備えられた\r\n剣……ではなく、棒。\r\n叩き付けられた相手は身体の\r\n内側に強烈な痛みを感じるら\r\nしいが……？
-小烏丸
-巨大な怪鳥がこの世に残した\r\n細身の刀。反りのある刀で\r\nありながら、切っ先は両刃で\r\n峰の中程まで刃がついている。
-黒刀
-純度の高い黒石だけを使い\r\n鍛え抜かれた片刃の大剣。\r\n一刀両断の切れ味とパワーを\r\n誇る。
-ブラックデビル
-"漆黒の悪魔"の異名を持つ\r\n呪われし魔剣。まるで剣が血を\r\n欲するかのごとく、手にした者\r\nは目に映る全てを切り刻むまで\r\n握り締めた剣を置くことはない\r\nと言われている。
-ラムスクソード
-薄っすらと青白い光を放つ両刃\r\nの大剣。ラムスクと呼ばれる\r\n大樹から採れる樹液で\r\nコーティングされており、驚く\r\nほどの切れ味を持つ。
-ドラゴンスレイヤー
-ドラゴンの固いウロコでさえ、\r\nいとも容易く斬りつけることが\r\n出来る両刃の両手剣。\r\n刃は獣の牙のような形で\r\nギザギザになっている。
-聖斧槍ファウスト
-いにしえの伝承に残された悪魔\r\nメフィストフェレスをモチーフ\r\nに創り出された長斧。\r\n人が振るうにはあまりにも重い\r\nことでも有名だが、その破壊力\r\nは言うまでもない。
-桜吹雪
-言わずと知れた名刀。作り手の\r\n愛情とセンスにより生まれる\r\n一品であり、誰しもが手に\r\n出来る代物ではない。
-名剣ヴァルラハム
-その昔、ラストールの王が愛用\r\nしていたとされる伝説の名剣。\r\n相手が巨大であればあるほど\r\n有利に立ち回れるという。
-魔剣ソルディア
-圧倒的な破壊力と引き換えに、\r\n使う者の生命力を奪うという\r\n呪われた剣。\r\n使用には細心の注意が必要。
-クラウ・ソラス
-対峙した相手は、抵抗する間\r\nもなく一瞬の内に二分される\r\n不敗の剣であると伝えられて\r\nいる。四つの至宝の一つ。
-炎剣レーヴァテイン
-ルーン文字を駆使して鍛え上げ\r\nられた神剣。刀身には炎の力が\r\n宿っており、切られた者は業火\r\nに包まれるという。
-グリーズ・マキア
-燃え盛る炎をも切り裂き、\r\nその剣筋により道を切り開く\r\nとされる神剣。
-神剣ミストルテイン
-宿り木の枝が変化して\r\n生み出されたとされる剣。\r\n物体を貫くことを得意とする\r\n長剣である。
-ラグナロク
-大自然の創生と破滅を象り\r\n生み出された神剣。神々の力が\r\n宿った剣とされ、持つ者の\r\n生気を吸い、地に還すと言い\r\n伝えられている。
-聖剣エクスカリバー
-湖の精霊から授かったとされる\r\n聖剣。光り輝く刀身を持ち、\r\n対峙した者は稲妻に打たれた\r\nかのような衝撃を受ける。
-ストームブリンガー
-禍々しいオーラを放ち、\r\n刺し貫いた者の魂を吸い上げ、\r\n成長すると言い伝えられた\r\n文字通りの“魔剣”。
+Cat's Finest
+A sword, or rather, stick,\r\nbrandishing squishy toe\r\nbeans. It seems anyone who\r\nis struck with it is met\r\nwith intense pain...?
+Little Crow
+A thin sword left by a\r\nmysterious giant bird.\r\nAlthough the blade is\r\ncurved, it has a double\r\nedge which runs from the\r\ntip down to the centre of\r\nthe sword.
+Black Sword
+A large single-edged sword\r\nforged using only high-purity\r\nblack stone. Boats of the\r\nability to cut things in\r\ntwo with a single swing.
+Black Devil
+A cursed magic sword named\r\nafter a jet-black demon.\r\nIt is said that whoever picks\r\nit up will not stop until\r\neverything in their sights\r\nhas been chopped into pieces,\r\nas if the sword itself was\r\nthirsting for blood.
+Lumsk sword
+A double-edged sword that\r\noff a pale light. Coated\r\nwith sap from a large tree\r\ncalled a Lumsk, it's\r\nastoundingly sharp.
+Dragon Slayer
+A two-handed, double-edged\r\nsword that easily slices\r\nthrough even the hard scales\r\nof a dragon. The blade is\r\njagged like a beast's fangs.
+Holy Halberd Faust
+A long axe designed with\r\nthe motif of the demon\r\nMephistopheles, from a\r\ntale passed down through\r\nthe generations. Its\r\nfamously too heavy for a\r\nperson to swing, but its\r\ndestructive power goes\r\nwithout saying.
+Blizzard of Blossoms
+Needless to say, it's a\r\nfamous sword. Forged with\r\nlove and good taste, it's\r\nnot something that just\r\nanyone can get their\r\nhands on.
+Famous Sword Valhallam
+A legendary sword said to\r\nhave been loved by the King\r\nof Rustor in the days of\r\nyore. The larger the\r\nopponent, the more\r\nadvantageous it is.
+Magic Sword Soldia
+A cursed sword that steals\r\nthe vitality of the user in\r\nexchange for overwhelming\r\ndestructive power. Must be\r\nhandled with extreme caution.
+Claidheamh Soluis
+Any opponent who resists is\r\nsoon rended into two. One of\r\nthe Four Treasures
+Flame Sword L?vateinn
+A divine sword tempered using\r\nrunes. It's said the blade\r\nhas the power of fire, and\r\nthat those who are cut by it\r\nbecome engulfed in flames.
+Keris Makia
+A divine sword that can even\r\ncut through roaring flames.\r\nThose who master it are said\r\nto pave the way.
+Divine Sword Mistilteinn
+Said to have been made by\r\ntransforming the branches\r\nof a mistletoe tree. A long\r\nsword that excels at piercing\r\nobjects.
+Ragnarok
+A divine sword modelled on\r\nthe life cycle of mother\r\nnature. Imbued with the power\r\nof the gods, it's said to suck\r\nthe life force of whoever wields\r\nit and return it to the earth.
+Holy Sword Excalibur
+A holy sword said to have\r\nbeen gifted by the Lady of\r\nthe Lake. Those who confront\r\nthe glittering blade receive\r\na shock as if they had just\r\nbeen struck by lightning. 
+Storm Bringer
+A truly “demonic blade" which\r\nlets off an ominous aura. Said\r\nto grow in strength by sucking\r\nthe souls of the victims it cuts.
 
