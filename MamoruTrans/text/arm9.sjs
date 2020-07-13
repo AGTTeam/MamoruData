@@ -415,7 +415,7 @@ Oh? Looks like you've got another <C03>skill book<C04> on\nyou. Pass it here.\n
 I'm busy.\nHurry up and go home before you get hurt.\n\n
 Have you come for warmth again?\n\n\n
 Well, no need to hold back.\nDo make use of my flames to your heart's content.\n\n
-あら ？　またいらしてくれたの ？\n今日はどんなお話をしましょうか。\n\n
+Oh? Did you come to visit again?\nWhat should we talk about today?\n\n
 Wiggle! Have you come to play, wiggle?\n\n\n
 ...Eh? You're busy right now, wiggle?\n\n\n
 Next time, then!\nLet's play together next time, wiggggle!\n\n
@@ -683,10 +683,10 @@ What’s it say?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>業火の免疫<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>業火の免疫<C04> ？\n\n\n
-『業火にすら耐えうるほどの免疫力を\n体内で作り出すことが出来る――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n火傷の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Burn Immunity<C04>’.\n\n
+<C03>Burn Immunity<C04>?\n\n\n
+“You can build up immunity in your body that can\nwithstand even mighty hell fire", or so it says.\n\n
+Apparently, by having this skill assigned, you won't\nneed to worry about being burned.\n\n...That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -957,9 +957,9 @@ Yes... To summarise it...\n\n\n
 “...This skill instils a strong sense of adoration\nfor rocks.\n\n
 As a result, one will develop a habit of observing\nrocky areas, allowing them to harvest material a\ngreater number of times.\n
 ...Not sure I really understand what there is to\nadore about rocks.\n\n
-Well, if you do come across some rocks, why don’t\nyou try harvesting some material from it and see\nwhat's changed?\n
+Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Rocks +2】<C04>\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Rocks +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Apprentice Miner<C04>’.\n
@@ -968,26 +968,26 @@ Yes... To summarise it...\n\n\n
 “...By acquiring the skills of a person who works\nin a mine, you'll be able to dig up rocks without\nfear of fatigue.\n
 As a result, the number of times you can collect\nfrom rocks will increase significantly."\n\n
 ...Are they trying to scout people for the mines?\n\n\n
-Well, if you do come across some rocks, why don’t\nyou try harvesting some material from it and see\nwhat's changed?\n
+Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Rocks +3】<C04>\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Rocks +3】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-どうやらこの書は、 <C03>岩石マスター<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
-<C03>岩石マスター<C04> ？\n\n\n
-書のタイトルからして胡散臭いわね……\n要約すると……\n\n
-『……岩石を見ただけでその土地の状態を\n把握できるほどに岩を愛する気持ちを持つことで、\n\n
-岩場での採取回数を大幅に\nアップさせることが出来る……』 だって。\n\n
-透視能力みたいなものかしら…… ？\n\n\n
-ま、 岩場を見つけたら素材を採取してみて、\nどのように変化したのかチェックしてみれば\nいいんじゃない ？\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Rock Master<C04>’.\n
+<C03>The Rock Master<C04>?\n\n\n
+The title seems pretty suspect to me...\nWell, to summarise it...\n\n
+“...By adoring rocks so much that you can grasp\nthe state of the earth just by looking at them,\n\n
+you can greatly increase the number of times\nyou're able to collect material from them.”\n\n
+I wonder if it's like having the power to see\nthrough objects...?\n\n
+Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n\n\n　採取の回数がアップしました！\n\n<C03>　　　　　【岩場＋4】<C04>\n\n\n
-ふぅ……少し疲れたな……\n\n\n
-……この辺りでちょっと休憩しようか。\n\n\n
-＞遺跡内を歩き続けてきたレンは\n　近くの壁にもたれ掛かり、 腰を下ろそうとした。\n　そのとき……\n
-…… ！ ！ ？ ！\n\n\n
-…………\n\n\n
-＞突然目の前に現れたゴーストを見て、\n　柄にもなく、 いちもくさんに逃げ出しすレン。\n\n＞このとき、 仮面の裏に隠された瞳が、\n　悲しみで満ちていたことなど\n　このときのレンには知る由もなかった……\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          【Rocks +4】<C04>\n\n
+Phew... I'm kinda tired.\n\n\n
+...I guess this is as good a place as any to take\na break.\n\n
+＞Having been walking through the ruins, Ren\n　leaned against a nearby wall ready to sit\n　down, when...\n
+...!!?!\n\n\n
+......\n\n\n
+＞Startled by a ghost who suddenly appeared,\n　Ren made an out-of-character decision to\n　run for it as fast as he could.\n＞At that time, he had no way of knowing that\n　the eyes hiding behind the mask were filled\n　with sorrow...\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the ‘<C03>Timber Appraiser<C04>’.\n

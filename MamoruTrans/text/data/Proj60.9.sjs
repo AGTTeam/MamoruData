@@ -2,7 +2,7 @@ Light Hall
 Green Hall
 Harp Hall
 Earth Hall
-Fire Hall
+ Fire Hall
 Blue Hall
 Mallet Hall
 Divine Hall

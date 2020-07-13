@@ -241,14 +241,14 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 Creepy... crawlies...
 Bug-Hating Woman　Elle
 I really hate bugs! That creepy\r\ncrawling thing they do... Yuck.\r\nJust thinking about it gives me\r\ngoosebumps. I heard there are\r\ntons of them in the ruins...\r\nPlease! Set my mind at peace!!
-So you've fought off the bugs in\r\nthe ruins. It's not that I plan\r\nto go there myself, but I couldn't\r\nsleep at night knowing there were\r\nso many nearby. Though, I think\r\nI'll be able to sleep just fine\r\ntonight. Thank you very much.
+So you've fought off the bugs in\r\nthe ruins. It's not that I plan to\r\n d go there myself, but I couldn't\r\nsleep at night knowing there were\r\nso many nearby . Though, I think\r\nI'll be able to sleep just fine\r\ntonight. Thank you very much.
 Glittering Stone (2)
 High-Flying Lady　Rondina
-I adore beautiful stones. That's\r\nright... Aren't Rubies just\r\nperfect for me, who overflows\r\nwith the power of love? Well,\r\none should think you'd best go\r\nand find some toodle-pip.
-My! The radiance of this gem truly\r\nis perfect for me. No... In truth,\r\nI am the only one in this world\r\nworthy of it... Don't you agree?\r\nWell, I shall be in touch if I\r\nhave need of you again.\r\n　　　　　　　　-Yours faithfully.
+I adore beautiful stones. That's\r\nright... Aren't Rubies just perfect\r\nfor me, who overflows with the power\r\nof love? Well, none should think you'd\r\nbest go and find some, toodle-pip.
+My! The radiance of this gem truly\r\nis perfect for me. No... In truth,\r\nI am the only one in this world\r\nworthy of it... Don't you agree?\r\nWell, I shall be in touch if I have\r\nneed of you again.\r\n　　　　　　　　-Yours faithfully.
 To the Wailing Voice
 Old Woman　Granje
-As the night grows darker, I hear\r\nthe sound of a woman sobbing coming\r\nfrom the ruins. When I spoke to some\r\npeople on the survey team, they said\r\nit was the voice of a ghost in the\r\nthird layer...
+When the nights grow dark, I\r\nhear the sound of a sobbing\r\nwoman coming from the ruins.\r\nI spoke to some people on the\r\nsurvey team, and they said it\r\nwas the voice of a ghost in\r\nthe third layer... 
 Last night, I suddenly stopped hearing\r\nthe voice of the ghost wailing...\r\nI see now. You cheered her up, didn't\r\nyou? I feel like a fog has lifted from\r\nmy heart too. Thank you for listening\r\nto the selfishness of this old woman.
 闇に蠢く小さな悪魔
 黒髪の遺跡調査員　ミルシェ
