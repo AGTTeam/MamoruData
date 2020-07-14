@@ -241,41 +241,41 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 Creepy... crawlies...
 Bug-Hating Woman　Elle
 I really hate bugs! That creepy\r\ncrawling thing they do... Yuck.\r\nJust thinking about it gives me\r\ngoosebumps. I heard there are\r\ntons of them in the ruins...\r\nPlease! Set my mind at peace!!
-So you've fought off the bugs in\r\nthe ruins. It's not that I plan to\r\n d go there myself, but I couldn't\r\nsleep at night knowing there were\r\nso many nearby . Though, I think\r\nI'll be able to sleep just fine\r\ntonight. Thank you very much.
+So you've fought off the bugs in\r\nthe ruins. It's not that I plan to\r\ngo there myself, but I couldn't\r\nsleep at night knowing there were\r\nso many nearby. Though, I think\r\nI'll be able to sleep just fine\r\ntonight. Thank you very much.
 Glittering Stone (2)
 High-Flying Lady　Rondina
-I adore beautiful stones. That's\r\nright... Aren't Rubies just perfect\r\nfor me, who overflows with the power\r\nof love? Well, none should think you'd\r\nbest go and find some, toodle-pip.
+I adore beautiful stones.\r\nThat's right... Aren't Rubies just\r\nPerfect for me, who emanates with\r\nthe power of love? Well, one should\r\nthink you'd best go and find some\r\nfor me, toodle-pip.
 My! The radiance of this gem truly\r\nis perfect for me. No... In truth,\r\nI am the only one in this world\r\nworthy of it... Don't you agree?\r\nWell, I shall be in touch if I have\r\nneed of you again.\r\n　　　　　　　　-Yours faithfully.
 To the Wailing Voice
 Old Woman　Granje
-When the nights grow dark, I\r\nhear the sound of a sobbing\r\nwoman coming from the ruins.\r\nI spoke to some people on the\r\nsurvey team, and they said it\r\nwas the voice of a ghost in\r\nthe third layer... 
-Last night, I suddenly stopped hearing\r\nthe voice of the ghost wailing...\r\nI see now. You cheered her up, didn't\r\nyou? I feel like a fog has lifted from\r\nmy heart too. Thank you for listening\r\nto the selfishness of this old woman.
-闇に蠢く小さな悪魔
-黒髪の遺跡調査員　ミルシェ
-赤色の壁で構成された遺跡の第三層\r\n付近に、赤黒い体毛の小さな悪魔の\r\n子が出没するんだけど、いたずらに\r\n私たちの持ち込んだ食料を盗んだり\r\n凶暴な魔物を呼び寄せたりするので\r\n困ってるの。何とかしてくれない？
-依頼していたイタズラ好きの悪魔の\r\n子たちを懲らしめてくれたようね。\r\nでも、どこから出てくるのかはまだ\r\n解明できていないのだけれど、彼ら\r\nその内また現れるのよね……。\r\nそれまでに、少しでも調査を進めて\r\nおかないと！
-副業？本業？
-悩める占い師　ブロード
-二人目の子供が生まれ、占い師一本\r\nで食っていくには厳しくなった…。\r\nそこで占い師育成学校でも開こうと\r\n思うんだが、それには授業で使える\r\nほどたくさんの水晶玉が必要だ。\r\n何とか集めてきてくれないかな？
-すごい！これだけの水晶玉があれば\r\nとりあえずひとクラス分くらいなら\r\n授業が開けそうだ。少しずつ軌道に\r\n乗せて、再来年には誰もが認める\r\n立派な学校にしてみせるぞ！何なら\r\nキミが生徒第一号にならないか？
-アルバニア闘技大会
-アルバニアの鍛冶屋　ロングル
-今度、アルバニア地区で闘技大会が\r\n開かれることになったんだ。それで\r\nうちの店に防具を提供して欲しいと\r\nいう話がきたんだが、突然のことで\r\n材料が不足しててな…。報酬は弾む\r\nから、集めてくれねぇか？
-今日、ギルドから甲冑の留め具が\r\n届いたぜ！これで何着だって防具を\r\n作ることが出来るってもんだ！良い\r\n物を作って目を付けてもらえりゃ、\r\n来年からも使ってもらえるらしいし\r\nここいらで頑張らなきゃな！
-美しき女神の像
-負傷した遺跡調査員　ムファーザ
-遺跡内部にべっぴんな姉ちゃんの像\r\nが置いてあるなぁ～と思って近づい\r\nたんだよ。そしたら突然光の線が\r\n飛び出してきてひと突きさ！\r\n…そうなると分かってても近づいて\r\nしまう…。先に行って壊してくれ！
-べっぴん姉ちゃんの像を壊しといて\r\nくれたようだな。\r\n…くそっ！男なら誰もが引っ掛かり\r\nそうな単純な罠を仕掛けやがって！\r\n…でも、やっぱり壊してしまうのは\r\nもったいなかったかな…。
-夢追い人
-肉屋開店を目論む男　スペナズ
-俺はもう１５年近く国のお役所で\r\n真面目に働いてきた。だが、やって\r\nきたことと言えば、国民のクレーム\r\n処理、ただそれだけ。俺は、俺の\r\n好きなことを始めてみようと思う！\r\n肉だ！俺は肉が好きなんだ！
-よし！これだけ旨そうな肉が揃えば\r\nとりあえず肉屋を開店させることが\r\n出来そうだな！…こんなオッサンの\r\n遅咲きの夢を後押ししてくれて、\r\nありがとな。オープンしたら、ぜひ\r\n顔を出してくれ！２割引で売るよ！
-重大なミス！
-肉屋を開店させた男　スペナズ
-ようやく念願だった肉屋をオープン\r\nさせるに至ったんだが、重大なミス\r\nに気づいたんだ…。店に並んでる肉\r\nの種類が１種類しかない！度々申し\r\n訳ないが、乗りかかった船だと思っ\r\nて骨付きモモ肉を調達してくれ！！
-うむ！色艶も良い！良いモモ肉を\r\n手に入れてくれたよ、ほんと。\r\nさっそく店頭に並べて、明日から\r\n本格的に店をオープンさせるぜ！\r\nここまで来たら今後は自分で肉を\r\n調達するさ。いつまでもおんぶに\r\nだっこってわけにはいかねぇしな。
-プライドが芽生えた剣士
-流離いの剣士　ボルドー
+When the nights grow dark, I hear\r\nthe sound of a sobbing woman\r\ncoming from the ruins. I spoke to\r\nsome people on the survey team,\r\nand they said it was the voice of\r\na ghost in the third layer...
+Last night, I suddenly stopped\r\nhearing the voice of the ghost\r\nwailing... I see. You cheered her\r\nup, didn't you? I feel like a fog\r\nhas lifted from my heart too.\r\nThank you for listening to the\r\nselfishness of this old woman.
+Small Demon in Darkness
+Dark-Haired Archaeologist　Miluse
+There's a small crimson demon in\r\na red walled room near the third\r\nlayer of the ruins, and it's causing\r\ntrouble by stealing all our food\r\nsupplies and attracting other\r\nmonsters. Can't you do something?
+Looks like you fulfilled my request\r\nand dealt with the sneaky brat.\r\nThough, we still don't know where\r\nit came from, or when another might\r\nappear... We'd better to use this\r\ntime to advance our investigation,\r\nor else--!
+Side job? Main job?
+Troubled Fortune Teller　Broad
+My second child was born but it's\r\nHard to feed a family as a single\r\nfortune teller.... That's why I'm\r\nthinking of opening a divination\r\ntraining school, but I need a lot\r\nof crystal balls to use in class.
+Amazing! With this many crystal\r\nballs, I can put on at least one\r\nclass. I'll build up little by little,\r\nand by the year after next, have\r\na fine school that's acknowledged\r\nby all! You can be my first pupil,\r\nif you'd like?
+Albania's Fighting Tournament
+Albanian Blacksmith Rongull
+There's a fighting tournament\r\nbeing held in Albania. Our store\r\nwas asked to provide armour,\r\nbut we're suddenly running short\r\nof materials. I'll pay you well,\r\nso could you gather these?
+I received the armour straps from\r\nthe guild today! I can make a number\r\nof items with these! If we do a good\r\njob, it seems this could become a\r\nregular thing so I'm gonna give it\r\nmy all!
+Beautiful Goddess Statues
+Injured Archaeologist　Mufasah
+I thought the statues in the ruins\r\nwere total babes so I went to take\r\na closer look, and then a beam of\r\nlight appeared and hit me! ...Even\r\nthough I saw it coming, I was still\r\ncurious... Please, smash them all!
+So you destroyed the hot babe\r\nstatues. ...Grr! Those fiends set\r\nsuch simple traps knowing that\r\nany man would be pulled in!\r\n...Though, I guess destroying them\r\nwas a bit of a waste...
+Dream Chaser
+Man Dreaming of a Butchery　Spenaz
+I've been working hard for the\r\ncouncil for nearly 15 years. But\r\nall I've ever done is deal with\r\ncomplaints. So, I decided to do\r\nwhat I like for once! And that's\r\nmeat! I love meat!
+Alright! Now I've got enough\r\ndelicious\r\nmeat to open my own butchery! Thank\r\nyou for supporting this old man's\r\nlate-blooming dream. Once I'm open,\r\nmake sure to pay a visit! I'll give\r\nyou a 20％ discount!
+Big Mistake!
+Man Who Opened a Butchery　Spenaz
+I finally opened the butchery I'd\r\nbeen dreaming of but then I realised\r\nI made a serious mistake. I only have\r\none kind of meat! Sorry to ask again\r\nbut I've gone too far to turn back\r\nnow, so I beg of you, can you help?!!
+Mm! A great texture! You really\r\nbrought me some fine cuts. I'm\r\ngoing to add them the store right\r\naway and open the shop in earnest\r\nfrom tomorrow! Now I've got to this\r\npoint, I'll get my own meat from now\r\non. Can't rely on others forever!
+Swordsman With Pride
+Wandering Swordsman　Bordeaux
 以前、甲冑戦士に無様に破れた結果\r\nあんたに仇を取ってもらったんだが\r\nやっぱり悔しくて、もう一度挑んだ\r\nんだ。ま、また返り討ちに遭ったん\r\nだが、再戦の約束をしてね。日時が\r\n決まったんで、伝えてくれないか？
 …実は、俺みたいな弱っちいやつ\r\n忘れてんじゃないか？とか色々と\r\n考えちまって…誰かに再戦の意志\r\nを確かめて来て欲しかったんだ。\r\nでもあいつ、こんな俺を待って\r\nくれてたんだな…。強くなった俺\r\nをしっかり見せてやってくるぜ！
 迷える炎に打ち勝て！

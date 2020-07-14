@@ -435,11 +435,11 @@ Hey.\n\n\n
 Welcome. Been up to anything exciting lately?\n\n\n
 Could you take a look at this?\n\n\n
 Oh? That's a <C03>skill book<C04> you've got with you.\nPass it here.\n\n
-……ん ？　……子供、 か。\n\n\n
-……こんなところをウロチョロするな。\n何かあっても知らんぞ。\n\n
-子供……だと…… ？\nじゃあ言わせてもらうが……\n\n
-家に帰れ。\n\n\n……おぬしにとってもそれが一番\n良いはずだろう。\n\n
-＞それだけを言い残し、　ブロンズナイトは\n　レンの前を離れた。\n\n
+...Hm? ...Oh, a child.\n\n\n
+...You shouldn't hang around a place like this.\n\n\n
+...A child... you said?\nLet me tell you--\n\n
+Go home.\n\n\n...You must know it's for the best, too.\n\n\n
+＞Leaving it at that, the Bronze Knight walked\n　away.\n\n
 ...Hm?\n\n\n
 (Wah! ...It's a human, wiggle.)\n\n\n(I'm never trusting a human again, wiggle!\n I'll just ignore them!)\n\n
 That’s odd... This Green Gel isn't attacking.\n\n\n
@@ -634,10 +634,10 @@ What’s it say?\n\n\n
 ま、 あなたが必要だと思うのなら、\n登録してみればいいんじゃない ？ \n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>無の境地<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>無の境地<C04> ？\n\n\n
-『無の境地に達するほどの精神力を宿すことで\n空気の流れを読めるようになる――』\nって書いてあるわ。\n
-つまり、 登録さえすれば回避率が\nアップするというスキルのようだけど…\n\n……もはや仙人と呼ばれる域ね。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Empty Mind<C04>’.\n\n
+<C03>Empty Mind<C04>?\n\n\n
+“By having the mental strength to reach a point\nwhere your mind is clear of all thoughts, you will\nbe able to read the air's movements", or so it says.\n
+In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\n...Sounds like you'll reach the stage of becoming\na wise old monk.\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -676,10 +676,10 @@ Apparently, by having this skill assigned, you won't\nneed to worry about being 
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>折れない心<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>折れない心<C04> ？\n\n\n
-『幾度となく襲いくる恐怖に打ち勝って\n来たからこそ培われた心を持てる――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n臆病の心配はしなくてもいい\nってことみたいよ。\n……かなり便利なスキルね。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Unbreakable Heart<C04>’.\n\n
+<C03>Unbreakable Heart<C04>?\n\n\n
+“You can come to possess a heart nurtured by\novercoming panic countless times", or so it says.\n\n
+Apparently, by having this skill assigned, you won't\nneed to worry about fear.\n\n...That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -1708,89 +1708,89 @@ I'm counting on you, buddy!\n\n\n
 ＞With those parting words, Veres left the guild\n　in a flash.\n\n
 ＞Left all alone, Charnet stared at Ren with a\n　daring smile.\n\n
 ＞Ren reluctantly picked up one of the request\n　papers.\n\n
-ふぅ……少し疲れたな……\n\n\n
-……この辺りでちょっと休憩しようか。\n\n\n
-＞遺跡内を歩き続けてきたレンは\n　近くの壁にもたれ掛かり、 腰を下ろそうとした。\n　そのとき……\n
-…… ！ ！ ？ ！\n\n\n
-…………\n\n\n
-＞突然目の前に現れたゴーストを見て、\n　柄にもなく、 いちもくさんに逃げ出しすレン。\n\n＞しかし、 ゴーストが追ってくる気配はない。\n　\n　\n＞不審に思ったレンは、 恐る恐る\n　ゴーストへと近づいた……\n　\n
-…………\n\n\n
-……………………\n\n\n
-………………………………\n\n\n
-……逃げないのですか ？\n\n\n
-…… ！ ！\n\n\n
-あ、 いや、 さっきはいきなり現れたから\nちょっと驚いたけど……\n別に何か仕掛けてくる気配もないし……\n
-…………\n\n\n
-（あれ……もしかして依頼にあった\nゴーストってこいつのことか…… ？）\n\n
-…………\n\n\n
-……あ、 あのさ。\n\n\n
-……はい ？\n\n\n
-えっと……遺跡のすぐ近くにある\nリルカ村って知ってるかな ？\n\n
-……えぇ。　存じてますよ。\n\n\n
-その村にいる<C03>グランジェ<C04>っていう\nおばあさんが、 夜になると遺跡から\n女性の泣き声が聞こえるって言ってて……\n
-……多分、 私のことですね。\n\n\n
-あ、 やっぱり。\n\n\n
-その人、 あんたのことをずいぶんと\n気に掛けてるみたいで……\n\n
-えっと……何か辛いことでもあるのか ？\n\n\n
-辛いこと、 ですか……\n\n\n
-……そうですね。　辛いこと、 だらけです。\n\n\n
-…………\n\n\n
-（……くそっ。　空気が重すぎる。\nでも、 これも仕事だ……）\n\n
-……あ、 あのさ。\n俺でよければ相談に乗るけど…… ？\n\n
-……そう、 だん ？\n\n\n
-……あ、 嫌ならいいんだけどさ。\n誰かに話して、 はき出してしまえば、\nちょっとはマシになるんじゃないか ？\n
-…………\n\n\n
-……では、 お願いしてもいいかしら ？\n\n\n
-あぁ、 どうぞ。\n\n\n
-私は、 ずっと……ずっとこの遺跡に\n存在し続けています。\n\n
-詳しい時間なんて、 もう分かりません。\n\n\n
-ただ、 人として生きていた頃、\n私はこの遺跡の建設に携わっていました。\n\n
-遺跡の建設……って、 おいおい。\nそれ千年以上前の話じゃねぇか。\n\n
-それくらい、 経っているでしょうね。\n\n\n
-まぁ、 建設と言っても、\n錬金術という技術で生み出したのですが。\n\n
-錬金術……\n\n\n
-……レヴィールの民 ？\n\n\n
-まぁ ！ ？　我らのことを\nご存じなのですか ！ ？\n\n
-……あ、 いや、 名前くらいならね。\n\n\n
-ということは、 <[>魔晶石<]> についても\n多少の知識はお有りになるということですね。\n\n
-ご存じの通り <[>魔晶石<]> とは、 自然界の力を\n錬金術で内部に閉じこめる事に成功した石です。\n\n
-火の力を持った石は、 炎を熾し、\n水の力を持った石は、 冷水を垂れ流す。\n\n
-人々の生活に少しでも役立てばと思い、\n我らレヴィールの民は研究の末、\nその石を生み出したのですが……\n
-生活に欠かせぬものとなった石は、\nついに、 戦の道具としても使われるように\nなってしまったのです。\n
-……結果、 たくさんの人が死にました。\n\n\n
-人だけではありません。\n文明そのものも、 滅んでしまったのです。\n\n
-その切っ掛けを作ったのは\n我らレヴィールの民。\n\n
-そんなつもりはなかった……\nなんて言い訳が通用せぬほど、\nそれは大きな過ちでした。\n
-…………\n\n\n
-我らは自らの罪の尻ぬぐいをし……\nつまり錬金術により生み出された異界の者達と、\n我らの魂を、 この遺跡に封印したのです。\n
-……つまり、 みんなしてこの遺跡内で\n自ら命を絶ったと？\n\n
-はい。　そういうことです。\n\n\n
-我らは、 成仏して魂が消滅する者……\n自ら生み出した石の力の影響を受け、\n魔物となり遺跡内を徘徊する者……\n
-そして、 私のように自我を持ったまま\n自負の念からか、 その場にしがみつき続けて\nいる者とにわかれたのです。\n
-……さきほど、 あなたはこの遺跡が誕生してから\n千年の月日が流れた、 と言いましたね ？\n\n
-……それほどの月日を乗り越えても、\n未だに後悔が消えません。\n\n
-……なぜ、 なぜあんな物を\n生み出してしまったのか……\n\n
-創り出した者のせいじゃない。\nそれを使う者が悪い。\n\n
-……なんていう慰め方は出来ない。\n\n\n
-創り出した者は、 創られた物に対して、\n責任を持たなければならないと思うから。\n\n
-でも、 あんたはもう十分過ぎるほどの\n責任を感じてきたんだろ ？\n\n
-外の世界では、 何百年も前から\n人類は新たな一歩を踏み出してる。\n\n
-あんたらの事なんて、 誰もなんとも\n思っちゃいない。\n\n
-……だからのうのうと生きろ、\nってことじゃないけどさ。\n\n
-もうちょっとこう、 肩の力を抜いて、 さ。\n……うまく言えないけど。\n\n
-……言いたいことは、 わかります。\n\n\n
-……あなたは、 やさしいですね。\nこうして話しを聞いて貰うことなんて、\nこの長い月日の中で一度たりともなかった。\n
-それだけで、 十分。\n……本当に、 ありがとう。\n\n
-いや、 まぁ。\n……別に何もしてないから、\nお礼なんていいけど。\n
-いえ。　少しらくになったような気がします。\nあなたのおかげです。\n\n
-また、 よろしけばいつでも\nいらしてください。\n\n
-今度は、 あなたのお話を聞かせて\nもらいたいです。\n\n
-あぁ、 また近くまで来たら寄ってみるよ。\n\n\n
-じゃあ、 元気で……\nってか早く成仏しろよ ！\n\n
-それはまだまだ先のようです。\n\n\n
-……だって、 あなたのような\n素敵な殿方と巡り会えたのですから……\n\n
-…………\n\n\n
-……ありがとう。\n\n\n
+Phew... I'm kinda tired.\n\n\n
+...I guess this is as good a place as any to take\na break.\n\n
+＞Having been walking through the ruins, Ren\n　leaned against a nearby wall ready to sit\n　down, when...\n
+...!!?!\n\n\n
+......\n\n\n
+＞Startled by a ghost who suddenly appeared,\n　Ren made an out-of-character decision to\n　run for it as fast as he could.\n＞However, there was no indication that the ghost\n　was following.\n\n＞Thinking it was suspicious, Ren timidly retraced\n　his steps...\n\n
+......\n\n\n
+.........\n\n\n
+............\n\n\n
+...Aren't you going to run away?\n\n\n
+...!!\n\n\n
+Ah, no, I was a bit shocked when you suddenly\nappeared, but... it doesn't look like you have\nany bad intentions...\n
+...\n\n\n
+(Wait a minute... Maybe this is the ghost mentioned\nin the request...?)\n\n
+...\n\n\n
+...S-say.\n\n\n
+...Yes?\n\n\n
+Um... Do you know of Liruka Village, just near\nhere?\n\n
+...Yes, I'm familiar with it.\n\n\n
+An old woman from the village named <C03>Granje<C04> told\nme that she can hear a woman crying from the\nruins at night...\n
+...She probably means me.\n\n\n
+Ah, so I was right.\n\n\n
+She seemed quite concerned about you...\n\n\n
+Erm... Is there something upsetting you?\n\n\n
+Something upsetting...?\n\n\n
+...Yes. There is much troubling me.\n\n\n
+...\n\n\n
+(...Urk. The atmosphere is so heavy. But, this is\nalso part of my job...)\n\n
+...S-say.\nI'm here, if you want to talk about it...?\n\n
+...Talk about it?\n
+...Ah, you don't have to if you don't want to.\nBut, it you talk and let it all out, maybe you’ll\nfeel a little better after?\n
+...\n\n\n
+...Then, may I share my story with you?\n\n\n
+Go ahead.\n\n\n
+I... have been in these ruins for a long, long time.\n\n\n
+I don't know the exact time anymore.\n\n
+But, when I was alive, I was involved in the\nconstruction of this site.\n\n
+The construction of the ruins...\nOi oi, you're talking over a thousand years ago.\n\n
+That's about right.\n\n\n
+Well, I say construction, but it was actually made\nusing the art of alchemy.\n\n
+Alchemy...\n\n\n
+...The nation of Reville?\n\n\n
+Oh! You know of it!?\n\n\n
+...Ah-- No, just the name.\n\n\n
+Well, I'm sure you must have also heard of Magicite\nthen.\n\n
+As you probably know, Magicite is the result of a\nsuccessful attempt to use alchemy to trap the\npower of nature within a stone.\n
+A stone with the power of fire, sets things alight,\na stone with the power of water, drips cold water.\n\n
+After conducting such research, we, the people\nof Reville, created the stone hoping that it would\nprove useful for all life...\n
+But, the stone, which had become an indispensable\npart of our daily lives, ended up being used as a\ntool for warfare.\n
+...Many people died as a result.\n\n\n
+Not only people.\nOur civilization itself was also destroyed.\n\n
+And, it was us who set it all into motion.\n\n\n
+We didn't mean it...\nNot that such an excuse bears any weight, given\nhow incredible a mistake it was.\n
+...\n\n\n
+We tried to fix our sins... That is, we sealed away\nall the creatures created by alchemy, and our own\nsouls, inside these walls.\n
+...You mean, you all took your lives in these ruins?\n\n\n
+Yes, that is correct.\n\n\n
+Some found peace and their souls passed from this\nworld... Others were influenced by the power of\nthe stone and turned into monsters...\n
+And, some like me managed to hold onto their sense\nof self and continue to cling to this place,\nperhaps out of guilt.\n
+...A little while ago, you said that a thousand\nyears have passed since the site was created,\nyes?\n
+...Even after that much time has passed, the\nregrets still do not fade.\n\n
+...Why, why did we make such a thing...?\n\n
+The fault isn't with the people who created it.\nIt's the ones who used it that are to blame.\n\n
+...I can't comfort you with those words.\n\n\n
+I think a creator has to take responsibility for\nwhat they create.\n\n
+But haven't you taken your fair share of\nresponsibility?\n\n
+In the outside world, humanity has been taking\nsteps forward for hundreds of years.\n\n
+Nobody thinks much of what happened here\nanymore.\n\n
+...That's not to say that you shouldn't care at\nall.\n\n
+Just that you shouldn't be so hard on yourself,\nyou know. ...I'm not really good at putting it into\nwords.\n
+...I know what you are trying to say.\n\n\n
+...You're very kind, aren't you?\nAll this time, not once has anyone listened to me\nlike this.\n
+That alone is enough.\n...Thank you, truly.\n\n
+Ah-- I didn't really do anything to deserve your\nthanks.\n\n
+That's not true. Thanks to you, I feel a little\nbetter now.\n\n
+If you'd like, please drop by again.\n\n\n
+Next time, I'd love to hear your story.\n\n\n
+Yeah, I'll stop by if I'm in the area.\n\n\n
+Well, keep well... or, maybe I should say, rest in\npeace soon!\n\n
+I think that will still be a way off yet.\n\n\n
+...After all, I was able to meet such a wonderful\nand kind man like yourself...\n\n
+...\n\n\n
+...Thank you.\n\n\n
 ＞Tucked away in a corner of Liruka Village was\n　a small shop.\n\n
 ＞It is the sole smithery in the village, and\n　various weapons lined the walls to the ceiling.\n\n
 ＞There, inside the store where the sound of\n　flames and iron being struck echoed all\n　around, Ren was stood stock still.\n
