@@ -1,9 +1,9 @@
 石盤
-\r\n\r\n\r\n\r\n 　Barmiza Ruins　First Layer\r\n ―The Inescapable Labyrinth―\r\n\r\n\r\n\r\n
+\r\n\r\n\r\n\r\n 　Barmiza Ruins　 First Layer\r\n  ―The Inescapable Labyrinth―\r\n\r\n\r\n\r\n
 石盤
    Waiting beyond here is the\r\n  noble guardian of dark green.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n  Those who would dare to enter\r\n   should be prepared to take\r\n       their last breath.
 石盤
-\r\n   People repeat their stupid\r\n   mistakes knowing full well\r\n      how foolish they are.\r\n\r\n    If there’s power in their\r\n            sights...\r\n   They do it all the more so.\r\n\r\n Only by continuing forward can\r\n they avoid wasting their lives.\r\n
+\r\n People repeat the same mistakes\r\n  knowing full well how foolish\r\n            they are.\r\n\r\n If there's power in their sights...\r\n  They do it all the more so.\r\n\r\n Turn back now and you might yet\r\n     avoid wasting your life.\r\n
 石盤
 \r\n When a new door is opened, if you\r\n　descend deep, deep down, you'll\r\n find the sharp end of those who\r\n　　　　lost their patience.\r\n\r\n　　 Overcome it with bravery.\r\n\r\n　　 The first key is in sight.\r\n
 石盤

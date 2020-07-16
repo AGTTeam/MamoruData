@@ -178,4 +178,3 @@ Holy Sword Excalibur
 A holy sword said to have\r\nbeen gifted by the Lady of\r\nthe Lake. Those who confront\r\nthe glittering blade receive\r\na shock as if they had just\r\nbeen struck by lightning. 
 Storm Bringer
 A truly Ågdemonic blade" which\r\nlets off an ominous aura. Said\r\nto grow in strength by sucking\r\nthe souls of the victims it cuts.
-

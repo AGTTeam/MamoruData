@@ -22,8 +22,8 @@ A dirty medal which proves\r\nyou've fulfilled all the\r\nD rank quests at the\r
 Ｂランク制覇の証
 冒険者ギルドで、Ｂランクの\r\n依頼を全てこなしたことを\r\n証明する銅のメダル。\r\n\r\nザラザラとした質感が特徴。
 あ
-Ａランク制覇の証
-冒険者ギルドで、Ａランクの\r\n依頼を全てこなしたことを\r\n証明する銀のメダル。\r\n\r\n美しい光沢を放っている。
+A Rank Medal
+A silver medal which proves\r\nyou've fulfilled all the\r\nD rank quests at the\r\nAdventurer's Guild.\r\n\r\nHas a beautiful sheen.
 あ
 Ｓランク制覇の証
 冒険者ギルドで、Ｓランクの\r\n依頼を全てこなしたことを\r\n証明する金のメダル。\r\n\r\n思わず噛み付きたくなる。
@@ -44,56 +44,56 @@ Rutila Key
 A beautiful key that shines\r\nwith a beautiful red light.\r\nIt seems it might fit the\r\ndoor inside the ruins with\r\nthe same colour red\r\nkeyhole.
 あ
 Furvum Key
-どす黒く、汚れの激しい鍵。\r\n遺跡内にある同じ黒色の鍵穴\r\nで使用出来そうだ。
+A filthy, black key.\r\nIt seems it might fit the\r\ndoor inside the ruins with\r\nthe same colour red\r\nkeyhole.
 あ
 Argentea Key
 銀色に輝く美しい鍵。遺跡内\r\nにある同じ銀色の鍵穴の扉で\r\n使用出来そうだ。
 あ
 Adventurer's Record 1
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 1st page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-およそ1000年以上も前に滅んだとさ\r\nれる古代エデンバル文明。その時代\r\nに建設された遺跡に、今私は立って\r\nいる。栄華を極めし文明が、一夜の\r\n内に滅んだとされるその歴史的背景\r\nを、この遺跡から汲み取れるやもし\r\nれない。調査はまだ始まったばかり\r\nだ。これより私は、冒険日誌を書き\r\n記していく。\r\n　　　冒険家　ラッシュ・ワイマン
+The ancient civilization of Edenbar\r\nis said to have been destroyed\r\nmore than 1,000 years ago. I now\r\nstand in the ruins built at that\r\ntime. I hope to discover the history\r\nof this extravagant empire believed\r\nto have been destroyed in a single\r\nnight. My investigation has just\r\nbegun. I will log discoveries here.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 2
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 2nd page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-我々の理解を超えた不思議な力で守\r\nられているとはいえ、やはり内部は\r\n所々が崩壊してしまっている。何気\r\nなく乗った足場が崩れ落ちたりする\r\nこともあった。\r\nただ、崩れた地面に落ちると、下の\r\n階のフロアへ楽に移動出来ることも\r\nある。状況の見極めが重要だ。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+ Despite being protected by a\r\n mysterious force beyond our\r\n understanding, there are still\r\n some parts of the interior\r\n collapsed. There have been times\r\n when the ground I've walked on\r\n has casually collapsed. However,\r\n sometimes falling down has allowed\r\n me to easily access lower floors.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 3
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 3rd page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-エデンバルの繁栄の裏には、自然の\r\n力が込められた<C03>《魔晶石》<C04>という石\r\nが大きく関わっているらしい。\r\n例えば、炎の力を持った<C03>《魔晶石》<C04>\r\nを使えば、道具もなしに火を起こす\r\nことが出来たらしい。\r\nどうやら、この遺跡にも<C03>《魔晶石》<C04>\r\nが使われているようだが…。\r\nまだまだ調査が必要だ。\r\n　　　冒険家　ラッシュ・ワイマン
+It seems that a stone with the\r\npower of nature known as <C03>Magicite<C04>\r\nis closely linked to Edenbar's\r\nprosperity. For example, <C03>Magicite<C04>\r\nimbued with the power of fire can\r\nproduce a fire without any tools.\r\nIt appears <C03>Magicite<C04> is also active\r\nin these ruins... There's much\r\nmore we need to investigate.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 4
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 4th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-鍵穴が存在していないにも関わらず\r\n重く閉じられた扉を発見した。\r\nどうやら、これも<C03>《魔晶石》<C04>の力を\r\n利用したものらしい。扉の近くには\r\n<C03>《魔晶石》<C04>と思わしき石のかけらが\r\n淡く光放つ台座に配置されている。\r\nこの機能を停止させることで、扉は\r\n開くようだ。うむ…実に興味深い。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+ I came upon a heavy locked door,\r\n though it lacked a keyhole.\r\n Apparently, it too utilises the\r\n power of <C03>Magicite<C04>. Near the door\r\n was a stone I believe to be the\r\n <C03>Magicite<C04>, sat on a pedestal\r\n emitting a faint light. It seems\r\n that interrupting it, will open\r\n the door. Hm... Fascinating.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 5
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 5th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-1000年以上もの間、その機能を失う\r\nことのない<C03>《魔晶石》<C04>にも驚いたが\r\n遺跡の守護者であるガーディアンの\r\n存在は、それ以上の衝撃であった。\r\n伝説上の生物でしかないドラゴンの\r\nような容姿をしたものには、近づく\r\nことすら叶わない。彼らは一体、\r\n何を想い、何を守り続けているの\r\nだろうか…？\r\n　　　冒険家　ラッシュ・ワイマン
+I was surprised by the <C03>Magicite<C04> that\r\nhas continued to function even\r\nafter 1000 years but the existence\r\nof the Guardians, protectors of\r\nthe ruins, was even more shocking.\r\nI couldn't even get close to those\r\nseemingly legendary creatures.\r\nWhat is it that they have been\r\nprotecting all this time...?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 6
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 6th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-この遺跡には見たこともない生物や\r\n怪物として語られるような輩まで\r\n存在している。…これも古代文明の\r\n力の影響なのだろうか？\r\n一番驚いたのは三つの首を持つ黒い\r\n獣だ。やつが飛び掛かってきたとき\r\nとっさに伏せていなかったら、いま\r\nここに、私はいなかっただろう…。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+In these ruins are creatures and\r\nmonsters that I have never even\r\nseen before.\r\n...Is this also a result of the\r\nancient civilization's power?\r\nWhat surprised me the most was a\r\nblack beast with three necks. If I\r\nhadn't hidden when he jumped down,\r\nI wouldn't be here right now...\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 7
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 7th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-遺跡の第二層は砂に埋もれ、随分と\r\nひどい有様だ。誤って砂地に足を\r\n踏み入れてしまったら、脱出する\r\nまでにかなり苦労するだろう…\r\nなんといっても、<C03>移動力、ジャンプ\r\n力が普段の半分になってしまう<C04>の\r\nだから…。\r\n極力、避けて通るよう心がけよう。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+The second layer of the ruins is\r\nburied in the sand, and it's in a\r\npretty bad state.\r\nIf you accidentally fall into the\r\nsand, it's a lot of trouble to get\r\nout... Your <C03>movement and jumping\r\npower are halved<C04>, to say the\r\nleast... It would be wise to try\r\nto avoid it as much as possible.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 8
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 8th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-砂に埋もれた第二層で、解読不能の\r\n石盤を発見した。わたしが確認した\r\n限りでは四つ。それぞれの石盤に\r\n共通している事は四つの●が記され\r\nていること。そして、各石盤に一つ\r\nずつ、●に色が付いていること。\r\n……第二層の攻略に関わる、重大な\r\nヒントなのだろうか？\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+TEST!In the second layer buried in\r\nsand, I found indecipherable\r\nflagstones. There are four as\r\nfar as I can tell. Each stone\r\nhas four ● engraved on them.\r\nAnd, for each stone, there is\r\none ● marked in a different\r\ncolour. ...Are they hints\r\non how to progress?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 9
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 9th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-遺跡第二層を浸食しているザラつい\r\nた黄砂。このような砂には<C03>砂蛇<C04>とい\r\nう生き物が生息する傾向がある。\r\nそのような生き物が、<C03>《魔晶石》<C04>の\r\n影響を受けていたとしたら……\r\n恐ろしい巨大砂蛇が誕生していたと\r\nしても不思議ではない。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+The second layer of the ruins has\r\nbeen eroded by coarse sand.\r\nThere's a tendency for creatures\r\nknown as <C03>sand snakes<C04> to live in\r\nsuch sands. If those creatures\r\nwere affected by the <C03>Magicite<C04>...\r\nIt's no wonder that such a large\r\nsand snake came to be.\r\n\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 10
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 10th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-この遺跡には鍵の掛けられた扉や、\r\n<C03>普通のジャンプでは届かない場所<C04>\r\nなど、まだまだ未開の地はたくさん\r\n存在している。扉は鍵を見つけるか\r\n<C03>《魔晶石》<C04>の作動をストップさせれ\r\nば開くことが出来るが…もっと高く\r\n飛び上がることさえ叶えば、新たな\r\n発見を手に出来るというのに…！\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+ There is still much that remains\r\n unexplored in this site, such as\r\n locked doors and places that<C03>\r\n cannot be reached by ordinary\r\n jumps<C04>. Doors can be opened by\r\n finding the key or <C03>interrupting\r\n the Magicite<C04>, but... if only I\r\n could jump higher, I'd be able\r\n to discover something new...!\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 11
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 11th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-遺跡第三層は全面赤く染め上げられ\r\nているように見える。アクリア結晶\r\nと呼ばれる赤色の結晶の輝きが強く\r\n影響していると推測されるが…\r\n本来、別の光に反射して赤い光放つ\r\nこの結晶がなぜ単発で光りを放って\r\nいるのかは謎のままだ。\r\nこれも<C03>《魔晶石》<C04>の影響なのか…？\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+The third layer is dyed entirely red.\r\nI believe it to be closely linked to\r\na radiant stone called an Aquria\r\nCrystal... It is a mystery to me as\r\nto how this stone, which emits a\r\nred light when reflecting other\r\nlight sources could be shining so\r\nbrightly on its own. Perhaps it is\r\nanother effect of the <C03>Magicite<C04>...?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 12
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 12th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-遺跡を深く潜るにつれ魔物の凶暴化\r\nが激しさを増しているような印象を\r\n受ける。このことから、やはり最深\r\n部に<C03>《魔晶石》<C04>の塊が眠っている、\r\nということが推測出来る。\r\n<C03>《魔晶石》<C04>のある最深部に近ければ\r\n近いほどその影響を受けやすくなり\r\nより凶暴な魔物が誕生する、という\r\nことなのだろう。\r\n　　　冒険家　ラッシュ・ワイマン
+As I dive deeper into the ruins, I\r\nget the feeling that the monsters\r\nare becoming more ferocious. This\r\nleads me to believe that a large\r\ndeposit of <C03>Magicite<C04> lies at the\r\ndeepest point. In other words, the\r\ndeeper you go, the more likely you\r\nare to become affected, and the\r\nmore ferocious the monsters are.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 13
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 13th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-<C03>《レヴィールの民》<C04>についての記述\r\nが、第三層のとある石盤に書かれて\r\nいた。この民族は秀でた錬金技術を\r\n持っており、あの<C03>《魔晶石》<C04>を創り\r\n出したと今に伝えられている。\r\n現在その血は完全に途絶えているよ\r\nうだが、<C03>《レヴィールの民》<C04>と遺跡\r\nには、何らかの関わりがあると見て\r\n間違いないだろう。\r\n　　　冒険家　ラッシュ・ワイマン
+TEST!I found a flagstone in third layer\r\nof the ruins mentioning the <C03>“Nation\r\nof Reville"<C04>. They were a race who\r\npossessed incredible alchemist\r\ntechnology, and are said to have\r\ncreated the <C03>Magicite<C04>. It seems\r\ntheir bloodline has all but died out,\r\nbut there can be no doubt that they're\r\nsomehow connected with these ruins.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 14
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 14th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-千年前の文明崩壊は、古代人種が\r\n<C03>《魔晶石》<C04>に頼りすぎた結果である\r\nとされているが、その裏で歴史に\r\n埋もれた物語が存在していた。\r\nそれが、先述した<C03>《魔晶石》<C04>を生み\r\n出した<C03>《レヴィールの民》<C04>と全人類\r\nとの間に起きた争い、<C03><[>魔晶戦争<]><C04>\r\nである。なぜ二者の間で争いが起き\r\nたのか……調査もいよいよ終盤だ。\r\n　　　冒険家　ラッシュ・ワイマン
+The collapse of civilization 1,000\r\nyears ago is said to be a result of\r\nthe ancient race's over-reliance on\r\n<C03>Magicite<C04>, but behind it was a story\r\nburied by history. That is, the war\r\nbetween <C03>Reville<C04>, creators of the\r\n<C03>Magicite<C04>, and humankind-<C03>the Magicite\r\nWar<C04>. What caused the conflict\r\nbetween these two parties?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 15
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 15th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-…わたしは、我が目を疑った。あの\r\n巨大な魔人のような存在は、この世\r\nにあってはならぬものだ…！あれが\r\n<C03><[>魔晶戦争<]><C04>で使用された戦闘兵器\r\nなのか……この遺跡の扉を不用意に\r\n開いたのは間違いだったのかもしれ\r\nない…。一歩間違えれば、再び世界\r\n崩壊が現実の物となってしまう…。\r\n\r\n　　　冒険家　ラッシュ・ワイマン
+...I couldn't believe my eyes. That\r\nhuge, monstrous being should not\r\nexist in this world...! Could it be\r\na weapon used in <C03>the Magicite War<C04>?\r\nIt might have been a mistake to\r\ncarelessly open the door to the\r\nruins. If we make even the slightest\r\nerror, the collapse of all society\r\nmay well become reality once again.\r\n　　　　　Adventurer　Rush Wyman
 Rotation 【Escape】
 Learn: <C03>Evasive Manoeuvres<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
@@ -128,7 +128,7 @@ Rocks 【Part 2】
 Learn: <C03>The Apprentice Miner<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
 Rocks 【Part 3】
-概要：<C03>岩石マスター<C04>の習得\r\n種類：常駐スキル\r\n内容：習得すると常に効果を\r\n　　　発揮する
+Learn: <C03>The Rock Master<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ
 Vitality 【Part 1】
 Learn: <C03>HP Increase<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
@@ -197,7 +197,7 @@ Evasion 【Part 2】
 概要：<C03>リフレックス<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
 あ
 Evasion 【Part 3】
-概要：<C03>無の境地<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
+Learn: <C03>Empty Mind<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Running 【Part 1】
 Learn: <C03>A Gust of Wind<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
@@ -236,19 +236,19 @@ Resistance 【Fear】
 Learn: <C03>Determination<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Immunity 【Fear】
-概要：<C03>折れない心<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
+Learn: <C03>Unbreakable Heart<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Resistance 【Burn】
 Learn: <C03>Resist Burn<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Immunity 【Burn】
-概要：<C03>業火の免疫<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
+Learn: <C03>Burn Immunity<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Resistance 【All】
-概要：<C03>抵抗力の塊<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
+Learn: <C03>Resistant Block<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Immunity 【All】
-概要：<C03>免疫力の塊<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
+Learn: <C03>Immune Block<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Healing 【Obtainment】
 Learn: <C03>Auto‐Heal Ⅰ<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
@@ -257,10 +257,10 @@ Healing 【Adaption】
 Learn: <C03>Auto‐Heal Ⅱ<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Healing 【Perfected】
-Learn: <C03> Auto‐Heal Ⅲ<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
+Learn: <C03>Auto‐Heal Ⅲ<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Gold 【Beggar】
-Learn: <C03> Beggar's Obstinance<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
+Learn: <C03>Beggar's Obstinance<C04>\r\nType : Assigned Skill\r\nNote : Once learnt, the\r\n　　　 skill must be\r\n　　　 assigned in order\r\n　　　 to take effect.
 あ
 Gold 【Millionaire】
 概要：<C03>富豪の余裕<C04>の習得\r\n種類：登録スキル\r\n内容：習得後登録することで\r\n　　　その効果を発揮する
