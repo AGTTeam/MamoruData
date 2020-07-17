@@ -248,7 +248,7 @@ Emerald
 <C03>Description:<C04>\r\nTransparent, green gemstone.\r\nTraded at a high price.\r\n(Processed goods)
 Garnet
 <C03>Description:<C04>\r\nOchre, transparent gemstone\r\nalso known as Topazolite.\r\nTraded at a high price.\r\n(Processed goods)
-Iridescent Diamond
+Rainbow Diamond
 <C03>Description:<C04>\r\nA type of diamond whose\r\ncolour changes when viewed\r\nfrom different angles.\r\nSaid to bring happiness.\r\n(Processed goods)
 Peridot
 <C03>Description:<C04>\r\nA gem hailed as sacred\r\nblossom. Said to have the\r\npower to drive away evil.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
