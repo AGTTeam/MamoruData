@@ -1,80 +1,80 @@
-質素なバングル
-とくに秀でた能力を持つわけ\r\nでもない、質素な作りの普通\r\nのバングル。\r\nどこででも手に入る手軽さが\r\nウリである。
-ブロンズリング
-マデル銅鉱石から取り出され\r\nた銅で作られた指輪。\r\nそこそこの重量感と、皮膚に\r\n馴染むような付け心地で人気\r\nの高い一品。安い値段も売り\r\nのひとつ。
-シルバーリング
-ロトアム銀鉱石から取り出さ\r\nれた銀で作られた指輪。\r\n魔除け効果を持つとも言われ\r\nており、さまざまな儀式など\r\nで用いられている。
-ゴールドリング
-カシェス金鉱石から取り出さ\r\nれた金で作られた指輪。\r\n高級感漂う光沢と、シンプル\r\nな見た目で人気の高い一品。\r\n少々値が張るのが玉に瑕。
-ガラスのラリエット
-先端に美しいガラス細工が\r\n施されたラリエット。\r\n全て手作業で作られており、\r\n同じ形の物は存在しない。
-ボーンリング
-動物の骨を使って作られた\r\n指輪。穴の開いたものや\r\n突起している部分があるもの\r\nなど一つ一つの形が異なる。
-勾玉
-コの字形に湾曲し、玉から尾\r\nが出たような形をしている。\r\n丸く膨らんだ先端に穴を開け\r\n紐を通すことで首飾りにして\r\n使うことが多い。
-聖なる鎖
-銀で作られた鎖。チェーン。\r\n強度が高く、重い物でも簡単\r\nに吊し上げておける優れ物。\r\n魔除けの儀式で供え物を吊す\r\n際に用いられることが多い。
-ロディーピアス
-若き装飾師、ロディーによる\r\nデザインが施されたピアス。\r\n女性からの人気が高く、プレ\r\nゼントとして贈る男性が多い\r\nようだ。
-ドクロイヤリング
-ドクロを象り創られた、歪な\r\nイヤリング。魔性の効果か、\r\n敵の攻撃を回避し辛くなるも\r\nそこそこの防御力を手に入れ\r\nることが出来る。
-蒼炎のネックレス
-蒼く燃える炎のような美しさ\r\nを持つことから名付けられた\r\nネックレス。\r\n防御力のみならず、剣による\r\n攻撃力にも影響を及ぼす。
-エマの懐中時計
-世界的に有名な時計作家であ\r\nるエマ・ラフォンスの作品。\r\n彼の作品には変わったものが\r\n多く、この懐中時計の場合は\r\n長針と短針が一時間に一度し\r\nか動かないとの特徴を持つ。
-珊瑚のペンダント
-海でとれる珊瑚を使って作り\r\n出されたペンダント。\r\n淡いピンク色の珊瑚が先端に\r\n付いている。
-小人族の耳飾り
-小人族の器用な指先により、\r\n見る者を魅了する美しい装飾\r\nが施された耳飾り。\r\n投擲力が大幅に上昇する効果\r\nを秘めている。
-ガルドルリング
-聖都アルフォスベルの神官が\r\n祈りを捧げ作り出した指輪。\r\n指先に力を込めるだけで不可\r\n思議な現象を呼び起こしたり\r\n装着者の身を守るなどの力を\r\n秘めている。
-色眼鏡
-かけて見た世界が透き通って\r\n見えると言われる、色付きの\r\n不思議な眼鏡。\r\n相手の動きを捕らえ易くなり\r\n命中率や回避率が大きく上昇\r\nする効果がある。
-耐毒の護符
-聖都アルフォスベルの神官の\r\n手により生み出された護符。\r\n体に貼り付けることで猛毒を\r\n無効化する効果を発揮する。
-耐痺の護符
-聖都アルフォスベルの神官の\r\n手により生み出された護符。\r\n体に貼り付けることで麻痺を\r\n無効化する効果を発揮する。
-耐熱の護符
-聖都アルフォスベルの神官の\r\n手により生み出された護符。\r\n体に貼り付けることで火傷を\r\n無効化する効果を発揮する。
-耐絶の護符
-聖都アルフォスベルの神官の\r\n手により生み出された護符。\r\n体に貼り付けることで気絶を\r\n無効化する効果を発揮する。
-耐臆の護符
-聖都アルフォスベルの神官の\r\n手により生み出された護符。\r\n体に貼り付けることで臆病な\r\n心を取り除くことが出来る。
-エルザのネックレス
-金具や宝石を組み込んで作ら\r\nれたエルザ公女の手作りネッ\r\nクレス。少し歪な部分もある\r\nが、強い祈りが込められてお\r\nり、守護効果が高い。
-トネリコリング
-トネリコと呼ばれる大樹から\r\n創り出されたアクセサリー。\r\n樹とは思えぬほど異常な強度\r\nと、装着感がないほどの軽さ\r\nで使い心地の良い一品。
-聖騎士の証
-クセルブル公国の公国騎士団\r\nに所属していることを証明す\r\nるメダル。
-聖騎士のマント
-クセルブル公国の公国騎士団\r\nが身に纏う銀色のマント。
-神秘の御守り
-中に入れられた護符の効果に\r\nより、装備することで様々な\r\n効果を得られる御守り。\r\n開封するとその効果は失われ\r\nると言われている。
-七色のアンクレット
-光のない場所でも七色の輝き\r\nを放つ美しいアンクレット。\r\n身を守る効果がある。
-ダイヤの指輪
-大きなダイヤが付けられた、\r\n豪華で高価な指輪。上流階級\r\nの者でもない限り、手に入れ\r\nるのは困難。\r\n身を守る効果を持つ。
-破牙のアンクレット
-獣の牙を用いて作り出された\r\nアンクレット。\r\nそこそこの重量で動きづらく\r\nなるものの、攻撃力をアップ\r\nさせる効果を秘めている。
-トゥースリング
-ドラゴンの歯を削って作られ\r\nたリング。異様なほどの強度\r\nで身を守り、闘争心を高め、\r\n攻撃力をもアップさせる効果\r\nがある。
-闇看守のチェーン
-暗闇の中、捕らわれた罪人を\r\n監視し続ける看守が、罪人の\r\n体に巻き付けるために持って\r\nいる鎖。異常なほどの強度を\r\n持つが、少々重い。
-ヒールリング
-それなりの治癒効果を秘めた\r\n指輪。身につけているだけで\r\n徐々に傷ついた身体を癒して\r\nくれる効果がある。
-ヒールバングル
-そこそこの治癒効果を秘めた\r\nバングル。身につけていると\r\n自動的に傷ついた身体を癒し\r\nてくれる効果がある。
-ヒールネックレス
-高い治癒効果を秘めたネック\r\nレス。身につけているだけで\r\n体中の傷を癒してくれる効果\r\nがある。
-天使の羽
-戦場跡などで希に見つけられ\r\nる純白の羽をつなぎ合わせて\r\n作られた装飾品。装着すると\r\n驚くほど体が軽くなり、移動\r\n速度が大幅にアップする。
-レインボークラウン
-レインボーダイヤを贅沢にも\r\n散りばめた王冠。\r\nかなり高価だが、重くて付け\r\n心地も良くはない。身を守る\r\n効果はかなり大きい。
-子悪魔の尻尾
-小悪魔をモチーフに作られた\r\n可愛らしい尻尾。装着すると\r\n愛嬌アップは間違いなし。\r\nただし身を守るものとしての\r\n効果は期待出来ない。
-焔の首飾り
-燃え上がる焔をモチーフに、\r\n物理的な防御力と火への耐性\r\nを上昇させる目的で生み出さ\r\nれた首飾り。ほんのり適度な\r\n熱を発している。
-エンシャントリング
-レヴィールという民が独自に\r\n生み出したアクセサリー。\r\n高い防御力を誇るも、重くて\r\n移動にやや難が残る。
-獅子王の首飾り
-歴戦の英雄がその身に付け、\r\n数々の聖戦をくぐり抜けたと\r\n伝えられる古びた首飾り。\r\n身に付けると闘争心が沸き、\r\n攻撃力が大幅に上昇する。
+Simple Bangle
+An ordinary bangle with a simple\r\nappearance that doesn't have any\r\nparticularly excellent abilities.\r\nCan be easily found anywhere.
+Bronze Ring
+A ring made of copper\r\nextracted from Madell\r\nCopper Ore. A popular\r\nitem with moderate weight\r\nthat's comfortable to wear.\r\nIts cheap price is also a\r\nselling point.
+Silver Ring
+A ring made of silver extracted\r\nfrom Rotam Silver Ore. It's said\r\nto ward off evil and is used in\r\nvarious rituals.
+Gold Ring
+A ring made of gold extracted\r\nfrom Kasheth Gold Ore. A\r\npopular item with a brilliant\r\nshine and a simple appearance.\r\nThe only catch is that it's a\r\nlittle overpriced.
+Glass Lariat
+A lariat with beautiful glass\r\nwork on the ends. Everything\r\nis made by hand and no two\r\nare ever identical.
+Bone Ring
+A ring made from animal bones.\r\nEach one has a different\r\nshape, such as having holes\r\nor protruding parts.
+Magatama
+A curved, droplet-shaped stone.\r\nOften worn as a necklace by\r\nmaking a hole in the rounded\r\nend and inserting a string.
+Sacred Chain
+A silver chain. It's durable and\r\neven heavy items can easily be\r\nhung from it. Often used to\r\nhang offerings of amulets\r\nduring rituals.
+Roddy Earrings
+Earrings designed by Roddy, a\r\nyoung goldsmith. Popular among\r\nwomen, it seems that many men\r\nbuy them to give as presents.
+Skull Earrings
+Crooked earrings made in the\r\nshape of skulls. It becomes\r\nharder to avoid attacks,\r\nperhaps because of their\r\ndevilish charm, though you do\r\nget a moderate defence boost.
+Blue Flame Necklace
+A necklace named for its\r\nbeauty, like a fire burning blue.\r\nAffects not only defence but\r\nsword attacks too.
+Emmah's Pocket Watch
+The work of the world-renowned\r\nwatchmaker Emmah Lafons. Many of\r\nhis works are unusual, and in\r\nthe case of this pocket watch,\r\nthe hour and minute hands only\r\nmove once per hour.
+Coral Pendant
+A pendant made from coral\r\nharvested from the sea.\r\nDecorated with a piece of\r\npale pink coral at the end.
+Dwarf Earrings
+Beautifully decorated earrings,\r\ncrafted by the dexterous\r\nfingers of a dwarf, which\r\ncharm whoever looks at them.\r\nSignificantly increases\r\n throwing power.
+Galdr Ring
+A ring created by a priest from\r\nthe Holy City of Alphosbel. Has\r\nthe power to evoke mysterious\r\nphenomena and protects the\r\nwearer by simply concentrating\r\nyour focus on it.
+Rose-Coloured Glasses
+Mysterious glasses that are\r\nsaid to make things become\r\ntransparent. Makes it easy to\r\nread the opponent's movements\r\nand greatly increases your\r\naccuracy and evasion rate.
+Poison Resist Talisman
+A charm created by a priest\r\nfrom the Holy City of\r\nAlphosbel. Nullifies the\r\neffect of poison when\r\nattached to the body.
+Paralysis Resist Talisman
+A charm created by a priest\r\nfrom the Holy City of\r\nAlphosbel. Nullifies the\r\neffect of paralysis when\r\nattached to the body.
+Burn Resist Talisman
+A charm created by a priest\r\nfrom the Holy City of\r\nAlphosbel. Nullifies the\r\neffect of burn when\r\nattached to the body.
+Stun Resist Talisman
+A charm created by a priest\r\nfrom the Holy City of\r\nAlphosbel. Nullifies the\r\neffect of stun when\r\nattached to the body.
+Fear Resist Talisman
+A charm created by a priest\r\nfrom the Holy City of\r\nAlphosbel. Nullifies the\r\neffect of fear when\r\nattached to the body.
+Elza's Necklace
+A necklace with metal fittings\r\nand jewels handmade by\r\nPrincess Elza. There are some\r\nwonky parts, but it is loaded\r\nwith thoughts and prayers\r\nwhich protect the wearer.
+Ash Ring
+An accessory created from a\r\nlarge ash tree. So strong it\r\nhardly seems like wood, it's\r\ncomfortable and light weight\r\nenough that you can forget\r\nyou're even wearing it.
+Knight's Crest
+A medal certifying that you\r\nbelong to the Knights Order\r\nof the Kucellbull Dukedom.
+Knight's Cloak
+A silver cloak worn by the\r\nknights of the Kucellbull\r\nDukedom.
+Mysterious Charm
+A charm that can display a\r\nvariety of effects depending\r\non what talismans are put\r\ninside. Said to lose its\r\neffect if opened.
+7-Coloured Anklet
+A beautiful anklet that shines\r\nwith seven colours even when\r\nthere is no light. Protects\r\nthe wearer.
+Diamond Ring
+A glamorous, expensive ring\r\nwith a large diamond. Unless\r\nyou belong to the upper class,\r\nit's difficult to obtain one.\r\nHas the effect of protecting\r\nits owner.
+Fanged Anklet
+An anklet created using beast\r\nfangs. Although the moderate\r\nweight makes it harder to\r\nmove, it has the effect of\r\nincreasing attack power.
+Tooth Ring
+A ring carved from a dragon's\r\ntooth. With its extraordinary\r\nstrength, it offers protection,\r\nincreasing fighting spirit\r\nand attack power.
+Dark Jailer's Chain
+A chain kept by a jailer who\r\nkeeps watch over criminals in\r\nthe darkness, ready to tie it\r\naround their bodies. Incredibly\r\nstrong, though a little heavy.
+Health Ring
+A ring with a reasonable\r\nhealing effect. When worn,\r\nit gradually heals injuries.
+Health Bangle
+A bangle with a moderate\r\nhealing effect. When worn,\r\nit automatically heals\r\ninjuries.
+Health Necklace
+A necklace with a powerful\r\nhealing effect. When worn,\r\nit heals all injuries.
+Angel Wings
+An ornament made by stitching\r\ntogether snow-white feathers\r\noccasionally found in the\r\naftermath of a battle.\r\nMakes your body feel lighter\r\nand massively increases speed.
+Rainbow Crown
+A luxurious crown inlaid with\r\nrainbow diamonds. It's quite\r\nexpensive, but not heavy and\r\ncomfortable to wear. Has a\r\nlarge protective effect.
+Demon's Tail
+A cute tail made with a small\r\ndevil motif.\r\nWearing it unmistakably increases\r\nyour charm. However, it's a little\r\nlacking as a protective item.
+Flame Choker
+A necklace with a burning flame\r\nmotif, designed to increase\r\nphysical defence and\r\nresistance to fire.\r\nModerately warm to the touch.
+Ancient Ring
+An accessory originally created\r\nby the people of Reville.\r\nAlthough it boasts of a high\r\ndefence power, it is heavy and\r\nmakes it slightly more difficult\r\nto move.
+Lion King Choker
+An old necklace said to have\r\nbeen worn by veteran heroes\r\nand survived a number of\r\nbattles. Wearing it stirs up\r\nyour fighting spirit and greatly\r\nincreases attack power.
