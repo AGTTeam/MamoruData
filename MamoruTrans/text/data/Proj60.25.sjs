@@ -1,60 +1,60 @@
-銀縁の油絵
-銀の縁で美しく装飾を施され\r\nた名もなき油絵。\r\n発見されたのが間もないため\r\n現在価値を計ることは出来な\r\nいが、相当の値が付くことは\r\n安易に想像出来る。\r\n\r\nモデルとなっている景色は、\r\n現在は跡地として観光名所と\r\nなっている、ミネラ山脈の\r\n麓に位置する旧デルタ防壁が\r\n壊滅する前のものである。
-金縁の肖像画
-黄金の縁で美しく装飾を施さ\r\nれた名のある肖像画。\r\n【麦わらぼうしと夏の少女】\r\nと名付けられたその名画は、\r\n当時作成されたレプリカが\r\n19枚発見されたものの、これ\r\nまで本物は未発見の状態で、\r\n相当の値が付くことが\r\n予想される一品である。\r\n\r\nしかし、長らく遺跡内で放置\r\nされた結果、劣化している所\r\nは見逃せない。
-ぞうの像
-エデンバル時代、国民たちは\r\n大いなる恵みをもたらした神\r\nへ感謝の意と称して、国王に\r\n対して毎年全財産35％の額の\r\n貢ぎ物を支払うよう課せられ\r\nていた。しかし、支払いを\r\n望まぬ国民は像の中に財産を\r\n隠し、以後発見されることな\r\nく現在にいたったものが、\r\nこのぞうの像である。故に像\r\n自体の価値は皆無だがその\r\n中身にこそ真の宝が眠って\r\nいるといわれているが…？
-卵の化石
-何の卵なのか分からない古代\r\nの化石。既に中身は死滅して\r\nいるはずなのだが、うっすら\r\n暖かく、時折動いているので\r\nはないかと思わせる不思議な\r\n一面を持っている。\r\n\r\n強く触れると簡単に壊れてし\r\nまいそうなので、扱いには\r\n細心の注意が必要である。
-王妃の頭蓋骨
-両方のこめかみと眉間の辺り\r\nに小さな穴が開いた頭蓋骨。\r\nエデンバル時代、王妃は誕生\r\nしてまもなくその三カ所に穴\r\nを開けられ、一生はずせない\r\nアクセサリーを付けられると\r\n伝えられていることから、\r\nこの頭蓋骨はエデンバル文明\r\nの王妃のものであったと推測\r\nされる。\r\nただし、誰かに持ち去られた\r\nのか、アクセサリーの類は\r\n付いていないようだ。
-一角獣の角
-人間の数十倍の大きさで、村\r\nを襲い、人喰いとして恐れら\r\nれた伝説の魔獣ゲルスタイン\r\nの角。童話や昔話などの悪役\r\nとしてほぼ必ず登場するこの\r\n獣は、悪の象徴として、現在\r\nにおいてもその地位は揺るが\r\nない。\r\n\r\nこれまでは実際に存在したと\r\nいう証拠が発見されなかった\r\nことから架空の生物だという\r\n説が有力とされていた。
-古びた宝石箱
-使い古された印象を受ける、\r\nとても古びた宝石箱。\r\n\r\nその中には高価な宝石の類が\r\n山のように入っていると推測\r\nされるも、鍵がかかっており\r\nのぞき見ることは出来ない。\r\n\r\n箱自体にも大きな歴史的価値\r\nを見出せる為、壊すわけにも\r\nいかないことから、素人が手\r\nを出せる品ではない。
-壊れた自鳴琴
-箱の横に装着されたゼンマイ\r\nを巻くことで、美しい音色を\r\n奏でる自鳴琴（じめいきん）。\r\n\r\n放置された年月が長すぎた為\r\n部品はさび付き、ゼンマイを\r\n回すことも出来ない。\r\n\r\nただし、箱の装飾である宝石\r\nは、その輝きを失うことなく\r\nそこにあり、それだけで高値\r\nで取り引きされる。
-流れ星の雫
-その昔、大地に降り注いだと\r\nいう流れ星。\r\n美しくキラキラと輝いており\r\n見る者を魅了する。\r\n\r\n手にした者は富と名声を得る\r\nとまことしやかに囁かれて\r\nいるが、真偽のほどは定かで\r\nはない。
-立派な骨壷
-とても立派な骨壺。\r\n両手で持ち運べるサイズで、\r\n描かれた模様が神秘的な魅力\r\nをかもし出している。\r\n\r\nどこにでもあるようなもので\r\n歴史的価値があるわけでは\r\nないが、壺の焼き加減から味\r\nのある形まで、全てにおいて\r\n高級感が漂っている。\r\n\r\nちなみに、中は空っぽ。
-アルケミーチョーク
-古代エデンバル文明にて、\r\n<[>レヴィールの民<]>という者\r\nたちの手により発達した、\r\n錬金術を行う際に使用する\r\n特殊なチョーク。\r\n\r\nこれを使って陣を描き、錬金\r\n術師たちが数人がかりで力を\r\n注ぐことで、ようやく効果を\r\n発揮出来るのだという。\r\n\r\nちなみに、力なき者が使用し\r\nても、特に何も起こらない。
-古ぼけた手記
-『我らレヴィールの民が生み\r\n世界に名を轟かせた魔晶石。\r\n大自然の力を自由に引き出せ\r\nるその石を使えば、何もない\r\nところに火を起こせ、暗闇を\r\n光で照らすことも可能である\r\nが、それはつまり、兵器とし\r\nても驚異的な力を発揮した。\r\n……火を噴く剣。\r\n……触れると凍る盾。\r\n我々はとんでもなく恐ろしい\r\nものを生み出したのかもしれ\r\nない……』
-焼け焦げた手記
-『魔晶石をいち早く兵器とし\r\nて採用し、我らレヴィールの\r\n民を拘束しているラグザ帝国\r\nは、ついにこの石の力を使い\r\n人体実験を始めた。\r\n石の力を人体に込めることが\r\n出来れば、最強の人型兵器が\r\n誕生してしまう……\r\n我々はこのような恐ろしい事\r\nに使うため、魔晶石を生み出\r\nしたわけではない……\r\n従うことしか出来ぬこの状況\r\nを何とかしなければ……』
-ベタついた手記
-『魔晶石を使った人体実験は\r\n失敗の繰り返しであった。\r\nどうやら、適性を持った者で\r\nないと、うまく作用しないよ\r\nうなのだ。\r\n……だが、適性者が見つかり\r\n遂に成功してしまった。\r\n被験者はとんでもない力を\r\n得たが、それと引き替えに\r\n自我を失い、最終的には巨大\r\nなゴーレムのような姿に変化\r\nしてしまったのだ……！\r\n……もう、おしまいだ。』
-レミエスの聖水
-レミエスと呼ばれる幻の浮島\r\nに湧き出る水。\r\n\r\n体に振りかけると、傷などが\r\n一瞬の内に癒されるという\r\n効果を秘めた不思議な水で\r\nあるが、少量でも口に含むと\r\n体の内部が活性化しすぎ、\r\n細胞が破壊され、死に至る\r\nという恐ろしい一面も持つ。
-忌まわしき聖杯
-放置すると、少しずつ漆黒の\r\n液体が湧き出る聖なる杯。\r\n\r\nエデンバル時代、ラグザとい\r\nう巨大な帝国の支配を受けて\r\nいた<[>レヴィールの民<]>が、\r\n古の巨人を生み出す為に使用\r\nしたとされており、世界滅亡\r\nに手を貸した<[>レヴィールの\r\n民<]>の自負の念と、ラグザ帝\r\n国への消えぬ憎しみが液体と\r\nなり、その姿を現していると\r\nいう。
-幸福の金貨
-幸せを呼び込むと伝えられる\r\n小さな金貨。\r\n\r\n表裏に描かれた天使と聖堂の\r\n絵は、見る者を惹きつける\r\n不思議な魅力で溢れている。\r\n\r\nちなみに、この金貨の実態は\r\n古代文明の時代に使用されて\r\nいた、ただの硬貨であるが、\r\n現存する数が少ない為かなり\r\n高額な値が付くとみられる。
-宝珠ラミアス
-古代文明エデンバルの時代に\r\n世界のほぼ全てを掌握する程\r\nの力を持っていたとされる、\r\nラグザ帝国の国宝。\r\n\r\nその輝きは千年経っても色あ\r\nせることがなく、むしろ日に\r\n日に光の強さが増しているよ\r\nうにも見受けられる。\r\n\r\n直視し続けると眼が痛くなる\r\nほどの光を放ち、この宝珠は\r\n何を求めているのだろうか？
-魔性の媚薬
-魔女が生み出したと伝えられ\r\nている媚薬。惚れ薬。\r\n\r\nこの媚薬に自らの血液を混ぜ\r\n飲ませると、飲んだ相手は使\r\n用者の虜になると言われる。\r\n\r\n実際に生み出したのは魔女で\r\nはなく、錬金術で名を馳せた\r\n<[>レヴィールの民<]>であるが\r\nその真相は語られていない。
-魔女の秘薬
-魔女が生み出したと伝えられ\r\nている秘薬。鎮魂薬。\r\n\r\n液状でほんのり甘いこの薬を\r\n飲んだ者は、体から魂が抜け\r\n一瞬の内に死に至るという、\r\nつまりは毒の一種である。\r\n\r\nただ、この薬による毒の解毒\r\n方法は発見されておらず、\r\n誤って手を付けると手遅れと\r\nなってしまう恐ろしい薬。
-ルーンの書籍
-冥界に存在する魔力を秘めた\r\nルーン文字で書かれた書籍。\r\n解読するためにはルーン文字\r\nについての知識が必須。\r\n\r\nその内容とは、\r\n【メルバ料理レシピ百選！】\r\nという料理本そのものであり\r\n　・特に深い意味はない\r\nとする説と、\r\n　・レシピに似せた暗号だ\r\nとする説とに分かれているが\r\n真相は定かではない。
-ガルドルの譜面
-ガルドル（魔法の歌）を一定\r\nの記号により書き表した物。\r\nそのメロディーには魂を拘束\r\nする力があるという。\r\n\r\n過去、エデンバル文明では、\r\n人間がその生を全うした際に\r\n親しい者が集まり、ガルドル\r\nのメロディーを奏で謳ったと\r\nされている。\r\n\r\nデューヌ地方などでは現在も\r\n続いている風習である。
-九つの鍵の箱
-九つの鍵穴を備えた謎の箱。\r\n美しく装飾され光り輝くその\r\n箱は、中身の有無に関係なく\r\nかなりの値打ちがある。\r\n\r\n箱を開けるためには、九つの\r\n鍵穴に合う別の鍵を使用する\r\n必要があり、それらの鍵は\r\n世界中のあらゆる場所に散ら\r\nばっているとされ、見つけ出\r\nすことは困難を極める。
-角笛オリファン
-高らかに吹き鳴らすことで、\r\nどこからともなく10万とも\r\nいわれる神軍が押し寄せる\r\nとの伝承が残る戦神の角笛。\r\n\r\n実際は、過去の戦争において\r\n何千何万という兵士たちを\r\n一度に指揮するために用いら\r\nれていたものであり、笛を\r\n吹いても神軍が押し寄せる\r\nことはない。
-スレイプニールの尾
-八本足の駿馬として伝承に\r\n残る、神馬スレイプニールの\r\n尾。未だにその煌びやかな艶\r\nは失われていない。\r\n\r\n煎じて飲むと、身体能力が\r\n十年若返るなどという噂も\r\nあるが、あくまでも噂であり\r\nこれといった変化はない。
-ブレイザブリクの鍵
-不浄なる者は決して入ること\r\nの許されない、災いという\r\n現象から遠くかけ離れた位置\r\nに存在する伝説の館の鍵。\r\n\r\n世界に数十個存在しているが\r\n実際に自らの眼でブレイザブ\r\nリクの館を見た者はいない。\r\n\r\n――過去、大戦中に消失…\r\n――全て作り話…\r\nなどさまざまな説がある。
-破壊を示す衣
-<[>レヴィールの民<]>が愛用し\r\nていた術師用の衣。\r\n\r\n布の全面に陣が描かれており\r\nこれを羽織ることで何倍もの\r\n力を引き出すことが出来ると\r\n言われている。\r\n\r\nただし、力なき者が装着した\r\nところで大きな変化はない。
-錬金秘書
-錬金術を生み、<[>魔晶石<]>を\r\n生んだ<[>レヴィールの民<]>が\r\n書き記した錬金術の秘技書。\r\n\r\n記された図を見る限りでは、\r\n陣の種類から<[>魔晶石<]>の\r\n錬成方法まで、様々な内容が\r\n記されているようだが、暗号\r\nのような文字を解読しない\r\n限り、読み解くことは不可能\r\nである。
-魔晶石のカケラ
-古代エデンバルの時代にて、\r\n<[>レヴィールの民<]>が生み出\r\nし、人々から神として崇めら\r\nれる原因となった不可思議な\r\n石、<[>魔晶石<]>のカケラ。\r\n\r\n通常、青白い輝きが美しく\r\n揺らめきを見せているのだが\r\n<[>古の巨人<]>復活の際にその\r\n力の殆どが使用された為、\r\n<[>魔晶石<]>としての効果は\r\n失われつつある。
-不浄なる者の魂
-<[>古の巨人<]>と化し、行き場\r\nを失った者の魂。\r\n揺らめく炎が淡い輝きを発し\r\nながらも、どこか物悲しげな\r\n雰囲気が漂っているようにも\r\n見える。\r\n\r\n時間とともに少しずつ小さく\r\nなっており、最終的には消滅\r\nしてしまう。\r\n\r\n消滅後は無に帰す、天へ召す\r\nなど憶測が飛び交っている。
+Oil Painting
+A nameless oil painting\r\nbeautifully presented in a silver\r\nframe. It is not possible to know\r\nits current value as it was only\r\ndiscovered recently, but it's easy\r\nto imagine that it is worth a\r\nconsiderable amount.\r\n\r\nThe landscape depicted is the\r\nDelta Rampart at the foot of\r\nthe Minera Mountains before\r\nits destruction, now a popular\r\ntourist destination.
+Portrait
+A famous portrait presented in a\r\ngold frame. 19 replicas of the\r\nmasterpiece, named “The Straw Hat\r\nand the Summer Maiden" have been\r\ndiscovered so far, although the\r\nreal thing had never been found\r\nuntil now, hence it is expected\r\nto be worth a considerable amount.\r\n\r\nHowever, as a result of being left\r\nin the ruins for a long time, it's\r\nhard to miss the parts which have\r\ndegraded.
+Elephant Statue
+During the Edenbar period, people\r\nwere required to pay tribute\r\namounting to 35％ of their total\r\nproperty to the King each year,\r\nin gratitude for his divine\r\nblessing. However, the people\r\nwho did not want to pay hid\r\ntheir fortunes inside statues,\r\nlike this elephant statue, which\r\nremained undiscovered to this\r\nday. Therefore, although the\r\nstatue has no value in itself,\r\nit's said that the true\r\ntreasure lies within...
+Egg Fossil
+An ancient fossil of some kind of\r\negg. The contents should be long\r\ndead, but mysteriously, it is\r\nslightly warm and occasionally\r\nappears to move.\r\n\r\nIt seems like it would break\r\nvery easily if handled roughly,\r\nso expert care is needed when\r\nexamining it.
+Skull of a Queen
+A skull with small holes around\r\nboth temples and between the\r\neyebrows. It is estimated that\r\nthe skull belonged to a ruler of\r\nthe Edenbar civilization during\r\nancient times, as it is said\r\nthat soon after birth of a\r\nprincess, such holes were made\r\nto attach accessories which\r\nwould then not be removed for\r\nthe course of their lifetime.\r\nHowever, it seems that someone\r\nhas since stolen them, as the\r\naccessories are missing.
+Unicorn Horn
+The horn of the legendary demonic\r\nbeast Gerstein, said to be tens of\r\ntimes the size of human beings and\r\nattack villages to devour them.\r\nThis beast, which almost always\r\nappears as the villain in fairy\r\ntales and folklore is a symbol\r\nof evil, a status that remains\r\nunchanged to this day. It was\r\npreviously believed to be an\r\nimaginary creature as evidence\r\nthat it actually existed had\r\nnever been discovered, until now.
+Old Jewellery Box
+A very old jewellery box that's\r\nworn with use.\r\n\r\nOne would assume that it contains\r\na mountain of expensive gems, but\r\nthe lid is locked and it's\r\nimpossible to peek inside.\r\n\r\nBecause the box itself has great\r\nhistorical value, it can't be\r\ndestroyed, making it something\r\nthat amateurs are better off not\r\ntouching.
+Broken Music Box
+A music box that plays a beautiful\r\ntune when the spring attached to\r\nthe side is wound up.\r\n\r\nThe parts have rusted after being\r\nNeglected for so long, that the\r\nspring can no longer be turned.\r\n\r\nHowever, the jewels that decorate\r\nthe box have not lost their shine,\r\nand they alone will fetch a high\r\nprice.
+Meteor Droplet
+A shooting star that fell to\r\nearth long ago.\r\nIts beautiful shine dazzles all\r\nwho view it.\r\n\r\nThere are rumours that those who\r\nobtain one will also acquire\r\nfortune and fame, though it's\r\nnever been proven.
+Fine Urn
+A splendid urn. It takes two hands\r\nto carry, and the design etched\r\naround the exterior is mysteriously\r\nfascinating.\r\n\r\nIt can be found everywhere so\r\ndoesn't have much value as an\r\nartefact, but it gives off a\r\nsense of high-quality in\r\neverything from the way it was\r\nbaked to its tasteful shape.\r\n\r\nIncidentally, it's empty inside.
+Alchemy Chalk
+A special chalk used in alchemy,\r\ndeveloped by the hands of those\r\nknown as the Nation of Reville\r\nduring the time of ancient\r\ncivilization of Edenbar.\r\n\r\nIt's said to manifest an effect\r\nwhen used to draw magic circles\r\nwhich several alchemists must\r\nthen pour their power into.\r\n\r\nIncidentally, nothing happens\r\nwhen it's used by a person\r\nwithout power.
+Worn Out Notes
+“The Magicite created by our\r\nnation has earned a reputation\r\nthroughout the world. The stone,\r\nwhich freely draws out the power\r\nof nature, can create fire from\r\nnothing and illuminate the darkness\r\nwith its light, but the power it\r\ncontains can also be used to make\r\nastonishing weapons.\r\n...Swords that breathe fire.\r\n...Shields that freeze whatever\r\nthey touch.\r\nWe might have made something\r\nterrible...”
+Burnt Notes
+“The Ragza Empire, who were the\r\nfirst to adopt Magicite as a\r\nweapon and imprisoned our nation,\r\nhave finally begun to use the\r\npower of the stone for human\r\nexperimentation. If the stone's\r\npower can be placed inside the\r\nhuman body, the strongest humanoid\r\nweapons will be born...\r\nWe did not invent the Magicite for\r\nit to be used in such terrible ways...\r\nWe must do something about this\r\nsituation where we have no choice\r\nbut to do as we are told..."
+Sticky Notes
+“The human experimentation using\r\nMagicite has been a series of\r\nfailures. It seems that it will\r\nonly work if a subject has the\r\naptitude for it.\r\n...However, a suitable vessel\r\nwas found and they finally had\r\nsuccess. The subject gained\r\nincredible power, but in\r\nexchange, lost their sense of\r\nself and eventually turned\r\ninto a giant golem-like being...!\r\nThis is the beginning of the\r\nend...”
+Divine Remies Water
+Water that springs forth a\r\nphantom floating island known\r\nas Remies Island.\r\nIt's a mysterious water that\r\ninstantaneously heals wounds\r\nwhen sprinkled on the body,\r\nbut also has a horrifying\r\npotential to cause death by\r\noverstimulating the body and\r\ncausing cells to be destroyed\r\nif even a small amount falls\r\ninto the mouth.
+Ominous Chalice
+A sacred chalice that, when left\r\nalone, slowly fills up with a jet-\r\nblack liquid.\r\nIt is said that the people of\r\nReville, under the rule of a huge\r\nempire called Ragza during the\r\ntime of Edenbar, used it to create\r\na giant, and the pride of their\r\npeople, who had a hand in the\r\ndestruction of the world, along\r\nwith their unfading hatred of the\r\nRagza Empire, has turned into\r\nliquid and appeared.
+Fortuitous Gold Coin
+A small gold coin said to bring\r\nhappiness.\r\n\r\nThe artwork of angels and a\r\nshrine printed on either side are\r\nfull of a mysterious charm that\r\ncaptivates the viewer.\r\n\r\nIncidentally, the purpose of this\r\ngold coin during the time of the\r\nancient civilization was just that\r\nof an ordinary coin, but it seems\r\nthat it has become quite valuable\r\nnow as few have survived.
+Wish Fulfilling Jewel
+A national treasure of the Ragza\r\nEmpire, who are said to have the\r\npower to take control of almost\r\nthe entire world during the\r\nancient Edenbar era.\r\nIts shine has not dulled even\r\nafter a thousand years, and in\r\nfact seems to grow in intensity\r\nday by day.\r\nThe light it emits is so bright\r\nthat it makes your eyes sore if\r\nyou look at it for too long, which\r\nleaves the question, what is it\r\nthat this jewel longs for?
+Diabolical Philtre
+A love potion reportedly made by\r\na witch.\r\n\r\nIt is said that if you mix your\r\nown blood with this potion, the\r\nperson who drinks will become your\r\ncaptive.\r\n\r\nIn actual fact, it wasn't a witch\r\nwho created it, but the people of\r\nReville, who made a name for\r\nthemselves in alchemy, though the\r\ntruth is not widely known.
+Witch's Nostrum
+A nostrum reportedly made by a\r\nwitch that provides repose for\r\nthe soul.\r\nThose who drink this slightly\r\nsweet medicine find that their\r\nsoul escapes from their body and\r\ndie in an instant, in other words,\r\nit's a type of poison.\r\n\r\nA terrifying drug to which there\r\nis no known antidote, meaning if\r\nyou touch it by accident, it is\r\nalready too late.
+Rune Book
+A book written in runes which\r\nconceals information about magic\r\nfrom the underworld. Knowledge of\r\nrunes is essential in order to\r\ndecipher it.\r\nIts contents appear to be a\r\ncookbook titled “100 Melba\r\nrecipes!", to which there are\r\ntwo split theories. \r\n・That it has no particular\r\n　significant meaning,\r\n・That it contains code which\r\n　resembles recpies.\r\nThe truth remains unclear.
+Galdr Sheet Music
+A galdr (magic incantation)\r\nwritten in symbols. The melody is\r\nbelieved to have the power to\r\nbind souls.\r\n\r\nIt's said that in the past, during\r\nthe Edenbar civilization, when a\r\nperson reached the end of their\r\nlife, those close to him would\r\ngather and sing a galdr.\r\n\r\nIt is a custom which continues\r\nto be passed down in certain\r\nplaces such as the Dune province.
+Nine Key Box
+A mysterious box with nine\r\nkeyholes. Beautifully decorated\r\nand shiny, the box, with or without\r\nits contents, holds great value.\r\n\r\nTo open it requires the nine\r\ndifferent keys which fit into\r\neach keyhole, said to have been\r\nscattered throughout the world,\r\nand difficult to find.
+Olifant Horn
+The horn of the god of war, which\r\nlegend states will summon his army\r\nof 100,000 soldiers when blown\r\nloudly.\r\n\r\nIn truth, it was used to send\r\ncommands to tens of thousands of\r\nsoldiers during historical battles,\r\nand even if it is sounded, a divine\r\narmy will not come marching.
+Sleipnir's Tail
+The tail of the sacred horse\r\nSleipnir, who is known in legends\r\nas a swift eight-legged horse.\r\nEven now, it remains gorgeously\r\nglossy.\r\n\r\nThere is a rumour that when\r\nboiled down and drank, it will\r\nrestore your physical fitness by\r\nten years, though it just a rumour,\r\nthrough and through, and doesn't\r\nactually possess such an effect.
+Key to Breidablik
+The key to the legendary mansion,\r\nfar removed from the phenomenon\r\nknown as calamity, where nothing\r\nunclean may enter.\r\n\r\nThere are dozens of them in the\r\nworld, though no one has ever\r\nseen Breidablik with their own\r\neyes.\r\n\r\n--It was lost during a great war\r\nin the past...\r\n--The whole thing is a myth...\r\nVarious rumours exist.
+Destructive Clothing
+Robes loved by the mages of\r\nReville.\r\n\r\nIt's said that the magic circles\r\nwhich cover the entirety of the\r\ngarment allows the wearer to\r\ndraw out many times their normal\r\npower.\r\n\r\nHowever, it has no effect when\r\nworn by a person without powers.
+Alchemy Manual
+A book containing the secrets of\r\nalchemy, originating from Reville,\r\ncreators of the Magicite.\r\n\r\nAs far as can be made out from\r\nthe illustrations, it contains\r\nvarious bits of information such\r\nas magic circle types to the\r\nmethod of refining Magicite,\r\nthough it is impossible to\r\nunderstand unless you can\r\ndecipher the writing which\r\nappears to be in some sort\r\nof code.
+Magicite Fragment
+A fragment of Magicite, a\r\nmysterious stone created by the\r\nNation of Reville which caused\r\nthem to become revered as gods\r\nduring the ancient era of Edenbar.\r\n\r\nNormally, it glistens with a\r\nbeautiful blue radiance, but\r\nsince most of its power was\r\nused to revive the ancient\r\ngiant, it is slowly losing\r\nits potency.
+Soul of the Unclean
+The soul of a person who turned\r\ninto an ancient giant that had\r\nnowhere to go.\r\nThough the flickering flame\r\ngives off a pale glow, it leaves\r\nyou with a sense of melancholy.\r\nOver time it grows smaller and\r\nsmaller until it eventually\r\ndisappears.\r\n\r\nThere is speculation about what\r\nhappens to it after it disappears,\r\nsuch as it returning to nothing,\r\nor being called to heaven.
