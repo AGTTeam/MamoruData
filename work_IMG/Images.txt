@@ -1,0 +1,185 @@
+﻿ACT:
+消去=Erase
+終了=Finish
+決定=Select
+キャンセル=Back
+
+CLNY:
+俺がオマエを守る=I Will Protect You
+
+CMD:
+BGWND_ADV- (Not used?)
+日本のおすすめ商品=Recommended products in Japan
+商品名:=Product Name
+種類:=Type:
+価値:=Value
+おすすめポイント:Recommended points
+
+BGWND_MND00-
+攻撃 斬=Melee ATK
+攻撃 投=Range ATK
+回数=Chain Hits
+溜め=Charge ATK
+範囲=Range
+防御力=Defence
+命中率=Accuracy
+回避率=Evade rate
+攻撃速度=ATK SPD
+移動速度=Move SPD
+属性=ATR
+
+BGWND_MND04-
+武器名:=Weapon Name:
+種類:=Type:
+金額:=Cost:
+材料:=Materials:
+
+BGWND_MND06-
+名称:=Name:
+種類:=Type:
+材料:=Materials:
+
+BGWND_OPT-
+道具使用=Use Tools
+ダッシュ=Dash
+サブ攻撃=Sub ATK
+ジャンプ=Jump
+メニュー=Menu
+
+BGWND_REQ01-
+依頼主:=Client: 
+詳細:=Details:
+
+BGWND_REQ02-
+報酬品:=Reward:
+報酬額:=Payment:
+契約金:=Cost:
+(仲介手数料としてギルドに支払う金額です)=(Brokerage fee owed to the guild)
+
+BGWND_REQ03-
+依頼主:=Client:
+手紙:=Letter
+
+BGWND_REQ04-
+報酬品:=Reward:
+報酬額:=Payment:
+
+BGWND_STD01-
+プレイ時間:=Play Time:
+所持金:=Money:
+遺跡探索:=Ruins Exploration:
+宝物入手:=Treasure:
+依頼クリア:=Requests Cleared:
+メイン武器:=Main Weapons:
+調合レシピ:=Recipes
+サブ武器:=Sub Weapons:
+アクセサリー:=Accessories:
+スキル習得:=Skills:
+
+ENT:
+小文字=Lowercase
+空自=Space
+消去=Delete
+決定=Done
+
+LOGO:
+オトメイトf =Otomate f
+フォルテ=Forte
+アイディアファクトリー株式会社=IDEA FACTORY Co., Ltd.
+
+STF:
+キャスト=Cast
+レン=Ren
+宮野 真守=Mamoru Miyano
+ヴェルス=Veres
+水島 大宙=Takahiro Mizushima
+エルザ・クセルブル=Elza Kucellbull
+朝樹 りさ=Risa Asaki
+アーヴァンク=Avanc
+朝樹 りさ=Risa Asaki
+シャルネ=Charnet
+飯野 ユウ=Yū Iino
+ラグナス=Lagnus
+桜木 章人=Akito Sakuragi
+エストランド・クセルブル=Estrand Kucellbull
+尾崎 淳=Jun Ozaki
+ロニキス=Ronixis
+酒井 相一郎=Sōichirō Sakai
+プログラミング=Programming
+赤松 陵平=Ryohei Akamatsu
+山内 利晃=Toshiaki Yamauchi 
+デザイン=Design
+後藤 博行=Hiroyuki Goto
+村田 宇一郎=Uichirou Murata
+玉越 旭=Akira Tamakoshi
+春山 郁也=Fumiya Haruyama
+プランニング=Planning
+田浦 貴久=Takahisa Taura
+サウンド=Sound
+宮武 直人=Naoto Miyatake
+プロデュース=Producer
+佐藤 嘉晃=Yoshiteru Sato
+ラインアドバイザー=Line Advisor
+小倉 昌敏=Masatoshi Ogura
+キャラクター原案=Character Design
+カズキヨネ=Yone Kazuki
+進行サポート=Production Support
+河合 智司=*?
+モンスターデザイン=Monster Design
+つなこ=Tsunako
+グラフィックデザイン=Graphic Design
+松崎 奈穂=Naoki Matsui
+背景デザイン=Background Design
+中島 基之=Motoyuki Nakajima
+グラフィック協=Graphics Collaboration
+デザインファクトリー株式会社=Design Factory Co., Ltd
+ムービーディレクター=Cinematics Director
+小畑 敦彦=Atsuhiko Obata
+セールスプロモーション=Sales Promotion
+柳川 恵=Yanagawa Megumi
+山口 陽介=Yousuke Yamaguchi
+広報=Public Relations
+真下 好=Konomu Mashimo
+山下 真一=Shinichi Yamashita
+ウェブデザイン=Web Design
+森川 壮太郎=Sotaro Morikawa
+パッケージデザイン=Package Design
+水本 安弥子=Ayako Mizumoto
+デザイン進行=Design Supervisor
+藤井 麗子=Reiko Fujii
+サポート=Support
+鈴木 みつえ=Mitsue Suzuki
+岸田 理絵=Rie Kishida
+三上 景子=Keiko Mikami
+小野 あすか=Asuka Ono
+開発アシスト=Production Support
+大宮 園子=Sonoko Oomiya
+土屋智=Satoshi Tsuchiya
+植田 知弘=Tomohiro Ueda
+横山 一希=Kazuki Yokoyama
+キャスティング=Casting
+機崎 絵里=Eri Isozaki
+音声ディレクター=Voice Director
+平松 功光=Noriaki Hiramatsu
+キャスティング協力=Casting Collaboration
+イエローテイル=Yellow Tail Co., Ltd.
+劇団ひまわり=Himawari Theatre Group Inc.
+ぶろだくしょんパオバブ=Production Baobab Co., Ltd.
+(50 音順)=(In Japanese alphabetical order.)
+録音スタジオ=Recording Studio
+有限会社 ロックンパナナ=Rock'n' Banana Co., Ltd.
+ラインプロデュース=Line Producer
+福谷 大=Hiroshi Fukutani
+スペシャルサンクス=Special Thanks
+高木 亜由美=Ayumi Takagi
+製作総指揮=Executive Producer
+桑名 真吾=Kuwana Shingo
+キャラクター監修=Character Supervision
+デザインファクトリー株式会社=Design Factory Co., Ltd
+製作／販売=Production/Sales
+アイディアファクトリー株式会社=Idea Factory Co., Ltd
+開発=Development
+ヴァンテアン システムズ 株式会社=Vingt et un Systems Corporation
+(C)2009 IDEA FACTORY
+(C)2009 Vingt et un Systems Corporation
+(C)2008 カズキヨネ·DESIGN FACTORY=(C)2008 Yone Kazuki DESIGN FACTORY
