@@ -1,15 +1,15 @@
 Suppli-extract
 A liquid formula made out of\r\nmedicinal plants, effective\r\nat healing wounds.\r\nThe sweet flavour makes it\r\neasy for children to drink.
 Supplement
-A formula of medicinal plants\r\nused to treat wounds.\r\nExtremely effective, but\r\nit's bitter taste can make\r\nit hard to swallow.
+A formula of medicinal plants\r\nused to treat wounds.\r\nExtremely effective, but it's\r\nbitter taste can make it\r\nhard to swallow.
 Nourishment
-The result of finding the\r\nperfect blend of ingredients\r\nthat utilises the maximum\r\nbenefits of medicinal\r\nplants. A tasteless and\r\nodorless drink.
+The result of finding the\r\nperfect blend of ingredients\r\nthat utilise the maximum\r\nbenefits of medicinal plants.\r\nA tasteless and odorless\r\ndrink.
 Ethanol
-A potent medicine that\r\nalleviates the symptoms\r\nof toxins that have\r\npenetrated the body.\r\nComes in liquid form,\r\nmaking it easy to take.
+A potent medicine that\r\nalleviates the symptoms\r\nof toxins which have\r\npenetrated the body.\r\nComes in liquid form,\r\nmaking it easy to take.
 Oxidol
 Mitigates the symptoms of\r\npoison and soothes pain\r\nwithin the body.
 Nam Extract
-A medicine capable of\r\nrelieving paralysis that\r\nslows the function of the\r\nnerves. Has a thick yogurt-\r\nlike consistency.
+A medicine capable of\r\nrelieving paralysis that\r\nslows the function of\r\nthe nerves. Has a thick,\r\nyogurt-like consistency.
 Nam Powder
 Mitigates numbness and\r\nsoothes pain within the\r\nbody.
 Mental Care
@@ -17,9 +17,9 @@ When taken intentionally, it\r\nhelps to relieve mental pain\r\nand anxiety. How
 Mental Treatment
 Calms the mind and soothes\r\npain within the body.
 Cool Jelly
-A cold jelly used to suppress\r\na rising fever. If eaten,\r\ncools the body down from\r\nthe inside out. Be sure to\r\nfollow the directions for\r\nuse carefully.
+A cold jelly used to suppress\r\na rising fever. Cools the\r\nbody down from the inside\r\nout when eaten. Be sure\r\nto follow the directions\r\nfor use carefully.
 Cool Flan
-A jelly-like medicine that\r\ncools excess heat\r\naccumulated in the body\r\nand relieves pain.
+A jelly-like medicine that cools\r\nexcess heat accumulated in\r\n thebody and relieves pain.
 Elixsar
 A legendary nostrum said\r\nto cure all ails. It has\r\na startlingly bitter taste\r\nthat sends a shiver through\r\nthe entire body. Side\r\neffects include fainting.
 Elixir
@@ -41,19 +41,19 @@ A dynamic dish of whole ribs\r\nslow-cooked over a fire. Fills\r\nthe stomach an
 Roast Thigh Meat
 A dynamic dish of thigh meat\r\nslow-cooked over a fire. Fills\r\nthe stomach and restores\r\nstrength.
 Aphid Powder
-A fine powder made from\r\ndried aphids.\r\nIt's a superior item\r\nthat both recovers\r\nhealth and enhances\r\nphysical strength.
+A fine powder made from dried\r\naphids. It's a superior item\r\nthat both recovers health\r\nand enhances physical\r\nstrength.
 Pickled Aphids
-A drink of whole aphids\r\npickled in alcohol. Burns\r\nthe throat when taken, but\r\nis more effective than the\r\npowder.
+A drink of whole aphids\r\npickled in alcohol. Burns\r\nthe throat when taken,\r\nbut is more effective\r\nthan the powder.
 Smoked Sage
 Smoke from burning sage.\r\nInhaling it makes you immune\r\nto poison for a set period\r\nof time.
 Rosmarin Spiced Meat
 A delicious dish of meat\r\nstuffed with Rosmarin.\r\nMakes you immune to\r\nparalysis for a set\r\nperiod of time.
 Foxglove Dumpling
-An invigorating dumpling\r\nstuffed with meat and\r\nminced foxgloves. Makes\r\nyou immune to fear for a\r\nset period of time.
+An invigorating dumpling\r\nstuffed with meat and\r\nminced foxgloves. Makes\r\nyou immune to fear for\r\na set period of time.
 Thigh Meat with Aloe
-A flavourful dish of sauteed\r\nmeat garnished with aloe.\r\nmakes you immune to burn for\r\na set period of time. 
+A flavourful dish of sauteed\r\nmeat garnished with aloe.\r\nMakes you immune to burn\r\nfor a set period of time. 
 Invigorating Ribs
-A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect\r\nof stun for a set period\r\nof time.
+A platter of ribs which use\r\nmint as a secret ingredient.\r\nIt's stimulating flavour helps\r\nto ward off the effect of\r\nstun for a set period of\r\ntime.
 Green Syringe
 By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof poison.
 Blue Syringe
@@ -61,9 +61,9 @@ By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the
 Yellow Syringe
 By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof paralysis.
 Red Syringe
-By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof being burned.
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof burn.
 White Syringe
-By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof being stunned. 
+By injecting medicine into the\r\nbody, it provides long term\r\nrelief from the effects\r\nof stun.
 Standard Syringe
 By injecting medicine into the\r\nbody, it provides relief from\r\nall status ailments.\r\n\r\nDuration: Short
 Medical Syringe
@@ -75,10 +75,10 @@ A tool that can temporarily\r\nboost the power of weapons.\r\nNot only does it l
 Life's Guidepost
 A handy tool that allows you\r\nto return to the village in\r\nan instant, wherever you \r\nare.\r\nEssential for adventurers.
 Rain Calamity
-A tool which can be used to\r\ninflict damage nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
+A tool which can be used to\r\ninflict damage on nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
 The Door To Hades
-A tool which can be used to\r\ninflict damage nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
+A tool which can be used to\r\ninflict damage on nearby foes.\r\nNote that if there are no\r\nmonsters within reach, it\r\nwill have no effect.
 Shadow Summoner
 An item which allows you to\r\nshroud yourself in a thin\r\nshadow, hiding your presence\r\nand nullifying enemy attacks\r\nfor a set period of time.
 Breath Of Life
-An item that can pull you\r\nback from the afterlife 1\r\ntime if you die whilst having\r\nit in your possession.\r\nBreaks after use.
+An item that can pull you\r\nback from the afterlife one\r\ntime if you die whilst having\r\nit in your possession.\r\nBreaks after use.

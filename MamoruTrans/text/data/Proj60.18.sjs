@@ -1,5 +1,5 @@
 Mint
-<C03>Description:<C04>\r\nA plant with a healing\r\neffect. It has no effect\r\nif taken as is.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
+<C03>Description:<C04>\r\nA plant with a healing effect.\r\nIt has no effect if taken\r\nas is.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Blue Mint
 <C03>Description:<C04>\r\nA fragrant plant that can\r\nbe used as a spice or made\r\ninto a healing medicine.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 Sage
@@ -63,7 +63,7 @@ Haku Seed
 Nail Nut
 <C03>Description:<C04>\r\nA thin and tough nut,\r\nreminiscent of a nail.\r\nStrong and versatile.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Tree
 Drake Seed
-<C03>Description:<C04>\r\nThe withered bud of a\r\nMandrake. Unbelievably\r\nheavy for wha it is.\r\n<C03>Dropped By:<C04>\r\nMan-Eating Mandrake
+<C03>Description:<C04>\r\nThe withered bud of a\r\nMandrake. Unbelievably\r\nheavy for what it is.\r\n<C03>Dropped By:<C04>\r\nMan-Eating Mandrake
 Xechs Nut
 <C03>Description:<C04>\r\nA nut that emits a rotten\r\nodour. If you break the shell\r\nthe stench gets even worse.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Tree
 Pole Fruit
@@ -95,13 +95,13 @@ Umber Insect Leg
 Umber Shell
 <C03>Description:<C04>\r\nA hard, hot red insect shell.\r\nSometimes used as a no heat-\r\nnecessary cooking pan.\r\n<C03>Dropped By:<C04>\r\nVoll Bug
 Green Bug
-<C03>Description:<C04>\r\nA small green insect with\r\na distinctive chirp.\r\nDelicious when fried.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
+<C03>Description:<C04>\r\nA small green insect with a\r\ndistinctive chirp.\r\nDelicious when fried.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Noisy Bug
 <C03>Description:<C04>\r\nA small insect that makes a\r\nsound like a wind chime.\r\nA favourite of the Ptera.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Leafhopper
 <C03>Description:<C04>\r\nMoth Larva that feeds on\r\nfruit trees. Wraps itself\r\nin leaves and twigs.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Tree
 Flowerhopper
-<C03>Description:<C04>\r\nA grasshopper with a long\r\ntooth, thought to have\r\nevolved to eat hard nuts.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
+<C03>Description:<C04>\r\nA grasshopper with a long\r\nmandible, thought to have\r\nevolved to eat hard nuts.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
 Buzz
 <C03>Description:<C04>\r\nAn insect that makes a\r\nbuzzing sound by moving\r\nits wings.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Tree
 Rollie Pollie
@@ -183,7 +183,7 @@ Dragon Fang
 Parvum Stone
 <C03>Description:<C04>\r\nAn ordinary pebble that fell\r\non the ground. Palm-sized.\r\n\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Grande Stone
-<C03>Description:<C04>\r\nAn ordinary stone that fell\r\non the ground. Too big to\r\nhold with just one hand.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
+<C03>Description:<C04>\r\nAn ordinary stone that fell\r\nto the ground. Too big to\r\nhold with just one hand.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Acumino Greenstone
 <C03>Description:<C04>\r\nGreen moss is stuck to the\r\nsurface. Without a clean\r\nthe stone has no value.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 Redondo Greenstone
@@ -213,7 +213,7 @@ Blazing Crystal
 Frozen Crystal
 <C03>Description:<C04>\r\nA stone housing ice of -200É C.\r\nThe surface is cold to the\r\ntouch.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Thin Iron Plate
-<C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Stretching it thin makes\r\nit easier to use.\r\n(Processed Goods) 
+<C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Stretching it thin\r\nmakes it easier to use.\r\n(Processed Goods) 
 Broad Iron Plate
 <C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Easy to make into a\r\nstrong sword or armour, but\r\ncomes with a hefty weight.\r\n(Processed Goods)
 Thin Iron Bar
@@ -323,7 +323,7 @@ Dirty Cloth
 White Cloth
 <C03>Description:<C04>\r\nGives off a pure white glow\r\nas if it is reflecting light.\r\n\r\n<C03>Dropped By:<C04>\r\nErlik
 Black Cloth
-<C03>Description:<C04>\r\nIt emits a terrifying aura\r\nand feels heavy in one's\r\nhands.\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
+<C03>Description:<C04>\r\nEmits a terrifying aura and\r\nfeels heavy in the hand.\r\n\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
 Small Lump
 <C03>Description:<C04>\r\nA small chunk of something.\r\nWhat  exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
 Large Lump
