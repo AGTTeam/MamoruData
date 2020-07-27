@@ -41,8 +41,8 @@ Sub-weapon
 You haven't obtained this\ntreasure.
 Press the matching button to use items.
 <$1b>X12Load File %d?
-他
-SAVE\nBOSS\nKEY\nQUESTION\nFREE(1)\nFREE(2)\nFREE(3)\nFREE(4)
+& More
+SAVE\nBOSS\nKEY\nQUESTION\nFREE (1)\nFREE (2)\nFREE (3)\nFREE (4)
  Use Item
  Markup Mode
 Skip scene?
@@ -235,9 +235,9 @@ Accessories
 Roughly one thousand years ago...
 There was an era of tremendous\nprosperity and great glory,\nbrought about by the power of the\n“Magicite”, a stone created by\nhighly-developed alchemy.
 The legendary civilization said\nto have been destroyed in a single\nnight... Edenbar.
-By absorbing the forces of nature,\nsuch as ‘fire', ‘water', ‘earth' and\n‘air', the “Magicite” that\nsustained the Edenbar civilization\nwas able to exert massive influence\nat will, a tainted power that\ntrespassed on God's domain. 
+By absorbing the forces of nature,\nsuch as ‘fire', ‘water', ‘earth' and\n‘air', the “Magicite” that\nsustained the Edenbar civilization\nwas able to exert massive influence\nat will, a tainted power that\ntrespassed on God's domain.
 The people, acting out of self-\ninterest, abused the power without\nany consideration of the effect\nthat it would have on the world.
-As a result, the balance of the\nnatural world crumbled. Having gone\ntoo far, the empire was left with\nno other path than to their ruin. 
+As a result, the balance of the\nnatural world crumbled. Having gone\ntoo far, the civilisation was left\nwith no other path than to its ruin.
 And, in the present day...
 We've received all sorts of requests from the\nvillagers, traders and hunter's association.
 Come back once you've completed a quest.
@@ -303,7 +303,7 @@ Raises hit rate
 ＳＰ
 Melee ATK
 Range ATK
-Use
+Max Combo
 Charge ATK
 Range
 Defence
@@ -422,9 +422,9 @@ Next time, then!\nLet's play together next time, wiggggle!\n\n
 Mur! It's been a while, mur!\nTalk to mur!\n\n
 Mur? You're busy now, mur?\n\n\n
 Hurry up and finish your business, mur!\nThen you can talk to mur!!\n\n
-お ？　どうした ？\nワシの訓練を受ける気になったか ？\n\n
-……そうあからさまに嫌な顔を\nせんでも良いだろうに。\n\n
-まぁ、気が向いたらいつでも来るがよい。\nワシはいつでもここにおるからな。\n\n
+Oh? What is it?\nDid you fancy doing some training together?\n\n
+...You don't have to make such a disgusted face.\n\n\n
+Well, if you ever change your mind, you know\nwhere to find me.\n\n
 Ah, looks like you managed to clear that quest.\nCongrats.\n\n
 Well then, I'll give you your reward and the thank\nyou letter you received.\nHere, take these.\n
 ...The pattern on this wall shows the flow of\nenergy in the earth.\n\n
@@ -436,8 +436,8 @@ Welcome. Been up to anything exciting lately?\n\n\n
 Could you take a look at this?\n\n\n
 Oh? That's a <C03>skill book<C04> you've got with you.\nPass it here.\n\n
 ...Hm? ...Oh, a child.\n\n\n
-...You shouldn't hang around a place like this.\n\n\n
-...A child... you said?\nLet me tell you--\n\n
+...You shouldn't hang around a place like this.\nThere's no telling what might happen.\n\n
+...A child... you said?\nAllow me to enlighten you--\n\n
 Go home.\n\n\n...You must know it's for the best, too.\n\n\n
 ＞Leaving it at that, the Bronze Knight walked\n　away.\n\n
 ...Hm?\n\n\n
@@ -561,8 +561,8 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 So it seems that assigning this skill will reduce\nthe duration you’ll be burned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Resistant Mass<C04>’.\n\n
-<C03>Resistant<C04>... <C03>Mass<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Resistant Block<C04>’.\n\n
+<C03>Resistant<C04>... <C03>Block<C04>?\n\n\n
 “You can enhance your resistance to all ailments",\nor so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration of all status ailments.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 ＞Liruka Village was located to the south of the\n　Kucellbull Dukedom.\n\n　
@@ -586,7 +586,7 @@ In other words, it's a skill that will increase the\n power of sword attacks, as
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>Demon's Right Arm<C04>’.\n\n
-<C03>Demon's right arm<C04>?\n\n\n
+<C03>Demon's Right Arm<C04>?\n\n\n
 “Your body will become host to an offensive power\nlike that of a demon", or so it says.\n\n
 In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -636,8 +636,8 @@ Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Empty Mind<C04>’.\n\n
 <C03>Empty Mind<C04>?\n\n\n
-“By having the mental strength to reach a point\nwhere your mind is clear of all thoughts, you will\nbe able to read the air's movements", or so it says.\n
-In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\n...Sounds like you'll reach the stage of becoming\na wise old monk.\n\n
+“By reaching a point where your mind is clear of\nall thoughts, you will be able to read the air”,\nor so it says.\n
+In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\n...Sounds like you can become just like a wise old\nmonk.\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -690,8 +690,8 @@ Apparently, by having this skill assigned, you won't\nneed to worry about being 
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Immune Bundle<C04>’.\n\n
-<C03>Immune Bundle<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Immune Block<C04>’.\n\n
+<C03>Immune Block<C04>?\n\n\n
 “You can boost your immunity enough to nullify\nall ailments", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about status ailments.\n\n...That is one handy skill.\nIt even seems a bit unfair...\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
@@ -760,15 +760,15 @@ What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Throwing A Strike<C04>’.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
-In other words, it's a skill that will change your\nthrust attack into a more powerful technique,\nas long as it's been assigned.\n
+In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
 Heh～ ...A <C03>three-step strike<C04>, huh?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Secrets of the Strike<C04>’.\n\n
-<C03>Secrets of the Strike<C04>?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Mastering A Strike<C04>’.\n\n
+<C03>Mastering A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a five-step attack.\n\n
-In other words, it's a skill that will change your\nthrust attack into a more powerful technique,\nas long as it's been assigned.\n
+In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
 Heh～ ...A <C03>five-step strike<C04>, huh?\n...I wonder whether it's any good.\n\n
 Indeed... Why don't you equip it sometime and give\nit a try?\n\nIt's your choice to stick with it or not, after all.\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -1192,33 +1192,33 @@ I am the <C03>Guardian<C04> of these ruins. I am bound to\nthis place, burdened 
 ...That life.\nI thought you had resigned yourself...\n\nIt appears I was mistaken...\n\n\n
 ＞Ren's body, having regained the ability to move,\n　clutched at his sword without hesitation.\n\n＞That wordless act in itself shot the signal fire\n　for the fight to begin.\n\n
 ...Here I come!!\n\n\n
-……ん ？　……子供、 か。\n\n\n
-……こんなところをウロチョロするな。\n何かあっても知らんぞ。\n\n
-いや、 今日はちょっと用があって\n来たんだけど……\n\n
-用 ？　このワシにか ？\n\n\n
-あぁ、 あんた<C03>ボルドー<C04>っていう\n剣士を知ってるだろ ？\n\n
-ボルドー ？\nあのヒヨッコ剣士のことか。\n\n
-ヒヨッコ ？\n\n\n
-あぁ。　何度打ち負かしても\nめげずに挑戦してくるバカな男だ。\n\n
-ヤツはまだまだ剣筋が安定していない。\nだからヒヨッコ、 だ。\n\n
-だが、 ……見込みはある。\n\n\n
-人間でいうとそれなりに歳をくっておるだろうが、\nあいつはこれからもっと伸びるだろうな。\n\n
-で、 そのボルドーがどうした ？\n\n\n
-あ、 あぁ、 なんでもあんたと\n再戦の約束をしたとかで、\n\n
-その日時が決まったから\n伝えに来たんだ。\n\n
-ほぉ。　それは楽しみだ。\n\n\n
-こんなところにいると、\n楽しみなんてものは少ないからな。\n\n
-何度負けても向かってくるあいつはバカだ。\nだが、 ああいうバカは嫌いじゃない。\n\n
-待っていると、 伝えておいてくれ。\n\n\n
-あぁ、 わかった。\n\n\n
-それじゃ、 俺はもう行くよ。\n\n\n
-ちょっと待て。\n\n\n
-ん ？\n\n\n
-見たところ、 おぬしも剣をかじっているようだな。\nどうだ ？　何だったら稽古を付けてやるぞ。\n\n
-げ……どっかの団長みたいな事言うなよ。\n\n\n
-と、 とにかく俺の用事は終わったから、\nもう戻るよ ！\n\n
-じゃあな。\n\n\n
-……やつもなかなか見込みが\nありそうだな。\n\n
+...Hm? ...Oh, a child.\n\n\n
+...You shouldn't hang around a place like this.\nThere's no telling what might happen.\n\n
+Actually, I'm here on business today...\n\n\n
+Business? With me?\n\n\n
+Yeah, you know a swordsman named <C03>Bordeaux<C04>, right?\n\n\n
+Bordeaux?\nAh, that greenhorn.\n\n
+Greenhorn?\n\n\n
+Yes, a real fool. No matter how many times I've\ndefeated him, he doesn't hesitate to challenge me.\n\n
+His swordsmanship still needs a lot of work.\nHence, a greenhorn.\n\n
+Though... He has potential.\n\n\n
+As a human being, he will naturally grow in age,\nbut in many other ways too.\n\n
+So, what is the deal?\n\n\n
+Ah, about the rematch you agreed to...\n\n\n
+He's decided on a place and time and asked me\nto pass it on.\n\n
+Hoh? I can't wait.\n\n\n
+There's not much you get to look forward to\nwhen you live in a place like this, after all.\n\n
+No matter how many times he loses, he is still a\nfool. But, I don't hate fools like that.\n\n
+Tell him that I'll be waiting.\n\n\n
+Great.\n\n\n
+Well, I'd best be off then.\n\n\n
+A moment, if you please.\n\n\n
+Hm?\n\n\n
+From the looks of it, it seems like you also\ndabble in the sword. How about it? Are you up\nfor some training with me?\n
+Geh... You sound just like my captain.\n\n\n
+A-anyway, my job here is finished, so I'm heading\nback!\n\n
+See you.\n\n\n
+...He appears to have some potential too.\n\n
 Phew...\n\n\n
 ＞Having finished his first quest, Ren looked\n　at the rewards he'd earnt with a satisfied\n　smile.\n
 ＞Charnet approached him from behind the counter.\n\n\n
@@ -1427,9 +1427,9 @@ Oh, no need to thank me.\n\n\n
 Hehehe. I’m kidding.\nWell, more like half-kidding.\n\n
 Now then...\nWas there something else you wanted?\n\n
 ...\n\n\n
-...How to draw out the power... to that...\nNo... But...\n\n
+...A way to draw out that power... to the body...\nNo... But...\n\n
 Veres?\nWhat are you doing here?\n\n
-...Being overwhelmed by that power...\nMaybe I'm overthinking it... But, in the process...\n\n
+...Being overwhelmed by that power...\nMaybe I'm overthinking it... But, that method...\n\n
 ...\n\n\n
 ...Oi!\n\n\n
 Wah!?\n--Ren!? When did you get here!?\n\n
@@ -1857,7 +1857,7 @@ So, what'll it be?\n\n\n
 ＞The 8th Archduke of Kucellbull.\n　Estrand Kucellbull.\n\n
 ＞The Archduke inspected the assembly, and gave\n　a single cough as if to get their attention,\n　before opening his mouth...\n 
 As most of you are already aware, ancient ruins\nwere recently discovered in Dorius.\n\n
-The ruins are said to date back to the Edenbar\nEmpire, believed to have been destroyed over one\nthousand years ago...\n
+The ruins are said to date back to the civilisation\nof Edenbar, believed to have been destroyed over\none thousand years ago...\n
 The archaeologists sent out to investigate were\n...wiped out.\n\n
 ＞The abrupt announcement stirred up the room...\n\n\n
 ＞The voice of a single knight cut through the\n　noise.\n
@@ -2416,3 +2416,5 @@ There are all sorrrts of items waiting for you～!\n\n\n
 ...I don't know what Veres is thinking, but...\n\n\n
 Now that I have this key, I should be able to go\ndeeper into the ruins.\n\n
 ...Okay, guess it's back to work.\n\n\n
+
+

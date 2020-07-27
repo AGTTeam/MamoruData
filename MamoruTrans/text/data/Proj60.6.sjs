@@ -5,7 +5,7 @@
 <C04>＞The door appears to be locked.\r\nThere is a large keyhole.
 <C04>＞The door is locked.\r\n　The <C03>Ruins Key<C04> seems to fit.
 扉
-<C04>＞The door appears to be locked, but there\r\n　isn't a keyhole.
+<C04>＞The door appears to be locked, but there isn't\r\n　a keyhole.
 
 扉
 <C04>＞It appears a key is needed to unlock this door.\r\n　The keyhole is tarnished, but is a beautiful,\r\n　sparkling silver colour.

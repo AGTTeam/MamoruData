@@ -276,9 +276,9 @@ I finally opened the butchery I'd\r\nbeen dreaming of but then I realised\r\nI m
 Mm! A great texture! You really\r\nbrought me some fine cuts. I'm\r\ngoing to add them the store right\r\naway and open the shop in earnest\r\nfrom tomorrow! Now I've got to this\r\npoint, I'll get my own meat from now\r\non. Can't rely on others forever!
 Swordsman With Pride
 Wandering Swordsman　Bordeaux
-以前、甲冑戦士に無様に破れた結果\r\nあんたに仇を取ってもらったんだが\r\nやっぱり悔しくて、もう一度挑んだ\r\nんだ。ま、また返り討ちに遭ったん\r\nだが、再戦の約束をしてね。日時が\r\n決まったんで、伝えてくれないか？
-…実は、俺みたいな弱っちいやつ\r\n忘れてんじゃないか？とか色々と\r\n考えちまって…誰かに再戦の意志\r\nを確かめて来て欲しかったんだ。\r\nでもあいつ、こんな俺を待って\r\nくれてたんだな…。強くなった俺\r\nをしっかり見せてやってくるぜ！
-Conquer The Flames!
+I had you take revenge after I was\r\ndefeated by an armoured swordsman,\r\nbut it was still frustrating, so I\r\ntried again, and... failed, again. But\r\nwe agreed on a rematch! Can you\r\npass on the time and date for me?
+...So, he really didn't just\r\nforget about a weak guy like me?\r\nI was worried he might not want\r\nto have another rematch, but to\r\nthink he's waiting for me...\r\nI'll show him how just strong\r\nI've become!
+Conquer The Flames! 
 Burn-Scarred Man　Rodriguez
 There's a room in the third layer\r\nof the ruins with a load of those\r\npurple fire monsters. That room\r\njust stinks of treasure, but\r\nthey're such a hindrance that I\r\ncan't take my time exploring it....
 You didn't get burned anywhere?!\r\nEven though there are so many\r\nfires whizzing around... What kind\r\nof magic did you use? Anyway, now\r\nI can go get the treasure that's\r\nbeen lying in wait! ...You haven't\r\ntaken it already, right?
