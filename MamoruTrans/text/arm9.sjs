@@ -251,7 +251,7 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %s　Vanquish %dx
 %s　Vanquish
 %s　Deliver %d
-%s　Delivery
+%s　Deliver
 %s　Chat
 %sRuins Exploration %d％ or more
 %s　Treasure Found %d％ or more
@@ -261,8 +261,8 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %s
 %s
 %s
-%s Ruins Exploration
-%s Treasure Found
+%sRuins Exploration
+%sTreasure Found
 Select
 Back
 登録
@@ -423,7 +423,7 @@ Mur! It's been a while, mur!\nTalk to mur!\n\n
 Mur? You're busy now, mur?\n\n\n
 Hurry up and finish your business, mur!\nThen you can talk to mur!!\n\n
 Oh? What is it?\nDid you fancy doing some training together?\n\n
-...You don't have to make such a disgusted face.\n\n\n
+...No need to make such an obviously put off\nexpression.\n\n
 Well, if you ever change your mind, you know\nwhere to find me.\n\n
 Ah, looks like you managed to clear that quest.\nCongrats.\n\n
 Well then, I'll give you your reward and the thank\nyou letter you received.\nHere, take these.\n
@@ -807,7 +807,7 @@ Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises... physical strength?\n\n\n
-えぇ。　これでかなり強い攻撃を\n受けたとしても、\n平気な顔でいられるんじゃない ？\n
+Yes. It seems like with this, you’ll be able to keep\nyour composure even if you get hit by a pretty\nstrong attack.\n
 Well, even if your vitality increases, it’ll be\nirrelevant if you’re lazy about equipment, so\ntry to always keep a sense of danger.\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -907,15 +907,15 @@ Yeah, will do.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Tree +2】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-どうやらこの書は、 <C03>樹木との調和<C04>という\n<C03><[>常駐スキル<]><C04> について、 旧文明の民が\n書き記したものみたいね。\n
-<C03>樹木との調和<C04> ？\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>In Harmony With Trees<C04>’.\n
+<C03>In Harmony With Trees<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
-『……樹木と一体化することで、\n生活の中、自然との調和をはかる……\n\n
-それすなわち、 大樹マスター。\nマスターは、 より多くの採取が\n出来るのだ……』 だって。\n
-すなわち大樹マスターって、\nだからどういうことなのよ……\n\n
-ま、 大樹を見つけたら素材を採取してみて、\nどのように変化したのかチェックしてみれば\nいいんじゃない ？\n
+“...By becoming one with the leaves, one can\nharmonize with all the nature in their life...\n\n
+That is, the Tree Master. The master may gather\nmuch more than before..."\n\n
+...What is “that is, the Tree Master" even\nsupposed to mean?\n\n
+Well, if you do come across a large tree, why\ndon’t you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　採取の回数がアップしました！\n\n<C03>　　　　　【大樹＋4】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           【Tree +4】<C04>\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>The Grass Admirer<C04>’.\n
@@ -1202,23 +1202,23 @@ Greenhorn?\n\n\n
 Yes, a real fool. No matter how many times I've\ndefeated him, he doesn't hesitate to challenge me.\n\n
 His swordsmanship still needs a lot of work.\nHence, a greenhorn.\n\n
 Though... He has potential.\n\n\n
-As a human being, he will naturally grow in age,\nbut in many other ways too.\n\n
-So, what is the deal?\n\n\n
+As a human being he will naturally grow in age,\nbut he will progress in a great many other ways\ntoo.\n
+So, what's the deal?\n\n\n
 Ah, about the rematch you agreed to...\n\n\n
-He's decided on a place and time and asked me\nto pass it on.\n\n
+He's decided on the place and time and asked me\nto pass it on.\n\n
 Hoh? I can't wait.\n\n\n
-There's not much you get to look forward to\nwhen you live in a place like this, after all.\n\n
+There's not much you get to look forward to when\nyou live in a place like this, after all.\n\n
 No matter how many times he loses, he is still a\nfool. But, I don't hate fools like that.\n\n
 Tell him that I'll be waiting.\n\n\n
 Great.\n\n\n
 Well, I'd best be off then.\n\n\n
 A moment, if you please.\n\n\n
 Hm?\n\n\n
-From the looks of it, it seems like you also\ndabble in the sword. How about it? Are you up\nfor some training with me?\n
+From the looks of it, it seems like you also dabble\nin the sword. How about it?\nAre you up for some training with me?\n
 Geh... You sound just like my captain.\n\n\n
 A-anyway, my job here is finished, so I'm heading\nback!\n\n
 See you.\n\n\n
-...He appears to have some potential too.\n\n
+...He appears to have much potential too.\n\n
 Phew...\n\n\n
 ＞Having finished his first quest, Ren looked\n　at the rewards he'd earnt with a satisfied\n　smile.\n
 ＞Charnet approached him from behind the counter.\n\n\n
@@ -1304,34 +1304,34 @@ Well, it's about time that I was off.\nDo take care.\n\n
 …………\n\n\n
 ……エルザ……俺がオマエを守る……\n必ず、守ってみせる ！ ！\n\n
 ＞レンは、 携えた剣をしっかりと握り締め、\n　今、 友を討つ決意を固めた……\n\n
-これが…… <[>魔晶石<]> か。\n\n\n
-この石さえあれば、 俺も力を手に出来る。\nあいつにも負けない、 力を……\n\n
-ヴェルス ！ ！\n\n\n
-……さすがだよ、 レン。\n負けるわけはないと思っていたが、\n……本当にお前には驚かされる。\n
-ヴェルス、 お前どういうつもりだ ？\n\n\n
-俺たちはその石を大公の元に持ち帰る任務を受けて、\nここに来たんじゃなかったのか ？ ！\n\n
-お前にだって、 わかるだろ ？\n……あの男がこの石の力を手に入れれば、\nきっと良からぬ事に利用する。\n
-…………\n\n\n
-軍事利用だとか、 世界を掌握するだとか……\nそんなくだらない事に力を使うくらいなら、\n……俺が使ってやるよ。\n
-……何を ！ ？\n\n\n
-＞ヴェルスは巨大な <[>魔晶石<]> に\n　その身をあずけるようにして、\n　両手を広げ、 寄り添った。\n
-＞すると、 ヴェルスの身体から、\n　青白い輝きが漏れ始める……\n\n
-よせ ！　ヴェルス ！\nあの巨大な怪物を見ただろ ！ ？\nお前もあんな姿になりたいのか ！ ？\n
-うぉぉぉぉぉぉぉ ！ ！ ！ ！ ！ ！\n\n\n
-ヴェルス ！ ！ ！ ！\n\n\n
-…………\n\n\n
-お、 お前……\n\n\n
-大丈夫だよ、 レン。\n俺は何も変わっちゃいない。\n\n
-……ただ、 俺は力を手に入れた。\nもうお前には負けない。\n\n
-剣の技術も、 エルザのことも……\n\n\n
-エルザ ？\n\n\n
-……おい、 ヴェルス。\nお前……何を考えてるんだ…… ？\n\n
-ここを俺たちの城にする。\nとりあえずは、 そこからだ……\n\n
-＞それだけ言うと、 ヴェルスはその場から\n　消えてしまった。\n\n
-＞残されたレンは、 既にヴェルスが\n　石の力に捕らわれてしまっていることを\n　確信していた。\n
-……エルザが、 危ない。\n\n\n
-＞ヴェルスが行おうとしていることが何なのか……\n　今のレンにはわからなかった。\n\n
-＞それでも、 エルザの身に危険が\n　迫っていることだけは察知していた。\n\n
+This is the Magicite, huh?\n\n\n
+With this stone, I can obtain power.\nThe power to not lose, even to him...\n\n
+Veres!!\n\n\n
+...It figures, Ren. I didn't think you would lose,\nbut... You really do astound me.\n\n
+Veres, what are you plotting?\n\n\n
+Didn't we come here with the mission to take the\nstone back to the Archduke?!\n\n
+You know, don't you?\n...If he gets the power of this stone, it surely\nwon’t be used to do good.\n
+...\n\n\n
+For military use, to take over the world...\nIf the power is gonna be used for such crap...\n...I'll use it.\n
+...What!?\n\n\n
+＞Entrusting himself to the massive piece of\n　Magicite, Veres held out his hands and embraced\n　it.\n
+＞A pale blue glow began to enshroud his body...\n\n\n
+Stop! Veres! You saw that huge giant, right!?\nDo you want to turn into that too!?\n\n
+Uooooooohhhhh!!!!!!\n\n\n
+Veres!!!!\n\n\n
+...\n\n\n
+Y-You...\n\n\n
+It's okay, Ren.\nI haven't changed.\n\n
+...But, I have obtained power.\nI won't lose to you anymore.\n\n
+Not at sword fighting, nor Elza...\n\n\n
+Elza?\n\n\n
+...Oi, Veres. What are you on about...?\n\n\n
+This place shall be our castle.\nBut first... I'll start with that.\n\n
+＞Without another word, Veres disappeared.\n\n\n
+＞Ren was convinced that he had already been\n　taken in by the power of the stone.\n\n
+...Elza's in danger.\n\n\n
+＞Ren still had no idea of what Veres was about\n　to do.\n\n
+＞But even so, he could tell that Elza was in\n　trouble.\n\n
 Well, speaking of... About the nation of Reville in\nthat book I showed you before...\n\n
 Apparently, they're the ones who used alchemy to\ncreate Magicite in the days of Edenbar, which was\ndestroyed a thousand years ago.\n
 Using alchemy... to make Magicite?\n\n\n
@@ -1527,52 +1527,52 @@ Thank you... Mr Lagnus.\n\n\n
 Much better!\n\n\n
 Well, I'm gonna get back.\nIf you find yourself wanting a weapon, pop round!\n\n
 <C05>　　　　　INFORMATION<C04>\n\n <C03>【Sapphyri Key】<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked...\n\n Eh? You’ve forgotten about it?\n ...Come on now, the door's in\n that looong room. Remember?
-……よう。　遅かったな。\n\n\n
-…… ？\n\n\n
-＞そこは、 これまでの部屋とは異なり、\n　まるで異世界にでも迷い込んだかのように\n　感じるほど、 異様な空間であった。\n
-＞そんな部屋の中央にたたずむヴェルス。\n\n\n
-＞彼の内側から発せられた、 不自然なほどの\n　異質な雰囲気に飲まれまいとして、\n　レンは、 咄嗟に剣を構えていた……\n
-……なんだよ。\n何で俺に剣を向けるんだ ？\n\n
-お前……本当にヴェルスか ？\n\n\n
-ククク……\n可笑しな事を言うようになったな。\n\n
-どこからどう見ても、 俺だろ ？\n\n\n
-＞確かに容姿はヴェルスそのものであったが、\n　内側から溢れ出る異質な気配の影響か、\n　レンの目には別人のように映っていた。\n
-＞そのヴェルスの手には、 しっかりと\n　<[>魔晶石<]> のカケラが握られている……\n\n
-ヴェルス ！　その石をすぐに捨てろ ！\nその石は…… ！\n\n
-黙れ。\n\n\n
-……石がさぁ……語りかけてくるんだよ……\n力を……力をくれてやる、 って……\n\n
-これが、 俺の求めていたものだ……\n……誰にも邪魔はさせない。\n\n
-ヴェルス……お前……\n\n\n
-レン、 お前もここに来るまでに\n調べたかもしれないが……\n\n
-<[>魔晶石<]> には、 それ自身の力を使うこと以外にも、\nその力を引き出す使い方がある。\n\n
-…………\n\n\n
-……それは、 人間の体内に石の力を埋め込むこと。\n\n\n
-石を埋め込まれた人間は、 神をも超越した力を\n手にすることが出来る ！\n\n
-だが……その力を制御出来ず、 完全に\nのみ込まれてしまうと、\n見るも無惨な怪物と化してしまう……\n
-ちなみに、 古代文明が崩壊した本当の理由は、\nその怪物…… <[>古の巨人<]> が、 文明の全てを\n破壊したから、 だそうだ。\n
-…… ！ ？\n\n\n
-だが、 馬鹿げたことに、 <[>古の巨人<]> が滅ぼした\n世界そのものが、 自身の原動力である <[>魔晶石<]> の\n力の源でもあった。\n
-自らその根源を断ってしまったことで、\n巨人は、 永き眠りにつくこととなる。\n\n
-その後、 何とか生き残った <[>レヴィールの民<]> が、\n<[>魔晶石<]> と巨人を、 地下深く封印した……\n\n
-それが、 この遺跡なのか ！ ？\n\n\n
-ご名答。\n\n\n
-さて……俺はそろそろ行かなきゃならない。\n今はまだ、 お前の相手をしている場合じゃないんだ。\n\n
-悪いが、 こいつと遊んでいてくれ。\n\n\n
-＞そう言うとヴェルスは、 片手に持った\n　<[>魔晶石<]> のカケラを、 地中深く投げ入れた。\n\n
-……俺なら、 ダメだったんだろうな。\nでも……お前なら何とかなるんだろ ？\nなぁ……レン……\n
-＞部屋を後にしたヴェルスの眼は、\n　どこか寂しさに満ちていた……\n\n
-＞レンは、 すぐに後を追おうとしたが、\n　<[>魔晶石<]> のカケラが投げ入れられた場所から\n　突然、 唸り声が聞こえ、 その足を止める。\n
-……まさか。\n\n\n
-ゴォォォォォォォォォォ……\n\n\n
-あいつ、 <[>魔晶石<]> のカケラを使って、\n<[>古の巨人<]> を呼び起こしたのか…… ！ ？\n\n
-くそっ。　これ以上おかしな事をする前に、\n何とかヴェルスのやつを止めないと……\n\n
-……その前に、 コレをどうにかしないとな。\n\n\n
-＞千年の眠りから解き放たれた <[>古の巨人<]> は\n　状況を把握しようとしているのかのように\n　ゆっくり周囲を見渡している。\n
-…………\n\n\n
-お前なら何とかなるんだろ……か。\n……あぁ。　何とかしてやるさ。\n\n
-＞レンは覚悟を決め、 己の何倍もの巨体を\n　強く睨み付ける。\n\n
-こいよ、 化け物。\n俺が、 遊んでやる……\n\n
-＞その言葉への返事の代わりか、 レンの姿を\n　認識した巨人は、 巨大な両手を振り上げた……\n\n
+...Hey. Took you long enough.\n\n\n
+...?\n\n\n
+＞That odd room was so unlike any other, it truly\n　felt like entering a different dimension.\n\n
+＞And there, loitering around in such a place was\n　Veres.\n\n
+＞Unable to suppress the unnaturally foreign\n　feeling building up inside of him, Ren gripped a\n　hand around his sword...\n
+...Huh? Why are you pointing your sword at me?\n\n\n
+Are you... really Veres?\n\n\n
+Hehehe...\nWhat weird stuff are you spouting?\n\n
+Any way you look at it, it's me, right?\n\n
+＞It certainly looked like Veres, but sensing that\n　something inside him had changed, he seemed like\n　a different person to Ren's eyes.\n
+＞Veres' hand was wrapped tightly around a\n　fragment of Magicite.\n\n
+Veres! You need to throw that stone away!\nThat stone is--!\n\n
+Quiet.\n\n\n
+...You see, this stone... It spoke to me...\n“Power... I'll give you power...”\n\n
+This is what I have been looking for...\n...I won't let anyone get in my way.\n\n
+Veres... You...\n\n\n
+Ren, you might have already figured this out\nbefore you came here, but...\n\n
+Not only can you use the power within the Magicite\nitself, but there is also a way draw it out.\n\n
+...\n\n\n
+...That is, embedding the power of the stone into\nthe human body.\n\n
+Embedded with a stone, humans can obtain a power\nthat transcends even God!\n\n
+But... If you can't control that power and are\nswallowed by it, you'll turn into an atrocious\nmonster...\n
+By the way, the real cause of the ancient\ncivilization's collapse is that monster... The\n“ancient giant" who destroyed all civilization.\n
+...!?\n\n\n
+But foolishly, the world the ancient giant\ndestroyed was also the source of its power,\nthe “Magicite".\n
+By refusing its roots, the giant fell into a long\nslumber.\n\n
+After that, the survivors of the Nation of\nReville sealed the Magicite and the giant\ndeep underground.\n
+That’s-- These ruins..!?\n\n\n
+Correct.\n\n\n
+Now then... I really should be going soon.\nIt's not yet time for me to deal with you.\n\n
+Sorry, but play with this guy for me, won't you?\n\n\n
+＞As he spoke, Veres threw the fragment of\n　Magicite he had been holding into the darkness\n　below.\n
+If it were me, it would be hopeless, but...\nYou'll be able to figure something out.\nRight, Ren...?\n
+＞Leaving the room behind him, Veres' eyes swelled\n　with loneliness...\n
+＞Ren immediately tried to run after him, when he\n　heard a roar bellowing from the place where\n　the fragment of Magicite had been thrown.\n
+It can't be...\n\n\n
+Graaaaaaaar...!\n\n\n
+Did he use the fragment of Magicite to wake the\nancient giant?\n\n
+Damn it. I have to stop Veres before he does\nanything else stupid...\n\n
+...But first, I'd better do something about this.\n\n\n
+＞The ancient giant looked around slowly, as if it\n　were trying to get a read on the situation.\n
+...\n\n\n
+“You'll be able to figure something out", huh?\n...Yeah. I can handle this.\n\n
+＞Determined, Ren stared at the giant, many times\n　his own size.\n\n
+Come on, Monster!\nI'll play with you...\n\n
+＞As if in response, the giant raised his huge\n　hands above is head...\n\n
 お前たちに……謝らなくちゃって……\n\n\n
 さっき、 レンに言ったことは、\n全部俺が心に仕舞い込んでた事なんだと思う……\n\n
 ……ずっと……ずっと言いたくて、\n言えなかった、 もう一人の俺の姿……\n\n
@@ -2181,93 +2181,93 @@ Ah～ ...W-well another time, yeah?\nSee you at the ruins!\n\n
 ...No matter.\n\n\n
 For now, I should focus on my own job and finish\nthe rest of the investigation.\n\n
 First off, I guess I should drop by the guild...\n\n\n
-…………\n\n\n
-ヴェルス ！ ？\n遺跡から戻ったのか ？\n\n
-……えぇ。\n\n\n
-なんだお前。\nずいぶんとしおらしくなったじゃないか。\n\n
-さっ、 大公がお待ちだ。\n調査の報告をしてこい。\n\n
-＞ヴェルスはうなずき、\n　大公の元へと歩み寄った。\n\n
-おぉ、 ヴェルスではないか。\n無事戻ったようだな。\n\n
-はっ。\n\n\n
-……して、 例の石は手に入ったのか？\n\n\n
-えぇ。　手に入れましたよ……\n\n\n
-よくやった ！\nさっそく見せてみよ。\n\n
-どうぞ。　存分にご覧下さい。\n\n\n
-＞ヴェルスは両手を広げ、\n　大公に自らの身体を見せつけた。\n\n
-……どういう意味だ。\nどこにも石を持っておらんではないか。\n\n
-これからご覧に入れますよ。\n……これが、 <[>魔晶石<]> の力です。\n\n
-うぉ ！ ？　こ、 これは…… ！ ？\n\n\n
-＞全身から大きな光を放ったヴェルス。\n\n\n
-＞それを合図にして、 城は音を立てて\n　崩れ始めた……\n\n
-な、 なんだ ！ ？　どういうことだ ！ ？\nヴェルス ！　貴様、 何をした ！ ？\n\n
-さっきも言ったでしょう。\nこれが <[>魔晶石<]> の力ですよ。\n\n
-ま、 まさか……\nその身に取り込んだのか ！ ？\n\n
-あなたがやろうとしていたことを、\n代わりにやってあげたのです。\n\n
-……つまり、 もうあなたは必要ない。\n\n\n
-き、 貴様…… ！ ？\n\n\n
-＞ヴェルスは片手を大公に向け伸ばす。\n　たったそれだけの行為に、\n　クセルブル大公は死を直感した……\n
-やめろーーーーー ！ ！ ！ ！\n\n\n
-……ご安心を。\nこの国は俺が貰ってやるよ。\n\n
-＞大公の亡骸を前に、 ヴェルスは静かに\n　微笑んでいた。\n\n
-な、 なんという事を……\nヴェルス、 貴様 ！ ！\n\n
-あなたにはずいぶんとお世話になりました。\nだが、 それも今日で終わりです。\n\n
-いつか取っておいたワインだけは……\n少々、 心残りですが……\n\n
-ぐはぁ……\n\n\n
-＞剣を抜き、　ヴェルスに斬りかかったロニキスは、\n　その剣を振り下ろすこともなく、\n　無惨に散っていった……\n
-＞……倒れた二人を前にして、\n　ヴェルスは静かに吐息を漏らす。\n\n
-さて、 次は……\n\n\n
-＞頭の中で行動を再確認した後、\n　ヴェルスが一歩足を動かそうとしたその時、\n　ゆっくりと、 大きな扉が音を立てた……\n
-ヴェルス ！　あなた、 何をしているの ！ ？\n\n\n
-これはこれは、 エルザ公女。\n自らお出でになるとは……\n探す手間が省けましたよ。\n
-ふざけないで ！\nこれは一体……\n\n
-……お、 お父様 ！ ？\n\n\n
-＞エルザは、 ヴェルスの足下に横たわった\n　大公の遺体に気づき、 思わず膝を突く……\n\n
-キミの父君は死んだよ。\n……たった今、 ね。\n\n
-＞ヴェルスは一歩、 また一歩と\n　へたり込んだエルザに近づいていく……\n\n
-でも、 大丈夫。\nこれからはいつだって俺がキミの傍にいるから。\n\n
-だから、 寂しくなんてないよ。\n\n\n
-ヴェルス……まさか、 あなたが ！ ？\n\n\n
-俺はこの力を持ってシテ……\n新タナル国ヲ創ル……\n\n
-う…うぅ……\n\n\n
-＞ヴェルスは突然、 頭を抱えもがき始めた。\n\n\n
-＞隣にいたエルザは、 いまだ状況を\n　把握しきれないでいる。\n\n
-ヴェルス、 どうしたの ！ ？\nあなた……本当にヴェルスなの ！ ？\n\n
-……はぁ、 はぁ。\nだ、 大丈夫だよ、 エルザ。　心配ない。\n\n
-俺は、 俺だ……こんな石ごときに……\n完全に支配されて、 たまるか…… ！\n\n
-石…… ？\n\n\n
-＞怪訝な顔で見つめるエルザを、\n　ヴェルスは片手で抱え上げた。\n\n
-きゃあぁぁぁ ！\nちょ、 ちょっと、 ヴェルス ！　降ろしなさい ！\n\n
-大丈夫……大丈夫だよ……\n\n\n
-何が……何が大丈夫なのよ ！\nこんな状況で……お父様……お父様ぁぁ ！ ！\n\n
-……ともに行こう。\n俺が築き上げる、 新世界へ。\n\n
-＞エルザを担いだヴェルスは、\n　遺跡から移動したときと同じようにして、\n　再び、 その姿を消した……\n
-……エルザ、 様。\n\n\n
-＞ヴェルスが去ってから、 数時間後……\n　\n　\n
-こ、 これは ！ ？\n\n\n
-＞美しかったクセルブル城……\n　\n　\n
-＞壁は崩れ、 人々は埋もれ……\n　まさに地獄絵図と化したその光景が\n　レンの心に強く突き刺さる。\n
-＞変わり果てた世界を前に立ち尽くすだけで\n　動くことすら叶わない……\n　\n
-＞すると、 部屋の奥から\n　微かに響く小さな声が聞こえた。\n　\n
-……レン……レン、 なの、 か ？\n\n\n
-…… ！ ？\n　\n　\n
-ロニキス団長 ！ ？\nこれは一体……\n\n
-ど、 どうやら……お前は、\n正気を保っているよう、 だな……\n\n
-俺は…… ？\n\n\n
-まさか、 ヴェルスが ！ ？\n\n\n
-……信じられんかも、 しれんが、\n全部、 あいつの仕業、 だ……\n\n
-止めようとしたんだがな……\n見事に、 返り討ち、 だ……\n\n
-……遺跡で、 何があったのかは知らんが\nあれはもう……私たちの知るヴェルスでは、 ない……\n\n
-……いや、 そもそも、 すでに人ですら\nないのかも、 しれん……\n\n
-人じゃ、 ない…… ？\n\n\n
-い……行け、 レン……\nあいつを、 止めるんだ……\n\n
-ロニキス団長……\n\n\n
-エルザ……公女が……あぶ、 な……い……\n\n\n
-だん、 ちょう…… ？\n\n\n
-＞レンの腕の中で、 ロニキスは静かに\n　息を引き取った……\n　\n
-＞……レンは、 涙を流さない。\n　今はまだ、 その時でないことを分かっていた。\n　\n
-あいつ、 遺跡で “ここを俺たちの城にする”\nって言ってたな……\n\n
-……エルザ ！ ！\n\n\n
-＞レンは、 再び遺跡を目指し、 城を跡にした。\n　\n　\n
+...\n\n\n
+Veres!? You're back from the ruins?\n\n\n
+...Yes.\n\n\n
+Hm? It's not like you to be so withdrawn.\n\n\n
+Well, the Archduke is waiting.\nGive him your report.\n\n
+＞Veres nodded and made his way to the audience\n　chamber.\n\n
+Oh, if it isn't Veres?\nIt seems you made it back safely.\n\n
+Sire.\n\n\n
+...Well, did you obtain the stone?\n\n\n
+Yes. I have it...\n\n\n
+Marvellous!\nHurry, let me see it.\n\n
+Here. Feast your eyes.\n\n\n
+＞Veres opened his hands wide, showing his body\n　to the Archduke.\n\n
+...What is the meaning of this?\nDon't you have the stone on you?\n\n
+If you would look here.\n...This is the power of the Magicite.\n\n
+Wha--!? T-this is--!?\n\n\n
+＞Veres' body lit up brightly.\n\n
+＞On that signal, the castle gave a large groan\n　and began to collapse.\n\n
+W-what!? What's going on!?\nVeres! What have you done!?\n\n
+I just told you, didn't I?\nThis is the power of the Magicite.\n\n
+I-it can't be...\nDid you absorb it into your body!?\n\n
+I only did what you were planning to do.\n\n\n
+...In other words, you're no longer required.\n\n\n
+Y-you wretch--!\n\n\n
+＞Veres reached out a hand towards the Archduke.\n　With that act alone, the Archduke Kucellbull\n　foresaw his death.\n
+Don't------!!!!\n\n\n
+...Don't worry. I'll take good care of this country.\n\n\n
+＞Stood before the Archduke's lifeless body, Veres\n　quietly smiled.\n\n
+W-what in the...\nVeres, you--!!\n\n
+You took great care of me over these years. But,\nthat too ends today.\n\n
+The wine I wanted to drink with you one day...\nOnly that, I regret a little...\n\n
+Guah--!!\n\n\n
+＞Ronixis, who had readied his sword to stand up\n　to Veres, met with his cruel fate before even\n　getting a chance to use it.\n
+＞...Looking at the two men lying on the floor,\n　Veres gave a short sigh.\n\n
+Now then, next is...\n\n\n
+＞After reconfirming the plan in his mind, just as\n　Veres was about to move, a slow creak came\n　from the door...\n
+Veres! What are you doing!?\n\n\n
+Well well, Princess Elza.\nComing here all by yourself... You've saved me the\ntrouble of looking for you.\n
+Stop fooling around! What on earth--\n\n\n
+...F-father!?\n\n\n
+＞Noticing the Archduke's body lying at Veres'\n　feet, Elza fell to her knees...\n\n
+Your father has breathed his last. ...Just now, in\nfact.\n\n
+＞Veres made his way towards Elza, one step at a\n　time...\n\n
+But, it's okay.\nI'm going to be with you from now on.\n\n
+So, you won't be lonely.\n\n\n
+Veres... No, were you the one who--!?\n\n\n
+With this power... I will forge a new coun...try...\n\n\n
+N...ngh...\n\n\n
+＞Veres suddenly clasped his head and began to\n　writhe in agony.\n\n
+＞Besides him, Elza was still struggling to\n　comprehend the situation.\n\n
+What happened, Veres!?\nAre you... really Veres!?\n\n
+...*Pant, pant*.\nI-it's okay, Elza. Don't worry.\n\n
+I, I... As if I'm going to let myself be completely\ntaken over by some stone--!\n\n
+Stone...?\n\n
+＞As she stared at him quizzically, Veres picked\n　Elza up with one hand.\n\n
+Aaaaagh!\nW-wait, Veres! Put me down!\n\n
+It's okay... Everything's okay...\n\n\n
+Wha... It's not okay!\nThis situation... Father.... Fatheeeeer!!\n\n
+Let's go together, to the new world I will build.\n\n\n
+＞Carrying Elza over his shoulder, Veres once again\n　disappeared, the same way he had in the ruins...\n\n
+Lady... Elza...\n\n\n
+＞A few hours after Veres had left...\n\n\n
+...This is--!?\n\n\n
+＞The once beautiful Kucellbull Castle...\n\n\n
+＞Walls had collapsed, burying those inside...\n　That sight, which was truly the image of hell\n　itself, pierced through Ren's heart.\n
+＞The world as he knew it had been completely\n　shattered, leaving him stood frozen, unable to\n　move...\n
+＞Just then, a faint voice echoed from the back\n　of the room.\n\n
+...Ren... Ren, i-is that you...?\n\n\n
+...!?\n\n\n
+Captain Ronixis!?\nWhat the...\n\n
+I-it seems... You are still sane...\n\n\n
+I...?\n\n\n
+It can't be, Veres--!?\n\n\n
+...You might not believe it, but this was all his\ndoing...\n\n
+I tried to stop him but... He got me first...\n\n\n
+...I don't know what happened in the ruins, but...\nthat's not the Veres we know any more...\n\n
+...No, maybe he was no longer human from the\nstart...\n\n
+Not human...?\n\n\n
+G...Go, Ren... You have to stop him...\n\n\n
+Captain Ronixis...\n\n\n
+Princess... Elza is... in troub...le...\n\n\n
+Cap...tain...?\n\n\n
+＞In Ren's arms, Ronixis quietly breathed his last...\n\n\n
+＞...Ren held back his tears. He knew that now\n　wasn't the time.\n\n
+Back in the ruins, he said “this place shall be\nour castle"...\n\n
+...Elza!!\n\n\n
+＞Leaving the castle behind him, Ren set off for\n　the ruins once again.\n\n
 *Sigh...*\nThat was pretty exhausting.\n\n
 A three-headed beast, a giant sand snake, and...\ndragons...\n\n
 It's enough to make anyone lose their mind.\n\n\n

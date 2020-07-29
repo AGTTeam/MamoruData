@@ -85,7 +85,7 @@ I finished the sword and gave it\r\nto them. It was quite high quality\r\nore yo
 A Lost Friend
 Bereft Village YouthÅ@Motor
 It seems like there are ghosts of\r\npeople who snuck into the ruins\r\nin the past still roaming around.\r\nA friend of mine went in a few\r\nyears ago, and never came back...\r\nCan you help him rest in peace?
-I don't know whether or not my\r\nfriend was one of the zombies\r\nyou defeated. But, I feel like\r\nI have some kind of closure now.\r\nI really hope he's gone to a\r\nbetter place... Anyways, thanks\r\nfor all youÅfve done.
+I don't know whether or not my\r\nfriend was one of the zombies\r\nyou defeated. But, I feel like\r\nI have some kind of closure now.\r\nI really hope he's gone to a\r\nbetter place... Anyways, thanks\r\nfor all you've done.
 Favourite Work Tools
 LumberjackÅ@Fazzel
 I was chopping some trees down in\r\nLorayne Forest, when me favourite\r\nsaw went bust...\r\nI can't do nothing without a saw!\r\nI'm beggin' ya! Can you make me a\r\nnew one!?
@@ -141,18 +141,18 @@ Ah, so he's still doing well. \r\nI'm glad to hear that. The injury\r\nto my leg
 Starting With The Look
 Knighthood HopefulÅ@Dodoris
 I've always been weakly and sick,\r\nbut after I was saved from a by a\r\npassing knight, I thought ÅgI want\r\nto become strong too!Åh So as part\r\nof step 1, will you help me get a\r\nknight's sword?
-I showed the sword you got to the\r\nknight who saved me. ÅgI'm going\r\nto become a knight too!Åh ...But,\r\nhe replied, ÅgTo be a knight, it's\r\nnot a sword you need, but a strong\r\nheart.Åh ...IÅfm going to think\r\nthings through again from the top!
+I showed the sword you got to the\r\nknight who saved me. ÅgI'm going\r\nto become a knight too!Åh ...But,\r\nhe replied, ÅgTo be a knight, it's\r\nnot a sword you need, but a strong\r\nheart.Åh ...I'm going to think\r\nthings through again from the top!
 Man-Eating Plants (1)
 BotanistÅ@Ragfect
 I've studied plants from all\r\nacross the globe, and yet I've\r\nnever seen the huge Man-Eating\r\nMandrakes that supposedly grow in\r\nthe ruins. Could you please bring\r\nback one of their seeds for me?
-So this is the Drake Seed you\r\nbrought back... Hmm...\r\nFascinating... I can feel the\r\nhunger to know more raging\r\ninside me. It's because of you\r\nthat I feel this way! Thank you.\r\nIÅfll get to work right away!
+So this is the Drake Seed you\r\nbrought back... Hmm...\r\nFascinating... I can feel the\r\nhunger to know more raging\r\ninside me. It's because of you\r\nthat I feel this way! Thank you.\r\nI'll get to work right away!
 The Melancholy Of Renus (2)
 Worried InvestigatorÅ@Renus
 This time, I was attacked by a\r\ngiant Odd Jelly in the second\r\nlayer of the ruins. I've said this\r\nbefore, but that size is something\r\nelse... And yet again, no one will\r\nbelieve me! Can you get proof?
-There really is a huge Odd Jelly,\r\nisn't there?! Now people wonÅft be\r\nable to keep calling me a liar!!\r\nI owe you one, seriously. Cheers!
+There really is a huge Odd Jelly,\r\nisn't there?! Now people won't be\r\nable to keep calling me a liar!!\r\nI owe you one, seriously. Cheers!
 A Gatekeeper Resurrected
 Survey Team CaptainÅ@Rasvel
-Cerberus, in the first layer of\r\nthe ruins has somehow been revived.\r\nWe haven't investigated that room\r\nyet, but now we canÅft progress\r\nwhilst he's in the way. Would you\r\nmind removing him once more?
+Cerberus, in the first layer of\r\nthe ruins has somehow been revived.\r\nWe haven't investigated that room\r\nyet, but now we can't progress\r\nwhilst he's in the way. Would you\r\nmind removing him once more?
 It seems you made quick work of\r\nmy request. I've heard from other\r\nmembers of my team that we really\r\nowe you a lot, and personally, I\r\ncan't thank you enough. I hope we\r\ncan continue to count on you if\r\nanything else happens.
 The Guild's Challenge (2)
 Adventurer's Guild
@@ -277,15 +277,15 @@ Mm! A great texture! You really\r\nbrought me some fine cuts. I'm\r\ngoing to ad
 Swordsman With Pride
 Wandering SwordsmanÅ@Bordeaux
 I had you take revenge after I was\r\ndefeated by an armoured swordsman,\r\nbut it was still frustrating, so I\r\ntried again, and... failed, again. But\r\nwe agreed on a rematch! Can you\r\npass on the time and date for me?
-...So, he really didn't just\r\nforget about a weak guy like me?\r\nI was worried he might not want\r\nto have another rematch, but to\r\nthink he's waiting for me...\r\nI'll show him how just strong\r\nI've become!
-Conquer The Flames! 
+...So, he really didn't just forget\r\nabout a weak guy like me?\r\nI was worried he might not want to\r\nhave another rematch, but to think\r\nhe's waiting for me...\r\nI'll show him how just strong I've\r\nbecome!
+Conquer The Flames!
 Burn-Scarred ManÅ@Rodriguez
 There's a room in the third layer\r\nof the ruins with a load of those\r\npurple fire monsters. That room\r\njust stinks of treasure, but\r\nthey're such a hindrance that I\r\ncan't take my time exploring it....
-You didn't get burned anywhere?!\r\nEven though there are so many\r\nfires whizzing around... What kind\r\nof magic did you use? Anyway, now\r\nI can go get the treasure that's\r\nbeen lying in wait! ...You haven't\r\ntaken it already, right?
+You didn't get burned anywhere?!\r\nEven though there are so many\r\nfires whizzing around... What kind\r\nof magic did you use?! Well, now I\r\ncan go get the treasure that's\r\nbeen lying in wait! ...You haven't\r\ntake it already, right?
 All Hearts Carry Darkness
 Self-Respecting YouthÅ@Plagg
 Studying, sports, I'm no match\nfor him at anything. He's always\r\nlooking down on and making a fool\r\nof me. Unforgivable! ...But I heard\r\nthat Infernal Balls have the\r\npower to absorb human souls...
-Last night, as I was staring into\r\na ball, these faces warped in pain\r\nappeared and I got scared. Not\r\nbecause of the stone, but of what\r\nI was planning to do... Maybe it's\r\nmy heart that was warped. So, I\r\ndecided to get rid of them all...
+Last night, as I was staring into\r\na ball, these faces warped in pain\r\nappeared and I got scared. Not\r\nbecause of the stone, but of what\r\nI was planning to do... Maybe it's\r\nmy heart that was warped. So, I've\r\ndecided to get rid of them all...
 Money Solves Everything (2)
 Treasure HunterÅ@Rudd
 You can guess, can't you?? Even\r\nI am buying into the name no-sense-\r\nof-direction Treasure Hunter Rudd.\r\nLast time, you showed me a 60Åì\r\ncomplete map of the ruins but...\r\nit was no good. 9... 80Åì will do!
@@ -293,7 +293,7 @@ Ahh, you really came through for\r\nme again. Despite saying such\r\nproud stuff
 A Small Life Prone To Illness
 Pleading MotherÅ@Elena
 My son has suffered from a serious\r\nillness since he was born, and he\r\ndoesn't seem to have long... But I\r\nrecently heard a rumour about a\r\nmedicine that might help! Please,\r\ncan you find the ingredients?!
-I made a medicine from the eyeballs\r\nand gave it to my son. But his\r\ncondition did not change, and in\r\nthe end, he breathed his last...\r\nThe rumour was just a rumour...\r\nI vow to try studying the disease\r\nin the hope of saving others.
+I made a medicine from the eyeballs\r\nand gave it to my son. But his\r\ncondition did not change, and in\r\nthe end, he slipped away...\r\nThe rumour was just a rumour...\r\nI vow to try studying the disease\r\nin the hope of saving others.
 Glittering Stone (3)
 High-Flying LadyÅ@Rondina
 Are you familiar with the legendary\r\njewel said to radiate seven colours\r\nof light? Don't you think such a\r\nbeautiful thing is perfect for me?\r\nI want you to find it, by any means\r\nnecessary.
@@ -301,11 +301,11 @@ T-this is the iridescent rainbow\r\ndiamond, said to sparkle with\r\nseven colou
 Regeneration Mechanism
 ArchaeologistÅ@Anown
 I heard the green dragon in the\r\nfirst layer of the ruins was\r\nsubdued before, but my research\r\non the ancient Guardians suggests\r\nit's only temporary, and that the\r\nbeast will return again...
-What?! You've bested the revived\r\nGreen dragon...? Every time they\r\nfall, they increase in power...\r\nWe must move quickly!! We need\r\nto investigate the means of\r\nregeneration before it begins\r\nto move again!
+What?! You've bested the revived\r\nGreen dragon...? Every time they\r\nfall, they increase in power...\r\nI must move quickly!! We need\r\nto investigate the means of\r\nregeneration before it begins\r\nto move again!
 Healing Ability And A Stone
 ArchaeologistÅ@Anown
 It seems that even the golden\r\ndragon has revived following\r\nthe reappearance of the green\r\ndragon. The stone, Magicite is\r\nsaid to have many abilities,\r\nincluding the power to heal...
-I heard that you defeated the\r\ngolden dragon again, and went\r\nto investigate right away. The\r\nGuardians appear to hide away\r\nafter battle, healing their\r\nwounds somehow. It must be\r\nthe aforementioned Magicite...
+I heard that you defeated the\r\ngolden dragon again, and went\r\nto investigate immediately. The\r\nGuardians appear to hide away\r\nafter battle, healing their\r\nwounds somehow. Most likely,\r\nthe aforementioned Magicite...
 To Get Closer To The Truth!
 ArchaeologistÅ@Anown
 It seems the dragons have Magicite\r\nin their bodies, embedded there by\r\nthe ancient race. I believe it's\r\nwhat has allowed them to live for\r\na thousand years. I'm so close to\r\ndiscovering the hidden truth!
