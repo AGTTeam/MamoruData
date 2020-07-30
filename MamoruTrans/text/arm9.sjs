@@ -254,7 +254,7 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %s　Deliver
 %s　Chat
 %sRuins Exploration %d％ or more
-%s　Treasure Found %d％ or more
+%sTreasure Uncovered %d％ or more
 
 %s
 %s
@@ -262,7 +262,7 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %s
 %s
 %sRuins Exploration
-%sTreasure Found
+%sTreasure Uncovered
 Select
 Back
 登録
@@ -342,68 +342,68 @@ Paralysis immunity\n(Long span)
 Burn immunity\n(Long span)
 Stun immunity\n(Long span)
 Full status ailment immunity\n(Long span)
-Small damage to visible\nenemies
+Small damage to visible enemies
 Return to the village
 Damage immunity
-Heavy damage to visible\nenemies
+Heavy damage to visible enemies
 Revival on death
 狂戦士への変貌
 None
 Perform forward rolls
 Destroy objects
 Double jump
-会心の一撃可
+Chance of delivering a critical\nhit
 SP ＋5
 HP ＋200
-Attack（Slash）＋Small
-Attack（Slash）＋Medium
-Attack（Slash）＋Big
-Attack（Throw）＋Small
-Attack（Throw）＋Medium
-Attack（Throw）＋Big
-移動速度＋小
-移動速度＋中
-移動速度＋大
-防御力＋小
-防御力＋中
-防御力＋大
-命中率＋小
-命中率＋中
-命中率＋大
-回避率＋小
-回避率＋中
-回避率＋大
-緊急回避：半分無敵
-緊急回避：完全無敵
-猛毒半減
-猛毒無効
-麻痺半減
-麻痺無効
-気絶半減
-気絶無効
-臆病半減
-臆病無効
-火傷半減
-火傷無効
-全異常半減
-全異常無効
-Auto-Heal（S）
-Auto-Heal（M）
-Auto-Heal（B）
-Get money（S）
-Get money（B）
-三段突き
-五段突き
-回転ジャンプ攻撃
-大樹探索＋2
-大樹探索＋3
-大樹探索＋4
-草むら探索＋2
-草むら探索＋3
-草むら探索＋4
-岩場探索＋2
-岩場探索＋3
-岩場探索＋4
+Attack （Slash） ＋ Small
+Attack （Slash） ＋ Medium
+Attack （Slash） ＋ Big
+Attack （Throw） ＋ Small
+Attack （Throw） ＋ Medium
+Attack （Throw） ＋ Big
+Movement speed ＋ Small
+Movement speed ＋ Medium
+Movement speed ＋ Big
+Defence ＋ Small
+Defence ＋ Medium
+Defence ＋ Big
+Accuracy ＋ Small
+Accuracy ＋ Medium
+Accuracy ＋ Big
+Evasion ＋ Small
+Evasion ＋ Medium
+Evasion ＋ Big
+Evasive manoeuvres: Half invincible
+Evasive manoeuvres: Completely\ninvincible
+Halves poison
+Nullifies poison
+Halves paralysis
+Nullifies paralysis
+Halves stun
+Nullifies stun
+Halves fear
+Nullifies fear
+Halves burn
+Nullifies burn
+Halves all status ailments
+Nullifies all status ailments
+Auto-Heal （S）
+Auto-Heal （M）
+Auto-Heal （B）
+Get money （S）
+Get money （B）
+Three-step lunge
+Five-step lunge
+Rotating jump attack
+Collection from trees ＋ 2
+Collection from trees ＋ 3
+Collection from trees ＋ 4
+Collection from grass ＋ 2
+Collection from grass ＋ 3
+Collection from grass ＋ 4
+Collection from rocks ＋ 2
+Collection from rocks ＋ 3
+Collection from rocks ＋ 4
 Oh! Welcome.\nWhat're you after?\n\n
 そういえば、 新たに受注できる依頼が\n追加されているみたいよ。\nぜひそちらもチェックしていってね。\n
 Welcome!\nThis Item Shop stocks everrrything.\nWhat would you like?\n
@@ -455,13 +455,13 @@ Strange... There's a fire here.\n\n\nDid someone abandon their bonfire...?\n\n\n
 ＞Having found a blazing fire, Ren slowly drew\n　closer to warm his cold body.\n\n
 It's unexpectedly cold in these ruins...\nThis thing's a lifesaver.\n\n
 ＞Holding both hands out to the crackling fire, \n　he surrendered his body to the warmth.\n\n＞...　...　...　...\n\n\n＞After enjoying the short break, Ren got back\n　on his feet once again.\n\n
-ようやく来たか……\n待ちわびたよ。\n\n
-ヴェルス ！\nエルザをどこにやった ！ ？\n\n
-安心しろ。　奥の部屋で眠ってる。\n危害は加えてない。\n\n
-一体どういうつもりだ ！ ？\nどうしてこんな事を……\n\n
-言っただろ ？\n俺は何一つお前に勝てたことがない。\n\n
-それは……騎士団の入団試験のときから、\n始まっていた。\n\n
-入団、 試験…… ？\n\n\n
+So you're finally here...\nI've been waiting.\n\n
+Veres!\nWhat have you done with Elza!?\n\n
+Don't worry. She's asleep in the other room.\nI would never do her harm.\n\n
+What the hell are you up to!?\nWhy are you doing this...?\n\n
+I told you, didn't I?\nI have never once beaten you, in anything.\n\n
+Ever since the tryouts to join the knights...\n\n\n
+The knight tryouts...?\n\n\n
 …… ！ ？\n\n\n
 ギュォォォォォォ ！ ！\n\n\n
 …… ！ ？\n\n\n
@@ -737,13 +737,13 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 “You can draw out power beyond your natural\nlimits”, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to unleash a very powerful blow at random... \nI.e, you'll deal a critical hit in a single blow.\n...Not being able to choose when seems kinda\ninconvenient, though.\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
-俺は、 ガキの頃から剣術に励み、\n各国の闘技大会でも活躍していた。\n\n
-そんなクセルブル公国出身、 期待のホープが、\n騎士団の入団試験で二位の成績だった…\n\n
-その年、 首位で合格したのは……\n誰も名すら知らぬ、 小さなガキ……お前だよ。\n\n
-…………\n\n\n
-その後、 俺たちは同い年ってだけで、\n訓練や実戦を共にすることが増えた。\n\n
-……間近でお前を見てきて、 あきらめたよ。\n\n\n
-どう足掻いたって、 俺には越えられない壁だ……\nって、 現実を突きつけられた。\n\n
+I'd been working hard at my swordsmanship ever\nsince I was a kid, and had taken part in\nfighting competitions around the world.\n
+Having been raised in the duchy, I had some\npretty high expectations, but came second in\nthe knights tryouts.\n
+That year, the one who came in first place was\na small kid that no one had even heard of\nbefore... you.\n
+...\n\n\n
+After that, we kept being paired together in\ntraining and on missions since we were the\nsame age.\n
+...Seeing you up close, I just gave up.\n\n\n
+No matter hard I tried, you were on a level that\nI could never reach...\nThat was the harsh reality I had to face.\n
 Mur!\n\n\n
 ...Hm?\n\n\n
 Whatcha doing here, mur??\n\n\n
@@ -761,7 +761,7 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
-Heh～ ...A <C03>three-step strike<C04>, huh?\n\n\n
+Heh～ ...A <C03>three-step lunge<C04>, huh?\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -769,7 +769,7 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 <C03>Mastering A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a five-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
-Heh～ ...A <C03>five-step strike<C04>, huh?\n...I wonder whether it's any good.\n\n
+Heh～ ...A <C03>five-step lunge<C04>, huh?\n...I wonder whether it's any good.\n\n
 Indeed... Why don't you equip it sometime and give\nit a try?\n\nIt's your choice to stick with it or not, after all.\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -1024,29 +1024,29 @@ So that's why, wiggle...\nI just thought he hated me, wiggle.\n\nI'm a bit sad, 
 Alright, I'll tell him.\n\n\nWell then, I should be getting back soon.\n\n\n
 Wiggle! Come back to play sometime, wiggle!\nAnd say hi to Raith for me, wiggle!\n\n
 ＞As if that scowling face from earlier had all\n　been a lie, Polum bounced up and down happily.\n\n＞Seeing that, Ren let out a gentle sigh of relief,\n　and slowly walked away.\n\n
-……エルザ ！ ！\n\n\n
-おい ！　しっかりしろ ！\nエルザ ！ ！\n\n
-……う……ん…………レン ？\n\n\n
-エルザ……良かった。\n\n\n
-レン……あれ、 ここは……\n\n\n
-……そうだ。\n私、 ヴェルスに連れて来られて……\nお父様 ！　お父様は ！ ？\n
-…………\n\n\n
-そ、 そんな……\n\n\n
-＞エルザの頬を、 一滴の雫が伝う……\n　\n　\n
-…………\n\n\n
-……ヴェルスは ？\n\n\n
-…………\n\n\n
-……あそこに、 大きな石があるだろ ？\n\n\n
-＞レンは、 部屋の中央で青白い光を放つ\n　<[>魔晶石<]> の塊を指さした。\n　\n
-……あれは、 人を狂わせる狂気の石だ。\nヴェルスは、 あの石の力に飲み込まれて……\n\n
-＞レンはそこで口を閉ざしたが、\n　エルザには何となく、 ヴェルスがどうなったのか\n　わかっているようであった。\n
-＞そのとき、 静かに近寄る足音が聞こえ、\n　レンは剣を構える……\n　\n
-…… ！ ？\n\n\n
-……レン……エルザ……\n\n\n
-ヴェルス……お前、 生きてたのか…… ？\n\n\n
-＞そこにいたのは、 さきの戦いの影響か、\n　ぼろぼろに傷ついたヴェルスであった。\n　\n
-＞その覚束ぬ足取りは、 先ほどまでの\n　男とは別人を思わせる。\n　\n
-＞そして、 ここまでの道のりに全ての力を\n　使い果たしてしまったかのように、\n　ヴェルスはその場で倒れ込んだ……\n
+...Elza!!\n\n\n
+Hey! Snap out of it!\nElza!!\n\n
+...Nn...n... Ren?\n\n\n
+Elza... Thank goodness.\n\n\n
+Ren... Where...?\n\n\n
+...Ah. This must be where Veres brought me...\nFather...! How is Father!?\n\n
+...\n\n\n
+I-it can't be...\n\n\n
+＞A tear rolled down Elza's cheek...\n\n\n
+...\n\n\n
+...And Veres?\n\n\n
+...\n\n\n
+...Do you see that large stone over there?\n\n\n
+＞Ren pointed to the shining block of Magicite\n　in the centre of the room.\n\n
+...That is a maddening stone which drives people\ncrazy. Veres was swallowed by the power of that\nstone...\n
+＞Ren said no more, but Elza understood what had\n　become of Veres.\n\n
+＞Just then, Ren noticed the sound of footsteps\n　quietly approaching and grabbed his sword...\n\n
+...!?\n\n\n
+Ren... Elza...\n\n\n
+Veres... You're alive...?\n\n\n
+＞There was Veres, looking worn out and injured\n　from the previous battle.\n\n
+＞Stumbling in on unsteady feet, he seemed like a\n　totally different person from before.\n\n
+＞And, as if he had exhausted all his power to make\n　it this far, Veres collapsed on the spot...\n\n
 ...\n\n\n
 ＞Entering a large room, Ren began to investigate\n　as usual.\n\n＞But, he didn't drop his guard.\n　He was always careful to keep an ear out for\n　even the slightest sound.\n＞And that's when he noticed...\n\n\n
 *Sigh*\nJust how many of these things are there...?\n\n
@@ -1155,23 +1155,23 @@ Well, now you know.\nGo, and be safe.\n\n
 Mur!!\nMur going! Thank you, mur!\n\n
 ＞Ren quietly watched the Mumur, as it happily\n　bounced away...\n\n
 Oh, welcome.\n\n\n
-＞冒険者ギルドは、 相も変わらず\n　秘宝に夢を馳せた冒険者たちで\n　賑わっていた。\n
-ちょっと聞いた ？\n都の方、 とんでもない事になってるみたいよ。\n\n
-その事と関係しているのか分からないけど、\n最近、 遺跡の内部で定期的に地震が\n起きたりしてたみたいだし……\n
-……あぁ、 らしいな。\n\n\n
-って、 そりゃ知ってるわよね。\nそんなことより、 あなた戻らなくてもいいの ？\n\n
-いいんだ。\n……あいつなら、 上手くやってくれる。\n\n
-…… ？\n\n\n
-あ、 そういえば……\nこれ、 あなたに渡しておくわ。\n\n
-これは……鍵 ？\n\n\n
-とある冒険者の人が遺跡で見つけた\n第二層の奥に進む為の鍵らしいけど……\n\n
-奥はとんでもなく強い魔物たちで溢れていて、\n手に負えないってギルドにあずけていったの。\n\n
-……必要、 なんでしょ ？\n\n\n
-あぁ……ありがとう。\n\n\n
-絶えることなく依頼も届いてるし、\nこちらとしても、 あなたにはまだまだ\n働いて貰わないと困るわ。\n
-でも、 無茶だけはしないように、 ね ？\n\n\n
-……そうだな。\n\n\n
-必ず帰るって、 約束したからな。\n\n\n
+＞The Adventurers Guild was crowded with adventurers\n　dreaming of finding treasure, the same as ever.\n\n
+Did you hear?\nSomething terrible happened in the capital.\n\n
+I don't know if that has anything to do with it,\nbut it seems that lately there have been a few\nearthquakes inside the ruins...\n
+...Yeah, seems like it.\n\n\n
+Wha- You already knew about it?\nActually, shouldn't you be going back there?\n\n
+It's fine.\n...She's got this.\n\n
+...?\n\n\n
+Ah, speaking of...\nThis is for you.\n\n
+It's... a key?\n\n\n
+An adventurer found it the ruins. Apparently, it\nlets you travel even deeper into the second layer...\n\n
+The inside is filled with ridiculously strong\nmonsters, and unable to cope, they gave it to\nthe guild.\n
+...You'll need it, won't you?\n\n\n
+Yeah... Thank you.\n\n\n
+We're still receiving a lot of requests here too,\nso we'll be in trouble if you don't keep on taking\njobs.\n
+But, don't overdo it, okay?\n\n\n
+...Right.\n\n\n
+I will be return, like I promised I would.\n\n\n
 This room is also rather big.\n\n\n
 ＞Ren restlessly surveyed the room, which was so\n　large that it was impossible to see the ceiling\n　above or walls to either side.\n＞It seemed that the floor to the left and right\n　had been cut off, with what appeared to be a\n　sheer drop surrounding the area.\n＞There was no way to judge where the chasm\n　shrouded in darkness might lead.\n\n＞Only... that the deep darkness seemed to warn\n　that the fall would be deadly.\n\n
 ...The other rooms were bad enough, but this is\neven more creepy...\n\nStill, it's places like this where new discoveries lie.\n\n
@@ -1282,28 +1282,28 @@ Well, anyway.\nI've a message she asked me to pass on.\n\n
 I only did what was right.\nI need no thanks.\n\n
 Well, it's about time that I was off.\nDo take care.\n\n
 ...He was a pretty cool guy... for a fireball.\n\n\n
-でも、 この石があれば、 俺はお前を\n超越した力を手に入れることが出来る…… ！\n\n
-再び、 俺が注目を浴びる日が来る ！\n\n\n
-そんなことの為に……\n\n\n
-それだけじゃない。\n\n\n
-お前と城の警備をしていたとき……\n初めてエルザと出会ったときから、\n俺は、 エルザに惚れていた。\n
-……公女様と、 一介の騎士だ。\n釣り合わないのはわかってる。\n\n
-……でも、本気だった。\n\n\n
-だけど、 いつだってエルザの眼に映っていたのは\n……お前だったんだ。\n\n
-…………\n\n\n
-俺は、 お前を殺し、 エルザを手に入れ、\n……この世ヲ支配すル。\n\n
-世界を、 支配…… ？\nどこまで飛び抜けてやがるんだ……\n\n
-コノ世ヲ支配…スル……\nコノヨヲ……\n\n
-お、 おい……ヴェルス ！ ？\n\n\n
-ウォォォォォォォォォォォォォ ！ ！ ！ ！ ！ ！\n\n\n
-ゴォォォォォォォォォォ……\n\n\n
-ヴェ、 ルス……お前……\n\n\n
-ゴォォォォォォォォォォ ！ ！\n\n\n
-こいつ……完全に、 力に飲み込まれたな……\n\n\n
-……このままヴェルスを放置したら、\n古代文明の二の舞だ……\n\n
-…………\n\n\n
-……エルザ……俺がオマエを守る……\n必ず、守ってみせる ！ ！\n\n
-＞レンは、 携えた剣をしっかりと握り締め、\n　今、 友を討つ決意を固めた……\n\n
+But with this stone, I can obtain power that\ntranscends yours...!\n\n
+I'll be the centre of attention once again!\n\n\n
+And for that, you...\n\n\n
+That's not all.\n\n\n
+When we were guarding the castle together...\nEver since we first met Elsa, I've been in\nlove with her.\n
+...A princess with a mere knight. I know it\ndoesn't fit.\n\n
+...But my mind was set.\n\n\n
+And yet, the one that Elza has always had eyes\nfor... is you.\n\n
+...\n\n\n
+I'm going to kill you, take Elza and... rule the\nworld.\n\n
+Rule the world...?\nJust how far are you planning to go...?\n\n
+I will rule over... all... over all...\n\n\n
+H-hey... Veres!?\n\n\n
+Uooooooooooggghhhh!!!!!!!\n\n\n
+Graaaaaaaar...!\n\n\n
+Ver...es... You...\n\n\n
+Graaaaaaaar!!\n\n\n
+He was... completely swallowed by its power...\n\n\n\n
+...If I leave things like this, it'll be like\nthe ancient civilisation all over again...\n\n
+...\n\n\n
+...Elza... I will protect you...\nI'll keep you safe, no matter what!!\n\n
+＞Ren gripped the sword in his hand tightly,\ngathering the determination to defeat his\nfriend...\n
 This is the Magicite, huh?\n\n\n
 With this stone, I can obtain power.\nThe power to not lose, even to him...\n\n
 Veres!!\n\n\n
@@ -1573,48 +1573,48 @@ Damn it. I have to stop Veres before he does\nanything else stupid...\n\n
 ＞Determined, Ren stared at the giant, many times\n　his own size.\n\n
 Come on, Monster!\nI'll play with you...\n\n
 ＞As if in response, the giant raised his huge\n　hands above is head...\n\n
-お前たちに……謝らなくちゃって……\n\n\n
-さっき、 レンに言ったことは、\n全部俺が心に仕舞い込んでた事なんだと思う……\n\n
-……ずっと……ずっと言いたくて、\n言えなかった、 もう一人の俺の姿……\n\n
-エルザに焦がれ……\nレンを憎む……もう一人の、 俺……\n\n
-……いや、 憎んでなんかいない。\nただ……\n\n
-俺は、 羨ましかったんだ……\nお前の事が……\n\n
-…………\n\n\n
-でも、 それだけが……本心じゃ、 ない……\n\n\n
-……確かに、 レンの存在が、 俺にとって\nコンプレックスだった……\n\n
-だけど……それでも……\nガキの頃から剣ばかり握ってきた俺に、\n初めて出来た友達、 なんだ……\n
-…… <[>魔晶石<]> の力を使えば、\n少しでもお前を見返してやれるって……、\n力を付けて、 驚かしてやろうって……\n
-それが……どんどん、 こんなことになって……\n自分でも……歯止めがきかなくなって……\n\n
-……レン……ごめんな……\n\n\n
-……もういい。　それ以上話すな。\n\n\n
-…うっ……\nそれ、 と……エルザ……\n\n
-…………\n\n\n
-制御出来なくなってたとはいえ……\nお前には……本当にすまない事をした……\n\n
-……謝ったくらいで、 許されるような事じゃ\nないって、 わかって、 る……それでも……\n\n
-ごめん……な……\n\n\n
-……うっ…ううっ……\n\n\n
-エルザ……すまない……\n\n\n
-どうして…… ？　どうしてレンが謝るの ！ ？\n\n\n
-俺にも、 責任がないわけじゃない。\nあいつは、 俺の友達だから……\n\n
-私にだって……\n私にとっても、 大切な友達だった…… ！\n\n
-…………\n\n\n
-……俺、 もう一度遺跡を調査して回るよ。\n\n\n
-……え ？\n\n\n
-こんな石が存在したから、 古代の文明も、\n……ヴェルスも壊れてしまったんだ。\n\n
-こんな石があったから…… ！\n\n\n
-……レン。\n\n\n
-だから、 もう二度と同じ過ちを繰り返さないように、\n他にもこの石が残されていないか、 確認してくる。\n\n
-その後は、 世界中に存在している古代遺跡を巡って、\n全ての石を破壊する。\n\n
-それが、 いま俺に出来る事……\nやらなきゃならない事だと思うから。\n\n
-…………\n\n\n
-……私も。　お父様亡き今、 この国を\n引っ張れるのは、 私しかいない。\n\n
-こんなところで……\n泣いてなんかいられない。\n\n
-あぁ。　……泣き顔なんて、\nエルザには似合わない。\n\n
-……そう。　そうよね。\nうん。　もう、 泣かない。\n\n
-次、 いつレンに会えるのかわからないけど、\nそれまでに、 国を元通りに……\n\n
-ううん。　これまで以上の国にしてみせるから……\nだから……\n\n
-きっと、 帰ってきて。\n\n\n
-あぁ。　”約束” する。\n必ず、 帰ってくるよ。\n\n
+I owe you... an apology...\n\n\n
+I think what I said to you earlier was all stuff\nthat I had locked away in my heart...\n\n
+...Stuff that I have always, always wanted to say\nbut couldn't... Another me...\n\n
+Being in love with Elza... Despising Ren...\nThe other me...\n\n
+...No, not hate.\nJust...\n\n
+I was jealous... of you...\n\n\n
+...\n\n\n
+But that's all it was... I don't really...\n\n\n
+...It's true, I’ve always felt inferior to you...\n\n\n
+But... still... To the me who only had a sword to\ncling to as a kid, you were my first friends...\n\n
+...‘If I use the Magicite's power, I might surpass\nyou, even a little'...\n‘I'll get stronger, and surprise you'...\n
+Those thoughts... just kept growing... until even\nI... couldn't stop it anymore...\n\n
+...Ren... I'm sorry...\n\n\n
+...That's enough. Don't talk any more.\n\n\n
+...Ngh...\nAnd... Elza...\n\n
+...\n\n\n
+Even though I lost control...\nI... I really am sorry for what I did...\n\n
+...I know that a simple apology, won't make you\nforgive me... but...\n\n
+I'm so...rry...\n\n\n
+...Nh...nnnngh....\n\n\n
+Elza... I'm sorry...\n\n\n
+Why...? Why are you apologizing!?\n\n\n
+I'm responsible too.\nHe was my friend...\n\n
+He was... he was an important friend to me too...!\n\n\n
+...\n\n\n
+...I'm going to look around the ruins again.\n\n\n
+...Huh?\n\n\n
+Because of the existence of this stone, the ancient\ncivilization and... Veres were brought to their knees.\n\n
+Because of this stone...!\n\n\n
+...Ren.\n\n\n
+That's why I'm going to make sure there's no other\nstones left, so no one will make the same mistake\nagain.\n
+After that, I'll visit the ancient ruins around\nthe world, and destroy every single stone.\n\n
+That's something I can do...\nSomething I have to do, I think.\n\n
+...\n\n
+...Me too. Now that my father has passed away, I am\nthe only one who can lead the country.\n\n
+That's why... I won't cry.\n\n\n
+Yeah. ...Tears don't suit you.\n\n\n
+...Yeah. You're right.\nRight. I won't cry anymore.\n\n
+Next time, I don't know when I'm going to see you\nagain, but by then, I will have the country back\nto the way it was...\n
+No. It's going to be even better than\nbefore... So...\n\n
+You have to come back.\n\n\n
+Yeah. I ‘promise'.\nI will definitely return.\n\n
 ＞On the main street of Liruka Village...\n\n\n
 ＞Ren opened the door of a flashy-looking shop\n　with the sign ‘Avanc's Item Shop'.\n\n
 Welcome.\n\n\n
@@ -2416,5 +2416,3 @@ There are all sorrrts of items waiting for you～!\n\n\n
 ...I don't know what Veres is thinking, but...\n\n\n
 Now that I have this key, I should be able to go\ndeeper into the ruins.\n\n
 ...Okay, guess it's back to work.\n\n\n
-
-
