@@ -507,10 +507,10 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>リフレックス<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>リフレックス<C04> ？\n\n\n
-『常人離れした驚異の反射神経を\nその身に宿すことが出来る――』\nって書いてあるわ。\n
-つまり、 登録さえすれば回避率が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Reflexes<C04>’.\n\n
+<C03>Reflexes<C04>?\n\n\n
+“You can house reflexes far keener than most\nwithin your body", or so it says.\n\n
+In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>A Gust of Wind<C04>’.\n\n
@@ -519,16 +519,16 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>駆け抜ける神馬<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>駆け抜ける神馬<C04> ？\n\n\n
-『八つの足を持った伝説の神馬のように\n大地を駆け抜けることが出来る――』\nって書いてあるわ。\n
-つまり、 登録さえすれば移動速度が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Horse Power<C04>’.\n\n
+<C03>Horse Power<C04>?\n\n\n
+“You will be able to run at speeds on par with\nthe legendary eight-legged divine horse", or so\nit says.\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>韋駄天<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>韋駄天<C04> ？\n\n\n
-『神の持つ脚力をその身に宿すことで\n誰よりも速く駆けることが出来る――』\nって書いてあるわ。\n
-つまり、 登録さえすれば移動速度が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Quick As A Flash<C04>’.\n\n
+<C03>Quick As A Flash<C04>?\n\n\n
+“You can run faster than anyone else by hosting\ndivine power in your legs", or so it says.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to ‘<C03>Resist Poison<C04>’.\n\n
@@ -591,10 +591,10 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>ゴッドハンド<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>ゴッドハンド<C04> ？\n\n\n
-『戦神が持つ、 地を割るような一撃を\n繰り出せるようになる――』\nって書いてあるわ。\n
-つまり、 登録さえすれば剣を使った攻撃の\n威力がアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Divine Grasp<C04>’.\n\n
+<C03>Divine Grasp<C04>?\n\n\n
+“Your attacks will become reminiscent of a War God\nwith the power to rend the earth", or so it says.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>Hunter's Left Hand<C04>’.\n\n
@@ -609,16 +609,16 @@ The <C03>Golden Left Hand<C04>?\n\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>スナイパー<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>スナイパー<C04> ？\n\n\n
-『狙った獲物は逃がさない\n究極のスナイパーになれる――』\nって書いてあるわ。\n
-つまり、 登録さえすればナイフを使った攻撃の\n威力がアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Sniper<C04>’.\n\n
+<C03>Sniper<C04>?\n\n\n
+“You can become a supreme sniper whose prey\nnever manages to slip away", or so it says.\n\n
+In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>肉体強化<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>肉体強化<C04> ？\n\n\n
-『自身の肉体を限界以上に\n強化出来るようになる――』\nって書いてあるわ。\n
-つまり、 登録さえすれば防御力が\nアップするというスキルのようね。\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Body Builder<C04>’.\n\n
+<C03>Body Builder<C04>?\n\n\n
+“You will be able to enhance your body beyond\nits natural limits", or so it says.\n\n
+In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called the ‘<C03>Steel Wall<C04>’.\n\n
@@ -627,11 +627,11 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don’t you try\nequipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>究極の我慢<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>究極の我慢<C04> ？\n\n\n
-『痛みの先にある何かを追求するがあまり、\nどんな激痛にも耐える肉体を手に出来る――』\nって書いてあるわ。\n
-つまり、 登録さえすれば防御力が\nアップするというスキルのようね。\n\n……追求しようがしまいが、\n痛いものは痛いような気がするけど……\n\n……気の持ちよう、 ってことかしら ？\n\n\n
-ま、 あなたが必要だと思うのなら、\n登録してみればいいんじゃない ？ \n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Ultimate Endurance<C04>’.\n\n
+<C03>Ultimate Endurance<C04>?\n\n\n
+“Instead of searching for something beyond the\npain, you can obtain a body that can withstand\nany pain, no matter how severe", or so it says.\n
+In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\n...They make it sound like hoping pain will end is\na bad thing, but if something hurts, it hurts...\n\n...Maybe it’s saying you can endure more depending\non your frame of mind?\n\n
+Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Empty Mind<C04>’.\n\n
@@ -711,9 +711,9 @@ Apparently, by having this skill assigned, you'll be\nable to automatically reco
 If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>自然治癒<III><C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Auto-Heal Ⅲ<C04>’.\n\n
 <C03>Auto‐Heal Ⅲ<C04>?\n\n\n
-『驚異的な自然治癒力をその肉体に宿せる\nようになる。　その効果は驚きだ――』\nって書いてあるわね。\n
+“You can house a miraculous healing ability within\nyour body, to tremendous effect", or so it says.\n\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
 If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
@@ -725,10 +725,10 @@ Apparently, by having this skill assigned, your\nmoney will increase automatical
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
-どうやらこの書は、 <C03>富豪の余裕<C04>という\n<C03><[>登録スキル<]><C04> について記されているようね。\n\n
-<C03>富豪の余裕<C04> ？\n\n\n
-『大富豪の余裕をもってすれば、 定期的に\nお金を入手出来るようになる――』\nって書いてあるわね。\n
-どうやら、 このスキルを登録すれば\n自動的に所持金が増えていくようだわ。\n\n……もはや、 贅沢の極みね。\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Millionaire’s Margin<C04>’.\n\n
+<C03>Millionaire’s Margin<C04>?\n\n\n
+“With the flexibility of a multimillionaire, you can\ngain a money on a regular basis", or so it says.\n\n
+Apparently, by having this skill assigned, your\nmoney will increase automatically.\n\n...My, if that isn't the height of luxury.\n\n\n
 Well, if you think you might need it, why don’t you\ntry equipping it?\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it say?\n\n\n
@@ -822,28 +822,28 @@ What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
 Yes. This should allow you to assign even more\nskills.\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to assign them.\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
-えぇ。　さまざまなスキルを\n一度にたくさん使用できるように\nなるんじゃないかしら ？\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
+Yes. It appears you'll be able to use many\ndifferent skills all at the same time.\n\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to assign them.\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
-えぇ。　これでこれまで以上に\nたくさんのスキルを登録しておけるように\nなるんじゃないかしら ？\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
+Yes. Perhaps now you will be able to use more\nskills than ever before?\n\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to assign them.\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 Let’s see... Hmmm...\nAhh... Interesting...\n\n
 What’s it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises... dexterity?\n\n\n
-えぇ。　これでこれまで諦めていた数多くの\nスキルも、同時に登録しておけるように\nなるんじゃないかしら ？\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to allocate them.\n
+Yes. Perhaps you will even be able to use many of\nthe skills you'd previously had to give up on, all\nat the same time?\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn’t have room to assign them.\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
 It's everywhere.... A room buried by sand, huh?\n...It's hard to move.\n\n
 ＞In a certain room in the second layer of the\n　ruins...\n\n
