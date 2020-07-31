@@ -3,120 +3,120 @@ You can dodge attacks\r\nand pass through narrow\r\npassages.\r\n\r\nUsage: Y (A
 Earth's Weak Points
 You can destroy columns that\r\nare obstructing your path.\r\n\r\nUsage: Attack a cracked\r\ncolumn
 Taking Flight
-背中に翼が生えたかのような\r\n華麗な身のこなしで宙を舞う\r\nことが出来る。\r\n\r\n操作：ジャンプ中にＢボタン
+Allows you to perform\r\nmagnificent feats mid-\r\nair as though wings have\r\nsprouted from your back.\r\n\r\nUsage: Press B during\r\na jump
 The Forest Lover
-森を、木を、自然を愛するが\r\nあまり、樹木をよく観察する\r\n心が芽生え、大樹から採取を\r\n行える回数が増加する。
+With a love of the forest,\r\nthe trees, and nature itself,\r\nrefined observation skills\r\nincrease the number of\r\ntimes you're able to\r\ncollect material from\r\ntrees.
 Timber Appraiser
-木材を見る眼が鍛えられ、\r\n余すことなく調べられるよう\r\nになり、大樹から採取を行え\r\nる回数が増加する。
+Train your eye for wood,\r\nallowing you to leave\r\nno stone unturned and\r\nincrease the number of\r\ntimes you're able to\r\ncollect material from\r\ntrees.
 In Harmony With Trees
-樹木と一体化して、木と生活\r\nの調和を楽しむことが出来る\r\n「大樹マスター」になること\r\nにより、大樹から採取を行え\r\nる回数が増加する。
+By becoming a “Tree\r\nMaster" who lives in\r\nharmony with trees, the\r\nnumber of times you can\r\ncollect from them will\r\nincrease.
 The Grass Admirer
-草を愛でる気持ちが溢れん\r\nばかりに沸き上がり、草むら\r\nから採取を行える回数が増加\r\nする。
+Through an overflowing\r\nadmiration for grass,\r\nthe number of times\r\nyou're able to collect\r\nmaterial from it will\r\nincrease.
 The Apprentice Gardener
-立派な庭師を目指すのかと\r\n思わせるほどの手入れ技術や\r\n調査能力を持てるようになり\r\n草むらから採取を行える回数\r\nが増加する。
+By mastering the skills\r\nrequired for the upkeep\r\nof grass as though you\r\nwere aiming to become an\r\nexcellent gardener, the\r\nnumber of times you're\r\nable to collect material\r\nfrom it will increase.
 Green-Fingered
-庭は俺にまかせろ！と言わん\r\nばかりの心意気で草と接する\r\nことが出来るようになり、\r\n草むらから採取を行える回数\r\nが増加する。
+By having the spirit and\r\nresolve as if to say\r\n‘entrust the garden to\r\nme!' when tending to\r\ngrass, the number of\r\ntimes you're able to\r\ncollect material from\r\nit will increase.
 The Rock Enthusiast
-いつも以上に、岩場に対して\r\n強く焦がれる気持ちが生まれ\r\nることで、岩場から採取を\r\n行える回数が増加する。
+With an instilled sense\r\nof enthusiasm for rocks,\r\nthe number of times you're\r\nable to collect material\r\nfrom them will increase.
 The Apprentice Miner
-鉱山で働く男のテクニックを\r\n身に付けたい、という強い\r\n気持ちから、岩場から採取を\r\n行える回数が増加する。
+With a desire to acquire\r\nthe skills of those who\r\nworks in a mine, the\r\nnumber of times you're\r\nable to collect material\r\nfrom rocks will increase.
 The Rock Master
-岩石を見ただけでその土地の\r\n状態を把握できるほど、石を\r\n愛した男の証。岩場から採取\r\nを行える回数が増加する。
+By adoring rocks so much\r\nthat you can grasp the\r\nstate of the earth just\r\nby looking at them, the\r\nnumber of times you're\r\nable to collect material\r\nfrom them will increase.
 HP Increase
-体力（ＨＰ）の最大値を増加\r\nさせる効果を秘めたスキル。
+A skill which increases\r\nyour maximum physical\r\nstrength (HP).
 HP Increase
-体力（ＨＰ）の最大値を増加\r\nさせる効果を秘めたスキル。
+A skill which increases\r\nyour maximum physical\r\nstrength (HP).
 HP Increase
-体力（ＨＰ）の最大値を増加\r\nさせる効果を秘めたスキル。
+A skill which increases\r\nyour maximum physical\r\nstrength (HP).
 SP Increase
-スキルを覚えるために必要な\r\nポイント（ＳＰ）の最大値が\r\n増加するスキル。
+A skill which increases\r\nthe maximum number of\r\npoints (SP) you have\r\navailable to learn new\r\nskills.
 SP Increase
-スキルを覚えるために必要な\r\nポイント（ＳＰ）の最大値が\r\n増加するスキル。
+A skill which increases\r\nthe maximum number of\r\npoints (SP) you have\r\navailable to learn new\r\nskills.
 SP Increase
-スキルを覚えるために必要な\r\nポイント（ＳＰ）の最大値が\r\n増加するスキル。
+A skill which increases\r\nthe maximum number of\r\npoints (SP) you have\r\navailable to learn new\r\nskills.
 SP Increase
-スキルを覚えるために必要な\r\nポイント（ＳＰ）の最大値が\r\n増加するスキル。
+A skill which increases\r\nthe maximum number of\r\npoints (SP) you have\r\navailable to learn new\r\nskills.
 SP Increase
-スキルを覚えるために必要な\r\nポイント（ＳＰ）の最大値が\r\n増加するスキル。
+A skill which increases\r\nthe maximum number of\r\npoints (SP) you have\r\navailable to learn new\r\nskills.
 Warrior's Right Arm
-伝説の戦士が持つ力を右腕に\r\n宿すことで、剣を使った攻撃\r\n力を高めることができる。\r\n\r\n必要ＳＰ：1
+By hosting the strength\r\nof a legendary warrior\r\nin your right arm, the\r\npower of your sword\r\nattacks will increase.\r\n\r\nRequired SP: 1
 Demon's Right Arm
-鬼人の持つ人間の力を超えた\r\n破壊力を右腕に宿すことで、\r\n剣を使った攻撃で驚異の威力\r\nを生み出せるようになる。\r\n\r\n必要ＳＰ：2
-ゴッドハンド
-鬼神が放つ渾身の一撃の如し\r\n力を右腕に宿すことで、剣を\r\n使った攻撃に、圧倒的な威力\r\nを付加出来るようになる。\r\n\r\n必要ＳＰ：3
+By hosting a destructive\r\npower beyond the likes\r\nof any human in your\r\nright arm, the power of\r\nyour sword attacks will\r\nincrease tremendously.\r\n\r\nRequired SP: 2
+Divine Grasp
+By hosting a power like\r\nthat of the full force\r\nof a ferocious god in\r\nyour right arm, your\r\nsword attacks will pack\r\nan overwhelming punch.\r\n\r\nRequired SP: 3
 Hunter's Left Hand
-熟練の狩人が放つそれのよう\r\nに、狙い澄ました遠距離攻撃\r\nを放てるようになる。\r\n\r\n必要ＳＰ：1
+Like the those let off\r\nby skilled hunters, you\r\ncan release a long-range\r\nattack with great\r\nprecision.\r\n\r\nRequired SP: 1
 Golden Left Hand
-黄金の左手と称えられるほど\r\n素晴らしい手さばきでナイフ\r\nを投げることが出来るように\r\nなるスキル。\r\n\r\n必要ＳＰ：2
-スナイパー
-「狙った獲物は逃がさない」\r\nとの決め台詞が似合いすぎる\r\nほどのスナイパーになれる。\r\n\r\n必要ＳＰ：3
-肉体強化
-己の肉体を強化することで、\r\n攻撃から身を守る鋼の肉体を\r\n手に入れることができる。\r\n\r\n必要ＳＰ：1
+A skill which allow you\r\nto throw knives with\r\nincredible handiwork, as\r\nif your hands truly were\r\nmade of gold.\r\n\r\nRequired SP: 2
+Sniper
+You can become a sniper\r\ntalented enough to say\r\n“nothing will escape me".r\n\r\nRequired SP: 3
+Body Builder
+By enhancing your body,\r\nyou can obtain a body as\r\nhard as steel which will\r\nprotect you from attacks.r\n\r\nRequired SP: 1
 Steel Wall
-鋼鉄で塗り固められた壁を\r\n体に埋め込んだかのような\r\n防御力で、どんな攻撃からも\r\n身を守ることができる。\r\n\r\n必要ＳＰ：2
-究極の我慢
-痛みの先にある"何か"を追求\r\nするがあまり、どのような\r\n激痛にも耐える人智を超えた\r\n力を得ることが出来る。\r\n\r\n必要ＳＰ：3
+Protect yourself from\r\nattacks with a strong\r\ndefensive power as\r\nthough there was a\r\nsolid steel wall\r\nembedded in your\r\nbody.\r\n\r\nRequired SP: 2
+Ultimate Endurance
+Instead of searching for\r\nwhat lies beyond the pain,\r\nyou can obtain a power\r\nbeyond human understanding\r\nwhich will allow you to\r\nendure all pain.\r\n\r\nRequired SP: 3
 Timing
-敵との間合いやタイミングを\r\nはかれるようになり、攻撃の\r\n命中率が上昇するスキル。\r\n\r\n必要ＳＰ：1
+A skill which increases\r\nthe accuracy your attacks\r\nby allowing you to pick\r\nthe perfect opportunity\r\nto strike.\r\n\r\nRequired SP: 1
 Foresight
-先読みの能力が開花して敵の\r\n動きを見極められるように\r\nなり、命中率が上昇する。\r\n\r\n必要ＳＰ：2
+Enhances your ability to\r\nsee ahead and read enemy\r\nmovements, allowing you\r\nto make more successful\r\nhits.\r\n\r\nRequired SP: 2
 Divine Eyesight
-神と名が付くほどの眼力で敵\r\nの一挙手一投足を見極める\r\nことで攻撃の命中率が大幅に\r\n上昇する。\r\n\r\n必要ＳＰ：3
+With eyesight that can\r\nonly be described as\r\ngodly, you can witness\r\nevery move your opponent\r\nmakes and increase your\r\naccuracy significantly.\r\n\r\nRequired SP: 3
 Quick Thinking
-どんな状況下でも機敏な動作\r\nを取れるようになり、回避率\r\nが上昇するスキル。\r\n\r\n必要ＳＰ：1
-リフレックス
-常人離れした反射神経を養う\r\nことで、回避率を上昇させる\r\nことが出来るスキル。\r\n\r\n必要ＳＰ：2
+A skill that allows you\r\nto act quickly under any\r\ncircumstances and\r\nincreases evasion.\r\n\r\nRequired SP: 1
+Reflexes
+By building up reflexes\r\nfar keener than most,\r\nyou can increase your\r\nevasion rate.\r\n\r\nRequired SP: 2
 Empty Mind
-無の境地に達することで、敵\r\nの攻撃を無意識のうちに回避\r\nする能力を手に出来る。\r\n\r\n必要ＳＰ：3
+By reaching a state of\r\nnothingness, you will\r\ngain the ability to\r\navoid enemy attacks\r\nunconsciously.\r\n\r\nRequired SP: 3
 A Gust of Wind
-風の如し身軽な体を手にする\r\nことができ、移動速度が少し\r\n上昇するスキル。\r\n\r\n必要ＳＰ：2
-駆け抜ける神馬
-八つの足を持った伝説の神馬\r\nのように、華麗に駆け抜ける\r\nことが出来るようになり、\r\n移動速度が上昇するスキル。\r\n\r\n必要ＳＰ：3
-韋駄天
-神の持つ脚力をその身に宿す\r\nことで、移動速度を大幅に\r\n上昇させることが出来る。\r\n\r\n必要ＳＰ：4
-Forward Roll - Student
-緊急回避のコツを掴めるよう\r\nになるスキル。発動させると\r\n敵の放つ攻撃がこれまで以上\r\nに当たりにくくなる。\r\n\r\n必要ＳＰ：2
-Forward Roll - Master
-緊急回避のマスターになれる\r\n驚異のスキル。\r\n発動させると前転中は完全に\r\n敵の攻撃が当たらなくなる。\r\n\r\n必要ＳＰ：3
+A skill that allows\r\nyou to become as light\r\nand nimble as the wind,\r\nslightly increasing your\r\nmovement speed.\r\n\r\nRequired SP: 2
+Horse Power
+A skill which increases\r\nyour movement speed by\r\nhelping you run like the\r\nlegendary eight-legged\r\ndivine horse.\r\n\r\nRequired SP: 3
+Quick As A Flash
+By hosting divine power\r\nin your legs, you can\r\ngreatly increase you\r\n movement speed.\r\n\r\nRequired SP: 4
+Forward Roll ? Student
+A skill which helps you\r\nget the hang of making\r\nevasive manoeuvres. When\r\nused, enemy attack\r\nbecome less likely\r\nto land.\r\n\r\nRequired SP: 2
+Forward Roll ? Master
+A miraculous skill which\r\nhelps you master making\r\nevasive manoeuvres. When\r\nused, enemy attacks will\r\nbe completely blocked\r\nwhilst rolling.\r\n\r\nRequired SP: 3
 Resist Poison
-猛毒の効果を半減させるほど\r\nの耐性を体内に作り出すこと\r\nが出来る。\r\n\r\n必要ＳＰ：2
+Builds up the body's\r\ntolerance to and halves\r\nthe effect of poison.\r\n\r\nRequired SP: 2
 Poison Immunity
-その効果を無効化してしまう\r\nほど、猛毒に対する免疫力を\r\n高めることが出来る。\r\n\r\n必要ＳＰ：3
+By nullifying its effects\r\neven more, you can raise\r\nyour immunity to poison.\r\n\r\nRequired SP: 3
 Resist Paralysis
-痺れ効果を半減させるほどの\r\n耐性を体内に作り出すことが\r\n出来るスキル。\r\n\r\n必要ＳＰ：2
+Builds up the body's\r\ntolerance to and halves\r\nthe effect of paralysis.\r\n\r\nRequired SP: 2
 Paralysis Immunity
-その効果を無効化してしまう\r\nほど、麻痺に対する免疫力を\r\n高めることが出来る。\r\n\r\n必要ＳＰ：3
+By nullifying its effects\r\neven more, you can raise\r\nyour immunity to paralysis.\r\n\r\nRequired SP: 3
 Resist Stun
-強い衝撃に対して常日頃から\r\n備えておくことで、ここぞと\r\nいう時に効果を発揮出来る。\r\n\r\n必要ＳＰ：2
+By being readily prepared\r\nfor strong impacts, you\r\nwill be able to call on\r\nthat power when you most\r\nneed it.\r\n\r\nRequired SP: 2
 Steel Heart
-どんな状況に陥ったとしても\r\n決して動じる事のない鋼の\r\nような心を手に入れることが\r\n出来るスキル。\r\n\r\n必要ＳＰ：3
+A skill which allows\r\nyou to obtain a heart\r\nof steel that never\r\nquivers, no matter the\r\nsituation.\r\n\r\nRequired SP: 3
 Determination
-強い気持ちを持って冒険に\r\n挑む姿勢が大切。そうすれば\r\n臆病な気持ちなんてすぐに\r\n吹っ飛ばせるさ。\r\n\r\n必要ＳＰ：2
+Having the right mindset\r\nto face your adventures\r\nis crucial. With it,\r\nyou can quickly shake\r\noff doubts and fears\r\nwith ease.\r\n\r\nRequired SP: 2
 Unbreakable Heart
-幾度となく襲い掛かる危険を\r\n潜り抜けてきたからこそ\r\n培われた強い心の持ち主に\r\nなれるスキル。\r\n\r\n必要ＳＰ：3
+A skill which allows to\r\npossess a strong heart\r\ncultivated by overcoming\r\nthe danger of being\r\nattack on countless\r\noccassions.\r\n\r\nRequired SP: 3
 Resist Burn
-熱に対する耐性が強い体質に\r\n変化することで、火傷の効果\r\nを半減させることができる。\r\n\r\n必要ＳＰ：2
+By changing the bodies\r\nmakeup to be more heat\r\nresistant, the effects\r\nof burn can be halved.\r\n\r\nRequired SP: 2
 Burn Immunity
-業火にさえ耐えうるほどに\r\n炎への免疫を高めることで、\r\n火傷を負わない体になれる\r\n驚きのスキル。\r\n\r\n必要ＳＰ：3
+An astonishing skill\r\nthat can increase your\r\nimmunity to fire so much\r\nthat it can even withstand\r\nthe likes of hell fire.\r\n\r\nRequired SP: 3
 Resistant Block
-全ての病に対する耐性を上昇\r\nさせることで、あらゆる異常\r\n状態の効力を半減させること\r\nが出来るスキル。\r\n\r\n必要ＳＰ：4
+A skill which increases\r\nyour resistance to pain,\r\nhalving the effect of\r\nall status ailments.\r\n\r\nRequired SP: 4
 Immune Block
-体に異常をきたす全ての病的\r\nな効力を無効化してしまう\r\nほどの驚異的な免疫力を得る\r\nことが出来るスキル。\r\n\r\n必要ＳＰ：6
+A skill which allows you\r\nto obtain incredible\r\nimmunity, enough to\r\nnullify the effects of\r\nall status ailments.\r\n\r\nRequired SP: 6
 Auto‐Heal Ⅰ
-人智を超えた自然治癒能力が\r\n開花し、身体に受けた傷を\r\n自動的に癒してくれる。\r\n\r\n必要ＳＰ：2
+An ability to\r\nspontaneously recover\r\nthat goes beyond human\r\nunderstanding will emerge,\r\nallowing wounds to the\r\nbody to be automatically\r\nhealed.\r\n\r\nRequired SP: 2
 Auto‐Heal Ⅱ
-さらに進化した自然治癒能力\r\nを得ることが出来るスキル。\r\n普通に生活する分には、擦り\r\n傷など見ることもなくなる。\r\n\r\n必要ＳＰ：3
+A skill which allows\r\nyou to further evolve\r\nyour natural healing\r\nability. Everyday cuts\r\nand bruises will become\r\na thing of the past.\r\n\r\nRequired SP: 3
 Auto‐Heal Ⅲ
-驚異的な治癒力を持てるよう\r\nになるスキル。回復アイテム\r\nの使用頻度が激減することは\r\n間違いない。\r\n\r\n必要ＳＰ：4
+A skill that will give\r\nyou tremendous healing\r\npowers.\r\nIt will undoubtedly\r\ndecrease the number of\r\ntimes you need to use\r\nrecovery items.\r\n\r\nRequired SP: 3
 Beggar's Obstinance
-貧民の意地をもってして\r\n定期的にお金を入手出来る\r\nようになるスキル。\r\n\r\n必要ＳＰ：6
-富豪の余裕
-富豪の余裕からか、\r\n定期的にお金を入手出来る\r\nようになるスキル。\r\n\r\n必要ＳＰ：8
+A skill which harnesses\r\nthe perseverance of one\r\nwith nothing to obtain\r\nmoney on a regular basis.\r\n\r\nRequired SP: 6
+Millionaire's Margin
+A skill which will allows\r\nyou to obtain money on a\r\nregular basis, thanks to\r\nliberties than a\r\nmillionaire can take.\r\n\r\nRequired SP: 8
 Awakening Power
-希に、自らの持つ限界以上の\r\n力がこもった攻撃を繰り出せ\r\nるようになる。\r\n\r\n必要ＳＰ：1
+On rare occasions, you\r\nwill be able to carry\r\nout attacks with a\r\nstrength beyond your\r\nnatural limits.\r\n\r\nRequired SP: 1
 Throwing A Strike
-「突き」攻撃の応用技として\r\n３回連続で突きを行えるよう\r\nになるスキル。\r\n\r\n必要ＳＰ：1
+A skill which allows\r\nyou to thrust forward\r\nthree times in a row\r\nwhen performing a\r\nlunge attack.\r\n\r\nRequired SP: 1
 Mastering A Strike
-「突き」攻撃の応用技として\r\n５回連続で突きを行えるよう\r\nになるスキル。\r\n\r\n必要ＳＰ：2
+A skill which allows\r\nyou to thrust forward\r\nfive times in a row\r\nwhen performing a\r\nlunge attack.\r\n\r\nRequired SP: 2
 Air Master
-空中戦を有利に立ち回ること\r\nを目的として、ジャンプ攻撃\r\nから派生した攻撃スキル。\r\n素早い回転と重力を利用した\r\n多段攻撃が可能となる。\r\n必要ＳＰ：3
+A modification of a\r\nstandard jump attack,\r\ndesigned to give you\r\nan advantage in mid-\r\nair combat. Allows you\r\nto use gravity to\r\nperform a succession\r\nof attacks while\r\nrotating.\r\n\r\nRequired SP: 3\r\n
