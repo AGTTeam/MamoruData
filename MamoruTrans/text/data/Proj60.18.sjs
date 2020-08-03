@@ -353,5 +353,4 @@ Rusted Sword
 Misplaced Sword
 <C03>Description:<C04>\r\nA sword that lost its owner.\r\nThe blade is rusted and the\r\nhilt is missing. No longer\r\nfit for purpose.
 Dull Spear
-<C03>Description:<C04>\r\nA short spear that looks\r\nlike it was used as a throwing\r\njavelin. The end is dented,\r\nsuggesting that something\r\nused to be attached.
-
+<C03>Description:<C04>\r\nA short spear that looks like\r\nit was used as a throwing\r\njavelin. The end is dented,\r\nsuggesting that something\r\nused to be attached.
