@@ -287,17 +287,17 @@ Treasure
 Misc
 Food
 âΩÇ‡Ç»Çµ
-Poison immune
-Fear immune
-Paralysis immune
-Burn immune
-Stun immune
+Nulls Poison 
+Nulls Fear
+Nulls Paralysis
+Nulls Burn
+Nulls Stun
 State immunity
 Auto-Heal ÅiSÅj
 Auto-Heal ÅiMÅj
 Auto-Heal ÅiBÅj
 Raises movement speed
-Raises hit rate 
+Raises hit rate
 20% discount off\neverything
 ÇgÇo
 ÇrÇo
@@ -313,7 +313,7 @@ ATK SPD
 Move SPD
 ATR
 No effect
-This item canÅft be used.
+This item can't be used.
 Recovers 50 HP
 Recovers 100 HP
 Recovers 200 HP
@@ -352,29 +352,29 @@ None
 Perform forward rolls
 Destroy objects
 Double jump
-Chance of delivering a critical\nhit
-SP Å{5
-HP Å{200
-Attack ÅiSlashÅj Å{ Small
-Attack ÅiSlashÅj Å{ Medium
-Attack ÅiSlashÅj Å{ Big
-Attack ÅiThrowÅj Å{ Small
-Attack ÅiThrowÅj Å{ Medium
-Attack ÅiThrowÅj Å{ Big
-Movement speed Å{ Small
-Movement speed Å{ Medium
-Movement speed Å{ Big
-Defence Å{ Small
-Defence Å{ Medium
-Defence Å{ Big
-Accuracy Å{ Small
-Accuracy Å{ Medium
-Accuracy Å{ Big
-Evasion Å{ Small
-Evasion Å{ Medium
-Evasion Å{ Big
-Evasive manoeuvres: Half invincible
-Evasive manoeuvres: Completely\ninvincible
+Chance of delivering a\ncritical hit
+SP Å{ 5
+HP Å{ 200
+Attack ÅislashÅj Å{ small
+Attack ÅislashÅj Å{ medium
+Attack ÅislashÅj Å{ big
+Attack ÅithrowÅj Å{ small
+Attack ÅithrowÅj Å{ medium
+Attack ÅithrowÅj Å{ big
+Movement speed Å{ small
+Movement speed Å{ medium
+Movement speed Å{ big
+Defence Å{ small
+Defence Å{ medium
+Defence Å{ big
+Accuracy Å{ small
+Accuracy Å{ medium
+Accuracy Å{ big
+Evasion Å{ small
+Evasion Å{ medium
+Evasion Å{ big
+Evasive manoeuvres:\nHalf invincible
+Evasive manoeuvres:\nCompletely invincible
 Halves poison
 Nullifies poison
 Halves paralysis
@@ -387,11 +387,11 @@ Halves burn
 Nullifies burn
 Halves all status ailments
 Nullifies all status ailments
-Auto-Heal ÅiSÅj
-Auto-Heal ÅiMÅj
-Auto-Heal ÅiBÅj
-Get money ÅiSÅj
-Get money ÅiBÅj
+Heal automatically ÅismallÅj
+Heal automatically ÅimediumÅj
+Heal automatically ÅibigÅj
+Get money ÅismallÅj
+Get money ÅibigÅj
 Three-step lunge
 Five-step lunge
 Rotating jump attack
@@ -621,9 +621,9 @@ This book seems to contain information about an\n<C03>assigned skill<C04> called
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Steel Wall<C04>Åf.\n\n
-<C03>Steel Wall<C04>?\n\n\n
-ÅgBy obtaining a body as tough as steel, you will\nbe able to deflect impact", or so it says.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Metal Plate<C04>Åf.\n\n
+<C03>Metal Plate<C04>?\n\n\n
+ÅgBy obtaining a body as hard as metal, you will\nbe able to deflect impact", or so it says.\n\n
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 WhatÅfs it say?\n\n\n
@@ -896,8 +896,8 @@ Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n  <C03>Double jumping<C04> is now possible.\n\n  By jumping again in the air,\n  (B button) you will be able to\n  get to high places or cross\n  big holes that you weren't\n  able to reach before.\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Forest Lover<C04>Åf.\n
-<C03>The Forest Lover<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Forest Lover<C04>Åf.\n
+<C03>Forest Lover<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...By having a love of the forest, the trees,\nand nature itself...\n\n
 ...one will refine their tree observation skills,\nincreasing the number of times they are able\nto harvest from them."\n
@@ -918,8 +918,8 @@ Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           ÅyTree +4Åz<C04>\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Grass Admirer<C04>Åf.\n
-<C03>The Grass Admirer<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Grass Admirer<C04>Åf.\n
+<C03>Grass Admirer<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...The feelings of admiration for grass will come\noverflowing to those who habitually observe it.\n\n
 It goes without saying that the number of times\nthe grass can be collected from will increase as\na result...Åh\n
@@ -929,8 +929,8 @@ Yeah,  no harm in trying.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +2Åz<C04>\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Apprentice Gardener<C04>Åf.\n
-<C03>The Apprentice Gardener<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Gardener<C04>Åf.\n
+<C03>Apprentice Gardener<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...By having a strong desire to become a good\ngardener and mastering the skills required for\nthe upkeep of grass,\n
 you will excel at managing grass, and hence the\nnumber of times you can harvest material from\nit will increase...Åh\n
@@ -951,8 +951,8 @@ Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +4Åz<C04>\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Rock Enthusiast<C04>Åf.\n
-<C03>The Rock Enthusiast<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Enthusiast<C04>Åf.\n
+<C03>Rock Enthusiast<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...This skill instils a strong sense of adoration\nfor rocks.\n\n
 As a result, one will develop a habit of observing\nrocky areas, allowing them to harvest material a\ngreater number of times.\n
@@ -962,8 +962,8 @@ Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +2Åz<C04>\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Apprentice Miner<C04>Åf.\n
-<C03>The Apprentice Miner<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Miner<C04>Åf.\n
+<C03>Apprentice Miner<C04>?\n\n\n
 Yes... To summarise it...\n\n\n
 Åg...By acquiring the skills of a person who works\nin a mine, you'll be able to dig up rocks without\nfear of fatigue.\n
 As a result, the number of times you can collect\nfrom rocks will increase significantly."\n\n
@@ -973,8 +973,8 @@ Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +3Åz<C04>\n\n
 LetÅfs see... Hmmm...\nAhh... Interesting...\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>The Rock Master<C04>Åf.\n
-<C03>The Rock Master<C04>?\n\n\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Master<C04>Åf.\n
+<C03>Rock Master<C04>?\n\n\n
 The title seems pretty suspect to me...\nWell, to summarise it...\n\n
 Åg...By adoring rocks so much that you can grasp\nthe state of the earth just by looking at them,\n\n
 you can greatly increase the number of times\nyou're able to collect material from them.Åh\n\n

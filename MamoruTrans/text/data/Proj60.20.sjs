@@ -230,7 +230,7 @@ The Melancholy Of Renus (3)
 Worried Investigator　Renus
 There's another one!!! This time, I\r\nfound a giant Flame Flan in the 3rd\r\nlayer of the ruins. That size really\r\nis something else... And of course,\r\nno one believes me yet again...\r\nI need proof. You're my only hope!
 See? See? See? There really, really\r\nis a giant Flame Flan, right? I can't\r\nwait to see the stunned faces of\r\neveryone who called me a liar!\r\nCheers! I'll be counting on you if\r\nanything else happens!
-The Sand Snake Resurrected
+Sand Snake Resurrected
 Survey Team Captain　Rasvel
 It seems the sand snake in the\r\nsecond layer of the ruins has\r\nsomehow been revived. We still\r\nhaven't finished in that room\r\nyet, but now we can't go in.\r\nCould you take care of it?
 Thank you. And thank you for last\r\ntime again, as well. I'm curious about\r\nhow strong you really are!\r\nAll we get from the guild is your\r\nname, so I can't help but wonder.\r\nSay, would you be interested in\r\njoining the survey team?
@@ -318,64 +318,63 @@ The Guild's Challenge (4)
 Adventurer's Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have become a fully-fledged\r\nhunter! So, will you accept the\r\nchallenge?
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil A rank requests.\r\nBut, are you content with just\r\nthis? There's much, much more\r\nlying ahead. Now, aim for the\r\nsummit with all your might!!
-新たなる猛獣の雄叫び
-遺跡調査隊の女隊長　ラズベル
-遺跡第一層の奥にいた三ツ首の獣。\r\n以前あなたが倒してくれたあの獣に\r\n新種が見つかったようなの。目撃者\r\nの証言によると、全身の毛が蒼く、\r\n凶暴性が高いらしいわ。\r\n調査にいってくれないかしら？
-三ツ首の獣の新種も無事に討伐して\r\nくれたようね。専門家の話だと、\r\nケルベロスが魔晶石の影響で\r\n変異した姿らしいのだけれど……\r\nまだよく分かっていないみたい。\r\nでも、遺跡の謎解明に一歩近づいた\r\nって感じはするわね。
-新たなる砂蛇の猛攻
-遺跡調査隊の鬼隊長　ブランク
-砂中に潜む大蛇ヨルムン・ガンドに\r\n色違いの新種がいると噂されている\r\nのを知っているか？とあるハンター\r\nが目撃したらしいんだが、未だ真相\r\nは闇の中……。我々の調査に支障が\r\n出る前に調べてきてもらえないか？
-やはり噂は本当だったのか。しかも\r\nその新種を討伐までしてくれたそう\r\nだね。新たな発見と共に、その発見\r\nを持ち帰るキミの力量は、本当に\r\n大したものだよ。以前ラズベルから\r\n入隊の誘いがあったと思うが本気で\r\n考えてみないか？
-神速の四足獣
-中堅トレジャーハンター　ニル
-開かずの間だった第二層の奥へ続く\r\n扉を開け、潜んでいた神速の四足獣\r\nをも倒したというキミの情報を聞き\r\n俺もお宝目当てで行ってみたんだが\r\nあの獣が再び現れたんだよ。\r\nもう一度倒しに行ってくれないか？
-よくやってくれた！これで何の心配\r\nもせず、お宝探しに集中できるって\r\nもんだぜ！……でも、よく考えたら\r\nすでにキミがあの辺りの宝を取り\r\n尽くしているんだよな？……いや、\r\nまだ取り残しがあるかもしれない！\r\nとにかく一度行ってみるさ。
-眼にも止まらぬ紅い影
-中堅トレジャーハンター　ニル
-道中の魔物に苦戦しながらも何とか\r\n第二層の奥へ辿り着いたんだが、\r\n今度は見たこともない色の四足獣が\r\n現れたんだ！…本気で死ぬかと思っ\r\nたよ。これは依頼ではなく忠告だ。\r\n…あの辺りには行かない方がいい。
-あの赤色の四足獣がすげぇ宝を持っ\r\nていると踏んでた俺は、諦めきれず\r\nにヤツの行動をこっそり見張ってた\r\nんだ。そしたらキミが現れて、あの\r\n華麗な立ち回りだ。…脱帽だよ。\r\nその姿を目の当たりにした俺は、\r\nハンター生活の引退を決意したよ。
-方向音痴はお金で解決(3)
-トレジャーハンター　ラッド
-もうすっかりお馴染みとなったが…\r\n方向音痴のトレジャーハンター、\r\nラッドだ。こうなりゃ形振り構って\r\nられないぜ…。優秀なキミにしか\r\n頼めない！遺跡の地図【完全版】を\r\n俺に見せてくれ！お願いだぁぁぁ！
-そろそろキミの呆れ顔が目に浮かぶ\r\nようで痛いよ…。だが！この遺跡の\r\n地図【完全版】で俺もいよいよ遺跡\r\nの最深部まで到達できるはずだ！！\r\nキミには本当に世話になったね。\r\nこれでこの関係も終わりかと思うと\r\n少し寂しくもあるよ。
-コレクションマニア
-大富豪　ローズマン
-ワシの豪邸には世界各地で見つけた\r\nさまざまな宝がコレクションされて\r\nおる。集めるのも好きなのじゃが、\r\nただ見るだけでもいいものじゃ。\r\nそこで、そなたの集めた自慢の品々\r\nをワシに見せてもらえんかの？
-うむ。素晴らしい！これだけの品\r\nを集めるには相当苦労したのでは\r\nないかね？良い物を見せて貰った\r\nことじゃし、礼は弾むぞ。\r\nあ～それと…もしよければじゃが\r\nワシに買い取らせてくれんか？\r\n……ダメかの？
-光り輝くハネノネ
-臆病ハンター　レイチェル
-お前が倒した深緑の竜が復活する前\r\nにお宝を頂いてしまおうってことで\r\nやつのいた部屋に行ってみたんだが\r\n…眩く輝く光と共に、大きな羽音が\r\n聞こえたもんで一目散に逃げたよ。\r\n…ありゃ、何か潜んでるな…。
-どうだ？やっぱりあの部屋に何か\r\nとんでもねぇもんが潜んでたろ？\r\nまぁ確かに俺じゃああんな怪物を\r\n相手に出来ないが…こう、なんだ。\r\nあの部屋に純白の竜がいることを\r\n教えたのは、俺だよな？な？
-白き翼の再来！
-臆病ハンター　レイチェル
-今度こそ大丈夫だと思ってもう一度\r\nあの部屋に行ってみたんだよ。あの\r\n例の純白竜が出た部屋だ。そしたら\r\nあいつ復活していやがった…しかも\r\n俺が見る限り、一回り大きくなって\r\nいやがった…なんとかしてくれ！！
-いやぁ～ホントあんたには世話に\r\nなりっぱなしだな。ドラゴンをも\r\n恐れぬ男として後世に語り継いで\r\nやるよ。…え？いらない？\r\nま、俺はお宝さえ手に入れば問題\r\nない。さて、もう一度あの部屋に\r\n行ってみるかな。
-三度目の正直
-臆病ハンター　レイチェル
-おおおおおいおい！二度あることは\r\n三度あるって言うが、さすがの俺も\r\n肝が冷えたぜ…。あの純白竜が再々\r\n登場しやがった…。しかもさらに力\r\nが増しているように見えたぜ…。\r\n今度ばかりはお前でも無理だろ…。
-まさか？！ホントかよ？！長年の\r\n経験から言わせてもらえば、あの\r\n竜は人間が対等にやり合える存在\r\nじゃないぞ…それをいとも簡単に\r\nやっつけるとは……さすがは俺の\r\n見込んだ男だ！これで俺も心おき\r\nなくお宝を探せるってもんだぜ！
-漆黒の闇より這い出し者
-悩める遺跡調査員　レナス
-以前あなたが倒してくれた真紅の竜\r\nがいた第三層の部屋を調査してたら\r\n見たこともない真っ黒い竜が突然\r\n襲いかかってきたの！目撃したのが\r\n私だけで誰も信じてくれないけど…\r\nあなたなら信じてくれるわよね？
-ね？本当だったでしょ？\r\nいやでもまさか…。ちょっと行って\r\n見てきてくれるだけでよかったのに\r\n討伐までしてしまうなんて…あなた\r\n本当に強いのね。\r\nま、これであの部屋の調査を再開\r\n出来るわ！ありがとね！
-漆黒竜の猛追
-悩める遺跡調査員　レナス
-嘘つき！第三層に出現した漆黒の竜\r\nを倒したって聞いたから、再び調査\r\nのためにあの部屋へ行ったんだけど\r\n…倒してないじゃない！あと一歩で\r\nやられるところだったわ…。\r\nもう一度見に行ってくれない？
-ね？まだいたでしょ？？…でも前の\r\n依頼で本当に倒してくれたのよね？\r\nということは、魔…なんたら石の\r\n力で傷を負っても復活するっていう\r\nのは、ただの噂じゃなかったって事\r\nかしら？…まぁ何にせよ調査のため\r\nもう一度あの部屋に行ってみるわ！
-空を舞う闇の羽衣
-悩める遺跡調査員　レナス
-だめ！やっぱり復活していたわ。\r\n今回はちゃんと警戒しながら部屋に\r\n入ったからすぐに逃げてこれたけど\r\n以前より力が増しているのは、私の\r\n目にも分かったわ。今度ばかりは\r\nあなたでも無理かもしれない…。
-漆黒竜を討伐したという話を聞いて\r\nすぐにあの部屋に行ってみたの。\r\nそしたら、今度は漆黒竜の影も形も\r\n無かったわ。…復活の回数に制限が\r\nあるのかしら？…まぁここから先は\r\n私たち調査隊の仕事ね。解明したら\r\n一番にあなたへ報告するわ！
-ギルドからの挑戦状(5)
-冒険者ギルド
-これはキミの、ギルド卒業試験とで\r\nもいうべき依頼だ。鍛え上げた肉体\r\nで立ち向かえ！恐れることはない！\r\n遺跡第一層の奥にて、甦りし三ツ首\r\nの巨獣がキミを待っている！
-まだまだ試験はここからだ。\r\n次の依頼をクリア出来るか出来ない\r\nかで、キミのハンターとしての力量\r\nが決まる。更なる欲を求めよ！\r\nその先には必ず道が待っている！
-ギルドからの挑戦状(6)
-冒険者ギルド
-これはキミの、ギルド卒業試験とで\r\nもいうべき依頼だ。鍛え上げた肉体\r\nで立ち向かえ！恐れることはない！\r\n遺跡第二層の奥にて、砂に潜みし大\r\n蛇がキミを待っている！
-遂に、遂にここまで来たようだな。\r\n次の依頼こそがキミが受けることの\r\n出来る最後の依頼となる。\r\nここでやめてもいい。ただもしキミ\r\nが最後の依頼を受けるのであれば、\r\n……死ぬなよ。\r\n私から言えるのはこれだけだ。
-最後の挑戦状
-冒険者ギルド
-キミの実力はこれまでの実績により\r\n十分過ぎるほどに光り輝いている。\r\nおそらくこの依頼が、ギルドで請け\r\n負う事の出来る最後となるだろう。\r\n心してかかるがよい。そして、その\r\n名を世界に轟かすのだ！
-見事だ。もはやこの冒険者ギルドは\r\n主にとって窮屈なものであろう。\r\n今後は、これまで積み重ねた実績を\r\n生かし、世界に羽ばたいてゆけ！\r\n天高く舞ったその羽が千切れぬ事を\r\n遠く小さな村より祈っている……
-
+The Cry of a New Beast
+Survey Team Captain　Rasvel
+There's a three-headed beast\r\nskulking around the first layer\r\nof the ruins, but a different\r\nbreed than the one you defeated\r\nbefore. We've had reports that\r\nit's extremely ferocious...
+It looks like you managed to\r\ndefeat that new breed!\r\nAccording to the experts, it\r\nwas some sort of mutation,\r\ncaused by the influence of\r\nthe Magicite... We don't fully\r\nunderstand it yet, but it feels\r\nlike we're one step closer to\r\nunravelling this mystery.
+New Snake's Onslaught
+Survey Team Chief　Blanc
+Have you heard the rumour about\r\nthe giant sand snake said to be\r\nlike Jormungandr, but with\r\ndifferent colours? They say a\r\nhunter was the one to spot it,\r\nbut the truth remains unclear.
+So rumour was true. And not\r\nonly that, but it seems you\r\nmanaged to defeat it! These\r\ndiscoveries are significant,\r\nbut so is your ability to\r\nreturn alive with them!
+Fast Four-Legged Beast
+Mid-Ranked Hunter　Nill
+I heard that you unlocked the\r\ndoor and defeated the four-\r\nlegged beast lurking near the\r\nsecond layer so I thought I\r\nmight go and hunt for treasure,\r\nbut the beast appeared again!
+Awesome job! Time to explore!\r\n...Now that I think about it,\r\nyou've probably already found\r\nall the treasure around there,\r\nhaven't you? ...No, there could\r\nstill be some left. Alright!\r\nHere we go, attempt no. 2!
+Supersonic Red Shadow
+Mid-Ranked Hunter　Nill
+I managed to get deep into the\r\nsecond layer, but this time a\r\nbeast with fur a colour I've\r\nnever seen before appeared!\r\nThis isn't a request, but a\r\nwarning. Avoid the area...!
+I couldn't give up on the idea\r\nthat the red beast was hiding\r\ntreasure, so I was secretly\r\nwatching him. Then you showed\r\nup and pulled off such a feat.\r\nSeeing that in person...\r\nI decided to retire.
+Money Solves Everything (3)
+Treasure Hunter　Rudd
+Me again. It's not even worth\r\ntrying to hold up appearances\r\nanymore... Asking someone like\r\nyou is my only shot! Show me a\r\nfull map of the ruins!\r\nPleasssssseeeeeeeseeeeeeeee!!!
+It hurts when I think of how\r\ndisappointed you must have been...\r\nBut! With this complete map, I\r\nshould finally be able to reach\r\nthe deepest parts of the ruins!!\r\nYou really did come through for\r\nme. I will miss our letters...
+Collection Mania
+Multimillionaire　Rossmann
+In my mansion, I have a collection\r\nof treasures from all over the\r\nworld. I like collecting things,\r\nbut just seeing them is also\r\ninteresting. May I see what\r\nyou've been able to uncover?
+Hm... Incredible! I'm sure\r\nthese items gave you their\r\nfair share of trouble to\r\nlocate, nay? ...I don't\r\nsuppose you'd let me buy\r\nthem from you? No? Well,\r\nit was worth a shot(!)
+Glittering Wings
+Cowardly Hunter　Rakhael
+I went to the room where you\r\ndefeated the revived green\r\ndragon, on the lookout for\r\ntreasure. But... there was\r\nsomething down there! I ran\r\naway as fast as I could...
+Well? There was something\r\nlurking down there, right?\r\nhere's no way I could ever\r\nhave dealt with such a monster.\r\n...Still, I'm the one who\r\ntaught you about the white\r\ndragon in that room, yeah?\r\nHehe, how about that then?
+The White Wings Return
+Cowardly Hunter　Rakhael
+I thought it'd be fine this\r\ntime, so I went to that room\r\nagain. You know, the one where\r\nthe white dragon appeared.\r\nBut it had revived again,\r\nand it's even bigger now!!
+Whew～ I owe you one, pal! I'll\r\nbe sure to tell my future kids\r\nthe tale of the man who wasn't\r\nafraid of dragons! ...Eh? I\r\nshouldn't bother? Well, I'm\r\nnot fussed as long as I can\r\nget my hands on some treasure.
+Third Time's The Charm
+Cowardly Hunter　Rakhael
+Oi oi oi! They say that what\r\nhappens twice will happen thrice,\r\nbut once again, my hairs are\r\nstanding on end...! That white\r\ndragon keeps on reappearing...\r\nIt's just too powerful now...
+What?! You're pulling my leg!\r\nThat dragon isn't something\r\nHumans could hope to match, but\r\nyou dealt with it so easily...\r\nYou really are the man I thought\r\nyou were! Now I can search for\r\ntreasure with peace of mind!
+Crawling From The Darkness
+Worried Archaeologist　Renus
+I was investigating the room\r\nin the third layer where you\r\npreviously defeated the crimson\r\ndragon, when a black dragon the\r\nlikes of which have never been\r\nseen before suddenly attacked!
+See? It really does exist! But,\r\njeez... It would have been enough\r\nto just go and take a look, but\r\nyou defeated the damn thing...\r\nYou really are strong. Well, now\r\nI can get back to doing my\r\nresearch in that room! Cheers!
+Chased By The Black Dragon
+Worried Archaeologist　Renus
+Liar! I heard that you defeated\r\nthe jet-black dragon who appeared\r\nin the third layer, so I went\r\nback to that room, but... You\r\ndidn't defeat him! I barely made\r\nit out of there alive...  Why don't\r\nyou go and see for yourself?
+See? It was there, wasn't it??\r\n...But you really did defeat it\r\nlast time, didn't you? Which\r\nmeans, it's true that they\r\ncan be revived... Well, no\r\nmatter. I'll try heading back\r\nthere so I can continue my work!
+Dark Feathers Dancing
+Worried Archaeologist　Renus
+Argh! It was there again, after\r\nall. This time I entered the\r\nroom with caution, so I managed\r\nto flee the second I spotted it,\r\nbut I could tell that it was\r\nstronger than before.
+As soon as I heard that you'd\r\nsubdued the jet black dragon,\r\nI headed down there. But this\r\ntime, I didn't see hide nor hair\r\nof it. ...I wonder if there's a\r\nlimit to the number of times\r\nsomething can be resurrected...?
+The Guild’s Challenge (5)
+Adventurer's Guild
+This is your test to graduate\r\nfrom the guild. Put your\r\ntraining into practise! Don't\r\nbe afraid! In the first layer\r\nof the ruins, the resurrected\r\nbeast of three heads awaits you!
+The test is not over yet. Your\r\ncapability as a hunter will be\r\ndetermined by whether or not\r\nyou can clear the next request.\r\nSeek to climb even higher!\r\nThere's always a way ahead!
+The Guild’s Challenge (6)
+Adventurer's Guild
+This is your test to graduate\r\nfrom the guild.  Put your\r\ntraining into practise! Don't\r\nbe afraid! In the second layer\r\nof the ruins, a large sand-\r\ndwelling snake awaits you!
+It looks like you've finally\r\nmade it here. The next request\r\nis the last one you can receive.\r\nIt's fine to stop here. But if\r\nyou do choose to take on the\r\nfinal quest... don't die. That's\r\nall I can say.
+One Final Challenge
+Adventurer's Guild
+You have proved your skills\r\nmore than enough through your\r\npast achievements. This request\r\nis probably the last thing the\r\nguild can set you. Proceed with\r\ncaution, and go down in history!
+Incredible. You need not be\r\nconstrained to this Adventurer's\r\nGuild any longer. Take advantage\r\nof the experience you have gained\r\nso far explore the world! I will\r\nbe wishing for your success from\r\nthis small, distant village...
