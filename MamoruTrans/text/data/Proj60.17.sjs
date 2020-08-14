@@ -14,7 +14,7 @@ Tactical Manual
 A book about weapons.\r\nIt's important to know\r\nthe basics.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
 　　　 【Tactical Manual】\r\n\r\n<C03>S㊧<C04>　Power: Low　　Weight: Light\r\nSpeciality: Consecutive attacks\r\n\r\n<C03>M㊨<C04>　Power: Mid　  Weight: Mid\r\nSpeciality: Well-balanced\r\n\r\n<C03>B㈱<C04>　Power: High　 Weight: Heavy\r\nSpeciality: Strong charged attack
 D Rank Medal
-A dirty medal which proves\r\nyou've fulfilled all the\r\nD rank quests at the\r\nAdventurer's Guild.\r\n\r\n...It's slightly pungent.
+A dirty medal which proves\r\nyou've fulfilled all the\r\nD rank quests at the\r\nAdventurer's Guild.\r\n\r\n@It's slightly pungent.
 あ
 C Rank Medal
 A plain medal which proves\r\nyou've fulfilled all the\r\nC rank quests at the\r\nAdventurer's Guild.\r\n\r\nIt's pretty normal-looking.
@@ -57,31 +57,31 @@ A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 2nd page torn\r\
  Despite being protected by a\r\n mysterious force beyond our\r\n understanding, there are still\r\n some parts of the interior\r\n collapsed. There have been times\r\n when the ground I've walked on\r\n has casually collapsed. However,\r\n sometimes falling down has allowed\r\n me to easily access lower floors.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 3
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 3rd page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-It seems that a stone with the\r\npower of nature known as <C03>Magicite<C04>\r\nis closely linked to Edenbar's\r\nprosperity. For example, <C03>Magicite<C04>\r\nimbued with the power of fire can\r\nproduce a fire without any tools.\r\nIt appears <C03>Magicite<C04> is also active\r\nin these ruins... There's much\r\nmore we need to investigate.\r\n　　　　　Adventurer　Rush Wyman
+It seems that a stone with the\r\npower of nature known as <C03>Magicite<C04>\r\nis closely linked to Edenbar's\r\nprosperity. For example, <C03>Magicite<C04>\r\nimbued with the power of fire can\r\nproduce a fire without any tools.\r\nIt appears <C03>Magicite<C04> is also active\r\nin these ruins@ There's much\r\nmore we need to investigate.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 4
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 4th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
- I came upon a heavy locked door,\r\n though it lacked a keyhole.\r\n Apparently, it too utilises the\r\n power of <C03>Magicite<C04>. Near the door\r\n was a stone I believe to be the\r\n <C03>Magicite<C04>, sat on a pedestal\r\n emitting a faint light. It seems\r\n that interrupting it, will open\r\n the door. Hm... Fascinating.\r\n　　　　　Adventurer　Rush Wyman
+ I came upon a heavy locked door,\r\n though it lacked a keyhole.\r\n Apparently, it too utilises the\r\n power of <C03>Magicite<C04>. Near the door\r\n was a stone I believe to be the\r\n <C03>Magicite<C04>, sat on a pedestal\r\n emitting a faint light. It seems\r\n that interrupting it, will open\r\n the door. Hm@ Fascinating.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 5
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 5th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-I was surprised by the <C03>Magicite<C04> that\r\nhas continued to function even\r\nafter 1000 years but the existence\r\nof the Guardians, protectors of\r\nthe ruins, was even more shocking.\r\nI couldn't even get close to those\r\nseemingly legendary creatures.\r\nWhat is it that they have been\r\nprotecting all this time...?\r\n　　　　　Adventurer　Rush Wyman
+I was surprised by the <C03>Magicite<C04> that\r\nhas continued to function even\r\nafter 1000 years but the existence\r\nof the Guardians, protectors of\r\nthe ruins, was even more shocking.\r\nI couldn't even get close to those\r\nseemingly legendary creatures.\r\nWhat is it that they have been\r\nprotecting all this time@?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 6
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 6th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-In these ruins are creatures and\r\nmonsters that I have never even\r\nseen before.\r\n...Is this also a result of the\r\nancient civilization's power?\r\nWhat surprised me the most was a\r\nblack beast with three necks. If I\r\nhadn't hidden when he jumped down,\r\nI wouldn't be here right now...\r\n　　　　　Adventurer　Rush Wyman
+In these ruins are creatures and\r\nmonsters that I have never even\r\nseen before.\r\n@Is this also a result of the\r\nancient civilization's power?\r\nWhat surprised me the most was a\r\nblack beast with three necks. If I\r\nhadn't hidden when he jumped down,\r\nI wouldn't be here right now@\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 7
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 7th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-The second layer of the ruins is\r\nburied in the sand, and it's in a\r\npretty bad state.\r\nIf you accidentally fall into the\r\nsand, it's a lot of trouble to get\r\nout... Your <C03>movement and jumping\r\npower are halved<C04>, to say the\r\nleast... It would be wise to try\r\nto avoid it as much as possible.\r\n　　　　　Adventurer　Rush Wyman
+The second layer of the ruins is\r\nburied in the sand, and it's in a\r\npretty bad state.\r\nIf you accidentally fall into the\r\nsand, it's a lot of trouble to get\r\nout@ Your <C03>movement and jumping\r\npower are halved<C04>, to say the\r\nleast@ It would be wise to try\r\nto avoid it as much as possible.\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 8
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 8th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
- In the second layer buried in\r\n sand, I found indecipherable\r\n flagstones. There are four as\r\n far as I can tell. Each stone\r\n has four ● engraved on them.\r\n And, for each stone, there is\r\n one ● marked in a different\r\n colour. ...Could they be hints\r\n on how to progress?\r\n　　　　　Adventurer　Rush Wyman
+ In the second layer buried in\r\n sand, I found indecipherable\r\n flagstones. There are four as\r\n far as I can tell. Each stone\r\n has four ● engraved on them.\r\n And, for each stone, there is\r\n one ● marked in a different\r\n colour. @Could they be hints\r\n on how to progress?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 9
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 9th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-The second layer of the ruins has\r\nbeen eroded by coarse sand.\r\nThere's a tendency for creatures\r\nknown as <C03>sand snakes<C04> to live in\r\nsuch sands. If those creatures\r\nwere affected by the <C03>Magicite<C04>...\r\nIt's no wonder that such a large\r\nsand snake came to be.\r\n\r\n　　　　　Adventurer　Rush Wyman
+The second layer of the ruins has\r\nbeen eroded by coarse sand.\r\nThere's a tendency for creatures\r\nknown as <C03>sand snakes<C04> to live in\r\nsuch sands. If those creatures\r\nwere affected by the <C03>Magicite<C04>@\r\nIt's no wonder that such a large\r\nsand snake came to be.\r\n\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 10
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 10th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
- There is still much that remains\r\n unexplored in this site, such as\r\n locked doors and places that<C03>\r\n cannot be reached by ordinary\r\n jumps<C04>. Doors can be opened by\r\n finding the key or <C03>interrupting\r\n the Magicite<C04>, but... if only I\r\n could jump higher, I'd be able\r\n to discover something new...!\r\n　　　　　Adventurer　Rush Wyman
+ There is still much that remains\r\n unexplored in this site, such as\r\n locked doors and places that<C03>\r\n cannot be reached by ordinary\r\n jumps<C04>. Doors can be opened by\r\n finding the key or <C03>interrupting\r\n the Magicite<C04>, but@ if only I\r\n could jump higher, I'd be able\r\n to discover something new@!\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 11
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 11th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-The third layer is dyed entirely red.\r\nI believe it to be closely linked to\r\na radiant stone called an Aquria\r\nCrystal... It is a mystery to me as\r\nto how this stone, which emits a\r\nred light when reflecting other\r\nlight sources could be shining so\r\nbrightly on its own. Perhaps it is\r\nanother effect of the <C03>Magicite<C04>...?\r\n　　　　　Adventurer　Rush Wyman
+The third layer is dyed entirely red.\r\nI believe it to be closely linked to\r\na radiant stone called an Aquria\r\nCrystal@ It is a mystery to me as\r\nto how this stone, which emits a\r\nred light when reflecting other\r\nlight sources could be shining so\r\nbrightly on its own. Perhaps it is\r\nanother effect of the <C03>Magicite<C04>@?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 12
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 12th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
 As I dive deeper into the ruins, I\r\nget the feeling that the monsters\r\nare becoming more ferocious. This\r\nleads me to believe that a large\r\ndeposit of <C03>Magicite<C04> lies at the\r\ndeepest point. In other words, the\r\ndeeper you go, the more likely you\r\nare to become affected, and the\r\nmore ferocious the monsters are.\r\n　　　　　Adventurer　Rush Wyman
@@ -93,7 +93,7 @@ A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 14th page torn\r
 The collapse of civilization 1,000\r\nyears ago is said to be a result of\r\nthe ancient race's over-reliance on\r\n<C03>Magicite<C04>, but behind it was a story\r\nburied by history. That is, the war\r\nbetween <C03>Reville<C04>, creators of the\r\n<C03>Magicite<C04>, and humankind-<C03>the Magicite\r\nWar<C04>. What caused the conflict\r\nbetween these two parties?\r\n　　　　　Adventurer　Rush Wyman
 Adventurer's Record 15
 A journal written by the\r\ngreat adventurer Rush\r\nWyman. The 15th page torn\r\nfrom the book.\r\n（<C03>Press the A button to\r\ncheck the content.<C04>）
-...I couldn't believe my eyes. That\r\nhuge, monstrous being should not\r\nexist in this world...! Could it be\r\na weapon used in <C03>the Magicite War<C04>?\r\nIt might have been a mistake to\r\ncarelessly open the door to the\r\nruins. If we make even the slightest\r\nerror, the collapse of all society\r\nmay well become reality once again.\r\n　　　　　Adventurer　Rush Wyman
+@I couldn't believe my eyes. That\r\nhuge, monstrous being should not\r\nexist in this world@! Could it be\r\na weapon used in <C03>the Magicite War<C04>?\r\nIt might have been a mistake to\r\ncarelessly open the door to the\r\nruins. If we make even the slightest\r\nerror, the collapse of all society\r\nmay well become reality once again.\r\n　　　　　Adventurer　Rush Wyman
 Rotation 【Escape】
 Learn: <C03>Evasive Manoeuvres<C04>\r\nType : Permanent Skill\r\nNote : Once learnt, the\r\n　　　 effects will appear\r\n　　　 automatically.
 あ

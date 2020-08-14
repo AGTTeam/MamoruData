@@ -55,7 +55,7 @@ Green Ash Leaves
 Ash Bark
 <C03>Description:<C04>\r\nBark from an Ash Tree, said to\r\nbe sacred. Unusually tough,\r\nit can't be stripped directly.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Ash Roots
-<C03>Description:<C04>\r\nThick roots from an Ash Tree,\r\nsaid to be sacred. Rumoured\r\nto banish wrinkles...\r\n<C03>Main Collection Site:<C04>\r\nUnknown
+<C03>Description:<C04>\r\nThick roots from an Ash Tree,\r\nsaid to be sacred. Rumoured\r\nto banish wrinkles@\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Berries
 <C03>Description:<C04>\r\nBerries from a tree. Both\r\nedible, and used to add a\r\nfinishing touch to products.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Haku Seed
@@ -127,7 +127,7 @@ Ribs on the Bone
 Thigh on the Bone
 <C03>Description:<C04>\r\nThe bone gives a sense of\r\nincreased volume. Makes you\r\nwant to sink your teeth in.\r\n<C03>Dropped By:<C04>\r\nBehemoth
 Rotten Meat
-<C03>Description:<C04>\r\nMeat with an awful stench.\r\nEating some will likely\r\nupset your stomach...\r\n<C03>Dropped By:<C04>\r\nLiving Dead, Walking Dead
+<C03>Description:<C04>\r\nMeat with an awful stench.\r\nEating some will likely\r\nupset your stomach@\r\n<C03>Dropped By:<C04>\r\nLiving Dead, Walking Dead
 Sap
 <C03>Description:<C04>\r\nSweet and rich sap from a\r\ntree. Can be used with\r\nherbs to produce medicine.\r\n<C03>Main Collection Site:<C04>\r\nTrees
 Golden Sap
@@ -137,13 +137,13 @@ Flower Nectar
 Yellow Flower Nectar
 <C03>Description:<C04>\r\nNectar that can only be\r\nobtained from certain\r\nflowers. Rich and sweet.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Grass
 Strange Fluid
-<C03>Description:<C04>\r\nA thick green liquid.\r\nDrinking it undiluted may\r\nupset your stomach...\r\n<C03>Dropped By:<C04>\r\nGreen Gel
+<C03>Description:<C04>\r\nA thick green liquid.\r\nDrinking it undiluted may\r\nupset your stomach@\r\n<C03>Dropped By:<C04>\r\nGreen Gel
 Mysterious Fluid
-<C03>Description:<C04>\r\nA thick yellow liquid.\r\nDrinking it undiluted may\r\nupset your stomach...\r\n<C03>Dropped By:<C04>\r\nOdd Jelly
+<C03>Description:<C04>\r\nA thick yellow liquid.\r\nDrinking it undiluted may\r\nupset your stomach@\r\n<C03>Dropped By:<C04>\r\nOdd Jelly
 Pretty Fluid
-<C03>Description:<C04>\r\nA thick red liquid.\r\nDrinking it undiluted may\r\nupset your stomach...\r\n<C03>Dropped By:<C04>\r\nFlame Flan
+<C03>Description:<C04>\r\nA thick red liquid.\r\nDrinking it undiluted may\r\nupset your stomach@\r\n<C03>Dropped By:<C04>\r\nFlame Flan
 Odoriferous Liquid
-<C03>Description:<C04>\r\nHow or when it was made is\r\nunclear. The only thing\r\nfor sure is... it reeks.\r\n<C03>Dropped By:<C04>\r\nAny Zombie, Goblin
+<C03>Description:<C04>\r\nHow or when it was made is\r\nunclear. The only thing\r\nfor sure is@ it reeks.\r\n<C03>Dropped By:<C04>\r\nAny Zombie, Goblin
 Odourless Liquid
 <C03>Description:<C04>\r\nClear liquid. A fast-acting\r\nmoisturiser that leaves skin\r\nsilky. Popular with women.\r\n<C03>Dropped By:<C04>\r\nGoblin, Hoplin
 Gel-like Lump
@@ -153,7 +153,7 @@ Jelly-like Lump
 Flan-like Lump
 <C03>Description:<C04>\r\nA squishy pudding-like mass.\r\nWobbly and soft, it melts in\r\nthe mouth.\r\n<C03>Dropped By:<C04>\r\nGiant Flame Flan
 Rotten Bone
-<C03>Description:<C04>\r\nA small bone that has been\r\ndecomposing for many years.\r\nSeems pretty fragile...\r\n<C03>Dropped By:<C04>\r\nLiving Dead
+<C03>Description:<C04>\r\nA small bone that has been\r\ndecomposing for many years.\r\nSeems pretty fragile@\r\n<C03>Dropped By:<C04>\r\nLiving Dead
 Large Rotten Bone
 <C03>Description:<C04>\r\nA large bone that has worn\r\nout over time. Pieces fall\r\noff by merely handling it.\r\n<C03>Dropped By:<C04>\r\nMenacing Dead
 Small White Bone
@@ -261,7 +261,7 @@ Philosopher's Stone
 Mysterious Ore
 <C03>Description:<C04>\r\nA complete enigma.\r\nThere's no telling what\r\nmaterials it contains.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Mysterious Slate
-<C03>Description:<C04>\r\nAn indecipherable slate.\r\nPerhaps some sort of\r\nencyclopedia...?\r\n<C03>Mainly Found In:<C04>\r\nUnknown
+<C03>Description:<C04>\r\nAn indecipherable slate.\r\nPerhaps some sort of\r\nencyclopedia@?\r\n<C03>Mainly Found In:<C04>\r\nUnknown
 Ancient Slate
 <C03>Description:<C04>\r\nA stone plate covered in\r\nancient writing. Describes\r\nhow to use Magicite.\r\n<C03>Mainly Found In:<C04>\r\nUnknown
 Long Thin Fangs
@@ -337,7 +337,7 @@ Mythical Hammer
 Syringe
 <C03>Description:<C04>\r\nA brand new syringe.\r\nIt's empty inside, so\r\ncan't be used as is.\r\n(Processed goods)
 Creepy Mask
-<C03>Description:<C04>\r\nA slightly worn mask. Has a\r\ncreepy face, as though it\r\nwill curse the wearer...\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
+<C03>Description:<C04>\r\nA slightly worn mask. Has a\r\ncreepy face, as though it\r\nwill curse the wearer@\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
 Armour Straps
 <C03>Description:<C04>\r\nParts for securing armour.\r\nSeems like it could have a\r\nnumber of other uses.\r\n<C03>Dropped By:<C04>\r\nSilver Knight
 Piece Of Flint

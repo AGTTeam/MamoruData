@@ -6,7 +6,7 @@ Fenrir
 Hrodvitnir
 Shem Ha-Meforash
 ドゥム・ハ・ソラリス Dum Ha-Solaris?
-ディークヴルム
+Daekwurm
 Gold Guivre
 Crimson Burn
 Lustre Nidhoggr

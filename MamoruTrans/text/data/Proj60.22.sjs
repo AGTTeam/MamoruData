@@ -37,4 +37,4 @@ A weapon that can freely\r\nchange size.\r\nWhile it has overwhelming\r\nDestruc
 Brionac
 Often thought of as a spear\r\nfor the trail of light it\r\nleaves after being thrown.\r\nOne of the Four Treasures\r\nof the gods.
 Gungnir
-A legendary weapon said\r\nto always return to its\r\nowner after piercing an\r\nenemy. According to the\r\nstories, there's nothing\r\nit can't overcome...
+A legendary weapon said\r\nto always return to its\r\nowner after piercing an\r\nenemy. According to the\r\nstories, there's nothing\r\nit can't overcome@

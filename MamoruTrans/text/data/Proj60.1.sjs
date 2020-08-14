@@ -117,7 +117,7 @@ True to its name meaning Åghigh\r\nand neatÅh, it's a sword said\r\nto burn the 
 Holy Sword Durendal
 A double-edged one-handed\r\nsword with a golden handle.\r\nIt is said that it will never\r\nbreak and can even slice\r\nthrough marble.
 Magic Sword Tyrfing
-A magic sword said to lead\r\nits owner to ruin. Unusually\r\nheavy for its size, despite\r\nbeing a sword with its own\r\ntemperament, the benefits of\r\nmastering it are immeasurable...
+A magic sword said to lead\r\nits owner to ruin. Unusually\r\nheavy for its size, despite\r\nbeing a sword with its own\r\ntemperament, the benefits of\r\nmastering it are immeasurable@
 Long Sword
 A long, double-edged sword.\r\nEasy to handle even with\r\none hand because of its\r\nlong reach and light\r\nweight, it is a perfect\r\nsword for beginners.
 Bastard Sword
@@ -145,7 +145,7 @@ A thick sword, designed not\r\nto cut through other swords,\r\nbut to wrench the
 Battle Sword
 A large sword that combines\r\nthe power of a large axe and\r\nease of handling to form a\r\nversatile weapon. It doesn't\r\nmake for many openings, and\r\nallows you to react quickly.
 Cat's Finest
-A sword, or rather, stick,\r\nbrandishing squishy toe\r\nbeans. It seems anyone who\r\nis struck with it is met\r\nwith intense pain...?
+A sword, or rather, stick,\r\nbrandishing squishy toe\r\nbeans. It seems anyone who\r\nis struck with it is met\r\nwith intense pain@?
 Little Crow
 A thin sword left by a\r\nmysterious giant bird.\r\nAlthough the blade is curved,\r\nit has a double edge which\r\nruns from the tip down to\r\nthe centre of the sword.
 Black Sword
