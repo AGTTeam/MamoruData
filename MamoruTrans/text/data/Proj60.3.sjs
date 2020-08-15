@@ -126,7 +126,7 @@ Eingana
 Fenrir
 Hrodvitnir
 Ancient Giant
-Wels
+Veres
 Daekwurm
 Gold Guivre
 Crimson Burn

@@ -19,7 +19,7 @@ Calms the mind and soothes\r\npain within the body.
 Cool Jelly
 A cold jelly used to suppress\r\na rising fever. Cools the\r\nbody down from the inside\r\nout when eaten. Be sure\r\nto follow the directions\r\nfor use carefully.
 Cool Flan
-A jelly-like medicine that cools\r\nexcess heat accumulated in\r\n thebody and relieves pain.
+A jelly-like medicine that cools\r\nexcess heat accumulated in\r\nthe body and relieves pain.
 Elixsar
 A legendary nostrum said\r\nto cure all ails. It has\r\na startlingly bitter taste\r\nthat sends a shiver through\r\nthe entire body. Side\r\neffects include fainting.
 Elixir

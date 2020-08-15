@@ -13,7 +13,7 @@ Archduke Kucellbull
 Ronixis
 Veres
 Data Select
-Abandon the quest? The contract\n   money wonÅft be returned.
+Abandon the quest? The contract\n   money won't be returned.
  Å@<C02>%s<C01> learnt!
 Flagstone
 Quest has been abandoned.
@@ -31,8 +31,8 @@ Talk
 %s\nPrice: Åê%6d
 %s %dx created!
 Blacksmith
-Finish looking through the\n  quest clear detailsÅH
-CanÅft be enhanced.
+Finish looking through the\n  quest clear details?
+Can't be enhanced.
 (New Game)
 Go to the ruins?
 Guild
@@ -141,7 +141,7 @@ Don't equip
 Å@File 3
 Data could not be read.\nPlease turn off the power &\nre-insert the game card.
 Data could not be written.\nPlese turn off the power &\nre-insert the game card.
-Unknown error
+An unknown error has occurred.
 Data is corrupted.\nIt will be erased.
 Deleting corrupted data@
 Corrupted data deleted.
@@ -342,10 +342,10 @@ Paralysis immunity\n(Long span)
 Burn immunity\n(Long span)
 Stun immunity\n(Long span)
 Full status ailment immunity\n(Long span)
-Small damage to visible enemies
+Small damage to visible\nenemies
 Return to the village
 Damage immunity
-Heavy damage to visible enemies
+Heavy damage to visible\nenemies
 Revival on death
 ã∂êÌémÇ÷ÇÃïœñe
 None
@@ -442,14 +442,14 @@ Go home.\n\n\n@You must know it's for the best, too.\n\n\n
 ÅÑLeaving it at that, the Bronze Knight walked\nÅ@away.\n\n
 @Hm?\n\n\n
 (Wah! @It's a human, wiggle.)\n\n\n(I'm never trusting a human again, wiggle!\n I'll just ignore them!)\n\n
-ThatÅfs odd@ This Green Gel isn't attacking.\n\n\n
+That's odd@ This Green Gel isn't attacking.\n\n\n
 (Leave me alone, wiggle!)\n\n\n(You're wasting your time trying to talk to me,\n wiggle!)\n\n
 ÅÑNo matter what he tried, the Green Gel didn't\nÅ@react.\n\nÅÑIt didn't seem like that was about to change\nÅ@any time soon, so Ren left.\n\n
 @@\n\n\n
 Oh@? To think there'd be a skeleton here@\nI'm amazed it's managed to stay upright@\n\n
 *Creak@*\n\n\n
 @Hm? It seemed to move just then@\n\n\n@Must have been my imagination.\n\n\n
-ÅÑIt didnÅft seem like anything was about to happen,\nÅ@so Ren continued on.\n\n
+ÅÑIt didn't seem like anything was about to happen,\nÅ@so Ren continued on.\n\n
 @@\n\n\n
 Strange@ There's a fire here.\n\n\nDid someone abandon their bonfire@?\n\n\n
 ÅÑHaving found a blazing fire, Ren slowly drew\nÅ@closer to warm his cold body.\n\n
@@ -476,95 +476,95 @@ The knight tryouts@?\n\n\n
 ÉMÉÖÉHÉHÉHÉHÉHÉH ÅI ÅI\n\n\n
 @A human?\nAye yai yai@ They can make it this far in@\n\n
 @A goblin?\n\n\n
-Shut your face! Hurry up and shove off already!\nIf you donÅft, IÅfll have to use my bow and arrow@\n\n
+Shut your face! Hurry up and shove off already!\nIf you don't, I'll have to use my bow and arrow@\n\n
 @Come again?\n\n\n
 Do you want to become Swiss cheese!?\n\n\n
-O-oi! DonÅft wave that thing about!\n\n\n
+O-oi! Don't wave that thing about!\n\n\n
 ÅÑRen decided to leave the small monster who\nÅ@wasn't giving him a chance to speak and put\nÅ@that place behind him.\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Timing<C04>Åf.\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Timing<C04>Åe.\n\n
 <C03>Timing<C04>?\n\n\n
 ÅgYou will be able to keep up your opponents\nwithout missing the mark@Åh, or so it says.\n\n
-In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
+In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>forsee<C04>Åf the\nfuture.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>forsee<C04>Åe the\nfuture.\n
 <C03> Forsight<C04>?\n\n\n
 ÅgThe foreseeing ability enables you to predict\nthe enemies movements, before they happenÅh,\nor so it says.\n
-In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
+In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Eyesight<C04>Åf.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Eyesight<C04>Åe.\n\n
 <C03>Divine Eyesight<C04>?\n\n\n
 ÅgObtain the power of the gods and witness every\nmove made by your opponent", or so it says.\n\n
-In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
+In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick Thinking<C04>Åf.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick Thinking<C04>Åe.\n\n
 <C03>Quick Thinking<C04>?\n\n\n
 ÅgNo matter the situation, you will be able to\nthink on your feet and move accordingly", or\nso it says.\n
-In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Reflexes<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Reflexes<C04>Åe.\n\n
 <C03>Reflexes<C04>?\n\n\n
 ÅgYou can house reflexes far keener than most\nwithin your body", or so it says.\n\n
-In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>A Gust of Wind<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>A Gust of Wind<C04>Åe.\n\n
 <C03>A Gust of Wind<C04>?\n\n\n
 ÅgObtain a body so light that you can feel the\nmight of the windÅh, or so it says.\n\n
-In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Horse Power<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Horse Power<C04>Åe.\n\n
 <C03>Horse Power<C04>?\n\n\n
 ÅgYou will be able to run at speeds on par with\nthe legendary eight-legged divine horse", or so\nit says.\n
-In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick As A Flash<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick As A Flash<C04>Åe.\n\n
 <C03>Quick As A Flash<C04>?\n\n\n
 ÅgYou can run faster than anyone else by hosting\ndivine power in your legs", or so it says.\n\n
-In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Poison<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Poison<C04>Åe.\n\n
 <C03>Resist Poison<C04>?\n\n\n
 ÅgYour body will be able to produce antitoxins\nthat half the effects of being poisonedÅh, or\nso it says.\n
-So it seems that assigning this skill will reduce\nthe duration youÅfre poisoned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist\nParalysis<C04>Åf.\n
+So it seems that assigning this skill will reduce\nthe duration you're poisoned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist\nParalysis<C04>Åe.\n
 <C03>Resist Paralysis<C04>?\n\n\n
 ÅgYour body will be able to resist the effect of a\nparalyzing sting by up to a half", or so it says.\n\n
-So it seems that assigning this skill will reduce\nthe duration youÅfll be paralyzed.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Stun<C04>Åf.\n
+So it seems that assigning this skill will reduce\nthe duration you'll be paralyzed.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Stun<C04>Åe.\n
 <C03>Resist Stun<C04>?\n\n\n
 ÅgYour body will be able to resist the effect of\nbeing stunned by up to a half", or so it says.\n\n
-So it seems that assigning this skill will reduce\nthe duration youÅfll be stunned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Determination<C04>Åf.\n\n
+So it seems that assigning this skill will reduce\nthe duration you'll be stunned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Determination<C04>Åe.\n\n
 <C03>Determination<C04>?\n\n\n
 ÅgIf you face your adventures with determination,\nyou can easily shrug off feelings of fearÅh, or so\nit says.\n
-So it seems that assigning this skill will reduce\nthe duration youÅfre frightened.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Burn<C04>Åf.\n\n
+So it seems that assigning this skill will reduce\nthe duration you're frightened.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Burn<C04>Åe.\n\n
 <C03>Resist Burn<C04>?\n\n\n
 ÅgBy curing the skin, you can make it highly heat\nresistant and flame retardant", or so it says.\n\n
-So it seems that assigning this skill will reduce\nthe duration youÅfll be burned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Resistant Block<C04>Åf.\n\n
+So it seems that assigning this skill will reduce\nthe duration you'll be burned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Resistant Block<C04>Åe.\n\n
 <C03>Resistant<C04>@ <C03>Block<C04>?\n\n\n
 ÅgYou can enhance your resistance to all ailments",\nor so it says.\n\n
-So it seems that assigning this skill will reduce\nthe duration of all status ailments.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
+So it seems that assigning this skill will reduce\nthe duration of all status ailments.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 ÅÑLiruka Village was located to the south of the\nÅ@Kucellbull Dukedom.\n\nÅ@
 ÅÑIt was a beautiful village, lush with greenery,\nÅ@and a gentle sea breeze that occasionally\nÅ@swept over the lands.\n
 So this is Liruka Village?\n@Sure is rustic, alright.\n\n
@@ -577,172 +577,172 @@ It has character, don't you think?\nAlright, we should stop at the guild first.\
 âEÇæ\n
 ê^ÇÒíÜÇæ\n
 éÑÇÕÇ«Ç±Ç…Ç¢ÇÈÇ≈ÇµÇÂÇ§ÅH\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Warrior's Right Arm<C04>Åf.\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Warrior's Right Arm<C04>Åe.\n\n
 <C03>Warrior's Right Arm<C04>?\n\n\n
 ÅgYou can host the offensive power of a battle-\nscarred warrior within your body", or so it says.\n\n
-In other words, it's a skill that will increase the\n power of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Demon's Right Arm<C04>Åf.\n\n
+In other words, it's a skill that will increase the\n power of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Demon's Right Arm<C04>Åe.\n\n
 <C03>Demon's Right Arm<C04>?\n\n\n
 ÅgYour body will become host to an offensive power\nlike that of a demon", or so it says.\n\n
-In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Grasp<C04>Åf.\n\n
+In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Grasp<C04>Åe.\n\n
 <C03>Divine Grasp<C04>?\n\n\n
 ÅgYour attacks will become reminiscent of a War God\nwith the power to rend the earth", or so it says.\n\n
-In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Hunter's Left Hand<C04>Åf.\n\n
+In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Hunter's Left Hand<C04>Åe.\n\n
 The <C03>Hunter's Left Hand<C04>?\n\n\n
 ÅgLike the fist of a skilled hunter, you can deal a\npowerful blow to distant enemiesÅh, or so it says.\n\n
-In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Golden Left Hand<C04>Åf.\n\n
+In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Golden Left Hand<C04>Åe.\n\n
 The <C03>Golden Left Hand<C04>?\n\n\n
 ÅgKnives thrown with a glistening golden left hand\nwill demonstrate more power than ever before."\n\n
-In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Sniper<C04>Åf.\n\n
+In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Sniper<C04>Åe.\n\n
 <C03>Sniper<C04>?\n\n\n
 ÅgYou can become a supreme sniper whose prey\nnever manages to slip away", or so it says.\n\n
-In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Body Builder<C04>Åf.\n\n
+In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Body Builder<C04>Åe.\n\n
 <C03>Body Builder<C04>?\n\n\n
 ÅgYou will be able to enhance your body beyond\nits natural limits", or so it says.\n\n
-In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Metal Plate<C04>Åf.\n\n
+In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Metal Plate<C04>Åe.\n\n
 <C03>Metal Plate<C04>?\n\n\n
 ÅgBy obtaining a body as hard as metal, you will\nbe able to deflect impact", or so it says.\n\n
-In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why donÅft you try\nequipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Ultimate Endurance<C04>Åf.\n\n
+In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Ultimate Endurance<C04>Åe.\n\n
 <C03>Ultimate Endurance<C04>?\n\n\n
 ÅgInstead of searching for something beyond the\npain, you can obtain a body that can withstand\nany pain, no matter how severe", or so it says.\n
-In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\n@They make it sound like hoping pain will end is\na bad thing, but if something hurts, it hurts@\n\n@Maybe itÅfs saying you can endure more depending\non your frame of mind?\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Empty Mind<C04>Åf.\n\n
+In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\n@They make it sound like hoping pain will end is\na bad thing, but if something hurts, it hurts@\n\n@Maybe it's saying you can endure more depending\non your frame of mind?\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Empty Mind<C04>Åe.\n\n
 <C03>Empty Mind<C04>?\n\n\n
 ÅgBy reaching a point where your mind is clear of\nall thoughts, you will be able to read the airÅh,\nor so it says.\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\n@Sounds like you can become just like a wise old\nmonk.\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Student<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Student<C04>Åe.\n\n
 <C03>Forward Roll<C04>@ <C03>Student<C04>?\n\n\n
 Let's see@ It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
 Apparently, by having this skill assigned, you\ncan ward off enemy attacks whilst rolling.\n\nSo with this, you should be able to easily avoid\nenemy attacks that you used to have trouble\ndodging.\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Master<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Master<C04>Åe.\n\n
 <C03>Forward Roll<C04>@ <C03>Master<C04>?\n\n\n
 Let's see@ It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
 Apparently, by having this skill assigned, you'll be\nable to completely fend off enemy attacks whilst\ndoing a forward roll.\n@Seems to fit the name, then.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Poison Immunity<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Poison Immunity<C04>Åe.\n\n
 <C03>Poison Immunity<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify any\neffect", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being poisoned.\n\n@That's quite the handy skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Paralysis Immunity<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Paralysis Immunity<C04>Åe.\n\n
 <C03>Paralysis Immunity<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify any\neffect", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being paralysed.\n\n@That's quite the handy skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Steel Heart<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Steel Heart<C04>Åe.\n\n
 <C03>Steel Heart<C04>?\n\n\n
 ÅgYou can obtain a heart of steel that will never\nquiver, no matter the situation you fall into", or\nso it says.\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being stunned.\n\n@That's quite the handy skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Unbreakable Heart<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Unbreakable Heart<C04>Åe.\n\n
 <C03>Unbreakable Heart<C04>?\n\n\n
 ÅgYou can come to possess a heart nurtured by\novercoming panic countless times", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about fear.\n\n@That's quite the handy skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Burn Immunity<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Burn Immunity<C04>Åe.\n\n
 <C03>Burn Immunity<C04>?\n\n\n
 ÅgYou can build up immunity in your body that can\nwithstand even mighty hell fire", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being burned.\n\n@That's quite the handy skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Immune Block<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Immune Block<C04>Åe.\n\n
 <C03>Immune Block<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify\nall ailments", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about status ailments.\n\n@That is one handy skill.\nIt even seems a bit unfair@\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal áT<C04>Åf.\n\n
-<C03>Auto-Heal áT<C04>?\n\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <I><C04>Åe.\n\n
+<C03>Auto-Heal <I><C04>?\n\n\n
 ÅgAn ability to spontaneously recover that goes\nbeyond human understanding will emerge, allowing\nwounds to the body to be automatically healed.Åh\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
-If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal áU<C04>Åf.\n\n
-<C03>Auto-Heal áU<C04>?\n\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <II><C04>Åe.\n\n
+<C03>Auto-Heal <II><C04>?\n\n\n
 ÅgYou can expand your natural healing ability, and\nmake everyday cuts and bruises a thing of the\npastÅh, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
-If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal áV<C04>Åf.\n\n
-<C03>AutoÅ]Heal áV<C04>?\n\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <III><C04>Åe.\n\n
+<C03>AutoÅ]Heal <III><C04>?\n\n\n
 ÅgYou can house a miraculous healing ability within\nyour body, to tremendous effect", or so it says.\n\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
-If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Beggar's Obstinance<C04>Åf.\n\n
+If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Beggar's Obstinance<C04>Åe.\n\n
 <C03>Beggar's Obstinance<C04>?\n\n\n
 ÅgThrough the obstinacy of a beggar, you can gain\na small amount of money on a regular basisÅh, or\nso it says.\n
 Apparently, by having this skill assigned, your\nmoney will increase automatically.\n\n@What a lavish skill.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>MillionaireÅfs Margin<C04>Åf.\n\n
-<C03>MillionaireÅfs Margin<C04>?\n\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Millionaire's Margin<C04>Åe.\n\n
+<C03>Millionaire's Margin<C04>?\n\n\n
 ÅgWith the flexibility of a multimillionaire, you can\ngain a money on a regular basis", or so it says.\n\n
 Apparently, by having this skill assigned, your\nmoney will increase automatically.\n\n@My, if that isn't the height of luxury.\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Awakening Power<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Awakening Power<C04>Åe.\n\n
 <C03>Awakening Power<C04>?\n\n\n
 ÅgYou can draw out power beyond your natural\nlimitsÅh, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to unleash a very powerful blow at random@ \nI.e, you'll deal a critical hit in a single blow.\n@Not being able to choose when seems kinda\ninconvenient, though.\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-I'd been working hard at my swordsmanship ever\nsince I was a kid, and had taken part in\nfighting competitions around the world.\n
-Having been raised in the duchy, I had some\npretty high expectations, but came second in\nthe knights tryouts.\n
-That year, the one who came in first place was\na small kid that no one had even heard of\nbefore@ you.\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+I'd been working hard at my swordsmanship ever\nsince I was a kid, and had taken part in fighting\ncompetitions around the world.\n
+Having come from this duchy, I had some pretty\nhigh expectations, but only came second in the\nknight tryouts.\n
+That year, the one who came in first place was\na small kid that no one had ever heard of\nbefore@ you.\n
 @\n\n\n
-After that, we kept being paired together in\ntraining and on missions since we were the\nsame age.\n
-@Seeing you up close, I just gave up.\n\n\n
+After that, we kept being paired together for\ntraining and on missions since we were the same\nage.\n
+@Seeing you up close like that, I just gave up.\n\n\n
 No matter hard I tried, you were on a level that\nI could never reach@\nThat was the harsh reality I had to face.\n
 Mur!\n\n\n
 @Hm?\n\n\n
@@ -755,25 +755,25 @@ Mur likes relaxing here!!\nIf you wanna chill with mur, you can come\nanytime!!\
 R-right@\nI'm busy right now, but maybe another time.\n\n
 Mur waits for youÅ`!!\n\n\n
 ÅÑSaying goodbye to the friendly Murmur, Ren took\nÅ@his leave.\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Throwing A Strike<C04>Åf.\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Throwing A Strike<C04>Åe.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
 HehÅ` @A <C03>three-step lunge<C04>, huh?\n\n\n
-Well, if you think you might need it, why donÅft you\ntry equipping it?\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Mastering A Strike<C04>Åf.\n\n
+Well, if you think you might need it, why don't you\ntry equipping it?\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Mastering A Strike<C04>Åe.\n\n
 <C03>Mastering A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a five-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
 HehÅ` @A <C03>five-step lunge<C04>, huh?\n@I wonder whether it's any good.\n\n
 Indeed@ Why don't you equip it sometime and give\nit a try?\n\nIt's your choice to stick with it or not, after all.\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Air Master<C04>Åf.\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it say?\n\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Air Master<C04>Åe.\n\n
 <C03>Air<C04>@ <C03>Master<C04>?\n\n\n
 ÅgYou can unleash a <C03>rotating jump attack<C04> designed\nto better your position when fighting in the air",\nor so it says.\n
 In other words, it's a skill that will change your\nmid-jump attack into a more advanced technique,\nas long as it's been assigned.\n
@@ -789,61 +789,61 @@ More to the point, why did you try to hide it?\nBringing this back with us is ou
 Oh, well you knowÅ`\nI was thinking that I'd surprise you with it.\n\n
 I've been some research of my own, you know.\nI think I've more or less figured out the true\nnature of this stone.\n
 The true nature@?\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
 Yes. Looks like it reduces the risk of dying\ninstantly when receiving a devastating blow,\nto a certain extent, at least.\n
-Well, even if your vitality increases, itÅfll be\nirrelevant if youÅfre lazy about equipment, so\ntry to always keep a sense of danger.\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@  Vitality (HP) has increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅyHP +200Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
 Yes. I wonder if this will allow you to stay out\nexploring the ruins even longer than before?\n\n
-Well, even if your vitality increases, itÅfll be\nirrelevant if youÅfre lazy about equipment, so\ntry to always keep a sense of danger.\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@  Vitality (HP) has increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅyHP +200Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
-Yes. It seems like with this, youÅfll be able to keep\nyour composure even if you get hit by a pretty\nstrong attack.\n
-Well, even if your vitality increases, itÅfll be\nirrelevant if youÅfre lazy about equipment, so\ntry to always keep a sense of danger.\n
+Yes. It seems like with this, you'll be able to keep\nyour composure even if you get hit by a pretty\nstrong attack.\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@  Vitality (HP) has increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅyHP +200Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Looks like by increasing your dexterity, you can\nhave more skills assigned.\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didnÅft have room to allocate them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to allocate them.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@Å@Skill points increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅySP +5Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. This should allow you to assign even more\nskills.\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didnÅft have room to assign them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@Å@Skill points increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅySP +5Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. It appears you'll be able to use many\ndifferent skills all at the same time.\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didnÅft have room to assign them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@Å@Skill points increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅySP +5Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. Perhaps now you will be able to use more\nskills than ever before?\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didnÅft have room to assign them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@Å@Skill points increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅySP +5Åz<C04>\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
-WhatÅfs it about this time?\n\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
+What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. Perhaps you will even be able to use many of\nthe skills you'd previously had to give up on, all\nat the same time?\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didnÅft have room to assign them.\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n\nÅ@Å@Skill points increased!\n\n<C03>Å@Å@Å@Å@Å@ ÅySP +5Åz<C04>\n\n\n
 It's everywhere@. A room buried by sand, huh?\n@It's hard to move.\n\n
 ÅÑIn a certain room in the second layer of the\nÅ@ruins@\n\n
@@ -872,7 +872,7 @@ Human meat@\n\n\nI wonder how many moons have passed since I last\ntasted it@\n\
 ÅÑRen, with eyes wide as if challenging the golden\nÅ@dragon's piercing gaze, had already taken up\nÅ@stance with his sword.\n
 You're raring to go@ or so it would seem@\n\n\n
 Then, the feeling's mutual!!\n\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What? Have you discovered something?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the <C03>Earth's Weak Points<C04>.\n
 The <C03>Earth's Weak Points<C04>?\n\n\n
@@ -881,77 +881,77 @@ Yes@ To summarise it@\n\n\n
 By identifying those spots and applying force,\nanyone can easily destroy themÅh, or so it says. \n\n
 ÅgIt's easyÅh they say@\nSounds fishy to me@\n\n
 Well, if you find a pillar that looks like it might\nbreak, why don't you give it a go?\n\n
-Yeah, itÅfs worth a shot.\n\n\n
+Yeah, it's worth a shot.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n You can now destroy cracked\n columns and ordinary stone\n statues.\n\n Break down columns, carving a\n path towards new areas hidden\n further in the ruins.\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 And? What's it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the <C03>Taking Flight<C04>.\n
 <C03> Taking Flight<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@In the air, the second before your body is\nabout to touch the ground, cast aside your\nfearful mind and take a step forward!\n
 If you do, another leap will await you@Åh, or so\nit says.\n\n
-In other words, you can jump mid-air@?\nWeÅfre talking far beyond the realm of human\npossibility here@\n
+In other words, you can jump mid-air@?\nWe're talking far beyond the realm of human\npossibility here@\n
 Well, why not try jumping again during a jump and\nsee what happens?\n\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n  <C03>Double jumping<C04> is now possible.\n\n  By jumping again in the air,\n  (B button) you will be able to\n  get to high places or cross\n  big holes that you weren't\n  able to reach before.\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Forest Lover<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Forest Lover<C04>Åe.\n
 <C03>Forest Lover<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By having a love of the forest, the trees,\nand nature itself@\n\n
 @one will refine their tree observation skills,\nincreasing the number of times they are able\nto harvest from them."\n
 I feel like they're laying it on a bit thick there,\nbut@\n\n
-Well, if you do come across a large tree, why\ndonÅft you try harvesting some material from it\nand see what's changed?\n
+Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           ÅyTree +2Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>In Harmony With Trees<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>In Harmony With Trees<C04>Åe.\n
 <C03>In Harmony With Trees<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By becoming one with the leaves, one can\nharmonize with all the nature in their life@\n\n
 That is, the Tree Master. The master may gather\nmuch more than before@"\n\n
 @What is Ågthat is, the Tree Master" even\nsupposed to mean?\n\n
-Well, if you do come across a large tree, why\ndonÅft you try harvesting some material from it\nand see what's changed?\n
+Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           ÅyTree +4Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Grass Admirer<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Grass Admirer<C04>Åe.\n
 <C03>Grass Admirer<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@The feelings of admiration for grass will come\noverflowing to those who habitually observe it.\n\n
 It goes without saying that the number of times\nthe grass can be collected from will increase as\na result@Åh\n
 @Does it really make any difference whether or\nnot the grass is admired@?\n\n
-Well, if you do come across a patch of grass, why\ndonÅft you try harvesting some material from it\nand see what's changed?\n
+Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah,  no harm in trying.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +2Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Gardener<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Gardener<C04>Åe.\n
 <C03>Apprentice Gardener<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By having a strong desire to become a good\ngardener and mastering the skills required for\nthe upkeep of grass,\n
 you will excel at managing grass, and hence the\nnumber of times you can harvest material from\nit will increase@Åh\n
 @As a treasure hunter, no matter what kind of\nskill it is, anything you acquire will never go to\nwaste!\n@Or something like that.\n\n\n
-Well, if you do come across a patch of grass, why\ndonÅft you try harvesting some material from it and\nsee what's changed?\n
+Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +3Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>Green-Fingered<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>Green-Fingered<C04>Åe.\n
 <C03>Green-Fingered<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 ÅgBy having the spirit and resolve as if to say\nÅeEntrust the garden to me!' when tending to\nbudding plants,\n
 you will be able to to harvest much more from\nthis natural wonder."\n\n
 ÅgEntrust the gardenÅh@\n\n\nI wonder if should get you to look after Guild's\ngarden for us@?\n\n
-Well, if you do come across a patch of grass, why\ndonÅft you try harvesting some material from it and\nsee what's changed?\n
+Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +4Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Enthusiast<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Enthusiast<C04>Åe.\n
 <C03>Rock Enthusiast<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@This skill instils a strong sense of adoration\nfor rocks.\n\n
@@ -960,9 +960,9 @@ As a result, one will develop a habit of observing\nrocky areas, allowing them t
 Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +2Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Miner<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Miner<C04>Åe.\n
 <C03>Apprentice Miner<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By acquiring the skills of a person who works\nin a mine, you'll be able to dig up rocks without\nfear of fatigue.\n
@@ -971,9 +971,9 @@ As a result, the number of times you can collect\nfrom rocks will increase signi
 Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +3Åz<C04>\n\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Master<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Master<C04>Åe.\n
 <C03>Rock Master<C04>?\n\n\n
 The title seems pretty suspect to me@\nWell, to summarise it@\n\n
 Åg@By adoring rocks so much that you can grasp\nthe state of the earth just by looking at them,\n\n
@@ -988,16 +988,16 @@ Phew@ I'm kinda tired.\n\n\n
 @!!?!\n\n\n
 @@\n\n\n
 ÅÑStartled by a ghost who suddenly appeared,\nÅ@Ren made an out-of-character decision to\nÅ@run for it as fast as he could.\nÅÑAt that time, he had no way of knowing that\nÅ@the eyes hiding behind the mask were filled\nÅ@with sorrow@\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Timber Appraiser<C04>Åf.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Timber Appraiser<C04>Åe.\n
 <C03>Timber Appraiser<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@Those eyes which look at trees become well-\ntrained, allowing one to experience a new side\nof nature they have never seen before.\n
 Namely, it becomes possible to harvest from trees\nwithout leaving any stones unturned@"\n\n
 @I have no idea what this is going on about@\n\n\n
 @I mean, how much more could there be to know\nabout trees?\n\n
-Well, if you do come across a large tree, why\ndonÅft you try harvesting some material from it\nand see what's changed?\n
+Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n  The number of times you can\n     collect materials has\n           increased!\n\n<C03>          ÅyTree +3Åz<C04>\n\n
 @Hm?\n\n\n
@@ -1006,7 +1006,7 @@ That's@ Could it be the <C03>Green Gel<C04> that was\nmentioned in the request?\
 (I won't talk no matter what, wiggle!\n I've already made up my mind, wiggggle!)\n\n
 Hey.\n\n\n
 @@\n\n\n
-Did it not hear me? @No, itÅfs ignoring me?\n\n\n
+Did it not hear me? @No, it's ignoring me?\n\n\n
 Hey!!\n\n\n
 @@\n\n\n
 @?\n\n\nOi@ You're <C03>Polum<C04>, aren't you?\n\n\n
@@ -1038,7 +1038,7 @@ I-it can't be@\n\n\n
 @\n\n\n
 @Do you see that large stone over there?\n\n\n
 ÅÑRen pointed to the shining block of Magicite\nÅ@in the centre of the room.\n\n
-@That is a maddening stone which drives people\ncrazy. Veres was swallowed by the power of that\nstone@\n
+@That is a crazy stone which drives people mad.\nVeres was swallowed by its power@\n\n
 ÅÑRen said no more, but Elza understood what had\nÅ@become of Veres.\n\n
 ÅÑJust then, Ren noticed the sound of footsteps\nÅ@quietly approaching and grabbed his sword@\n\n
 @!?\n\n\n
@@ -1046,7 +1046,7 @@ Ren@ Elza@\n\n\n
 Veres@ You're alive@?\n\n\n
 ÅÑThere was Veres, looking worn out and injured\nÅ@from the previous battle.\n\n
 ÅÑStumbling in on unsteady feet, he seemed like a\nÅ@totally different person from before.\n\n
-ÅÑAnd, as if he had exhausted all his power to make\nÅ@it this far, Veres collapsed on the spot@\n\n
+ÅÑAnd, as if he had exhausted all his power to\nÅ@make it that far, Veres collapsed on the spot@\n\n
 @\n\n\n
 ÅÑEntering a large room, Ren began to investigate\nÅ@as usual.\n\nÅÑBut, he didn't drop his guard.\nÅ@He was always careful to keep an ear out for\nÅ@even the slightest sound.\nÅÑAnd that's when he noticed@\n\n\n
 *Sigh*\nJust how many of these things are there@?\n\n
@@ -1085,7 +1085,7 @@ Well, she probably means me.\n\n\n
 Wha--!?\n\n\n
 I mean it.\nEven though I look like this, I'm an archaeologist.\n\nI discovered this site a few years ago and snuck\nin here on my own to investigate.\n\nAnd as a result, the mummy-hunter became the\nmummy, or skeleton@ you get the drift.\n\nHa ha ha haa--\n*Cough, cough*!\n\nOh, pardon me. Even though this body is hollow,\nit's easy for things to get caught. Dearie me@\n\n
 Er@ So, what you're saying is@\n\n\n
-Right. It's exactly what it looks like; I'm already\ndead.\n\nIt seems the power left here by the ancient\npeople still persists to this day@\n\nNot realising that, I was driven on by curiosity,\nand, thanks to an onslaught of hidden monsters,\nsaid my goodbyes to this world.\nBut strangely, even though I died, my soul didn't\nleave my bones, thus I got a body that will never\nrot.\n@However, itÅfs all down to the power of a most\ncurious stone called Magicite that fills these ruins.\n\nIf I take one step outside of this place, I might\nnever move again.\n\nBut, well I don't let it get me down. Thanks to\nthis, I can investigate the ruins without having\nto worry about time.\nHa ha ha haa--\n*Cough, cough*!\n\n@@\n\n\n@IÅfve done such an awful thing to my wife@\n\n\n
+Right. It's exactly what it looks like; I'm already\ndead.\n\nIt seems the power left here by the ancient\npeople still persists to this day@\n\nNot realising that, I was driven on by curiosity,\nand, thanks to an onslaught of hidden monsters,\nsaid my goodbyes to this world.\nBut strangely, even though I died, my soul didn't\nleave my bones, thus I got a body that will never\nrot.\n@However, it's all down to the power of a most\ncurious stone called Magicite that fills these ruins.\n\nIf I take one step outside of this place, I might\nnever move again.\n\nBut, well I don't let it get me down. Thanks to\nthis, I can investigate the ruins without having\nto worry about time.\nHa ha ha haa--\n*Cough, cough*!\n\n@@\n\n\n@I've done such an awful thing to my wife@\n\n\n
 @\n\n\n
 Still, I'm doing fine, despite being dead and all.\n\n\nI'm sorry to have to ask this, but could you let\nmy wife know what happened?\n\n
 Yeah, I'll tell her.\n\n\n
@@ -1095,11 +1095,11 @@ I'm always well!\n\n\nOr, as well as a dead guy can be. Ha ha ha haa--\n*Cough, 
 Then, I'll take my leave.\n\n\n
 @A human?\nAye yai yai@ They can make it this far in@\n\n
 @A goblin?\n\n\n
-Shut your face! Hurry up and shove off already!\nIf you donÅft, IÅfll have to use my bow and arrow@\n\n
+Shut your face! Hurry up and shove off already!\nIf you don't, I'll have to use my bow and arrow@\n\n
 @Come again?\n\n\n
 Do you want to become Swiss cheese!?\n\n\n
 O-oi! H-hold up!\nI'm here because I've got business with you!\n\n
-I donÅft want anything to do with the likes of you.\n\n\n
+I don't want anything to do with the likes of you.\n\n\n
 Would you just put that thing down for a second\nand listen to me!?\n\n
 ÅÑRaising his voice, Ren expressed his desire for\nÅ@the Kobold to hear him out.\n\nÅÑSensing the seriousness, the Kobold lowered its\nÅ@bow.\n\n
 @So, what ÅgbusinessÅh could a human like you\npossibly have with me?\n\n
@@ -1155,7 +1155,7 @@ Well, now you know.\nGo, and be safe.\n\n
 Mur!!\nMur going! Thank you, mur!\n\n
 ÅÑRen quietly watched the Mumur, as it happily\nÅ@bounced away@\n\n
 Oh, welcome.\n\n\n
-ÅÑThe Adventurers Guild was crowded with adventurers\nÅ@dreaming of finding treasure, the same as ever.\n\n
+ÅÑThe Adventurers Guild was crowded with\nÅ@Adventurers dreaming of finding treasure,\nÅ@the same as ever.\n
 Did you hear?\nSomething terrible happened in the capital.\n\n
 I don't know if that has anything to do with it,\nbut it seems that lately there have been a few\nearthquakes inside the ruins@\n
 @Yeah, seems like it.\n\n\n
@@ -1164,14 +1164,14 @@ It's fine.\n@She's got this.\n\n
 @?\n\n\n
 Ah, speaking of@\nThis is for you.\n\n
 It's@ a key?\n\n\n
-An adventurer found it the ruins. Apparently, it\nlets you travel even deeper into the second layer@\n\n
-The inside is filled with ridiculously strong\nmonsters, and unable to cope, they gave it to\nthe guild.\n
+An adventurer found it the ruins.\nApparently, it lets you travel even deeper into\nthe second layer@\n
+They said it was filled with ridiculously strong\nmonsters, and unable to cope, gave it to the\nguild.\n
 @You'll need it, won't you?\n\n\n
 Yeah@ Thank you.\n\n\n
 We're still receiving a lot of requests here too,\nso we'll be in trouble if you don't keep on taking\njobs.\n
 But, don't overdo it, okay?\n\n\n
 @Right.\n\n\n
-I will be return, like I promised I would.\n\n\n
+I will return, like I promised I would.\n\n\n
 This room is also rather big.\n\n\n
 ÅÑRen restlessly surveyed the room, which was so\nÅ@large that it was impossible to see the ceiling\nÅ@above or walls to either side.\nÅÑIt seemed that the floor to the left and right\nÅ@had been cut off, with what appeared to be a\nÅ@sheer drop surrounding the area.\nÅÑThere was no way to judge where the chasm\nÅ@shrouded in darkness might lead.\n\nÅÑOnly@ that the deep darkness seemed to warn\nÅ@that the fall would be deadly.\n\n
 @The other rooms were bad enough, but this is\neven more creepy@\n\nStill, it's places like this where new discoveries lie.\n\n
@@ -1185,7 +1185,7 @@ A d@dragon!?\n\n\n
 @@@@\n\n\n
 ÅÑRen didn't answer.\n\n\nÅÑNo@ To be precise, he couldn't answer.\n\n\nÅÑPerhaps overwhelmed by the sudden appearance\nÅ@of he dragon, he found himself unable to move\nÅ@an inch.\n
 Answer me. What business have you here?\n\n\n
-@IÅfm investigating these ruins.\n\n\n
+@I'm investigating these ruins.\n\n\n
 @A thief, then.\n\n\n
 I am the <C03>Guardian<C04> of these ruins. I am bound to\nthis place, burdened with the task of protecting\nit@\n@Are you so foolish that you can't understand my\nwords?\n\n
 ÅÑThe tone of the dragon who was speaking quietly\nÅ@had changed slightly.\n\nÅÑRen who had been listening in silence, noticed\nÅ@the change and came back to his senses.\n
@@ -1286,35 +1286,35 @@ But with this stone, I can obtain power that\ntranscends yours@!\n\n
 I'll be the centre of attention once again!\n\n\n
 And for that, you@\n\n\n
 That's not all.\n\n\n
-When we were guarding the castle together@\nEver since we first met Elsa, I've been in\nlove with her.\n
-@A princess with a mere knight. I know it\ndoesn't fit.\n\n
+When we were guarding the castle together@\nEver since we first met Elsa, I've been in love\nwith her.\n
+@A princess with a mere knight.\nI know it doesn't fit.\n\n
 @But my mind was set.\n\n\n
 And yet, the one that Elza has always had eyes\nfor@ is you.\n\n
 @\n\n\n
 I'm going to kill you, take Elza and@ rule the\nworld.\n\n
 Rule the world@?\nJust how far are you planning to go@?\n\n
-I will rule over@ all@ over all@\n\n\n
+I will rule over@ all@\nThis world@\n\n
 H-hey@ Veres!?\n\n\n
 Uooooooooooggghhhh!!!!!!!\n\n\n
 Graaaaaaaar@!\n\n\n
 Ver@es@ You@\n\n\n
 Graaaaaaaar!!\n\n\n
-He was@ completely swallowed by its power@\n\n\n\n
-@If I leave things like this, it'll be like\nthe ancient civilisation all over again@\n\n
+He was@ completely swallowed by its power@\n\n\n
+@If I leave things like this, it'll be like the\nancient civilisation all over again@\n\n
 @\n\n\n
 @Elza@ I will protect you@\nI'll keep you safe, no matter what!!\n\n
-ÅÑRen gripped the sword in his hand tightly,\ngathering the determination to defeat his\nfriend@\n
+ÅÑRen gripped the sword in his hand tightly,\nÅ@gathering the determination to defeat his\nÅ@friend@\n
 This is the Magicite, huh?\n\n\n
-With this stone, I can obtain power.\nThe power to not lose, even to him@\n\n
+With this stone, I can obtain power.\nThe power to never lose, even to him@\n\n
 Veres!!\n\n\n
 @It figures, Ren. I didn't think you would lose,\nbut@ You really do astound me.\n\n
-Veres, what are you plotting?\n\n\n
+Veres, what are you thinking?\n\n\n
 Didn't we come here with the mission to take the\nstone back to the Archduke?!\n\n
-You know, don't you?\n@If he gets the power of this stone, it surely\nwonÅft be used to do good.\n
+You know, don't you?\n@If he gets the power of this stone, there's no\nway it'll be used to do good.\n
 @\n\n\n
-For military use, to take over the world@\nIf the power is gonna be used for such crap@\n@I'll use it.\n
+For military purposes, to take over the world@\nIf the power is gonna be used for such crap@\n@I'll use it.\n
 @What!?\n\n\n
-ÅÑEntrusting himself to the massive piece of\nÅ@Magicite, Veres held out his hands and embraced\nÅ@it.\n
+ÅÑEntrusting himself to the massive piece of\nÅ@Magicite, Veres held out his hands and\nÅ@embraced it.\n
 ÅÑA pale blue glow began to enshroud his body@\n\n\n
 Stop! Veres! You saw that huge giant, right!?\nDo you want to turn into that too!?\n\n
 Uooooooohhhhh!!!!!!\n\n\n
@@ -1330,7 +1330,7 @@ This place shall be our castle.\nBut first@ I'll start with that.\n\n
 ÅÑWithout another word, Veres disappeared.\n\n\n
 ÅÑRen was convinced that he had already been\nÅ@taken in by the power of the stone.\n\n
 @Elza's in danger.\n\n\n
-ÅÑRen still had no idea of what Veres was about\nÅ@to do.\n\n
+ÅÑRen still had no idea of what Veres was planning.\nÅ@\n\n
 ÅÑBut even so, he could tell that Elza was in\nÅ@trouble.\n\n
 Well, speaking of@ About the nation of Reville in\nthat book I showed you before@\n\n
 Apparently, they're the ones who used alchemy to\ncreate Magicite in the days of Edenbar, which was\ndestroyed a thousand years ago.\n
@@ -1351,7 +1351,7 @@ Hm? Did you say something?\n\n\n
 N-no, nothing.\n\n\n
 I'll try to find out more about it for now, so\ngood luck with everything on your end.\n\n
 H-hey! Wait a sec--\n@He never listens to a word anyone else has to\nsay, that guy.\n
-ÅÑVeres left quickly, before heÅfd even had the\nÅ@chance to hear Ren calling.\n\n
+ÅÑVeres left quickly, before he'd even had the\nÅ@chance to hear Ren calling.\n\n
 @\n\n\n
 The Magicite was created by the nation of Reville,\nhuh@?\n\n
 @\n\n\n
@@ -1392,7 +1392,7 @@ Especially when it comes to suspicious men who\nlook more like kids, wouldn't-yo
 Well then, time for you head off to the ruins and\ncomplete that request.\n\n
 Yeah, I'll have it done in no time.\n\n\n
 ÅÑPeeling himself away from the counter, Ren\nÅ@waved to Charnet and quickly made his way\nÅ@out of the Guild.\n
-LetÅfs see@ Hmmm@\nAhh@ Interesting@\n\n
+Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What is it?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent skill<C04>\nwhich allows you to perform <C03>Evasive Manoeuvres<C04>.\n
 <C03>Evasive Manoeuvres<C04>?\n\n\n
@@ -1424,7 +1424,7 @@ Right. Thanks for your help.\n\n\n
 Oh, no need to thank me.\n\n\n
 @Just be sure to see to the guild's request\nlist, okay?\n\n
 @Was that your motive all along?\n\n\n
-Hehehe. IÅfm kidding.\nWell, more like half-kidding.\n\n
+Hehehe. I'm kidding.\nWell, more like half-kidding.\n\n
 Now then@\nWas there something else you wanted?\n\n
 @\n\n\n
 @A way to draw out that power@ to the body@\nNo@ But@\n\n
@@ -1448,9 +1448,9 @@ Normally, you'd say something about being the\nfirst one there and keep the key 
 Yeah.\n\n\n
 @W-well I guess I've done a bit of growing up too.\n\n\n
 Right, I'm off to the castle now, so@\nI'll leave that key to you.\n\n
-Wait!\nI havenÅft finished talking with you--!\n\n
+Wait!\nI haven't finished talking with you--!\n\n
 @What's so important that he's got to rush\nover there for?\n\n
-@Still, I got a key that I can use in the ruins,\nso I guess allÅfs well.\n\n
+@Still, I got a key that I can use in the ruins,\nso I guess all's well.\n\n
 <C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n ÅyRutila KeyÅz<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n You know, the one with green\n walls where a monster holding a\n club lies in ambush. That room.
 Somehow@ the air in here feels different to the\nprevious rooms@\n\n
 ÅÑRen, having made it deep into the first layer,\nÅ@felt a sense of unease at the strange\nÅ@atmosphere that had settled in the room.\n
@@ -1480,11 +1480,11 @@ H-hey! Veres!\n\n\n
 ÅÑWithout regard to the voice calling out to him,\nÅ@Veres disappeared into another room.\n\n
 @@@\n\n\n
 @That book certainly got my attention.\n\n\n
-ÅeThe Nation of Reville@Åf\nPeople worshiped them like Gods, but they had\ncommitted a huge sin@\n
+ÅeThe Nation of Reville@'\nPeople worshiped them like Gods, but they had\ncommitted a huge sin@\n
 @That alone has lost me.\n\n\n
 ÅÑRen, trying to wrap his head around the content\nÅ@of the passage he just read was unaware that\nÅ@he was making a big mistake@\n
 ÅÑ@having forgotten the eerie atmosphere he'd\nÅ@first felt when entering the room, before Veres\nÅ@had interrupted.\n
-ÅÑThatÅfs when@\n\n\n
+ÅÑThat's when@\n\n\n
 Grrrrrr@\n\n\n
 What the-- That thing is@\n\n\n
 ÅÑRight in front of him was a ginormous beast\nÅ@with three heads.\n\n
@@ -1508,7 +1508,7 @@ S-sorry. I was just kidding.\n\n\n
 So@ Mr Lagnus.\nWhat was the info you had for me?\n\n
 Have you been having trouble gathering material?\n\n\n
 @It's hard to be efficient, I guess.\n\n\n
-AinÅft it just?\n\n\n
+Ain't it just?\n\n\n
 Still, the grass might be the same, but did you\nknow you can pick up different items depending on\nwhere it is? @The same goes for monsters too.\n
 There are materials that can and cannot be\ncollected from monsters with the exact same name.\n\n
 @In general, the higher quality materials needed\nto make stronger weapons are in the possession\nof the monsters further inside the ruins.\n
@@ -1522,11 +1522,11 @@ A customer asked me to go to the ruins to collect\nsome material for making a sw
 I'm not all that interested in the depths of the\nruins, plus I have no time to go and see them.\n\nThat's why I thought I'd give it to you.\n
 @I think it's better that it's used for research\nrather than going to someone who just wants to\ntry dig up treasure.\n
 Wow@ You really are a good guy.\n\n\n
-I thought I already told you to call me ÅeMr LagnusÅf!\n\n\n
+I thought I already told you to call me ÅeMr Lagnus'!\n\n\n
 Thank you@ Mr Lagnus.\n\n\n
 Much better!\n\n\n
 Well, I'm gonna get back.\nIf you find yourself wanting a weapon, pop round!\n\n
-<C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n <C03>ÅySapphyri KeyÅz<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n Eh? YouÅfve forgotten about it?\n @Come on now, the door's in\n that looong room. Remember?
+<C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\n <C03>ÅySapphyri KeyÅz<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n Eh? You've forgotten about it?\n @Come on now, the door's in\n that looong room. Remember?
 @Hey. Took you long enough.\n\n\n
 @?\n\n\n
 ÅÑThat odd room was so unlike any other, it truly\nÅ@felt like entering a different dimension.\n\n
@@ -1554,7 +1554,7 @@ By the way, the real cause of the ancient\ncivilization's collapse is that monst
 But foolishly, the world the ancient giant\ndestroyed was also the source of its power,\nthe ÅgMagicite".\n
 By refusing its roots, the giant fell into a long\nslumber.\n\n
 After that, the survivors of the Nation of\nReville sealed the Magicite and the giant\ndeep underground.\n
-ThatÅfs-- These ruins..!?\n\n\n
+That's-- These ruins..!?\n\n\n
 Correct.\n\n\n
 Now then@ I really should be going soon.\nIt's not yet time for me to deal with you.\n\n
 Sorry, but play with this guy for me, won't you?\n\n\n
@@ -1581,15 +1581,15 @@ Being in love with Elza@ Despising Ren@\nThe other me@\n\n
 I was jealous@ of you@\n\n\n
 @\n\n\n
 But that's all it was@ I don't really@\n\n\n
-@It's true, IÅfve always felt inferior to you@\n\n\n
-But@ still@ To the me who only had a sword to\ncling to as a kid, you were my first friends@\n\n
+@It's true, I've always felt inferior to you@\n\n\n
+But@ still@ To the me who only had a sword to\ncling to as a kid, you were my first friend@\n\n
 @ÅeIf I use the Magicite's power, I might surpass\nyou, even a little'@\nÅeI'll get stronger, and surprise you'@\n
 Those thoughts@ just kept growing@ until even\nI@ couldn't stop it anymore@\n\n
 @Ren@ I'm sorry@\n\n\n
 @That's enough. Don't talk any more.\n\n\n
 @Ngh@\nAnd@ Elza@\n\n
 @\n\n\n
-Even though I lost control@\nI@ I really am sorry for what I did@\n\n
+Even though I lost control@\nI@ I really am sorry for what I did to you@\n\n
 @I know that a simple apology, won't make you\nforgive me@ but@\n\n
 I'm so@rry@\n\n\n
 @Nh@nnnngh@.\n\n\n
@@ -1600,20 +1600,20 @@ He was@ he was an important friend to me too@!\n\n\n
 @\n\n\n
 @I'm going to look around the ruins again.\n\n\n
 @Huh?\n\n\n
-Because of the existence of this stone, the ancient\ncivilization and@ Veres were brought to their knees.\n\n
+Because of the existence of this stone, the\nancient civilization and@ Veres were brought\nto their knees.\n
 Because of this stone@!\n\n\n
 @Ren.\n\n\n
-That's why I'm going to make sure there's no other\nstones left, so no one will make the same mistake\nagain.\n
+That's why I'm going to make sure there's no\nother stones left, so no one will make the\nsame mistake again.\n
 After that, I'll visit the ancient ruins around\nthe world, and destroy every single stone.\n\n
 That's something I can do@\nSomething I have to do, I think.\n\n
 @\n\n
-@Me too. Now that my father has passed away, I am\nthe only one who can lead the country.\n\n
+@Me too.\nNow that my father has passed away, I am the\nonly one who can lead the country.\n
 That's why@ I won't cry.\n\n\n
 Yeah. @Tears don't suit you.\n\n\n
 @Yeah. You're right.\nRight. I won't cry anymore.\n\n
 Next time, I don't know when I'm going to see you\nagain, but by then, I will have the country back\nto the way it was@\n
-No. It's going to be even better than\nbefore@ So@\n\n
-You have to come back.\n\n\n
+No. It's going to be even better than before@\nSo@\n\n
+Make sure you come back safe.\n\n\n
 Yeah. I Åepromise'.\nI will definitely return.\n\n
 ÅÑOn the main street of Liruka Village@\n\n\n
 ÅÑRen opened the door of a flashy-looking shop\nÅ@with the sign ÅeAvanc's Item Shop'.\n\n
@@ -1738,7 +1738,7 @@ Something upsetting@?\n\n\n
 (@Urk. The atmosphere is so heavy. But, this is\nalso part of my job@)\n\n
 @S-say.\nI'm here, if you want to talk about it@?\n\n
 @Talk about it?\n
-@Ah, you don't have to if you don't want to.\nBut, it you talk and let it all out, maybe youÅfll\nfeel a little better after?\n
+@Ah, you don't have to if you don't want to.\nBut, it you talk and let it all out, maybe you'll\nfeel a little better after?\n
 @\n\n\n
 @Then, may I share my story with you?\n\n\n
 Go ahead.\n\n\n
@@ -1804,7 +1804,7 @@ I've just registered with the guild, so I was\ntold to come and say hello@\n\n
 Oh?Å@So you must be Ren.\nI heard the news, but@ you really are just a kid.\n\n
 Well, not that it matters.\n\n\n
 If you're gonna make money, you gotta do your\njob properly no matter who it's for!\nThat's my mantra!\n
-@ÅeIt doesn't matterÅf he says, then why even\nbring it up?\n\n
+@ÅeIt doesn't matter' he says, then why even\nbring it up?\n\n
 Hm?Å@Did you say something?\n\n\n
 No, nothing.\n\n\n
 Well, anyways!\nI'm Lagnus. I own the place.\n\n
@@ -1818,7 +1818,7 @@ Well, there's the guild round here where you\ncan take jobs, or you can go off a
 To forge or strengthen weapons, I'll <C03>need raw\nmaterials and money<C04>@ right?\n\n
 Oh?Å@I guess you were paying attention.\n\n\n
 <C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\nYou can now forge and enhance\nyour main weapon.\n\n<C03>Forge:<C04>       Combine materials\ntogether to create new weapons.\n<C03>Enhance:<C04>    Strengthen a weapon\nyou already own and change it\ninto something else.
-@Wait, youÅfve gotta be kidding me.\nIs that small sword all you have?\n\n
+@Wait, you've gotta be kidding me.\nIs that small sword all you have?\n\n
 Hm?Å@Ah, yeah it is.\nIt's light and easy to handle. It suits me fine.\n\n
 ÅÑAs he spoke, Ren showed off the sword he\nÅ@had attached to his waist.\n\n
 ÅÑSeeing that, Lagnus the Blacksmith was taken\nÅ@aback and let out a large sigh.\n\n
@@ -1832,9 +1832,9 @@ Taking it case-by-case and reacting to the\nsituation around you is the best way
 Here.\n\n\n
 ÅÑHe handed the two differently shaped swords\nÅ@to Ren.\n\n
 @These are?\n\n\n
-For your first visit only!\nIt's a special service. After this, you'll have to\nshow your ÅepatronageÅf, okay?\n
+For your first visit only!\nIt's a special service. After this, you'll have to\nshow your Åepatronage', okay?\n
 Fyi@ The <C03>Foil<C04> is a ÅgMedium SwordÅh, and the \n<C03>Long Sword<C04> is a ÅgBig SwordÅh.\n\n
-It's not a big deal, but it might be good to think\nof it as ÅepractiseÅf when you use them, at least\nuntil you get used to it.\n
+It's not a big deal, but it might be good to think\nof it as Åepractise' when you use them, at least\nuntil you get used to it.\n
 @Speaking of, this is for you too.\n\n
 ÅÑRen placed the book he received into the\nÅ@ÅgKeyÅh category of his item pouch.\n\n
 The book has a detailed description of the\ncharacteristics for each main weapon category.\n\n
@@ -1845,7 +1845,7 @@ If you want to know the differences between\nSmall Swords, Medium Swords and Big
 <C05>Å@Å@Å@Å@Å@INFORMATION<C04>\n\nÅyBig SwordsÅz\nThese swords have a long reach,\nand great potential. (<C03>They can \nperform charged attacks.<C04>)\n\nBut, there is a pause after each\nattack due to weight, making\nconsecutive attacks impossible.
 Well, to start, don't strain yourself or think\ntoo hard. It's alright to just use them however\nfor now.\n
 Right.Å@Thank you.\n@You're a surprisingly nice guy.\n\n
-ThatÅfs ÅeMr LagnusÅf to you!\nSheesh. This is why brats without manners are@\n
+That's ÅeMr Lagnus' to you!\nSheesh. This is why brats without manners are@\n
 Well anyway, for now you can try out the store\nand go check out what we have.\n\n
 If you already have materials and money, you\ncan get making new weapons straight away.\n\n
 So, what'll it be?\n\n\n
@@ -2128,8 +2128,8 @@ Hehe@\n\n\n
 Come to think of it, what was that other matter\nyou had to take care of in the end?\n\n
 Other matter? What are you on about?\nDid I say something like that?\n\n
 @@@@\n\n\n
-WoahÅ` Ren dear, that's a scary face you're\nmaking. If the wind changes, your face might\nstick like that, yÅfkno?\n
-Why you-- Treating me like IÅfm some kid@\n\n\n
+WoahÅ` Ren dear, that's a scary face you're\nmaking. If the wind changes, your face might\nstick like that, y'kno?\n
+Why you-- Treating me like I'm some kid@\n\n\n
 Hehehe@ Ahahahahaha!\n\n\n
 Elza?\n\n\n
 Did we@ break Elza@?\n\n\n
@@ -2138,12 +2138,12 @@ That's why it just made me happy.\n\n\n
 Right? Right?\nAs I thought it's just hopeless when I'm not\naround, right?\n
 Yes. And Ren too, of course.\n\n\n
 @@@@\n\n\n
-@I think itÅfs always like this with the three of\nus, but@\n\n
+@I think it's always like this with the three of\nus, but@\n\n
 @when I think about it, the two of you really\nhaven't changed at all since we first met.\n\n
 I just wanted to go for a little stroll around\nthe castle@\n\n
-That's not a stroll.\nItÅfs called an escape attempt.\n\n
+That's not a stroll.\nIt's called an escape attempt.\n\n
 You don't have to spell it out!\n\n\n
-Back then, me and Ren were walking around the\ncastleÅfs courtyard on patrol.\n\n
+Back then, me and Ren were walking around the\ncastle's courtyard on patrol.\n\n
 @Right. And then we saw this shabby-looking girl@\n\n
 You could have done without the Åeshabby' part!\n@Well, not that I can deny it.\n\n
 So, we never could've guessed that her highness\nwould be looking like that, and we got the wrong\nidea thinking you were up to something fishy.\n
@@ -2193,12 +2193,12 @@ Sire.\n\n\n
 Yes. I have it@\n\n\n
 Marvellous!\nHurry, let me see it.\n\n
 Here. Feast your eyes.\n\n\n
-ÅÑVeres opened his hands wide, showing his body\nÅ@to the Archduke.\n\n
+ÅÑVeres opened his hands wide, presenting his body\nÅ@to the Archduke.\n\n
 @What is the meaning of this?\nDon't you have the stone on you?\n\n
 If you would look here.\n@This is the power of the Magicite.\n\n
 Wha--!? T-this is--!?\n\n\n
 ÅÑVeres' body lit up brightly.\n\n
-ÅÑOn that signal, the castle gave a large groan\nÅ@and began to collapse.\n\n
+ÅÑOn that signal, the castle gave a large groan\nÅ@and started to collapse.\n\n
 W-what!? What's going on!?\nVeres! What have you done!?\n\n
 I just told you, didn't I?\nThis is the power of the Magicite.\n\n
 I-it can't be@\nDid you absorb it into your body!?\n\n
@@ -2208,9 +2208,9 @@ Y-you wretch--!\n\n\n
 ÅÑVeres reached out a hand towards the Archduke.\nÅ@With that act alone, the Archduke Kucellbull\nÅ@foresaw his death.\n
 Don't------!!!!\n\n\n
 @Don't worry. I'll take good care of this country.\n\n\n
-ÅÑStood before the Archduke's lifeless body, Veres\nÅ@quietly smiled.\n\n
+ÅÑStood before the Archduke's lifeless body,\nÅ@Veres smiled quietly.\n\n
 W-what in the@\nVeres, you--!!\n\n
-You took great care of me over these years. But,\nthat too ends today.\n\n
+You took great care of me over these years.\nBut, that too ends today.\n\n
 The wine I wanted to drink with you one day@\nOnly that, I regret a little@\n\n
 Guah--!!\n\n\n
 ÅÑRonixis, who had readied his sword to stand up\nÅ@to Veres, met with his cruel fate before even\nÅ@getting a chance to use it.\n
@@ -2219,7 +2219,7 @@ Now then, next is@\n\n\n
 ÅÑAfter reconfirming the plan in his mind, just as\nÅ@Veres was about to move, a slow creak came\nÅ@from the door@\n
 Veres! What are you doing!?\n\n\n
 Well well, Princess Elza.\nComing here all by yourself@ You've saved me the\ntrouble of looking for you.\n
-Stop fooling around! What on earth--\n\n\n
+Stop fooling around! What on earth--?\n\n\n
 @F-father!?\n\n\n
 ÅÑNoticing the Archduke's body lying at Veres'\nÅ@feet, Elza fell to her knees@\n\n
 Your father has breathed his last. @Just now, in\nfact.\n\n
@@ -2229,24 +2229,24 @@ So, you won't be lonely.\n\n\n
 Veres@ No, were you the one who--!?\n\n\n
 With this power@ I will forge a new coun@try@\n\n\n
 N@ngh@\n\n\n
-ÅÑVeres suddenly clasped his head and began to\nÅ@writhe in agony.\n\n
+ÅÑVeres suddenly clasped his head and began\nÅ@to writhe in agony.\n\n
 ÅÑBesides him, Elza was still struggling to\nÅ@comprehend the situation.\n\n
 What happened, Veres!?\nAre you@ really Veres!?\n\n
-@*Pant, pant*.\nI-it's okay, Elza. Don't worry.\n\n
+*@Pant, pant*.\nI-it's okay, Elza. Don't worry.\n\n
 I, I@ As if I'm going to let myself be completely\ntaken over by some stone--!\n\n
 Stone@?\n\n
 ÅÑAs she stared at him quizzically, Veres picked\nÅ@Elza up with one hand.\n\n
 Aaaaagh!\nW-wait, Veres! Put me down!\n\n
 It's okay@ Everything's okay@\n\n\n
-Wha@ It's not okay!\nThis situation@ Father@. Fatheeeeer!!\n\n
+Wha@ It's not okay!\nThis situation@ Father@ Fatheeeeer!!\n\n
 Let's go together, to the new world I will build.\n\n\n
-ÅÑCarrying Elza over his shoulder, Veres once again\nÅ@disappeared, the same way he had in the ruins@\n\n
+ÅÑCarrying Elza over his shoulder, Veres once\nÅ@again disappeared, the same way he had in the\nÅ@ruins@\n
 Lady@ Elza@\n\n\n
 ÅÑA few hours after Veres had left@\n\n\n
 @This is--!?\n\n\n
 ÅÑThe once beautiful Kucellbull Castle@\n\n\n
 ÅÑWalls had collapsed, burying those inside@\nÅ@That sight, which was truly the image of hell\nÅ@itself, pierced through Ren's heart.\n
-ÅÑThe world as he knew it had been completely\nÅ@shattered, leaving him stood frozen, unable to\nÅ@move@\n
+ÅÑThe world as he knew it had been completely\nÅ@destroyed, leaving him stood frozen, unable to\nÅ@move@\n
 ÅÑJust then, a faint voice echoed from the back\nÅ@of the room.\n\n
 @Ren@ Ren, i-is that you@?\n\n\n
 @!?\n\n\n
@@ -2256,7 +2256,7 @@ I@?\n\n\n
 It can't be, Veres--!?\n\n\n
 @You might not believe it, but this was all his\ndoing@\n\n
 I tried to stop him but@ He got me first@\n\n\n
-@I don't know what happened in the ruins, but@\nthat's not the Veres we know any more@\n\n
+@I don't know what happened in the ruins, but@\nthat's not the Veres we knew any more@\n\n
 @No, maybe he was no longer human from the\nstart@\n\n
 Not human@?\n\n\n
 G@Go, Ren@ You have to stop him@\n\n\n

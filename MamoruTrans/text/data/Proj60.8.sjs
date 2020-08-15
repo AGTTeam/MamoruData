@@ -38,4 +38,3 @@
 He who seeks power whilst knowing\r\n the path of hardship is a fool.\r\n\r\nWaiting beyond is the sand snake.\r\n\r\n　His scales, harder than steel,\r\n　　　cannot be scratched.\r\n\r\n　　　　　　Turn back.\r\n　　Don't throw away your life.
 石盤
 \r\n No matter what happens, you are\r\n      not allowed to stop.\r\n\r\n No matter what happens, you are\r\n    not allowed to look back.\r\n\r\n      Just push forward@\r\n     Then the way will open.\r\n
-

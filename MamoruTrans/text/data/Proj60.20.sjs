@@ -277,7 +277,7 @@ Mm! A great texture! You really\r\nbrought me some fine cuts. I'm\r\ngoing to ad
 Swordsman With Pride
 Wandering Swordsman　Bordeaux
 I had you take revenge after I was\r\ndefeated by an armoured swordsman,\r\nbut it was still frustrating, so I\r\ntried again, and@ failed, again. But\r\nwe agreed on a rematch! Can you\r\npass on the time and date for me?
-@So, he really didn't just forget\r\nabout a weak guy like me?\r\nI was worried he might not want to\r\nhave another rematch, but to think\r\nhe's waiting for me@\r\nI'll show him how just strong I've\r\nbecome!
+@So, he really didn't just forget\r\nabout a weak guy like me?\r\nI was worried he might not want\r\nto have another rematch, but to\r\nthink he's waiting for me@\r\nI'll show him how just strong I've\r\nbecome!
 Conquer The Flames!
 Burn-Scarred Man　Rodriguez
 There's a room in the third layer\r\nof the ruins with a load of those\r\npurple fire monsters. That room\r\njust stinks of treasure, but\r\nthey're such a hindrance that I\r\ncan't take my time exploring it@.
@@ -293,7 +293,7 @@ Ahh, you really came through for\r\nme again. Despite saying such\r\nproud stuff
 A Small Life Prone To Illness
 Pleading Mother　Elena
 My son has suffered from a serious\r\nillness since he was born, and he\r\ndoesn't seem to have long@ But I\r\nrecently heard a rumour about a\r\nmedicine that might help! Please,\r\ncan you find the ingredients?!
-I made a medicine from the eyeballs\r\nand gave it to my son. But his\r\ncondition did not change, and in\r\nthe end, he slipped away@\r\nThe rumour was just a rumour@\r\nI vow to try studying the disease\r\nin the hope of saving others.
+I made a medicine from the eyeballs\r\nand gave it to my son. But his\r\ncondition did not change, and in\r\nthe end, he slipped away@\r\nThe rumour was just a rumour@\r\nI vow to try studying the disease\r\nin the hope of helping others.
 Glittering Stone (3)
 High-Flying Lady　Rondina
 Are you familiar with the legendary\r\njewel said to radiate seven colours\r\nof light? Don't you think such a\r\nbeautiful thing is perfect for me?\r\nI want you to find it, by any means\r\nnecessary.
@@ -321,11 +321,11 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 The Cry of a New Beast
 Survey Team Captain　Rasvel
 There's a three-headed beast\r\nskulking around the first layer\r\nof the ruins, but a different\r\nbreed than the one you defeated\r\nbefore. We've had reports that\r\nit's extremely ferocious@
-It looks like you managed to\r\ndefeat that new breed!\r\nAccording to the experts, it\r\nwas some sort of mutation,\r\ncaused by the influence of\r\nthe Magicite@ We don't fully\r\nunderstand it yet, but it feels\r\nlike we're one step closer to\r\nunravelling this mystery.
+It looks like you managed to defeat\r\nthat new breed! According to the experts,\r\nit was some sort of mutation, caused by\r\nthe influence of the Magicite@ We don't\r\nfully understand it yet, but it feels\r\nlike we're one step closer to\r\nunravelling the mystery.
 New Snake's Onslaught
 Survey Team Chief　Blanc
 Have you heard the rumour about\r\nthe giant sand snake said to be\r\nlike Jormungandr, but with\r\ndifferent colours? They say a\r\nhunter was the one to spot it,\r\nbut the truth remains unclear.
-So rumour was true. And not\r\nonly that, but it seems you\r\nmanaged to defeat it! These\r\ndiscoveries are significant,\r\nbut so is your ability to\r\nreturn alive with them!
+So rumour was true. And not only\r\nthat, but it seems you managed to\r\ndefeat it! These discoveries are\r\nsignificant, but so is your ability\r\nto return alive with them! I know\r\nRasvel asked you about joining our\r\nteam before, but why don't you give\r\nit some proper thought?
 Fast Four-Legged Beast
 Mid-Ranked Hunter　Nill
 I heard that you unlocked the\r\ndoor and defeated the four-\r\nlegged beast lurking near the\r\nsecond layer so I thought I\r\nmight go and hunt for treasure,\r\nbut the beast appeared again!
@@ -341,7 +341,7 @@ It hurts when I think of how\r\ndisappointed you must have been@\r\nBut! With th
 Collection Mania
 Multimillionaire　Rossmann
 In my mansion, I have a collection\r\nof treasures from all over the\r\nworld. I like collecting things,\r\nbut just seeing them is also\r\ninteresting. May I see what\r\nyou've been able to uncover?
-Hm@ Incredible! I'm sure\r\nthese items gave you their\r\nfair share of trouble to\r\nlocate, nay? @I don't\r\nsuppose you'd let me buy\r\nthem from you? No? Well,\r\nit was worth a shot(!)
+Hm@ Incredible! I'm sure these items\r\ngave you their fair share of trouble\r\nto locate, aye? @I don't suppose\r\nyou'd let me buy them from you? No…?\r\nWell, it was worth a shot ( ! )
 Glittering Wings
 Cowardly Hunter　Rakhael
 I went to the room where you\r\ndefeated the revived green\r\ndragon, on the lookout for\r\ntreasure. But@ there was\r\nsomething down there! I ran\r\naway as fast as I could@
