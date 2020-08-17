@@ -321,11 +321,11 @@ You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfi
 The Cry of a New Beast
 Survey Team Captain　Rasvel
 There's a three-headed beast\r\nskulking around the first layer\r\nof the ruins, but a different\r\nbreed than the one you defeated\r\nbefore. We've had reports that\r\nit's extremely ferocious@
-It looks like you managed to defeat\r\nthat new breed! According to the experts,\r\nit was some sort of mutation, caused by\r\nthe influence of the Magicite@ We don't\r\nfully understand it yet, but it feels\r\nlike we're one step closer to\r\nunravelling the mystery.
+It looks like you managed to defeat\r\nthat new breed! According to the\r\nexperts, it was some sort of\r\nmutation, caused by the Magicite@\r\nWe don't fully understand it yet,\r\nbut it feels like we're one step\r\ncloser to unravelling the mystery!
 New Snake's Onslaught
 Survey Team Chief　Blanc
-Have you heard the rumour about\r\nthe giant sand snake said to be\r\nlike Jormungandr, but with\r\ndifferent colours? They say a\r\nhunter was the one to spot it,\r\nbut the truth remains unclear.
-So rumour was true. And not only\r\nthat, but it seems you managed to\r\ndefeat it! These discoveries are\r\nsignificant, but so is your ability\r\nto return alive with them! I know\r\nRasvel asked you about joining our\r\nteam before, but why don't you give\r\nit some proper thought?
+Have you heard the rumour about\r\nthe giant sand snake said to be\r\nlike Jormungandr, but with different\r\ncolours? They say a hunter was the\r\none to spot it, but we won't know\r\nfor sure unless someone verifies it.
+So rumour was true. And not only\r\nthat, but it seems you managed to\r\ndefeat it! These discoveries are\r\nsignificant, but so is your ability\r\nto return alive with them! I know\r\nRasvel already asked this, but why\r\ndon't you think about joining us?
 Fast Four-Legged Beast
 Mid-Ranked Hunter　Nill
 I heard that you unlocked the\r\ndoor and defeated the four-\r\nlegged beast lurking near the\r\nsecond layer so I thought I\r\nmight go and hunt for treasure,\r\nbut the beast appeared again!
@@ -336,45 +336,45 @@ I managed to get deep into the\r\nsecond layer, but this time a\r\nbeast with fu
 I couldn't give up on the idea\r\nthat the red beast was hiding\r\ntreasure, so I was secretly\r\nwatching him. Then you showed\r\nup and pulled off such a feat.\r\nSeeing that in person@\r\nI decided to retire.
 Money Solves Everything (3)
 Treasure Hunter　Rudd
-Me again. It's not even worth\r\ntrying to hold up appearances\r\nanymore@ Asking someone like\r\nyou is my only shot! Show me a\r\nfull map of the ruins!\r\nPleasssssseeeeeeeseeeeeeeee!!!
+Me again. It's not even worth\r\ntrying to hold up appearances\r\nanymore@ Asking someone like\r\nyou is my only shot! Show me\r\na full map of the ruins!\r\nPleasssssseeeeeeeseeeeeeeee!!!
 It hurts when I think of how\r\ndisappointed you must have been@\r\nBut! With this complete map, I\r\nshould finally be able to reach\r\nthe deepest parts of the ruins!!\r\nYou really did come through for\r\nme. I will miss our letters@
 Collection Mania
 Multimillionaire　Rossmann
 In my mansion, I have a collection\r\nof treasures from all over the\r\nworld. I like collecting things,\r\nbut just seeing them is also\r\ninteresting. May I see what\r\nyou've been able to uncover?
-Hm@ Incredible! I'm sure these items\r\ngave you their fair share of trouble\r\nto locate, aye? @I don't suppose\r\nyou'd let me buy them from you? No…?\r\nWell, it was worth a shot ( ! )
+Hm@ Incredible! I'm sure these\r\nitems gave you their fair share\r\nof trouble to locate, aye?\r\nI don't suppose you'd let me\r\nbuy them from you? No@?\r\nWell, it was worth a shot!
 Glittering Wings
 Cowardly Hunter　Rakhael
 I went to the room where you\r\ndefeated the revived green\r\ndragon, on the lookout for\r\ntreasure. But@ there was\r\nsomething down there! I ran\r\naway as fast as I could@
-Well? There was something\r\nlurking down there, right?\r\nhere's no way I could ever\r\nhave dealt with such a monster.\r\n@Still, I'm the one who\r\ntaught you about the white\r\ndragon in that room, yeah?\r\nHehe, how about that then?
+Well? There was something lurking\r\ndown there, right? There's no way\r\nI could have ever dealt with such\r\na monster, haha@ Still, I guess I am\r\nthe one who taught you about the\r\nwhite dragon in that room, yeah?\r\nThat's gotta count for something!
 The White Wings Return
 Cowardly Hunter　Rakhael
-I thought it'd be fine this\r\ntime, so I went to that room\r\nagain. You know, the one where\r\nthe white dragon appeared.\r\nBut it had revived again,\r\nand it's even bigger now!!
-Whew～ I owe you one, pal! I'll\r\nbe sure to tell my future kids\r\nthe tale of the man who wasn't\r\nafraid of dragons! @Eh? I\r\nshouldn't bother? Well, I'm\r\nnot fussed as long as I can\r\nget my hands on some treasure.
+I thought it'd be fine this time,\r\nso I went to that room again.\r\nYou know, the one where the\r\nwhite dragon appeared.\r\n@But, it had revived again,\r\nand it's even bigger now!!
+Whew～ I owe you one, pal! I'll be\r\nsure to tell my future kids the\r\ntale of the man who wasn't afraid\r\nof dragons! @Eh? “Don't bother?"\r\nWell, it makes no difference to me,\r\nas long as I can get my hands on\r\nsome treasure!
 Third Time's The Charm
 Cowardly Hunter　Rakhael
-Oi oi oi! They say that what\r\nhappens twice will happen thrice,\r\nbut once again, my hairs are\r\nstanding on end@! That white\r\ndragon keeps on reappearing@\r\nIt's just too powerful now@
-What?! You're pulling my leg!\r\nThat dragon isn't something\r\nHumans could hope to match, but\r\nyou dealt with it so easily@\r\nYou really are the man I thought\r\nyou were! Now I can search for\r\ntreasure with peace of mind!
+Oi oi oi! They say that what happens\r\ntwice will happen thrice, but once\r\nagain, my hairs are standing on\r\nend@! That white dragon keeps on\r\nreappearing@ It's just too strong\r\nnow, even for you@
+What?! You're pulling my leg!\r\nThat dragon isn't something humans\r\ncould hope to match, but you dealt\r\nwith it so easily@\r\nYou really are the man I thought\r\nyou were! Now I can search for\r\ntreasure with peace of mind!
 Crawling From The Darkness
 Worried Archaeologist　Renus
-I was investigating the room\r\nin the third layer where you\r\npreviously defeated the crimson\r\ndragon, when a black dragon the\r\nlikes of which have never been\r\nseen before suddenly attacked!
+I was investigating the room\r\nin the third layer where you\r\npreviously defeated the crimson\r\ndragon, when a black dragon, the\r\nlikes of which have never been\r\nseen before suddenly attacked!
 See? It really does exist! But,\r\njeez@ It would have been enough\r\nto just go and take a look, but\r\nyou defeated the damn thing@\r\nYou really are strong. Well, now\r\nI can get back to doing my\r\nresearch in that room! Cheers!
 Chased By The Black Dragon
 Worried Archaeologist　Renus
-Liar! I heard that you defeated\r\nthe jet-black dragon who appeared\r\nin the third layer, so I went\r\nback to that room, but@ You\r\ndidn't defeat him! I barely made\r\nit out of there alive@  Why don't\r\nyou go and see for yourself?
-See? It was there, wasn't it??\r\n@But you really did defeat it\r\nlast time, didn't you? Which\r\nmeans, it's true that they\r\ncan be revived@ Well, no\r\nmatter. I'll try heading back\r\nthere so I can continue my work!
+Liar! I heard that you defeated\r\nthe jet-black dragon who appeared\r\nin the third layer, so I went back\r\nto that room, but@ You didn't\r\ndefeat him! I barely made it out\r\nof there alive@ See for yourself!
+See? It was there, wasn't it??\r\n@But you really did defeat it\r\nlast time, didn't you? Which\r\nmeans, it's true that they can\r\nbe revived@ Well, no matter.\r\nI'll try heading back there so\r\nI can continue my work!
 Dark Feathers Dancing
 Worried Archaeologist　Renus
-Argh! It was there again, after\r\nall. This time I entered the\r\nroom with caution, so I managed\r\nto flee the second I spotted it,\r\nbut I could tell that it was\r\nstronger than before.
-As soon as I heard that you'd\r\nsubdued the jet black dragon,\r\nI headed down there. But this\r\ntime, I didn't see hide nor hair\r\nof it. @I wonder if there's a\r\nlimit to the number of times\r\nsomething can be resurrected@?
-The Guild’s Challenge (5)
+Argh! It was there again, after all.\r\nThis time I entered the room with\r\ncaution, so I managed to flee the\r\nsecond I spotted it, but I could tell\r\nthat it was stronger than before.\r\nNo one can stand up to it now...
+As soon as I heard that you'd\r\nsubdued the jet black dragon,\r\nI headed down there. But this\r\ntime, I didn't see hide nor hair\r\nof it. @I wonder if there's a\r\nlimit to the number of times\r\nthey can be resurrected@?
+The Guild's Challenge (5)
 Adventurer's Guild
-This is your test to graduate\r\nfrom the guild. Put your\r\ntraining into practise! Don't\r\nbe afraid! In the first layer\r\nof the ruins, the resurrected\r\nbeast of three heads awaits you!
-The test is not over yet. Your\r\ncapability as a hunter will be\r\ndetermined by whether or not\r\nyou can clear the next request.\r\nSeek to climb even higher!\r\nThere's always a way ahead!
-The Guild’s Challenge (6)
+This is your test to graduate\r\nfrom the guild. Put your training\r\ninto practise! Don't be afraid!\r\nIn the first layer of the ruins,\r\nthe resurrected beast of three\r\nheads awaits you!
+The test is not over yet. Your\r\ncapability as a hunter will be\r\ndetermined by whether or not\r\nyou can clear the next quest.\r\nSeek to climb even higher!\r\nThere's always a way ahead!
+The Guild's Challenge (6)
 Adventurer's Guild
-This is your test to graduate\r\nfrom the guild.  Put your\r\ntraining into practise! Don't\r\nbe afraid! In the second layer\r\nof the ruins, a large sand-\r\ndwelling snake awaits you!
-It looks like you've finally\r\nmade it here. The next request\r\nis the last one you can receive.\r\nIt's fine to stop here. But if\r\nyou do choose to take on the\r\nfinal quest@ don't die. That's\r\nall I can say.
+This is your test to graduate\r\nfrom the guild. Put your training\r\ninto practise! Don't be afraid!\r\nIn the second layer of the\r\nruins, a large sand-dwelling\r\nsnake awaits you!
+It looks like you've finally made\r\nit here. The next request is the\r\nlast one you can receive.\r\nIt's fine to stop here. But if\r\nyou do choose to take on the\r\nfinal quest@ don't die.\r\nThat's all I can say.
 One Final Challenge
 Adventurer's Guild
 You have proved your skills\r\nmore than enough through your\r\npast achievements. This request\r\nis probably the last thing the\r\nguild can set you. Proceed with\r\ncaution, and go down in history!
-Incredible. You need not be\r\nconstrained to this Adventurer's\r\nGuild any longer. Take advantage\r\nof the experience you have gained\r\nso far explore the world! I will\r\nbe wishing for your success from\r\nthis small, distant village@
+Incredible! You need no longer be\r\nconstrained to this Adventurer's\r\nGuild. Take advantage of the\r\nexperience you have gained so\r\nfar and explore the world! I\r\nwill be wishing for your success\r\nfrom this small, distant village@

@@ -29,7 +29,7 @@
 石盤
 \r\n\r\n\r\n  　Barmiza Ruins　Third Layer\r\n\r\n―The path laid by a mysterious―\r\n        　crimson light. \r\n\r\n\r\n
 石盤
-\r\n　　　 ゲーム本編のクリア\r\n　　 おめでとうございます！\r\n　\r\n　　これより先はとても強力な\r\n　　　魔物が徘徊しています。\r\n　 腕に自信のある冒険者の皆様、\r\n　　是非、奥へ辿り着けるよう\r\n　　　　頑張ってください。\r\n
+   Congratulations on clearing\r\n           the game!\r\n\r\n   Beyond this point, powerful\r\n      monsters are lurking.\r\n\r\n Confident adventures, try your\r\n     best to reach the end!
 石盤
    Waiting beyond here is the\r\n   guardian of sparkling gold.\r\n\r\n An extraordinary being created\r\n by our great Nation of Reville.\r\n\r\n  Those who would dare to enter\r\n   should be prepared to take\r\n       their last breath.
 石盤

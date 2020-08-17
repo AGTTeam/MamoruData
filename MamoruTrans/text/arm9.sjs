@@ -254,7 +254,7 @@ You can report that you've finished a request at\nthe reception desk.\nDrop by a
 %sÅ@Deliver
 %sÅ@Chat
 %sRuins Exploration %dÅì or more
-%sTreasure Uncovered %dÅì or more
+%sTreasure Uncovered %dÅì
 
 %s
 %s
@@ -462,18 +462,18 @@ What the hell are you up to!?\nWhy are you doing this@?\n\n
 I told you, didn't I?\nI have never once beaten you, in anything.\n\n
 Ever since the tryouts to join the knights@\n\n\n
 The knight tryouts@?\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉMÉÖÉHÉHÉHÉHÉHÉH ÅI ÅI\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉOÉãÉDÉDÉDÉDÉDÅcÅc\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉMÉÖÉBÅ[Å[Å[Å[Å[Å[Å[Å[ ÅI ÅI ÅI\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉMÉÖÉHÉHÉHÉHÉHÉH ÅI ÅI\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉMÉÖÉHÉHÉHÉHÉHÉH ÅI ÅI\n\n\n
-ÅcÅc ÅI ÅH\n\n\n
-ÉMÉÖÉHÉHÉHÉHÉHÉH ÅI ÅI\n\n\n
+@!?\n\n\n
+Rooooooaaar!!\n\n\n
+@!?\n\n\n
+Grrrrrr@\n\n\n
+@!?\n\n\n
+Gaaaoorr----!!!\n\n\n
+@!?\n\n\n
+Rooooooaaar!!\n\n\n
+@!?\n\n\n
+Rooooooaaar!!\n\n\n
+@!?\n\n\n
+Rooooooaaar!!\n\n\n
 @A human?\nAye yai yai@ They can make it this far in@\n\n
 @A goblin?\n\n\n
 Shut your face! Hurry up and shove off already!\nIf you don't, I'll have to use my bow and arrow@\n\n
@@ -483,7 +483,7 @@ O-oi! Don't wave that thing about!\n\n\n
 ÅÑRen decided to leave the small monster who\nÅ@wasn't giving him a chance to speak and put\nÅ@that place behind him.\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Timing<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Timing<C04>'.\n\n
 <C03>Timing<C04>?\n\n\n
 ÅgYou will be able to keep up your opponents\nwithout missing the mark@Åh, or so it says.\n\n
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
@@ -495,73 +495,73 @@ This book seems to contain information about an\n<C03>assigned skill<C04> that a
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Eyesight<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Eyesight<C04>'.\n\n
 <C03>Divine Eyesight<C04>?\n\n\n
 ÅgObtain the power of the gods and witness every\nmove made by your opponent", or so it says.\n\n
 In other words, it's a skill that will increase\nthe accuracy of your attacks, as long as it's\nbeen assigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick Thinking<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick Thinking<C04>'.\n\n
 <C03>Quick Thinking<C04>?\n\n\n
 ÅgNo matter the situation, you will be able to\nthink on your feet and move accordingly", or\nso it says.\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Reflexes<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Reflexes<C04>'.\n\n
 <C03>Reflexes<C04>?\n\n\n
 ÅgYou can house reflexes far keener than most\nwithin your body", or so it says.\n\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>A Gust of Wind<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>A Gust of Wind<C04>'.\n\n
 <C03>A Gust of Wind<C04>?\n\n\n
 ÅgObtain a body so light that you can feel the\nmight of the windÅh, or so it says.\n\n
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Horse Power<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Horse Power<C04>'.\n\n
 <C03>Horse Power<C04>?\n\n\n
 ÅgYou will be able to run at speeds on par with\nthe legendary eight-legged divine horse", or so\nit says.\n
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick As A Flash<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Quick As A Flash<C04>'.\n\n
 <C03>Quick As A Flash<C04>?\n\n\n
 ÅgYou can run faster than anyone else by hosting\ndivine power in your legs", or so it says.\n\n
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Poison<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Poison<C04>'.\n\n
 <C03>Resist Poison<C04>?\n\n\n
 ÅgYour body will be able to produce antitoxins\nthat half the effects of being poisonedÅh, or\nso it says.\n
 So it seems that assigning this skill will reduce\nthe duration you're poisoned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist\nParalysis<C04>Åe.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist\nParalysis<C04>'.\n
 <C03>Resist Paralysis<C04>?\n\n\n
 ÅgYour body will be able to resist the effect of a\nparalyzing sting by up to a half", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you'll be paralyzed.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Stun<C04>Åe.\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Stun<C04>'.\n
 <C03>Resist Stun<C04>?\n\n\n
 ÅgYour body will be able to resist the effect of\nbeing stunned by up to a half", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you'll be stunned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Determination<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Determination<C04>'.\n\n
 <C03>Determination<C04>?\n\n\n
 ÅgIf you face your adventures with determination,\nyou can easily shrug off feelings of fearÅh, or so\nit says.\n
 So it seems that assigning this skill will reduce\nthe duration you're frightened.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Burn<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that allows you to Åe<C03>Resist Burn<C04>'.\n\n
 <C03>Resist Burn<C04>?\n\n\n
 ÅgBy curing the skin, you can make it highly heat\nresistant and flame retardant", or so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration you'll be burned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Resistant Block<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Resistant Block<C04>'.\n\n
 <C03>Resistant<C04>@ <C03>Block<C04>?\n\n\n
 ÅgYou can enhance your resistance to all ailments",\nor so it says.\n\n
 So it seems that assigning this skill will reduce\nthe duration of all status ailments.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
@@ -579,160 +579,160 @@ It has character, don't you think?\nAlright, we should stop at the guild first.\
 éÑÇÕÇ«Ç±Ç…Ç¢ÇÈÇ≈ÇµÇÂÇ§ÅH\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Warrior's Right Arm<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Warrior's Right Arm<C04>'.\n\n
 <C03>Warrior's Right Arm<C04>?\n\n\n
 ÅgYou can host the offensive power of a battle-\nscarred warrior within your body", or so it says.\n\n
 In other words, it's a skill that will increase the\n power of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Demon's Right Arm<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Demon's Right Arm<C04>'.\n\n
 <C03>Demon's Right Arm<C04>?\n\n\n
 ÅgYour body will become host to an offensive power\nlike that of a demon", or so it says.\n\n
 In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Grasp<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Divine Grasp<C04>'.\n\n
 <C03>Divine Grasp<C04>?\n\n\n
 ÅgYour attacks will become reminiscent of a War God\nwith the power to rend the earth", or so it says.\n\n
 In other words, it's a skill that will increase your\nmovement speed, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Hunter's Left Hand<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Hunter's Left Hand<C04>'.\n\n
 The <C03>Hunter's Left Hand<C04>?\n\n\n
 ÅgLike the fist of a skilled hunter, you can deal a\npowerful blow to distant enemiesÅh, or so it says.\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Golden Left Hand<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Golden Left Hand<C04>'.\n\n
 The <C03>Golden Left Hand<C04>?\n\n\n
 ÅgKnives thrown with a glistening golden left hand\nwill demonstrate more power than ever before."\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Sniper<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Sniper<C04>'.\n\n
 <C03>Sniper<C04>?\n\n\n
 ÅgYou can become a supreme sniper whose prey\nnever manages to slip away", or so it says.\n\n
 In other words, it's a skill that will increase\nthe power of knife attacks, as long it's been\nassigned.\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Body Builder<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Body Builder<C04>'.\n\n
 <C03>Body Builder<C04>?\n\n\n
 ÅgYou will be able to enhance your body beyond\nits natural limits", or so it says.\n\n
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Metal Plate<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Metal Plate<C04>'.\n\n
 <C03>Metal Plate<C04>?\n\n\n
 ÅgBy obtaining a body as hard as metal, you will\nbe able to deflect impact", or so it says.\n\n
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Ultimate Endurance<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Ultimate Endurance<C04>'.\n\n
 <C03>Ultimate Endurance<C04>?\n\n\n
 ÅgInstead of searching for something beyond the\npain, you can obtain a body that can withstand\nany pain, no matter how severe", or so it says.\n
 In other words, it's a skill that will increase your\ndefence, as long as it's been assigned.\n\n@They make it sound like hoping pain will end is\na bad thing, but if something hurts, it hurts@\n\n@Maybe it's saying you can endure more depending\non your frame of mind?\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Empty Mind<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Empty Mind<C04>'.\n\n
 <C03>Empty Mind<C04>?\n\n\n
 ÅgBy reaching a point where your mind is clear of\nall thoughts, you will be able to read the airÅh,\nor so it says.\n
 In other words, it's a skill that will increase your\nevasion rate, as long as you have it assigned.\n\n@Sounds like you can become just like a wise old\nmonk.\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Student<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Student<C04>'.\n\n
 <C03>Forward Roll<C04>@ <C03>Student<C04>?\n\n\n
 Let's see@ It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
 Apparently, by having this skill assigned, you\ncan ward off enemy attacks whilst rolling.\n\nSo with this, you should be able to easily avoid\nenemy attacks that you used to have trouble\ndodging.\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Master<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Forward Roll - Master<C04>'.\n\n
 <C03>Forward Roll<C04>@ <C03>Master<C04>?\n\n\n
 Let's see@ It contains tips on evasive manoeuvres,\nthat is, techniques to help you better use your\nforward roll.\n
 Apparently, by having this skill assigned, you'll be\nable to completely fend off enemy attacks whilst\ndoing a forward roll.\n@Seems to fit the name, then.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Poison Immunity<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Poison Immunity<C04>'.\n\n
 <C03>Poison Immunity<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify any\neffect", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being poisoned.\n\n@That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Paralysis Immunity<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> that gives you Åe<C03>Paralysis Immunity<C04>'.\n\n
 <C03>Paralysis Immunity<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify any\neffect", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being paralysed.\n\n@That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Steel Heart<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Steel Heart<C04>'.\n\n
 <C03>Steel Heart<C04>?\n\n\n
 ÅgYou can obtain a heart of steel that will never\nquiver, no matter the situation you fall into", or\nso it says.\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being stunned.\n\n@That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Unbreakable Heart<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Unbreakable Heart<C04>'.\n\n
 <C03>Unbreakable Heart<C04>?\n\n\n
 ÅgYou can come to possess a heart nurtured by\novercoming panic countless times", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about fear.\n\n@That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Burn Immunity<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Burn Immunity<C04>'.\n\n
 <C03>Burn Immunity<C04>?\n\n\n
 ÅgYou can build up immunity in your body that can\nwithstand even mighty hell fire", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about being burned.\n\n@That's quite the handy skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Immune Block<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Immune Block<C04>'.\n\n
 <C03>Immune Block<C04>?\n\n\n
 ÅgYou can boost your immunity enough to nullify\nall ailments", or so it says.\n\n
 Apparently, by having this skill assigned, you won't\nneed to worry about status ailments.\n\n@That is one handy skill.\nIt even seems a bit unfair@\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <I><C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <I><C04>'.\n\n
 <C03>Auto-Heal <I><C04>?\n\n\n
 ÅgAn ability to spontaneously recover that goes\nbeyond human understanding will emerge, allowing\nwounds to the body to be automatically healed.Åh\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
 If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <II><C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <II><C04>'.\n\n
 <C03>Auto-Heal <II><C04>?\n\n\n
 ÅgYou can expand your natural healing ability, and\nmake everyday cuts and bruises a thing of the\npastÅh, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
 If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <III><C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Auto-Heal <III><C04>'.\n\n
 <C03>AutoÅ]Heal <III><C04>?\n\n\n
 ÅgYou can house a miraculous healing ability within\nyour body, to tremendous effect", or so it says.\n\n
 Apparently, by having this skill assigned, you'll be\nable to automatically recover HP.\n\n
 If used properly, you might be able to save on\nhealing items.\n\nWell, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Beggar's Obstinance<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Beggar's Obstinance<C04>'.\n\n
 <C03>Beggar's Obstinance<C04>?\n\n\n
 ÅgThrough the obstinacy of a beggar, you can gain\na small amount of money on a regular basisÅh, or\nso it says.\n
 Apparently, by having this skill assigned, your\nmoney will increase automatically.\n\n@What a lavish skill.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Millionaire's Margin<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Millionaire's Margin<C04>'.\n\n
 <C03>Millionaire's Margin<C04>?\n\n\n
 ÅgWith the flexibility of a multimillionaire, you can\ngain a money on a regular basis", or so it says.\n\n
 Apparently, by having this skill assigned, your\nmoney will increase automatically.\n\n@My, if that isn't the height of luxury.\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Awakening Power<C04>Åe.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called Åe<C03>Awakening Power<C04>'.\n\n
 <C03>Awakening Power<C04>?\n\n\n
 ÅgYou can draw out power beyond your natural\nlimitsÅh, or so it says.\n
 Apparently, by having this skill assigned, you'll be\nable to unleash a very powerful blow at random@ \nI.e, you'll deal a critical hit in a single blow.\n@Not being able to choose when seems kinda\ninconvenient, though.\n\n
@@ -904,7 +904,7 @@ Yes@ To summarise it@\n\n\n
 I feel like they're laying it on a bit thick there,\nbut@\n\n
 Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           ÅyTree +2Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>           ÅyTree +2Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>In Harmony With Trees<C04>Åe.\n
@@ -915,7 +915,7 @@ That is, the Tree Master. The master may gather\nmuch more than before@"\n\n
 @What is Ågthat is, the Tree Master" even\nsupposed to mean?\n\n
 Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>           ÅyTree +4Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>           ÅyTree +4Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Grass Admirer<C04>Åe.\n
@@ -926,10 +926,10 @@ It goes without saying that the number of times\nthe grass can be collected from
 @Does it really make any difference whether or\nnot the grass is admired@?\n\n
 Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah,  no harm in trying.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +2Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyGrass +2Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Gardener<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Gardener<C04>'.\n
 <C03>Apprentice Gardener<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By having a strong desire to become a good\ngardener and mastering the skills required for\nthe upkeep of grass,\n
@@ -937,10 +937,10 @@ you will excel at managing grass, and hence the\nnumber of times you can harvest
 @As a treasure hunter, no matter what kind of\nskill it is, anything you acquire will never go to\nwaste!\n@Or something like that.\n\n\n
 Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +3Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyGrass +3Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>Green-Fingered<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called Åe<C03>Green-Fingered<C04>'.\n
 <C03>Green-Fingered<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 ÅgBy having the spirit and resolve as if to say\nÅeEntrust the garden to me!' when tending to\nbudding plants,\n
@@ -948,10 +948,10 @@ you will be able to to harvest much more from\nthis natural wonder."\n\n
 ÅgEntrust the gardenÅh@\n\n\nI wonder if should get you to look after Guild's\ngarden for us@?\n\n
 Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyGrass +4Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyGrass +4Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Enthusiast<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Enthusiast<C04>'.\n
 <C03>Rock Enthusiast<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@This skill instils a strong sense of adoration\nfor rocks.\n\n
@@ -959,10 +959,10 @@ As a result, one will develop a habit of observing\nrocky areas, allowing them t
 @Not sure I really understand what there is to\nadore about rocks.\n\n
 Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +2Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyRocks +2Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Miner<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Apprentice Miner<C04>'.\n
 <C03>Apprentice Miner<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@By acquiring the skills of a person who works\nin a mine, you'll be able to dig up rocks without\nfear of fatigue.\n
@@ -970,10 +970,10 @@ As a result, the number of times you can collect\nfrom rocks will increase signi
 @Are they trying to scout people for the mines?\n\n\n
 Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +3Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyRocks +3Åz<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Master<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Rock Master<C04>'.\n
 <C03>Rock Master<C04>?\n\n\n
 The title seems pretty suspect to me@\nWell, to summarise it@\n\n
 Åg@By adoring rocks so much that you can grasp\nthe state of the earth just by looking at them,\n\n
@@ -981,7 +981,7 @@ you can greatly increase the number of times\nyou're able to collect material fr
 I wonder if it's like having the power to see\nthrough objects@?\n\n
 Well, if you do come across some rocks, why don't\nyou try harvesting some material from them and\nsee what's changed?\n
 Yeah, will do.\n\n\n
-<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n            increased!\n\n<C03>          ÅyRocks +4Åz<C04>\n\n
+<C05>Å@Å@Å@Å@Å@ INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          ÅyRocks +4Åz<C04>\n\n
 Phew@ I'm kinda tired.\n\n\n
 @I guess this is as good a place as any to take\na break.\n\n
 ÅÑHaving been walking through the ruins, Ren\nÅ@leaned against a nearby wall ready to sit\nÅ@down, when@\n
@@ -990,7 +990,7 @@ Phew@ I'm kinda tired.\n\n\n
 ÅÑStartled by a ghost who suddenly appeared,\nÅ@Ren made an out-of-character decision to\nÅ@run for it as fast as he could.\nÅÑAt that time, he had no way of knowing that\nÅ@the eyes hiding behind the mask were filled\nÅ@with sorrow@\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Timber Appraiser<C04>Åe.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the Åe<C03>Timber Appraiser<C04>'.\n
 <C03>Timber Appraiser<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 Åg@Those eyes which look at trees become well-\ntrained, allowing one to experience a new side\nof nature they have never seen before.\n
