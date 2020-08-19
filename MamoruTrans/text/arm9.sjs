@@ -407,8 +407,8 @@ Collection from rocks ＋ 4
 Oh! Welcome.\nWhat're you after?\n\n
 そういえば、 新たに受注できる依頼が\n追加されているみたいよ。\nぜひそちらもチェックしていってね。\n
 Welcome!\nThis Item Shop stocks everrrything.\nWhat would you like?\n
-Welcome to the Adventure's Guild.\n\n
-Welcome to the Adventure's Guild.\nHow may I help you today?\n\n
+Welcome to the Adventurers Guild.\n\n
+Welcome to the Adventurers Guild.\nHow may I help you today?\n\n
 Now then, how may I help you today?\n
 Oh? Looks like you've got another <C03>skill book<C04> on\nyou. Pass it here.\n
 @What, you again?\n\n\n
@@ -945,7 +945,7 @@ This book appears to date back to the ancient\ncivilisation. It seems to be abou
 Yes@ To summarise it@\n\n\n
 “By having the spirit and resolve as if to say\n‘Entrust the garden to me!' when tending to\nbudding plants,\n
 you will be able to to harvest much more from\nthis natural wonder."\n\n
-“Entrust the garden”@\n\n\nI wonder if should get you to look after Guild's\ngarden for us@?\n\n
+“Entrust the garden”@\n\n\nI wonder if should get you to look after the\nguild's garden for us@?\n\n
 Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it and\nsee what's changed?\n
 Yeah, will do.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          【Grass +4】<C04>\n\n
@@ -1117,7 +1117,7 @@ Good grief@\n@Alright, fine.\n\nHand over that letter. I'll see to it that it ge
 You mean it!?\n\n\n
 Yeah. Kobolds don't tell lies.\n\n\n
 Ah, sorry.\nThen I'm counting on you.\n\n
-＞Ren handed over the letter that the Guild had\n　entrusted him with.\n\n
+＞Ren handed over the letter that the guild had\n　entrusted him with.\n\n
 Oh@ right@\n\n\n
 Hm? What is it?\n\n\n
 M-mm@ Well@ Roy@\n\n\nPass this message on to that human, Roy.\n\n\n“Don't ever come back to the ruins! Even if you\nget hurt, I'm not gonna help you!”\n\n
@@ -1369,29 +1369,29 @@ I-it's huge!?\nThis thing was in the sand--!?\n\n
 Gaaaoorr----!!!\n\n\n
 @I've got no choice, huh?\n\n\n
 ＞Determined, Ren gripped the sword tightly in his\n　hand and pointed it at the giant sand snake.\n\n
-＞Ren signed the request and place it next to\n　Charnet, who was busy seeing to someone else.\n\n
+＞Ren signed the request and placed it next to\n　Charnet, who was busy seeing to someone else.\n\n
 ＞Then, with perfect timing, the other visitor\n　left, and Charnet returned to check over\n　the piece of paper.\n
-Perfect.　Looks like that didn't give you any\ntrouble.\n\n
+Perfect. Looks like that didn't give you any\ntrouble.\n\n
 Now, all you have to do is fulfil the conditions,\nand then come back here.\nPiece of cake, right?\n
 Complete the request, <C03>return to the guild, and\nreport my results<C04>@\n\n
 I figured as much.\n@Don't treat me like a kid.\n
-Oh?　Did I hit a nerve?\n\n\n
-…………\n\n\n
-Hehehe.　Sorry, sorry.\n\n\n
-Ah, right.　Almost forget!\nThis is for you, since you're new here.\n\n
-It's a map of the ruins.\n@Well, it's actually just a piece of paper and a\npen.\n
+Oh? Did I hit a nerve?\n\n\n
+@@\n\n\n
+Hehehe. Sorry, sorry.\n\n\n
+Ah, right. Almost forgot!\nThis is for you, since you're new here.\n\n
+It's a map of the ruins.\n@Well, it's actually just a piece of paper and\na pen.\n
 Anyway, as you walk around the ruins, you can\nfinish it yourself.\n\n
 And, there's also a guide published by the guild\naimed at helping new treasure hunters get started.\n\n
-You've got to look out for yourself.\nMake sure you have a read through it so you\ndon't end up crying and regretting it later.\n
-<C05>    　 【Map of the Ruins】<C04>\n\n When you're inside the ruins,\n a map will be displayed on the\n lower screen.\n <C03>The map will automatically\n update whenever you enter a\n new room.<C04>\n Try walking through every nook and\n cranny to complete it.
-<C05>     【Exploration Guide】<C04>\n\n It contains various bits of\n useful info. You can check\n the contents at any time by\n pressing the START button to\n call the <C03>menu, and then going\n to your “Items” and choosing\n the “Key” category.<C04>
+You've got to look out for yourself.\nMake sure you have a read through it so you don't\nend up regretting it later in floods of tears.\n
+<C05>    　【Map of the Ruins】<C04>\n\n When you're inside the ruins,\n a map will be displayed on the\n lower screen.\n<C03> The map will automatically update\n whenever you enter a new room.<C04>\n Try walking through every nook \n and cranny to complete it.
+<C05>       【Exploration Guide】<C04>\n\nIt contains various bits of useful\r\ninformation. You can check the\r\ncontents at any time by pressing\r\nthe START button to call the <C03>menu\r\nand then going to your items and\r\nchoosing the “Key” category<C04>.
 A guide to exploring@ hm.\n\n\n
 As with anything, you need to have a firm grasp\nof the basics, right?\n\n
 Especially when it comes to suspicious men who\nlook more like kids, wouldn't-you-say?\n\n
-@@\n\n\n
+@\n\n\n
 Well then, time for you head off to the ruins and\ncomplete that request.\n\n
 Yeah, I'll have it done in no time.\n\n\n
-＞Peeling himself away from the counter, Ren\n　waved to Charnet and quickly made his way\n　out of the Guild.\n
+＞Peeling himself away from the counter, Ren\n　waved to Charnet and quickly made his way\n　out of the guild.\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What is it?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent skill<C04>\nwhich allows you to perform <C03>Evasive Manoeuvres<C04>.\n
@@ -1466,21 +1466,21 @@ But never mind that, I found something interesting.\nHave a read of this.\n\n
 ＞Veres took out an old book and handed it to Ren.\n\n\n
 @It's so dirty that it's hard to read.\nLet's see@\n\n
 “We have committed a terrible sin@\nThis stone is something that shouldn't exist@\n\n
-Some people worship our nation of Reville as\nGods@ but that is a mistake.\n\n
+Some people worship our nation of Reville as\ngods@ but that is a mistake.\n\n
 No matter how superior our skills, we are still\nonly human.\n\n
 @No, we are less.\n\n\n
 We tread foot into a realm that should never\nbe touched by humans@”\n\n
 ＞Ren read aloud the page that Veres had shown\n　him.\n\n
 It seems like it's a record from ancient times,\nbut@\n\n
 I got the impression this ‘Nation of Reville' it\nmentions must have been heavily intertwined\nwith these ruins.\n
-The ‘Nation of Reville', huh?\n@That's the first I've heard of them.\n\n
+The “Nation of Reville”, huh?\n@That's the first I've heard of them.\n\n
 Well, I've got this part covered so you should get\nback to searching for the Magicite.\n\n
 I'm counting on you!\n\n\n
 H-hey! Veres!\n\n\n
 ＞Without regard to the voice calling out to him,\n　Veres disappeared into another room.\n\n
 @@@\n\n\n
 @That book certainly got my attention.\n\n\n
-‘The Nation of Reville@'\nPeople worshiped them like Gods, but they had\ncommitted a huge sin@\n
+‘The Nation of Reville@'\nPeople worshiped them like gods, but they had\ncommitted a huge sin@\n
 @That alone has lost me.\n\n\n
 ＞Ren, trying to wrap his head around the content\n　of the passage he just read was unaware that\n　he was making a big mistake@\n
 ＞@having forgotten the eerie atmosphere he'd\n　first felt when entering the room, before Veres\n　had interrupted.\n
@@ -1522,7 +1522,7 @@ A customer asked me to go to the ruins to collect\nsome material for making a sw
 I'm not all that interested in the depths of the\nruins, plus I have no time to go and see them.\n\nThat's why I thought I'd give it to you.\n
 @I think it's better that it's used for research\nrather than going to someone who just wants to\ntry dig up treasure.\n
 Wow@ You really are a good guy.\n\n\n
-I thought I already told you to call me ‘Mr Lagnus'!\n\n\n
+I thought I already told you to call me “Mr Lagnus"!\n\n\n
 Thank you@ Mr Lagnus.\n\n\n
 Much better!\n\n\n
 Well, I'm gonna get back.\nIf you find yourself wanting a weapon, pop round!\n\n
@@ -1661,19 +1661,19 @@ I n   e x c h a n g e--!\n\n\n
 Since you took the trouble of coming here, you\nshould have a look at my warrres.\n\n
 I've assembled all sorrrts of essential items\nfor explorring the ruins!\n\n
 Well well well, what would you like?\n\n\n
-＞The Adventure's Guild, Liruka Village Branch.\n\n\n＞It seemed to have become a base for those\n　who were exploring the ruins, as it was packed\n　full despite being located in a small village.\n＞With four circular tables and a row counters,\n　the small room was bustling night and day.\n\n＞People laughing and drinking@\n　Those stood around quietly@\n\n＞The adventures were enjoying passing the time,\n　when the groan of the door opening sounded\n　the arrival of new visitors.\n
+＞The Adventurers Guild, Liruka Village Branch.\n\n\n＞It seemed to have become a base for those who\n　were exploring the ruins, as it was packed full\n　despite being located in a small village.\n＞With four circular tables and a row of counters,\n　the small room was bustling night and day.\n\n＞People laughing and drinking@\n　Those stood around quietly@\n\n＞The adventures were enjoying passing the time,\n　when the groan of the door opening sounded\n　the arrival of new visitors.\n
 Oh, welcome.\n\n\n
 ＞The first person to speak was a beautiful\n　woman, stood over the counter.\n\n
 Whooooa!\nThat lady is crazy gorgeous, right@?\n\n
 We're after Liruka Village's Guild, is this the right\nplace?\n\n
-@Oi, so you're actually starting to ignore me\nnow?\n\n
+@Oi, so you're actually starting to ignore me now?\n\n\n
 I haven't seen your faces around here before.\nJudging by those outfits, I'd guess you're from\nthe capital?\n
 Yeah. We're here to investigate the ancient ruins,\nby order of the Archduke of Kucellbull.\nI'm Ren, one of the Duchy Knights.\n
 Likewise, I'm Veres, a Knight of the Dukedom.\nPleased to make your acquaintance.\n\n
 Oh, it's you?\nI'd heard the news, but I wasn't expecting you to\nbe so young.\n
-Heh heh.　We get that a lot.\n\n\n
+Heh heh. We get that a lot.\n\n\n
 ＞Veres ogled her, as if he hadn't already stared\n　hard enough.\n\n
-I'm Charnet.　The Adventurer's Guild, Liruka Village\nBranch's receptionist, and Guildmaster.\n\n
+I'm Charnet. The Adventurers Guild, Liruka Village\nBranch's receptionist, and Guildmaster.\n\n
 Miss Charnet, you say@?\nWhat an elegant name.\n\n
 Why, thank you.\n\n\n
 @By the way, where are these ancient ruins that\nwere uncovered?\n\n
@@ -1686,13 +1686,13 @@ A fair point.\nWell then, could you write your names on these\npapers?\n
 Yes.　You don't know? Before you can enter\nhistoric relics, you must register with the\nguild overseeing that jurisdiction.\n
 Even though you're here by order of the\nArchduke, there are no exceptions. If you're going\nto enter the ruins, register with the guild.\n
 Seriously@\nWe're gonna join the treasure hunters?\n\n
-＞Hesitating, Veres gave a backwards glance at\n　Ren, who had already finished writing his name.\n\n
+＞Hesitating, Veres gave a sideways glance at\n　Ren, who had already finished writing his name.\n\n
 It's fine, so get writing.\n\n\n
 Ack! You didn't even give it a second thought,\ndid you!?\nYou sure work fast@\n
 ＞Names signed, they handed their papers back to\n　Charnet.\n
 All present and correct.\nWell then, you're all set to head off to the\nruins, but first@\n
 By registering with a guild, you can receive a\nvariety of benefits to help you with your\nadventure. For instance@\n
-＞Charnet, producing piles of paperwork out of\n　nowhere, threw them down onto the counter-top\n　with a heavy thud.\n
+＞Charnet, producing piles of paperwork out of\n　nowhere, threw them down onto the countertop\n　with a heavy thud.\n
 These are@?\n\n\n
 Requests that the guild has received about the\nruins.\n\n
 People who have registered with the guild can\naccept these requests by paying a small contract\nfee.\n
@@ -1700,10 +1700,10 @@ If you manage to fulfil the request, you'll be\nrewarded for your work, and may 
 It might even lead to developments in your\ninvestigation@\nThis could prove to be key to your mission.\n
 Err, no@ This and that seem like two different\nthings.\n\n
 Well, don't be so hard-nosed, you might as well\ntry accepting one for now. Right?\n\n
-＞Ren and Veres glanced back and forth between\n　each other's faces, and the mountains of\n　requests piled in front of them.\n
+＞Ren and Veres exchanged glances, staring at\n　the mountain of requests piled in front of\n　them.\n
 Ah@ Ren, sorry! I just remembered, I was asked\nto see to another matter regarding our search\nof the ruins.\n
-@Another matter?　I never heard about this.\n\n\n
-It's a really important mission!\nSo, this is where we'll have to part ways.\nI'll leave this place to you.\n
+@Another matter?\nThat's the first I've heard of it.\n\n
+It's a really important mission!\nSo, this is where we'll have to part ways. I'll\nleave this place to you.\n
 I'm counting on you, buddy!\n\n\n
 ＞With those parting words, Veres left the guild\n　in a flash.\n\n
 ＞Left all alone, Charnet stared at Ren with a\n　daring smile.\n\n
@@ -1850,18 +1850,18 @@ Well anyway, for now you can try out the store\nand go check out what we have.\n
 If you already have materials and money, you\ncan get making new weapons straight away.\n\n
 So, what'll it be?\n\n\n
 \n　　　Kucellbull Castle    Audience Chamber　 　\n\n
-＞By decree of the Archduke Kucellbull, every\n　knight in the duchy had arrived in that\n　small, decorative room.\n
+＞By decree of the Archduke Kucellbull, every\n　knight in the duchy had arrived in that small,\n　decorative room.\n
 ＞The room was strangely quiet, as if their\n　nerves had barred the sound.\n\n
 ＞The knights, sworn to serve their country,\n　couldn't help but feel uneasy about the \n　summons, which they had no right to refuse.\n
 ＞They were trying to avoid the gaze of@\n\n\n
 ＞The 8th Archduke of Kucellbull.\n　Estrand Kucellbull.\n\n
-＞The Archduke inspected the assembly, and gave\n　a single cough as if to get their attention,\n　before opening his mouth@\n 
+＞The Archduke inspected the assembly, and gave\n　a single cough as if to get their attention,\n　before opening his mouth@\n
 As most of you are already aware, ancient ruins\nwere recently discovered in Dorius.\n\n
 The ruins are said to date back to the civilisation\nof Edenbar, believed to have been destroyed over\none thousand years ago@\n
-The archaeologists sent out to investigate were\n@wiped out.\n\n
+The archaeologists sent there to investigate were\n@wiped out.\n\n
 ＞The abrupt announcement stirred up the room@\n\n\n
 ＞The voice of a single knight cut through the\n　noise.\n
-@What exactly do you mean by ‘wiped out'?\n\n\n
+@What exactly do you mean by “wiped out”?\n\n\n
 Hrmh. It appears the ruins that were discovered,\nstill aren't dead.\n\n
 @Not dead?\n\n\n
 Even now, one thousand years since it's\nconstruction, the terrifying traps laid throughout\nthe ruins continue to work. That is to say@\n
@@ -1874,11 +1874,11 @@ Therefore, I'd like you, the Knights of the Duchy,\nto ride for the ancient ruin
 I see. As you wish, Your Highness.\n\n\n
 Oi oi oi, oi oi oi!\nDid you hear that!?\n\n
 @Stop making a scene. Your voice is too loud.\n\n\n
-'Course I'm gonna make a scene.\nAn unknown ruin where traps and monsters await@\nAs a man, you can't help but be lured in!\n
+‘Course I'm gonna make a scene.\nAn unknown ruin where traps and monsters await@\nAs a man, you can't help but be lured in!\n
 Yeah. I guess you're right.\n\n\n
 Hah? Your apathy is as plain as ever.\nAren't you excited?\nDoesn't this make your heart start to pound?\n
-Don't misunderstand, Veres.\nThis isn't a game.　It's work.\n\n
-Psht.　That hard-headedness of yours never\nchanges@\n\n
+Don't misunderstand, Veres.\nThis isn't a game. It's work.\n\n
+Psht. That hard-headedness of yours never\nchanges@\n\n
 You there! Pipe down!\n\n\n
 Ehe@ S-sorry.\n\n\n
 *Ahem.*\nThen, we shall inform you once a decision is made\nas to when you will depart.\n
@@ -1886,13 +1886,13 @@ Until then, see to it that you make your\npreparations.\n\n
 Yes, sire!\n\n\n
 ＞With the Archduke's speech over, the knights\n　that had gathered round began to file out of\n　the audience chamber.\n
 Veres. We should get going too.\n\n\n
-Y-yeah.　@Ancient ruins, huh@?\n\n\n
+Y-yeah. @Ancient ruins, huh@?\n\n\n
 ＞A gleeful smile spread across Veres' face, as\n　if he was having a runaway daydream.\n\n
-＞Ronixis, commander of the Duchy Knights,\n　approached the two men, and spoke his mind.\n
+＞Ronixis, commander of the Duchy Knights,\n　approached the two men.\n
 Veres, can't you do something about that slovenly\nface of yours?\n\n
-Oh, C-Captain!　Forgive me!\n\n\n
+Oh, C-Captain! Forgive me!\n\n\n
 @.Enough.\nMore importantly, the Archduke wishes to speak.\nThe two of you should stay behind.\n
-Huh!?　‘The two of you'@ As in, US?\n\n\n
+Huh!? “The two of you@” As in, US?\n\n\n
 Do you see me talking to anyone else?\n\n\n
 For real!?\n\n\n
 If it's not about the ruins then@ there's\nsomething else?\n\n
@@ -1903,42 +1903,42 @@ We know, we know, Captain.\nLet's go, Ren.\n\n
 @I'm not feeling reassured.\n\n\n
 Oh, you're here?\n\n\n
 We heard that you had something to tell us?\n\n\n
-Mmm. The truth is, I'd like you to go on ahead\nto the ruins, as an advance party.\n\n
+Mmm. The truth is, I'd like you to go on ahead to\nthe ruins, as an advance party.\n\n
 @An advance party?\n\n\n
 It's dangerous, there's no telling what might\nhappen if I blindly send men in. I hope to ward off\nthe chance of our forces being annihilated.\n
 The two of you are still young, but I have heard\nfrom Ronixis that your strength comes guaranteed.\n\n
 Your words are too kind.\n\n\n
-You humble yourself.　Will you do it?\n\n\n
+You humble yourself. Will you do it?\n\n\n
 Of course, sire.\n\n\n
-Excellent. @There is just one more thing.\n\n\n
+Excellent.\n@There is just one more thing.\n\n
 What now?\n\n\n
-@Are you aware of the stone known as “Magicite”\nsaid to have supported the civilization of\nEdenbar's prosperity from the shadows?\n
+@Are you aware of the stone known as ‘Magicite’\nsaid to have supported the civilization of\nEdenbar's prosperity from the shadows?\n
 ＞Even though he was puzzled by the Archduke's\n　sudden question, Ren opened his mouth and\n　quietly started to speak.\n
-@A mysterious, sparkling blue crystal imbued with\nthe power of the earth. Whoever possess it will\nobtain powers equal to that of a God@\n
+@A mysterious, sparkling blue crystal imbued with\nthe power of the earth. Whoever possess it will\nobtain powers equal to that of a god@\n
 It's a legend that has been passed down for\ngenerations, correct?\n\n
 It's true that there are those who will insist\nthat it does not exist, and yet there can be\nno doubt that it was real.\n
 What's more, there's a chance that the stone is\nresting within the ancient ruins, still intact.\n\n
 So we are@?\n\n\n
-As the advance party, the two of you shall creep\ninto the ruins, assess the situation, and ascertain\nwhether or not the “Magicite” exists.\n
-And, in the event that you do make a marvellous\ndiscovery, you are to secretly recover it, and\nbring it back to me with the utmost haste.\n
+As the advance party, the two of you shall creep\ninto the ruins, assess the situation, and ascertain\nwhether or not the ‘Magicite’ exists.\n
+And, in the event that you do make a miraculous\ndiscovery, you are to secretly recover it, and\nbring it back to me with the utmost haste.\n
 There is no need to let anyone else know about\nthis. Understood?\n\n
 @For what purpose would the stone be used?\n\n\n
 You need not worry about such things.\nJust focus on completing your mission.\n\n
-As you wish, Your Highness.\nAs soon as we find the mysterious stone,\nwe will bring straight back to you.\n
-Mmm.　Then, you should head to the ruins without\ndelay. They were discovered in the Lorayne\ndistrict@ Close to a small village called Liruka.\n
+As you wish, Your Highness.\nAs soon as we find the mysterious stone, we will\nbring straight back to you.\n
+Mmm. Then, you should head to the ruins without\ndelay. They were discovered in the Lorayne\ndistrict@ Close to a small village called Liruka.\n
 Start by paying a visit to the guild in Liruka.\n\n\n
 If you let them know that you're there to inspect\nthe ruins by royal decree, they will see to your\nneeds.\n
 Sire! Then, we shall be on our way.\n\n\n
 Hrmh. I hope you will return with good news.\n\n\n
 Hey! Did you catch that!?\n\n\n
-No duh.　I was stood right next to you.\n\n\n
+No duh. I was stood right next to you.\n\n\n
 So, we'll be going to the ruins first.\nThis oughta be fun.\n\n
 Perhaps.\n\n\n
-Psht.　You really are a dull guy, ya know?\n\n\n
+Psht. You really are a dull guy, ya know?\n\n\n
 Still@ “Magicite”, eh?\nI always thought it was just a myth.\n\n
-But@ It's still bugging me.\nIf the Archduke gets his hands on some, what\non earth is he planning to do with it?\n
+But@ It's still bugging me.\nIf the Archduke gets his hands on some, what's\nhe planning to do with it?\n
 He just told us not to worry.\nWhatever he wants to use it for is none of\nour business.\n
-Don't go all apathetic on me now.\nI mean, what if the “Magicite” is--\n\n
+Don't go all apathetic on me now.\nI mean, what if the Magicite is--\n\n
 If I may@\n\n\n
 ＞The two men turned around to look at whoever\n　had interrupted them.\n\n
 ＞Standing there was the eldest daughter of\n　the Archduke, Lady Elza Kucellbull.\n\n
@@ -1950,15 +1950,15 @@ Before@?\nAh, about us going on ahead to investigate\nthe ruins?\n
 Yes, that.\n\n\n
 So, you came rushing to congratulate us on\nbeing appointed as the advance party?\n
 Well@ It was only natural, given our talents,\nonly natural～\n\n
-That's not it!　@I'm worried.\n\n\n
+That's not it! @I'm worried.\n\n\n
 Elza?\n\n\n
 I have a bad feeling@\nLike, something's going to happen to the two\nof you@\n
-@@\n\n\n
+@\n\n\n
 Anyways!\nPlease rest assured, Lady Elza.\n\n
-Once we've finished our mission, we'll be sure\nto come back in one piece.\n\n
-@Yes, you're right.\nYeah.　It'll be okay, won't it?\n\n
+Once we've finished our mission, we'll be sure to\ncome back in one piece.\n\n
+@Yes, you're right.\nYeah. It'll be okay, won't it?\n\n
 Ah@ I should be getting back soon.\n\n\n
-Yeah.　We'd better be going soon too@\n\n\n
+Yeah. We'd better be going soon too@\n\n\n
 Right.\nWell, we'll be off then, Elza.\n\n
 Yes@ But please, be careful.\n\n\n
 Sir Ronixis! Hurry!\n\n\n

@@ -1,7 +1,7 @@
 Newbie Initiation Program
-Adventurer's Guild
-Calling new treasure hunters\r\nwho've only just registered with\r\na guild! To get by in this line\r\nof work, you'll need ‘strength'\r\nfirst and foremost!\r\nShow us what you're made of!
-You have indeed proved yourself!\r\nFrom now on, you can choose to\r\ntake on quests as it suits you.\r\nStart from the D Rank quests,\r\nand make your way up!\r\nWork hard, young hunter!
+Adventurers Guild
+Calling new treasure hunters who've\r\nonly just registered with a guild!\r\nTo get by in this line of work, you'll\r\nneed strength first and foremost!\r\nNow, show us what you're made of!
+You have proven yourself indeed!\r\nFrom now on, you can choose to\r\ntake on quests as it suits you.\r\nStart from the D Rank quests,\r\nand make your way up!\r\nWork hard, young hunter!
 Squishy Loving Woman (1)
 Squishy Loving Woman　Mikaco
 Green Gel's are sooo cute@\r\nThat squishiness@ I just want\r\nto give them a big squeeze! @So,\r\nI was wondering whether all Green\r\nGel's are equally as soft@\r\nBring me 6 of them! For science!
@@ -75,7 +75,7 @@ Worried Investigator　Renus
 I was attacked by a huge Green Gel\r\nin the first layer of the ruins.\r\nThey're cute at normal size, but\r\nthat was something else@ Yet no\r\none ever believes me. That's why I\r\nneed you to bring back evidence!!
 See, I told you so! There really\r\nis a huge Green Gel! Now I get\r\ncan back at the other guys on the\r\nteam! Plus, we can finally pick\r\nup our survey where we left off.\r\nCheers!
 The Guild's Challenge (1)
-Adventurer's Guild
+Adventurers Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from D rank\r\nlevel quests! Now, show us what\r\nyou're made of! 
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil D rank requests.\r\nWe hope you will continue your\r\nwork at the guild alongside your\r\ninvestigation of the ruins!\r\nKeep giving it your all!
 Favour For A Friend
@@ -155,7 +155,7 @@ Survey Team Captain　Rasvel
 Cerberus, in the first layer of\r\nthe ruins has somehow been revived.\r\nWe haven't investigated that room\r\nyet, but now we can't progress\r\nwhilst he's in the way. Would you\r\nmind removing him once more?
 It seems you made quick work of\r\nmy request. I've heard from other\r\nmembers of my team that we really\r\nowe you a lot, and personally, I\r\ncan't thank you enough. I hope we\r\ncan continue to count on you if\r\nanything else happens.
 The Guild's Challenge (2)
-Adventurer's Guild
+Adventurers Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from C rank\r\nlevel quests! Now, show us what\r\nyou're made of! 
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil C rank requests.\r\nThis is the make-or-break point\r\nfor most Treasure Hunters.\r\nKeep up your momentum! Good luck!
 Squishy Loving Woman (2)
@@ -235,7 +235,7 @@ Survey Team Captain　Rasvel
 It seems the sand snake in the\r\nsecond layer of the ruins has\r\nsomehow been revived. We still\r\nhaven't finished in that room\r\nyet, but now we can't go in.\r\nCould you take care of it?
 Thank you. And thank you for last\r\ntime again, as well. I'm curious about\r\nhow strong you really are!\r\nAll we get from the guild is your\r\nname, so I can't help but wonder.\r\nSay, would you be interested in\r\njoining the survey team?
 The Guild's Challenge (3)
-Adventurer's Guild
+Adventurers Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from B rank\r\nlevel quests! Now, show us what\r\nyou're made of!
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil B rank requests.\r\nWe take our hats off to you on\r\nthis worthy achievement.\r\nPlease continue to devote yourself!!
 Creepy@ Crawlies@
@@ -315,7 +315,7 @@ Botanist　Ragfect
 I once had you collect the seed\r\nof a huge Mandrake before, but\r\nrecently I've heard rumours of\r\nanother unidentified plant. This\r\ntime, it's a large Polevik. Could\r\nyou collect something I can use?
 So this is the fruit produced by\r\nthe huge Polevik@ Hmm@ Very\r\ninteresting@ My curiosity has\r\nbeen piqued once again! I must\r\ngo and investigate this at once!\r\nThank you so much!
 The Guild's Challenge (4)
-Adventurer's Guild
+Adventurers Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have become a fully-fledged\r\nhunter! So, will you accept the\r\nchallenge?
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil A rank requests.\r\nBut, are you content with just\r\nthis? There's much, much more\r\nlying ahead. Now, aim for the\r\nsummit with all your might!!
 The Cry of a New Beast
@@ -367,14 +367,14 @@ Worried Archaeologist　Renus
 Argh! It was there again, after all.\r\nThis time I entered the room with\r\ncaution, so I managed to flee the\r\nsecond I spotted it, but I could tell\r\nthat it was stronger than before.\r\nNo one can stand up to it now...
 As soon as I heard that you'd\r\nsubdued the jet black dragon,\r\nI headed down there. But this\r\ntime, I didn't see hide nor hair\r\nof it. @I wonder if there's a\r\nlimit to the number of times\r\nthey can be resurrected@?
 The Guild's Challenge (5)
-Adventurer's Guild
+Adventurers Guild
 This is your test to graduate\r\nfrom the guild. Put your training\r\ninto practise! Don't be afraid!\r\nIn the first layer of the ruins,\r\nthe resurrected beast of three\r\nheads awaits you!
 The test is not over yet. Your\r\ncapability as a hunter will be\r\ndetermined by whether or not\r\nyou can clear the next quest.\r\nSeek to climb even higher!\r\nThere's always a way ahead!
 The Guild's Challenge (6)
-Adventurer's Guild
+Adventurers Guild
 This is your test to graduate\r\nfrom the guild. Put your training\r\ninto practise! Don't be afraid!\r\nIn the second layer of the\r\nruins, a large sand-dwelling\r\nsnake awaits you!
 It looks like you've finally made\r\nit here. The next request is the\r\nlast one you can receive.\r\nIt's fine to stop here. But if\r\nyou do choose to take on the\r\nfinal quest@ don't die.\r\nThat's all I can say.
 One Final Challenge
-Adventurer's Guild
+Adventurers Guild
 You have proved your skills\r\nmore than enough through your\r\npast achievements. This request\r\nis probably the last thing the\r\nguild can set you. Proceed with\r\ncaution, and go down in history!
-Incredible! You need no longer be\r\nconstrained to this Adventurer's\r\nGuild. Take advantage of the\r\nexperience you have gained so\r\nfar and explore the world! I\r\nwill be wishing for your success\r\nfrom this small, distant village@
+Incredible! You need no longer be\r\nconstrained to this Adventurers\r\nGuild. Take advantage of the\r\nexperience you have gained so\r\nfar and explore the world! I\r\nwill be wishing for your success\r\nfrom this small, distant village@
