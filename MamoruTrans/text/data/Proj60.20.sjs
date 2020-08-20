@@ -1,6 +1,6 @@
 Newbie Initiation Program
 Adventurers Guild
-Calling new treasure hunters who've\r\nonly just registered with a guild!\r\nTo get by in this line of work, you'll\r\nneed strength first and foremost!\r\nNow, show us what you're made of!
+Calling new treasure hunters\r\nwho've only just registered with\r\na guild! To get by in this line of\r\nwork, you'll need ÅestrengthÅf \r\nfirst and foremost! Now, show\r\nus what you're made of!
 You have proven yourself indeed!\r\nFrom now on, you can choose to\r\ntake on quests as it suits you.\r\nStart from the D Rank quests,\r\nand make your way up!\r\nWork hard, young hunter!
 Squishy Loving Woman (1)
 Squishy Loving WomanÅ@Mikaco
@@ -12,7 +12,7 @@ After working the fields every\r\nday for years, my back has finally\r\ngiven in
 I'm sorry for making you take\r\nthe trouble to gather material\r\nfor my medicine. I used the\ningredients I got right away to\r\nmake some. I think that I'll be\r\nable to go back to work tomorrow\nnow. Thank you for all your help.
 For The Children
 Mother Of ThreeÅ@Verden
-Inside the ruins there are bones\nwith a consciousness milling\naround, correct? My children heard\r\nabout them and got frightened@\r\nMr Hunter, please get rid of them\r\nso my children can sleep soundly.
+Inside the ruins there are bones\r\nwith a consciousness milling around,\r\ncorrect? My children heard about\r\nthem and got frightened@\r\nMr Hunter, please get rid of them\r\nso my children can sleep soundly.
 Looks like you cleared out the\r\nlost souls loitering in the ruins.\nMy children think you're a hero!\nYou must come to ours for dinner\r\nand visit them, I know they'd be \r\noverjoyed! If something happens,\r\nI hope we can count on you again!
 Crop Killing Black Shadow
 Rilca Village FarmerÅ@Eric

@@ -2,7 +2,7 @@
 
 
 ”à
-<C04>„The door appears to be locked.\r\nThere is a large keyhole.
+<C04>„The door appears to be locked.\r\n@There is a large keyhole.
 <C04>„The door is locked.\r\n@The <C03>Ruins Key<C04> seems to fit.
 ”à
 <C04>„The door appears to be locked, but there isn't\r\n@a keyhole.

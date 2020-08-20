@@ -168,8 +168,8 @@ Sell
 Craft
 Leave
 From tools to materials to equipment, everrrything\nyou could want for an adventure!
-If there's something you no longer need, I'll\ntake it off your paws!
-Mix materials together to create rare and\nspecial items you've never seen beforrre!
+If there's something you no longer need, I'll take\nit off your paws!
+Mix materials together to create rare and special\nitems you've never seen beforrre!
 Oh? Arrre you finished already？
 Items
 Main Weapons
@@ -1220,25 +1220,25 @@ A-anyway, my job here is finished, so I'm heading\nback!\n\n
 See you.\n\n\n
 @He appears to have much potential too.\n\n
 Phew@\n\n\n
-＞Having finished his first quest, Ren looked\n　at the rewards he'd earnt with a satisfied\n　smile.\n
+＞Having finished his first quest, Ren looked at\n　the rewards he'd earned with a satisfied smile.\n\n
 ＞Charnet approached him from behind the counter.\n\n\n
 Good work.\nSo, now do you understand how things run from\naccepting a request to completing it?\n
 As for what's next, you could continue doing\nquests, or, you could just do your own thing\nin the ruins. You're free to do as you like!\n
-And, now that I've tested your skills, I'll\nleave this key for the ruins in your care.\n\n
+And, now that I've tested your skills, I'll leave\nthis key for the ruins in your care.\n\n
 If you can't get any further without this key,\nVeres won't be able to investigate@\n\n
 Don't worry.\nI gave one to your friend earlier.\n\n
 You just missed each other.\n\n\n
 I see.\n\n\n
-He said he had something else to look into,\nbut I wonder what it was@\n\n
-Oh, one more thing. I spoke to the <C03>Blacksmith<C04> and\nthe <C03>Item Shop<C04> that we have here in Liruka Village,\nso you should pop round to see them.\n
-You'll be needing their help for the road ahead,\nand you might be able to ask them for some advice\nabout your search too.\n
+He said he had something else to look into, but\nI wonder what it was@\n\n
+Oh, one more thing. I spoke to the owners of the\n<C03>Blacksmith<C04> and the <C03>Item Shop<C04> that we have here in\nLiruka Village, so you should pop round later.\n
+You'll be needing their help for the road ahead,\nand you might be able to ask them for advice\nabout your mission too.\n
 The Blacksmith and Item Shop, huh@?\nAlright. I'll pay them a visit later.\n\n
 Well, good luck with your investigation.\nI'll be cheering you on from behind.\n\n
-＞And with that, Charnet went back to the\n　other person she was helping.\n\n
+＞And with that, Charnet went back to the other\n　person she was helping.\n\n
 ＞Ren looked at his rewards again.\n\n
 @This isn't so bad, I guess.\n\n\n
 ＞The treasure slumbering in the ancient ruins@\n　The band of monsters ready to attack@\n\n
-＞It was so faint that the person himself didn't\n　even notice his heart quietly throbbing@\n\n
+＞It was so faint that the person himself hadn't\n　noticed, the quiet throbbing of his own heart@\n\n
 @@\n\n\n
 Strange@ There's a fire here.\n\n\nDid someone abandon their bonfire@?\n\n\n
 ＞Having found a blazing fire, Ren slowly drew\n　closer to warm his cold body.\n\n
@@ -1403,8 +1403,8 @@ It sounds kinda weird@\n\n\n
 But, if you come across somewhere where it's\ntoo narrow to walk through, or think an enemy\nis about to strike@\n
 @Then it might be worth giving this <C03>evasive\nmanoeuvre<C04> thing a shot, right?\n\n
 Yeah, no harm in trying.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n<C03>　【Permanent Skills】<C04>\n　These begin to take effect\n　as soon as they're learnt.\n\n<C03>　【Assigned Skills】<C04>\n　Once learnt, the skill must\n　be allocated to take effect.\n　(SP is required)
-<C05>　　　　　INFORMATION<C04>\n\n　You can visit “Skills” from\n　the menu to <C03>view permanent\n　skills<C04> and <C03>assign assigned\n　skills<C04>.\n\n　It's worth checking whenever\n　you learn a new skill.\n
+<C05>　　　　　 INFORMATION<C04>\n\n<C03>　【Permanent Skills】<C04>\n　These begin to take effect\n　as soon as they're learnt.\n\n<C03>　【Assigned Skills】<C04>\n　Once learnt, the skill must\n　be allocated to take effect.\n　(SP is required)
+<C05>　　　　　 INFORMATION<C04>\n\n　You can visit “Skills” from\n　the menu to <C03>view permanent\n　skills<C04> and <C03>assign assigned\n　skills<C04>.\n\n　It's worth checking whenever\n　you learn a new skill.\n
 Just like this, if you bring a book that contains\ninformation about a skill to the guild, I'll teach\nyou about it.\n
 Only then will you be able to learn the skill.\n\n\n
 So@ in order to learn a skill, I have to <C03>bring\nthe skill book back with me from the ruins, and\ntake it here, to the guild<C04>.\n
@@ -1526,7 +1526,7 @@ I thought I already told you to call me “Mr Lagnus"!\n\n\n
 Thank you@ Mr Lagnus.\n\n\n
 Much better!\n\n\n
 Well, I'm gonna get back.\nIf you find yourself wanting a weapon, pop round!\n\n
-<C05>　　　　　INFORMATION<C04>\n\n <C03>【Sapphyri Key】<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n Eh? You've forgotten about it?\n @Come on now, the door's in\n that looong room. Remember?
+<C05>　　　　　 INFORMATION<C04>\n\n <C03>【Sapphyri Key】<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n Eh? You've forgotten about it?\n @Come on now, the door's in\n that looong room. Remember?
 @Hey. Took you long enough.\n\n\n
 @?\n\n\n
 ＞That odd room was so unlike any other, it truly\n　felt like entering a different dimension.\n\n
@@ -1633,28 +1633,28 @@ Besides, Avanc's shop has a reputation forrr\nhaving a wide range of stock!\n\n
 If it's items you're afterrr, we have tools and\nmaterials! If it's equipment, there's swords, knifes\nand accessories!\n
 If you have money, you can get whatever you want!\n\n\n
 And, do you see the <C03>big pot<C04> over therrre?\n\n\n
-A big pot?\n\n\n
+Big pot?\n\n\n
 Err@\n\n\n
 Oh, you mean this?\n\n\n
 ＞Ren replied, pointing at the pot that was stood\n　next to the counter.\n\n
 Yes! That's the one!\n\n\n
 That pot is the ‘mixing pot'. Just add materials\nand give it a little stirrr@\n\n
 @and they'll be mixed together in the lick of a\npaw, giving you a new item or piece of equipment.\nA truly marrrvelous invention!\n
-Wow～ That does sound handy.\n@But I'm a bit scared that you haven't brought\nup anything about a charge to use it.\n
+Heh～ That does sound handy.\n@But I'm a bit scared that you haven't brought\nup anything about the fee to use it.\n
 Non, non, non!\nTherrre is nothing to be scared of!\n\n
 You can use the pot as much as you want,\nwhenever you want, frrree of charge.\n\n
 @Free of charge?\n\n\n
 I n   e x c h a n g e--!\n\n\n
-You must gather your own materials to use at the\nruins, or buy them from Avanc's storrre! Okay?\n\n
+You must gather your own materials at the ruins,\nor buy them from Avanc's storrre! Okay?\n\n
 Yeah. I'll take you up on that.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\n You can now buy, sell and\n craft items at Avanc's shop.\n\n <C03>Buy:<C04> Purchase items or\n      equipment.\n <C03>Sell:<C04> Sell your belongings.\n <C03>Craft:<C04>Combine materials/tools\n      to create new items.
-Now, now@\n\n\n 
-Well, I'll give you this present as a token of\nour frrriendship!\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n You can now buy, sell and craft\n items at Avanc's shop.\n\n <C03>Buy:<C04>   Purchase items or\n        equipment.\n <C03>Sell:<C04>   Sell your belongings.\n <C03>Craft:<C04> Combine materials/tools\n        to create new items.
+Now, then@\n\n\n
+Right, I'll give you this present as a token of\nour frrriendship!\n\n
 ＞Ren placed the book he received into the\n　“Key” category of his bag.\n\n
-It's a handy book with some hints about collecting\nmaterials!\n\n
+It's a good book with some hints about collecting\nmaterials!\n\n
 It's full of really, rrreally handy info, so make\nsure you look through it properly later!\n\n
-<C05>　　　　　INFORMATION<C04>\n\n　When you defeat monsters in\n　the ruins, they might drop\n　tools or materials.\n\n　You can figure out what kind\n　of items will be dropped from\n　the monster's appearance and \n　type, so get slaying!
-<C05>　　　　　INFORMATION<C04>\n\nYou can also collect materials\nat <C03>Grass<C04>, <C03>Trees<C04>, and <C03>Rocks<C04>.\n・Gather materials by pressing\n　up on the D-Pad when prompted.\n・<C03>There is a limited number of\n　times you can visit each site<C04>.\n　That number is reset when\n　you return to the village.
+<C05>　　　　　 INFORMATION<C04>\n\n　When you defeat monsters in\n　the ruins, they might drop\n　tools or materials.\n\n　You can figure out what kind\n　of items will be dropped from\n　the monster's appearance and \n　type, so get slaying!
+<C05>　　　　　 INFORMATION<C04>\n\n You can also collect materials\n at <C03>Grass<C04>, <C03>Trees<C04>, and <C03>Rocks<C04>.\n ・Gather materials by pressing\n　 up on the D-Pad when prompted.\n ・<C03>There is a limited number of\n 　times you can visit each site<C04>.\n 　That number is reset when\n 　you return to the village.
 Alright. I'll take a look.\nThank you.\n\n
 No no no no no, it's the least I can do.\n\n\n
 I n   e x c h a n g e--!\n\n\n
@@ -1792,20 +1792,20 @@ I think that will still be a way off yet.\n\n\n
 @\n\n\n
 @Thank you.\n\n\n
 ＞Tucked away in a corner of Liruka Village was\n　a small shop.\n\n
-＞It is the sole smithery in the village, and\n　various weapons lined the walls to the ceiling.\n\n
-＞There, inside the store where the sound of\n　flames and iron being struck echoed all\n　around, Ren was stood stock still.\n
-@Umm@\n\n\n
+＞It was the sole smithery in the village, and\n　various weapons lined the walls to the ceiling.\n\n
+＞There, inside the store where the sound of\n　flames and iron being struck echoed all around,\n　Ren was stood stock still.\n
+@Um@\n\n\n
 @Heeey!\n\n\n
 Excuse meeee--!\n\n\n
 Calling out over and over again@\nI'm not deaf, ya know?\n\n
 ＞The person who finally came out was a young\n　man in work clothes, who appeared to be the\n　owner of the store.\n
-Ah?　What, it's just some kid@?\nNot seen you around here before, what're\nyou after?\n
-I've just registered with the guild, so I was\ntold to come and say hello@\n\n
-Oh?　So you must be Ren.\nI heard the news, but@ you really are just a kid.\n\n
+Ah? What, it's just some kid@?\nI've not seen you around here before, what're\nyou after?\n
+I've just registered with the guild, so I was told\nto come and say hello@\n\n
+Oh? So you must be Ren.\nI heard the news, but@ you really are just a kid.\n\n
 Well, not that it matters.\n\n\n
 If you're gonna make money, you gotta do your\njob properly no matter who it's for!\nThat's my mantra!\n
-@‘It doesn't matter' he says, then why even\nbring it up?\n\n
-Hm?　Did you say something?\n\n\n
+“It doesn't matter” he says@ then why even\nbring it up?\n\n
+Hm? Did you say something?\n\n\n
 No, nothing.\n\n\n
 Well, anyways!\nI'm Lagnus. I own the place.\n\n
 Should the need arise, you can come here to\n<C03>forge<C04> new weapons to equip, or <C03>enhance<C04> the\nones you already own.\n
@@ -1816,15 +1816,15 @@ By the way, both require materials and money.\n\n\n
 Of course, the better the weapons, the better\nquality material and the more money you'll need,\nbut@\n
 Well, there's the guild round here where you\ncan take jobs, or you can go off and gather\nthem on your own.\n
 To forge or strengthen weapons, I'll <C03>need raw\nmaterials and money<C04>@ right?\n\n
-Oh?　I guess you were paying attention.\n\n\n
-<C05>　　　　　INFORMATION<C04>\n\nYou can now forge and enhance\nyour main weapon.\n\n<C03>Forge:<C04>       Combine materials\ntogether to create new weapons.\n<C03>Enhance:<C04>    Strengthen a weapon\nyou already own and change it\ninto something else.
+Oh? I guess you were paying attention.\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n You can now forge and enhance\n your main weapon.\n\n<C03> Forge:<C04>   Combine materials\n together to create new weapons.\n<C03> Enhance:<C04> Strengthen a weapon\n you already own and change it\n into something else.
 @Wait, you've gotta be kidding me.\nIs that small sword all you have?\n\n
-Hm?　Ah, yeah it is.\nIt's light and easy to handle. It suits me fine.\n\n
-＞As he spoke, Ren showed off the sword he\n　had attached to his waist.\n\n
+Hm? Ah, yeah it is.\nIt's light and easy to handle. It suits me fine.\n\n
+＞As he spoke, Ren showed off the sword he had\n　attached to his waist.\n\n
 ＞Seeing that, Lagnus the Blacksmith was taken\n　aback and let out a large sigh.\n\n
 Oi, oi@ That's no good.\n\n\n
 Taking it case-by-case and reacting to the\nsituation around you is the best way to fight@\n\n
-@I know.　Just gimme a min.\nI'll let you have something good.\n\n
+@I know. Just gimme a min.\nI'll give you something good.\n\n
 ＞That said, Lagus disappeared into the back\n　of the store.\n\n
 @What's all that about?\n\n\n
 *Fwoo@*\nThey haven't used in a long time so they're\na bit dusty but@ there's life in them yet.\n
@@ -1833,20 +1833,20 @@ Here.\n\n\n
 ＞He handed the two differently shaped swords\n　to Ren.\n\n
 @These are?\n\n\n
 For your first visit only!\nIt's a special service. After this, you'll have to\nshow your ‘patronage', okay?\n
-Fyi@ The <C03>Foil<C04> is a “Medium Sword”, and the \n<C03>Long Sword<C04> is a “Big Sword”.\n\n
+Fyi@ The <C03>Fleuret<C04> is a “Medium Sword”, and the \n<C03>Long Sword<C04> is a “Big Sword”.\n\n
 It's not a big deal, but it might be good to think\nof it as ‘practise' when you use them, at least\nuntil you get used to it.\n
 @Speaking of, this is for you too.\n\n
 ＞Ren placed the book he received into the\n　“Key” category of his item pouch.\n\n
-The book has a detailed description of the\ncharacteristics for each main weapon category.\n\n
+The book has a detailed description of the\ncharacteristics of each main weapon category.\n\n
 If you want to know the differences between\nSmall Swords, Medium Swords and Big Swords\nthen you should give it a read.\n
-<C05>　　　　　INFORMATION<C04>\n\n\n   The Main Weapons (swords)\n     are divided into three\n   major categories; Small\n    Swords, Medium Swords\n　     and Big Swords.\n\n           
-<C05>　　　　　INFORMATION<C04>\n\n【Small Swords】\nThese swords are light and easy\nto handle, allowing you to make\n<C03>consecutive attacks<C04>.\n\nHowever, you can't draw out the\nfull power in a single hit.
-<C05>　　　　　INFORMATION<C04>\n\n【Medium Swords】\nNot too light and not too heavy,\nthese are balanced, easy to use\nswords for beginners.\n\nThey're good at <C03>coping with\nany situation<C04>.
-<C05>　　　　　INFORMATION<C04>\n\n【Big Swords】\nThese swords have a long reach,\nand great potential. (<C03>They can \nperform charged attacks.<C04>)\n\nBut, there is a pause after each\nattack due to weight, making\nconsecutive attacks impossible.
+<C05>　　　　　 INFORMATION<C04>\n\n\n     The Main Weapons (swords)\n       are divided into three\n      major categories; Small\n       Swords, Medium Swords\n　         and Big Swords.\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n【Small Swords】\nThese swords are light and easy\nto handle, allowing you to make\n<C03>consecutive attacks<C04>.\n\nHowever, the attacks themselves\naren't massively powerful.
+<C05>　　　　　 INFORMATION<C04>\n\n【Medium Swords】\nNot too light and not too heavy,\nthese are balanced, easy to use\nswords ideal for beginners.\n\nThey're good in <C03>any situation<C04>, but\nhave no outstanding features.
+<C05>　　　　　 INFORMATION<C04>\n\n【Big Swords】\nThese swords have a long reach,\nand great potential. (<C03>They can \nperform charged attacks.<C04>)\n\nBut, there is a pause after each\nattack due to the weight, making\nconsecutive attacks impossible.
 Well, to start, don't strain yourself or think\ntoo hard. It's alright to just use them however\nfor now.\n
-Right.　Thank you.\n@You're a surprisingly nice guy.\n\n
+Right. Thank you.\n@You're a surprisingly nice guy.\n\n
 That's ‘Mr Lagnus' to you!\nSheesh. This is why brats without manners are@\n
-Well anyway, for now you can try out the store\nand go check out what we have.\n\n
+Well anyway, you should check out the store and\nsee what we have.\n\n
 If you already have materials and money, you\ncan get making new weapons straight away.\n\n
 So, what'll it be?\n\n\n
 \n　　　Kucellbull Castle    Audience Chamber　 　\n\n
@@ -2098,20 +2098,20 @@ I'm not sure it they have anything to do with\nthe stone, but@\n\n
 Apparently, they're a people with a deep\nconnection to the ancient ruins.\n\n
 There was a description to that nature in a\nbook that Veres, who I was sent to investigate\nwith, found in the ruins@\n
 Hm. It is certainly curious@\nYou have uncovered more than we expected.\n\n
-Further investigation of the ruins should reveal\nmore details about this 'Nation of Reville'.\n\n
+Further investigation of the ruins should reveal\nmore details about this ‘Nation of Reville'.\n\n
 Return to the ruins and continue investigating\nat once. Understood?\n\n
 Sire!\n\n\n
 ＞After finishing his report, Ren left the Archduke\n　and made ready to leave for Liruka.\n\n
-Right then, suppose I should get going@\n\n\n
+Right then, I suppose I should get going@\n\n\n
 Wait, Ren!\n\n\n
 You know@ If you're back, you should at least\ncome and say hi!\n\n
 O-oi@ There's no need to be so loud.\n\n\n
-Don't forget the difference in our standings.\nEven just talking is@\n\n
+Don't forget the difference in our standings.\nEven just talking is--\n\n
 That kind of thing doesn't matter.\n\n\n
-@@@@\n\n\n
-It's not like everyone in the castle doesn't\nalready know that in the first place, right?\n\n
+@@\n\n\n
+It's not like everyone in the castle doesn't\nalready know in the first place, right?\n\n
 @It just means more trouble for me, though.\n\n\n
-Ah. What a horrible thing to say.\n\n\n
+Ah. What a horrible thing to say!\n\n\n
 It's the truth.\n\n\n
 You really have no manners.\n\n\n
 @I was worried, you know.\n\n\n
@@ -2120,24 +2120,24 @@ Heartless as ever, I see.\n\n\n
 Well, even if things get a little dangerous, when\nRen and I are together, it's pretty much child's\nplay. Right?\n
 Don't lump me together with you.\n\n\n
 Honestly, you get carried away so easily@\n@Wait, Veres--!? When did you get here!?\n\n
-Heh heh. I thought I should come and show my\nface so I wouldn't worry the Lady Elza.\n\n
+Heh heh. I thought I should come and show my\nface so I wouldn't worry you, Lady Elza.\n\n
 @Don't just pop up out of nowhere.\n\n\n
 Hah? Did you say something?\n\n\n
 No, nothing.\n\n\n
 Hehe@\n\n\n
 Come to think of it, what was that other matter\nyou had to take care of in the end?\n\n
 Other matter? What are you on about?\nDid I say something like that?\n\n
-@@@@\n\n\n
-Woah～ Ren dear, that's a scary face you're\nmaking. If the wind changes, your face might\nstick like that, y'kno?\n
+@\n\n\n
+Woah～ Ren dear, that's a scary face you're\nmaking. If the wind changes, your face might\nget stuck like that, y'kno?\n
 Why you-- Treating me like I'm some kid@\n\n\n
 Hehehe@ Ahahahahaha!\n\n\n
 Elza?\n\n\n
 Did we@ break Elza@?\n\n\n
 Aaaah～@\nWe haven't had a chance to talk like this with\njust the three of us lately, have we?\n
 That's why it just made me happy.\n\n\n
-Right? Right?\nAs I thought it's just hopeless when I'm not\naround, right?\n
+Right? Right?\nAs I thought it's just hopeless when I'm not\naround, ain't it?\n
 Yes. And Ren too, of course.\n\n\n
-@@@@\n\n\n
+@\n\n\n
 @I think it's always like this with the three of\nus, but@\n\n
 @when I think about it, the two of you really\nhaven't changed at all since we first met.\n\n
 I just wanted to go for a little stroll around\nthe castle@\n\n
@@ -2147,15 +2147,15 @@ Back then, me and Ren were walking around the\ncastle's courtyard on patrol.\n\n
 @Right. And then we saw this shabby-looking girl@\n\n
 You could have done without the ‘shabby' part!\n@Well, not that I can deny it.\n\n
 So, we never could've guessed that her highness\nwould be looking like that, and we got the wrong\nidea thinking you were up to something fishy.\n
-You did!\nThe two of you were being so rude, even I got\na bit worked up and argued.\n
+You did!\nThe two of you were so rude, even I got a bit\nworked up and argued.\n
 But in the middle of that, Ren wanted to take me\naway and Veres, you insisted on taking me back to\nyour room instead, so the two of you fought@\n
 The other knights heard the noise and came\nrushing@\n@and we got into a whole load of trouble.\n
 Yeah@ I practically had my ears chewed off\nafter that@\nAnd we didn't even do anything wrong@\n
 So trying to take Elza to your room was@?\n\n\n
-No, that was@ Right!\nThat was cuz I wanted to take my time to question\nher about why she was out there and@\n
+No, that was@ Right!\nThat was cuz I wanted to take my time to question\nher about why she was out there and--\n
 @Not that it really matters anymore.\n\n\n
 That was the first time I'd ever raised my voice\nso much, and also the first time anyone had ever\nbeen so rude to me.\n
-@To think that I'd have friends like that, it\njust～～ Just made me kinda happy.\n\n
+@Thinking about how friendly we are now\njust～～ Just made me kinda happy.\n\n
 So much time has passed since then but, here you\nare, quarrelling over something trivial again@\nYou really haven't changed.\n
 Haven't changed, huh@?\n\n\n
 That's right@ Nothing's changed.\nSince then, nothing has@\n\n
