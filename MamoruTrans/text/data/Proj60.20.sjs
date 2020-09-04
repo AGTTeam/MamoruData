@@ -17,43 +17,43 @@ Looks like you cleared out the\r\nlost souls loitering in the ruins.\nMy childre
 Crop Killing Black Shadow
 Rilca Village Farmer　Eric
 Night after night, a flock of\r\nBlack Ptera's target my fields.\r\nIf this keeps up, this year's\r\nharvest will be a sorry sight@\r\nI beg of you! Take them out and\r\nstop the damage from spreading!
-I couldn't believe it when I saw\r\nthat the guild had been in contact\r\nto say the request was fulfilled.\r\nAll of the farmers were rejoicing.\r\nIt's too late to fix the damage\r\ndone to this year's harvest, but\r\nI'll be ready for next year!
+I couldn't believe it when I saw\r\nthat the guild had been in contact\r\nto say the request was fulfilled.\r\nAll of the farmers were rejoicing.\r\nIt's too late to fix the damage\r\ndone to this year's harvest, but\r\nwe'll be ready for next year!
 Nostalgic Taste Of Home (1)
 Liruka's Mayor　Endover
 Have you heard of a dish called\r\nEgudo? It's a dish from my home-\r\ntown in Larazir. Many moons ago I\r\nalways used to bug my Grandma to\r\nmake some, but now@ If I had the \r\ningredients, I could make my own.
 This is it! This is the taste!\r\nI made some as soon as I got the\r\ningredients, and I'm sure this\r\nis how it tasted! The taste of\r\nEgudo! To be able to taste this\r\nonce more before Heaven calls\r\nfor me@ There are no words!
 I Want To Say Thank You
 Former Treasure Hunter　Robmog
-When I was still working as a\r\nhunter, I was attacked by a wild\r\nanimal. It was the blacksmith\r\nwho saved me. I'd like to see him\r\nagain after all this time. Can you\r\ngrab me some iron ore to take?
-I went to the blacksmith's with\r\nthe ore, but I was shocked when\r\nI saw how young the shopkeeper\r\nwas. Turns out it was his father\r\nwho saved me, but he's already\r\npassed away. Guess I was too late.\r\nStill, I'm glad I met his son.
+When I was still working as a\r\nhunter, I was attacked by a wild\r\nanimal. It was the blacksmith who\r\nsaved me. I'd like to see him again\r\nafter all this time. Can you grab\r\nme some iron ore to take?
+I went to the blacksmith's with\r\nthe ore, but I was shocked when\r\nI saw a young shopkeeper there.\r\nTurns out it was his father who\r\nsaved me, but he's already passed\naway. Guess I was too late@\r\nStill, I'm glad I met his son.
 Survey Team Complaint (1)
 Troubled Investigator　Iris
 We operate under the Kucellbell\r\nDukedom, but when we don't make\r\ngood progress, they don't treat\r\nus so well@ Even now, we don't\r\nhave enough medicine. You couldn't\r\nsend some provisions, could you?
-With these provisions, we've been\r\nable to secure enough medicine\r\nfor the wounded. I can't thank\r\nyou enough. Now we can resume our\r\ninvestigation. I just know we'll\r\ndiscover something amazing and\r\nmake our mark on history!
+With these provisions, we've been\r\nable to secure enough medicine\r\nfor the wounded. I can't thank\r\nyou enough. Now we can resume\r\nour investigation. I just know\r\nwe'll discover something amazing\r\nand make our mark on history!
 In The Dark Depths@
 Goods Supply Chief　Rozudin
 It's my job to deliver goods to\r\nthe ruins survey team, but whilst\r\nI was in the middle of a food\r\ndelivery, some demons attacked me\r\nand stole everything. Can't you\r\nplease do something about them?
-Ahh, what a relief~! As soon as I\r\nheard my request had been cleared,\r\nI went to the ruins to restore the\r\nline of supply, and made it to our\r\nmeeting point. I can rest at ease\r\nnow knowing that the survey team\r\naren't going to starve to death.
+Ahh, what a relief～! As soon as I\r\nheard my request had been cleared,\r\nI went to the ruins to restore the\r\nline of supply, and made it to our\r\nmeeting point. I can rest at ease\r\nnow knowing that the survey team\r\naren't going to starve to death.
 A Refined Afternoon Tea
 High-Flying Lady　Rondina
-I shall be hosting a high-society\r\ntea party in a few days, but I\r\nhave run out of Flower Nectar to\r\nput in the tea. I'd hate to have\r\nto go out shopping for some now@\r\nCould you deliver it to my house?
-The guild sent me the bottled\r\nflower nectar. It came in time\r\nfor the tea party, so my issues\r\nwere resolved. I had expected as\r\nmuch however, given the large\r\nreward put on offer. Oh ho ho ho.\r\nYours faithfully, Rondina.
+I shall be hosting a high-society\r\ntea party in a few days, but I\r\nhave run out of flower nectar to\r\nput in the tea. I'd hate to have\r\nto go out shopping for some now@\r\nCould you deliver it to my house?
+The guild sent me the bottled\r\nflower nectar. It came in time\r\nfor the tea party, so my issues\r\nwere resolved. I had expected as\r\nmuch however, given the large\r\nreward put on offer. Oh ho ho.\r\nWell then, good tidings to you.
 Aim For The Small Shadow
 Blonde Investigator　Daniel
 The other day I thought I was \r\nalone in the ruins, until an arrow\r\nsuddenly flew at me. I just about\r\nmanaged to avoid it, but@ when\r\nI think that I'm being targeted,\r\nI can't focus on my job properly.
-I heard the news! You defeated the\r\nsmall creatures who use bows and\r\narrows, didn't you? You have my\r\nthanks! Now I can concentrate on\r\ninvestigating the ruins without\r\nhaving the fear of being shot at\r\nhanging over me!
+I heard the news! You defeated the\r\nsmall creatures who use bows and\r\narrows, didn't you? You have my\r\nthanks! Now I can concentrate on\r\ninvestigating the ruins without\r\nhaving the fear of being shot\r\nat hanging over me!
 An Unfulfilled Promise
 Kindhearted Youth　Raith
 When I was a kid, I was friends\r\nwith a Green Gel named Polum, and\r\nwe played together every day. But,\r\nonce my mum found out about us,\r\nshe stopped me from seeing him@\r\nCan you let him know that I'm ok?
-So you found Polum alright.\r\n@I had wanted to go and see him\r\nmyself, but I have my own family\r\nnow, so it'd be too reckless. But\r\nI am satisfied just knowing that\r\nhe's well. Thank you for doing\r\nthis for me!
+So you found Polum! @I wanted to\r\ngo and see him myself, but I have\r\nmy own family now, so it'd be too\r\nreckless. But I'm satisfied just\r\nknowing that he's well.\r\nThank you for doing this for me!
 Playing Cupid
 A Girl In Love　Bellemond
 The person I've been in love with\r\nsince I was small will soon be 20.\r\nI want to make some clothes that\r\nwill suit him, but I'm in a jam\r\nbecause I don't have enough\r\nmaterial@ Please send help!
 The materials you collected\r\narrived at my house today!\r\nI should be able make it in\r\ntime for his birthday now.\r\nTime to show off my skills!\r\nThank you so much! I will\r\nreport back if all goes well.
 Nostalgic Taste Of Home (2)
 Liruka's Mayor　Endover
-I was satisfied having tasted my\r\nhometown's Egudo, but I've been\r\nfancying the Focaccia made with\r\nCrickets that I used to eat as a\r\nchild. It's a humble request from\r\nan old man with little time left.
-It seems that you have collected\r\nthe Crickets. I will try to make\r\nthe Focaccia right away. How about\r\nit? Would you like to try some?\r\n@Hm? You don't want to eat an\r\ninsect? Young people nowadays,\r\nalways so fussy. Back in my day--
+I was satisfied having tasted my\r\nhometown's Egudo, but I've been\r\nfancying the Focaccia made with\r\ncrickets that I used to eat as a\r\nchild. It's a humble request from\r\nan old man with little time left.
+It seems that you have collected\r\nthe crickets. I will try to make\r\nthe Focaccia right away. How about\r\nit? Would you like to try some?\r\n@Hm? You don't want to eat an\r\ninsect? Young people nowadays,\r\nalways so fussy. Back in my day--
 Bright Flames In The Dark
 Young Treasure Hunter　Balm
 Do you know about the monsters\r\nthat shine brightly? I'm normally\r\ngrateful for the light, but they\r\nsuddenly became more violent. \r\nIt's dangerous how their numbers\r\nhave increased a lot lately@
@@ -61,11 +61,11 @@ Thanks to you, the number of\r\nJack o' Lanterns has decreased.\r\nNow we're no 
 Dangerous Beasts!
 Teary-eyed Investigator　Arnold
 No way! I can't do it! No one\r\ntold me there were such ferocious\r\nbeasts in these ruins! The other\r\nruins I've been to were nothing\r\nlike this@ Someone! Anyone!\r\nPlease slay the horrible things!
-That gave me a shock. To tell\r\nyou the truth, I made a request\r\nthinking I should just give in,\r\nbut who'd have thought you'd\r\nreally get rid of those beasts@\r\nAnyways, thanks a ton! Now I\r\ncan do my research in peace!
+That gave me a shock. To tell\r\nyou the truth, I made a request\r\nthinking I should just give up,\r\nbut who'd have thought you'd\r\nreally get rid of those beasts@\r\nAnyways, thanks a ton! Now I\r\ncan do my research in peace!
 The World's Gourmand
 Gluttonous　Donchuck
 I'm a world-famous gourmand. My\r\nstomach has been rumbling and\r\ngrumbling@ I could waste away\r\nat any moment@ Meat! Prepare\r\nsome meat! How much you ask? A\r\nbanquet full, a b-a-n-q-u-e-t!
-Aah!! Meat!! I couldn't wait any\r\nlonger so I had about 8 pizzas\r\nas my appetizer, and the main\r\ndish is finally here!! I wonder\r\nhow best to eat these@\r\n\r\nWell, you can't beat a good roast!
+Aah!! Meat!! I couldn't wait any\r\nlonger so I had about 8 pizzas\r\nas my appetizer, and the main\r\ndish is finally here!! I wonder\r\nhow best to eat these@\r\nWell, you can't beat a good roast!
 Black Hole Of A Stomach@
 Gluttonous　Donchuck
 I had a lot of ribs before, but\r\neven that wasn't enough to fill\r\nmy magnifique stomach@ I want\r\nmore meat! I know@ This time,\r\nI think I'd like to go for some\r\njuicy thigh meat.
@@ -73,7 +73,7 @@ It's here, it's here, it's here,\r\nit's HEREEE!! The meat's here---!!\r\nI was 
 The Melancholy Of Renus (1)
 Worried Investigator　Renus
 I was attacked by a huge Green Gel\r\nin the first layer of the ruins.\r\nThey're cute at normal size, but\r\nthat was something else@ Yet no\r\none ever believes me. That's why I\r\nneed you to bring back evidence!!
-See, I told you so! There really\r\nis a huge Green Gel! Now I get\r\ncan back at the other guys on the\r\nteam! Plus, we can finally pick\r\nup our survey where we left off.\r\nCheers!
+See, I told you so! There really\r\nis a huge Green Gel! Now I get\r\ncan back at the other guys on\r\nthe team! Plus, we can finally\r\npick up our survey where we\r\nleft off. Cheers!
 The Guild's Challenge (1)
 Adventurers Guild
 This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! By clearing this, you\r\nwill have graduated from D rank\r\nlevel quests! Now, show us what\r\nyou're made of! 

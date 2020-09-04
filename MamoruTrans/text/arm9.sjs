@@ -27,7 +27,7 @@ Recipes
 %s<$1b>X8forged!
      No Data
 Talk
-　<C02>%s %s<C01> obtained！
+　<C02>%s %s<C01> obtained!
 %s\nPrice: ＄%6d
 %s %dx created!
 Blacksmith
@@ -1404,7 +1404,7 @@ But, if you come across somewhere where it's\ntoo narrow to walk through, or thi
 @Then it might be worth giving this <C03>evasive\nmanoeuvre<C04> thing a shot, right?\n\n
 Yeah, no harm in trying.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n<C03>　【Permanent Skills】<C04>\n　These begin to take effect\n　as soon as they're learnt.\n\n<C03>　【Assigned Skills】<C04>\n　Once learnt, the skill must\n　be allocated to take effect.\n　(SP is required)
-<C05>　　　　　 INFORMATION<C04>\n\n　You can visit “Skills” from\n　the menu to <C03>view permanent\n　skills<C04> and <C03>assign assigned\n　skills<C04>.\n\n　It's worth checking whenever\n　you learn a new skill.\n
+<C05>　　　　　 INFORMATION<C04>\n\n　You can visit “Skills” from\n　the menu to <C03>view permanent\n　skills<C04> and <C03>equip assigned skills<C04>.\n\n　It's worth checking whenever\n　you learn a new skill.\n
 Just like this, if you bring a book that contains\ninformation about a skill to the guild, I'll teach\nyou about it.\n
 Only then will you be able to learn the skill.\n\n\n
 So@ in order to learn a skill, I have to <C03>bring\nthe skill book back with me from the ruins, and\ntake it here, to the guild<C04>.\n
@@ -1413,7 +1413,7 @@ Just remember that once you've found a book, it\nwon't be effective immediately.
 Got it.\n\n\n
 Still@ having to go all the way back to the exit\nevery time I find a book is such a pain@\n\n
 I wouldn't worry about that.\n\n\n
-You might already know this, but there's a tool\nthat allows you to instantly travel from the ruins\nback to the village that you could use.\n
+You might already know this, but there's a tool\nthat allows you to instantly travel from the\nruins back to the village that you can use.\n
 Since I have one spare, I'll let you have it.\nCall it a special service for newcomers.\n\n
 If you need more, you can buy them at the Item\nShop@\n\n
 @or, if you've got all the materials, you can make\none by mixing them together.\n\n
@@ -1443,7 +1443,7 @@ There's something I want to check up, so I'm\nheading back to the castle for a b
 That's why I thought you could use the key to do\na bit of investigating ahead of me.\n\n
 @That's unusual.\n\n\n
 What is?\n\n\n
-Normally, you'd say something about being the\nfirst one there and keep the key with you.\n\n
+Normally, you'd say something about being the\nfirst one there and run off with the key.\n\n
 @I-is that right?\n\n\n
 Yeah.\n\n\n
 @W-well I guess I've done a bit of growing up too.\n\n\n
@@ -1502,7 +1502,7 @@ Yo. Is the search going well?\n\n\n
 Ah, the blacksmith@\n\n\n
 Um@ what was it again?\n\n\n
 Lagnus!!\n\n\n
-Sheesh@ And to think I came all this way cuz I\nhave some info for you@\n\n
+Sheesh@ And to think I came all this way ‘coz I\nhave some info for you@\n\n
 @Maybe I'll just leave.\n\n\n
 S-sorry. I was just kidding.\n\n\n
 So@ Mr Lagnus.\nWhat was the info you had for me?\n\n
@@ -1520,9 +1520,9 @@ Is this a key for the ruins? Why are you giving it\nto me?\n\n
 A customer asked me to go to the ruins to collect\nsome material for making a sword@\n\n
 @and I just happened to find it then.\n\n\n
 I'm not all that interested in the depths of the\nruins, plus I have no time to go and see them.\n\nThat's why I thought I'd give it to you.\n
-@I think it's better that it's used for research\nrather than going to someone who just wants to\ntry dig up treasure.\n
-Wow@ You really are a good guy.\n\n\n
-I thought I already told you to call me “Mr Lagnus"!\n\n\n
+@I think it's better that it's used for research\nrather than going to someone who just wants to\ntry and dig up treasure.\n
+Wow@ You really are a good guy, Lagnus.\n\n\n
+That's“Mr Lagnus" to you!\n\n\n
 Thank you@ Mr Lagnus.\n\n\n
 Much better!\n\n\n
 Well, I'm gonna get back.\nIf you find yourself wanting a weapon, pop round!\n\n
@@ -1669,7 +1669,7 @@ We're after Liruka Village's Guild, is this the right\nplace?\n\n
 @Oi, so you're actually starting to ignore me now?\n\n\n
 I haven't seen your faces around here before.\nJudging by those outfits, I'd guess you're from\nthe capital?\n
 Yeah. We're here to investigate the ancient ruins,\nby order of the Archduke of Kucellbull.\nI'm Ren, one of the Duchy Knights.\n
-Likewise, I'm Veres, a Knight of the Dukedom.\nPleased to make your acquaintance.\n\n
+Likewise, I'm Veres, a knight of the dukedom.\nPleased to make your acquaintance.\n\n
 Oh, it's you?\nI'd heard the news, but I wasn't expecting you to\nbe so young.\n
 Heh heh. We get that a lot.\n\n\n
 ＞Veres ogled her, as if he hadn't already stared\n　hard enough.\n\n
@@ -1721,7 +1721,7 @@ Phew@ I'm kinda tired.\n\n\n
 @!!\n\n\n
 Ah, no, I was a bit shocked when you suddenly\nappeared, but@ it doesn't look like you have\nany bad intentions@\n
 @\n\n\n
-(Wait a minute@ Maybe this is the ghost mentioned\nin the request@?)\n\n
+(Wait a minute@ Maybe this is the ghost mentioned\n in the request@?)\n\n
 @\n\n\n
 @S-say.\n\n\n
 @Yes?\n\n\n
@@ -1735,7 +1735,7 @@ Erm@ Is there something upsetting you?\n\n\n
 Something upsetting@?\n\n\n
 @Yes. There is much troubling me.\n\n\n
 @\n\n\n
-(@Urk. The atmosphere is so heavy. But, this is\nalso part of my job@)\n\n
+(@Urk. The atmosphere is so heavy. But, this is\n also part of my job@)\n\n
 @S-say.\nI'm here, if you want to talk about it@?\n\n
 @Talk about it?\n
 @Ah, you don't have to if you don't want to.\nBut, it you talk and let it all out, maybe you'll\nfeel a little better after?\n
@@ -1839,7 +1839,7 @@ It's not a big deal, but it might be good to think\nof it as ‘practise' when yo
 ＞Ren placed the book he received into the\n　“Key” category of his item pouch.\n\n
 The book has a detailed description of the\ncharacteristics of each main weapon category.\n\n
 If you want to know the differences between\nSmall Swords, Medium Swords and Big Swords\nthen you should give it a read.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n     The Main Weapons (swords)\n       are divided into three\n      major categories; Small\n       Swords, Medium Swords\n　         and Big Swords.\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n    The Main Weapons (swords)\n      are divided into three\n     major categories; Small\n      Swords, Medium Swords\n　       and Big Swords.\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n【Small Swords】\nThese swords are light and easy\nto handle, allowing you to make\n<C03>consecutive attacks<C04>.\n\nHowever, the attacks themselves\naren't massively powerful.
 <C05>　　　　　 INFORMATION<C04>\n\n【Medium Swords】\nNot too light and not too heavy,\nthese are balanced, easy to use\nswords ideal for beginners.\n\nThey're good in <C03>any situation<C04>, but\nhave no outstanding features.
 <C05>　　　　　 INFORMATION<C04>\n\n【Big Swords】\nThese swords have a long reach,\nand great potential. (<C03>They can \nperform charged attacks.<C04>)\n\nBut, there is a pause after each\nattack due to the weight, making\nconsecutive attacks impossible.
@@ -1988,7 +1988,7 @@ But regardless, we did come all this way.\nI am allowed to talk to them, right?\
 @You're right.\nRegrettably, it seems I am your only bodyguard,\nand just for today, I shall overlook it.\n
 Thank you.\n\n\n
 Then, I'll head to the village guild to ask for\nnews of Ren and Veres.\n\n
-Lady Elza, please wait here for a while.\n\n\n
+Lady Elza, please wait here for me.\n\n\n
 Right. I'll leave it to you.\n\n\n
 @\n\n\n
 So, it really is hopeless@\n\n\n
@@ -1997,7 +1997,7 @@ So, it really is hopeless@\n\n\n
 Right! Smile, Elza!\nThere's no use worrying about things that can't\nbe changed.\n
 Because I am me, after all.\n\n\n
 @\n\n\n
-@Ronixis is sure running late.\n\n\n
+@Ronixis sure is running late.\n\n\n
 Kekekeke@\n\n\n
 Eek! A m-monster@!?\n\n\n
 Kekekeke@\n\n\n
@@ -2023,7 +2023,7 @@ I can't exactly leave you here, can I?\n@This is part of my job too.\n
 @Thank you.\n@Here goes@.\n\n
 Ngh. @You're unexpectedly heav--\n\n\n
 Say any more and I'll hit you!\n\n\n
-@You already have.\n\n\n
+@You already did.\n\n\n
 Hehehe@\n\n\n
 @What?\n\n\n
 Eh, you don't remember?\nThis has happened before, you know?\n\n
@@ -2072,7 +2072,7 @@ Ren, I'll be waiting for you at the castle, so the\nnext time you're back, you m
 @Ah--\n\n\n
 Fine, I've got it, so go home already.\n\n\n
 And Captain, you're an old man already, so don't\noverdo it.\n\n
-Nck! I'm going to ignore what you just said.\n\n\n
+Nck! I'm going to pretend I didn't just hear that.\n\n\n
 @Honestly! I'm going on ahead.\n\n\n
 W-w-wait for me!\n\n\n
 @What did those two even come here for?\n\n\n
@@ -2109,9 +2109,9 @@ O-oi@ There's no need to be so loud.\n\n\n
 Don't forget the difference in our standings.\nEven just talking is--\n\n
 That kind of thing doesn't matter.\n\n\n
 @@\n\n\n
-It's not like everyone in the castle doesn't\nalready know in the first place, right?\n\n
+It's not like everyone in the castle doesn't\nalready know, right?\n\n
 @It just means more trouble for me, though.\n\n\n
-Ah. What a horrible thing to say!\n\n\n
+Ah! What a horrible thing to say!\n\n\n
 It's the truth.\n\n\n
 You really have no manners.\n\n\n
 @I was worried, you know.\n\n\n
@@ -2155,7 +2155,7 @@ So trying to take Elza to your room was@?\n\n\n
 No, that was@ Right!\nThat was cuz I wanted to take my time to question\nher about why she was out there and--\n
 @Not that it really matters anymore.\n\n\n
 That was the first time I'd ever raised my voice\nso much, and also the first time anyone had ever\nbeen so rude to me.\n
-@Thinking about how friendly we are now\njust～～ Just made me kinda happy.\n\n
+@Thinking about how friendly we are now just～～\nJust made me kinda happy.\n\n
 So much time has passed since then but, here you\nare, quarrelling over something trivial again@\nYou really haven't changed.\n
 Haven't changed, huh@?\n\n\n
 That's right@ Nothing's changed.\nSince then, nothing has@\n\n
@@ -2175,9 +2175,9 @@ If I feel like it.\n\n\n
 Then@ be safe, both of you.\n\n\n
 ＞Walking away slowly, as if she didn't want to\n　say goodbye, Elza took her leave.\n　\n
 Right, let's go.\n\n\n
-Oh, I still have a bit more to do here, so go ahead\nand push on with the search again without me.\n\n
+Oh, I still have a bit more to do here, so go ahead\nand push on with the search without me.\n\n
 @That other thing of yours, huh?\nCan't you at least tell me what it's about?\n\n
-Ah～ @W-well another time, yeah?\nSee you at the ruins!\n\n
+Ah～ @W-well another time, yeah?\nI'll catch up with you at the ruins later!\n\n
 @No matter.\n\n\n
 For now, I should focus on my own job and finish\nthe rest of the investigation.\n\n
 First off, I guess I should drop by the guild@\n\n\n
@@ -2283,7 +2283,7 @@ As a matter of fact@\n\n\n
 @A fragment of Magicite, hm?\n\n\n
 But Veres said the fragment doesn't have the\ninherent power of the stone, correct?\n\n
 Yes@\n\n\n
-＞Ren hadn't mention the changes he'd felt after\n　touching the fragment.\n\n
+＞Ren hadn't mentioned the changes he'd felt\n　after touching the fragment.\n\n
 ＞After all, even he wasn't sure whether that\n　phenomenon had been caused by the power of\n　the stone@\n
 But as you say, the fact that a fragment remains,\nmeans the possibility of a perfect piece of Magicite\nexisting is becoming more and more likely.\n
 Hm@ Very good.\nThe day when I can make that power my own draws\nnearer@\n
@@ -2310,13 +2310,13 @@ Something else?\n\n\n
 I've tried asking, but he always dodges the\nquestion@ I don't know what it's about, but@\nit seemed to be important.\n
 I see. That's rare.\n\n\n
 Rare?\n\n\n
-From the day you both joined the Knights, you've\nnearly always been together.\n\n
+From the day you both joined the knights, you've\nnearly always been together.\n\n
 Training, fighting, and even your room is shared.\n\n\n
 It's not like we were particularly trying to stick\ntogether.\n\n
-But it's not that you don't enjoy it, right?\n\n\n
+But it's not that you hate it, right?\n\n\n
 Do you remember? That night when you branded\nLady Elza as suspicious@\n\n
 Yeah. You mean when, after shouting at us innocent\nvictims, this guy old enough to know better told us\na sad story about his hobby of drinking alone?\n
-@That's the gist of it, but show a little more\nrespect for your boss.\n\n
+@That's what I meant, but show a little more\nrespect for your boss.\n\n
 We made a promise back then, remember?\nThat when you came of age, the three of us would\ndrink together.\n
 @You're still not of age, yet you two came to be\nentrusted with a mission like this.\n\n
 Once it's all been settled@\n\n\n
@@ -2329,7 +2329,7 @@ Hahaha. Our ages aren't that far apart, but\nsomehow I feel like a father raisin
 Even if you are a pain, I still want to be there.\nThe two of you are precious to me.\n\n
 If you see Veres, pass that on for me.\nWell then, until next time.\n\n
 @Sons, huh?\n\n\n
-＞After talking with the captain, Ren headed for\n　the exit, ready to leave the castle.\n\n
+＞After talking with the captain, Ren headed for\n　the gate, ready to leave the castle.\n\n
 ＞But when he got there, he found a girl blocking\n　the path.\n\n
 @\n\n\n
 @H-hey.\n\n\n
@@ -2346,8 +2346,8 @@ Right, right. Of course.\n\n\n
 @Ah, speaking of which, have you seen Veres?\n\n\n
 Veres? No, I've been here alone this whole time.\n@Did something happen to him?\n\n
 I saw him in the courtyard not long ago.\n\n\n
-He seemed to be mumbling to himself about\nsomething at first@ So, I spoke to him.\n\n
-And then@ how should I put this@ Something\nseemed different than usual.\n\n
+He seemed to be mumbling to himself about\nsomething at first@ So, I went to talk with him.\n\n
+And then@ how should I put this@\nSomething seemed different than usual.\n\n
 It's hard to explain, but@ like Veres was not\nquite Veres?\n\n
 @I don't follow.\n\n\n
 Mmm@ Anyway, there was something off about his\nmanner.\n\n
@@ -2376,7 +2376,7 @@ Why not?\n\n\n
 I serve the duchy.\n\n\n
 If it's an order from the Archduke, I must accept\nthe mission even if it puts my life in danger.\n\n
 That's the job.\n\n\n
-That's why, I might end up having to do reckless\nthings, or @I might not return one day. \n\n
+That's why, I might end up having to do reckless\nthings, or @I might not return one day.\n\n
 And, we're talking princesses and knights.\nI can't just go about making thoughtless promises.\n\n
 @Nor do I want to.\n\n\n
 @\n\n\n
@@ -2405,7 +2405,7 @@ Now now now!\nHurrry up and open it!\n\n
 A key for the ruins? Why give it to me?\n\n\n
 I don't know.\n\n\n
 I just bumped into a man with long chestnut-\ncoloured hair who asked me to give it you\nwheneverrr I next saw you.\n
-(@Long chestnut-coloured hair? Does he mean\nVeres?)\n\n
+(@Long chestnut-coloured hair? Does he mean\n Veres?)\n\n
 Did he say anything else?\n\n\n
 That was it.\n\n\n
 @I see. Well, thank you.\n\n\n
