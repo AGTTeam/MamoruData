@@ -757,7 +757,7 @@ Mur waits for you～!!\n\n\n
 ＞Saying goodbye to the friendly Murmur, Ren took\n　his leave.\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Throwing A Strike<C04>‘.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Throwing A Strike<C04>’.\n\n
 <C03>Throwing A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a three-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
@@ -765,7 +765,7 @@ Heh～ @A <C03>three-step lunge<C04>, huh?\n\n\n
 Well, if you think you might need it, why don't you\ntry equipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Mastering A Strike<C04>‘.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Mastering A Strike<C04>’.\n\n
 <C03>Mastering A Strike<C04>?\n\n\n
 Yes. Specifically, it's referring to the method of\nthrowing a five-step attack.\n\n
 In other words, it's a skill that will change your\nlunge attack into a more powerful technique,\nas long as it's been assigned.\n
@@ -773,7 +773,7 @@ Heh～ @A <C03>five-step lunge<C04>, huh?\n@I wonder whether it's any good.\n\n
 Indeed@ Why don't you equip it sometime and give\nit a try?\n\nIt's your choice to stick with it or not, after all.\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
-This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Air Master<C04>‘.\n\n
+This book seems to contain information about an\n<C03>assigned skill<C04> called ‘<C03>Air Master<C04>’.\n\n
 <C03>Air<C04>@ <C03>Master<C04>?\n\n\n
 “You can unleash a <C03>rotating jump attack<C04> designed\nto better your position when fighting in the air",\nor so it says.\n
 In other words, it's a skill that will change your\nmid-jump attack into a more advanced technique,\nas long as it's been assigned.\n
@@ -794,57 +794,57 @@ What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
 Yes. Looks like it reduces the risk of dying\ninstantly when receiving a devastating blow,\nto a certain extent, at least.\n
-Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep your wits about you.\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
 Yes. I wonder if this will allow you to stay out\nexploring the ruins even longer than before?\n\n
-Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep your wits about you.\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your physical strength.\n\n
 Raises@ physical strength?\n\n\n
 Yes. It seems like with this, you'll be able to keep\nyour composure even if you get hit by a pretty\nstrong attack.\n
-Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep a sense of danger.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　  Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
+Well, even if your vitality increases, it'll be\nirrelevant if you're lazy about equipment, so\ntry to always keep your wits about you.\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　 Vitality (HP) has increased!\n\n<C03>　　　　　 【HP +200】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Looks like by increasing your dexterity, you can\nhave more skills assigned.\n\n
-It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to allocate them.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
+It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　　Skill points increased!\n\n<C03>　　　　　  【SP +5】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. This should allow you to assign even more\nskills.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　　Skill points increased!\n\n<C03>　　　　　  【SP +5】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. It appears you'll be able to use many\ndifferent skills all at the same time.\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　　Skill points increased!\n\n<C03>　　　　　  【SP +5】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. Perhaps now you will be able to use more\nskills than ever before?\n\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　　Skill points increased!\n\n<C03>　　　　　  【SP +5】<C04>\n\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it about this time?\n\n\n
 This book seems to be about a <C03>permanent skill<C04>\nthat raises your dexterity.\n\n
 Raises@ dexterity?\n\n\n
 Yes. Perhaps you will even be able to use many of\nthe skills you'd previously had to give up on, all\nat the same time?\n
 It might be a good idea to take another look at\nthe skills you had to leave out before because\nyou didn't have room to assign them.\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　Skill points increased!\n\n<C03>　　　　　 【SP +5】<C04>\n\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n\n　　　Skill points increased!\n\n<C03>　　　　　  【SP +5】<C04>\n\n\n
 It's everywhere@. A room buried by sand, huh?\n@It's hard to move.\n\n
 ＞In a certain room in the second layer of the\n　ruins@\n\n
 ＞The floor was almost entirety covered in sand.\n　Seeing that, Ren let out an involuntarily sigh.\n\n
@@ -877,12 +877,12 @@ What? Have you discovered something?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the <C03>Earth's Weak Points<C04>.\n
 The <C03>Earth's Weak Points<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
-“@ There are so called ‘weak spots' hidden on\nwalls and columns.\n\n
+“@There are so called ‘weak spots' hidden on\nwalls and columns.\n\n
 By identifying those spots and applying force,\nanyone can easily destroy them”, or so it says. \n\n
 “It's easy” they say@\nSounds fishy to me@\n\n
 Well, if you find a pillar that looks like it might\nbreak, why don't you give it a go?\n\n
 Yeah, it's worth a shot.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n You can now destroy cracked\n columns and ordinary stone\n statues.\n\n Break down columns, carving a\n path towards new areas hidden\n further in the ruins.\n\n
+\n<C05>　　　　　 INFORMATION<C04>\n\n  You can now destroy cracked\n  columns and ordinary stone\n  statues.\n\n  Break down columns, carving a\n  path towards new areas hidden\n  further in the ruins.\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 And? What's it say?\n\n\n
 This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the <C03>Taking Flight<C04>.\n
@@ -896,7 +896,7 @@ Yeah, will do.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n  <C03>Double jumping<C04> is now possible.\n\n  By jumping again in the air,\n  (B button) you will be able to\n  get to high places or cross\n  big holes that you weren't\n  able to reach before.\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the ‘<C03>Forest Lover<C04>‘.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the ‘<C03>Forest Lover<C04>’.\n
 <C03>Forest Lover<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 “@By having a love of the forest, the trees,\nand nature itself@\n\n
@@ -904,10 +904,10 @@ Yes@ To summarise it@\n\n\n
 I feel like they're laying it on a bit thick there,\nbut@\n\n
 Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>           【Tree +2】<C04>\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          【Tree +2】<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>In Harmony With Trees<C04>‘.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called ‘<C03>In Harmony With Trees<C04>’.\n
 <C03>In Harmony With Trees<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 “@By becoming one with the leaves, one can\nharmonize with all the nature in their life@\n\n
@@ -915,17 +915,17 @@ That is, the Tree Master. The master may gather\nmuch more than before@"\n\n
 @What is “that is, the Tree Master" even\nsupposed to mean?\n\n
 Well, if you do come across a large tree, why\ndon't you try harvesting some material from it\nand see what's changed?\n
 Yeah, will do.\n\n\n
-<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>           【Tree +4】<C04>\n\n
+<C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          【Tree +4】<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
-This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the ‘<C03>Grass Admirer<C04>‘.\n
+This book appears to date back to the ancient\ncivilisation. It seems to be about a <C03>permanent\nskill<C04> called the ‘<C03>Grass Admirer<C04>’.\n
 <C03>Grass Admirer<C04>?\n\n\n
 Yes@ To summarise it@\n\n\n
 “@The feelings of admiration for grass will come\noverflowing to those who habitually observe it.\n\n
 It goes without saying that the number of times\nthe grass can be collected from will increase as\na result@”\n
 @Does it really make any difference whether or\nnot the grass is admired@?\n\n
 Well, if you do come across a patch of grass, why\ndon't you try harvesting some material from it\nand see what's changed?\n
-Yeah,  no harm in trying.\n\n\n
+Yeah, no harm in trying.\n\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n\n   The number of times you can\n      collect materials has\n           increased!\n\n<C03>          【Grass +2】<C04>\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What does it say?\n\n\n
@@ -1173,24 +1173,24 @@ But, don't overdo it, okay?\n\n\n
 @Right.\n\n\n
 I will return, like I promised I would.\n\n\n
 This room is also rather big.\n\n\n
-＞Ren restlessly surveyed the room, which was so\n　large that it was impossible to see the ceiling\n　above or walls to either side.\n＞It seemed that the floor to the left and right\n　had been cut off, with what appeared to be a\n　sheer drop surrounding the area.\n＞There was no way to judge where the chasm\n　shrouded in darkness might lead.\n\n＞Only@ that the deep darkness seemed to warn\n　that the fall would be deadly.\n\n
+＞Ren restlessly surveyed the room, which was so\n　large that it was impossible to see the ceiling\n　above or the walls to either side.\n＞It seemed that the floor to the left and right\n　had been cut away, with what appeared to be a\n　sheer drop surrounding the area.\n＞There was no way to judge where the chasm\n　shrouded in darkness might lead.\n\n＞Only@ that the deep darkness seemed to warn\n　of a deadly fall.\n\n
 @The other rooms were bad enough, but this is\neven more creepy@\n\nStill, it's places like this where new discoveries lie.\n\n
 @Hm? @I hear something.\n\n\n
-＞Was it because of the strange atmosphere that\n　filled the room@?  Or had the thought of\n　treasure close at hand made him careless@?\n＞Either way@ Ren had failed to notice the\n　presence of the creature drawing ever closer@\n\n
+＞Was it because of the strange atmosphere that\n　filled the room@? Or had the thought of\n　treasure close at hand made him careless@?\n＞Either way@ Ren had failed to notice the\n　presence of the creature drawing ever closer@\n\n
 Rooooooaaar!!\n\n\n
 A d@dragon!?\n\n\n
 @Why have you come here?\n\n\n
 @!?\n\n\n
-＞The giant dragon that had appeared from depths\n　of the darkness just stared at Ren@\n\n＞@and asked a question with a low voice that was\n　both quiet and intimidating.\n\n
+＞The giant dragon that had appeared from the\n　depths of the darkness simply stared at Ren@\n\n＞@and asked a question with a low voice that\n　was both quiet and intimidating.\n\n
 @@@@\n\n\n
-＞Ren didn't answer.\n\n\n＞No@ To be precise, he couldn't answer.\n\n\n＞Perhaps overwhelmed by the sudden appearance\n　of he dragon, he found himself unable to move\n　an inch.\n
+＞Ren didn't answer.\n\n\n＞No@ To be precise, he couldn't answer.\n\n\n＞Perhaps overwhelmed by the sudden appearance\n　of the dragon, he found himself unable to move\n　a muscle.\n
 Answer me. What business have you here?\n\n\n
 @I'm investigating these ruins.\n\n\n
 @A thief, then.\n\n\n
-I am the <C03>Guardian<C04> of these ruins. I am bound to\nthis place, burdened with the task of protecting\nit@\n@Are you so foolish that you can't understand my\nwords?\n\n
-＞The tone of the dragon who was speaking quietly\n　had changed slightly.\n\n＞Ren who had been listening in silence, noticed\n　the change and came back to his senses.\n
+I am the <C03>Guardian<C04> of these ruins. I'm bound to\nthis place, burdened with the task of protecting\nit@\n@Are you so foolish as to not understand the\nmeaning of those words?\n\n
+＞The quietly-speaking dragon's voice had shifted\n　in tone.\n\n＞Ren who had been listening in silence, noticed\n　the change and returned to his senses.\n
 @That life.\nI thought you had resigned yourself@\n\nIt appears I was mistaken@\n\n\n
-＞Ren's body, having regained the ability to move,\n　clutched at his sword without hesitation.\n\n＞That wordless act in itself shot the signal fire\n　for the fight to begin.\n\n
+＞Ren's body, having regained the ability to move,\n　clutched at his sword without hesitation.\n\n＞That wordless act in itself lit the signal fire\n　for the fight to begin.\n\n
 @Here I come!!\n\n\n
 @Hm? @Oh, a child.\n\n\n
 @You shouldn't hang around a place like this.\nThere's no telling what might happen.\n\n
@@ -1453,8 +1453,8 @@ Wait!\nI haven't finished talking with you--!\n\n
 @Still, I got a key that I can use in the ruins,\nso I guess all's well.\n\n
 <C05>　　　　　 INFORMATION<C04>\n\n 【Rutila Key】<C04> obtained.\n\n Now you can advance past <C03>the\n door<C04> that was locked@\n\n You know, the one with green\n walls where a monster holding a\n club lies in ambush. That room.
 Somehow@ the air in here feels different to the\nprevious rooms@\n\n
-＞Ren, having made it deep into the first layer,\n　felt a sense of unease at the strange\n　atmosphere that had settled in the room.\n
-＞At that moment, footsteps could be heard coming\n　from one of the corners, and Ren put his guard\n　up.\n
+＞Ren, having made it deep into the first layer,\n　felt a sense of unease at the strange\n　atmosphere which had settled in the room.\n
+＞Then, hearing footsteps coming from one of\n　the corners, he quickly put up his guard.\n
 @!\n\n\n
 Yo.\n\n\n
 Veres? @Don't scare me like that.\n\n\n
@@ -1463,13 +1463,13 @@ I haven't made that much progress.\n\n\n
 How about you?\nThat other thing you were on about@\n\n
 Huh? @Oh, that thing.\nWell, I'm getting there, inch by inch.\n\n
 But never mind that, I found something interesting.\nHave a read of this.\n\n
-＞Veres took out an old book and handed it to Ren.\n\n\n
+＞Veres took out an old book and handed it to\n　Ren.\n\n
 @It's so dirty that it's hard to read.\nLet's see@\n\n
 “We have committed a terrible sin@\nThis stone is something that shouldn't exist@\n\n
 Some people worship our nation of Reville as\ngods@ but that is a mistake.\n\n
 No matter how superior our skills, we are still\nonly human.\n\n
 @No, we are less.\n\n\n
-We tread foot into a realm that should never\nbe touched by humans@”\n\n
+We tread foot into a realm that should never\nbe touched by human hands@”\n\n
 ＞Ren read aloud the page that Veres had shown\n　him.\n\n
 It seems like it's a record from ancient times,\nbut@\n\n
 I got the impression this ‘Nation of Reville' it\nmentions must have been heavily intertwined\nwith these ruins.\n
@@ -1481,12 +1481,12 @@ H-hey! Veres!\n\n\n
 @@@\n\n\n
 @That book certainly got my attention.\n\n\n
 ‘The Nation of Reville@'\nPeople worshiped them like gods, but they had\ncommitted a huge sin@\n
-@That alone has lost me.\n\n\n
-＞Ren, trying to wrap his head around the content\n　of the passage he just read was unaware that\n　he was making a big mistake@\n
-＞@having forgotten the eerie atmosphere he'd\n　first felt when entering the room, before Veres\n　had interrupted.\n
+@That alone has me lost.\n\n\n
+＞Ren, trying to wrap his head around the content\n　of the passage he just read, was unaware that\n　he was making a big mistake@\n
+＞@having forgotten the eerie atmosphere he'd\n　first felt when entering the room, before\n　Veres had interrupted.\n
 ＞That's when@\n\n\n
 Grrrrrr@\n\n\n
-What the-- That thing is@\n\n\n
+What the-- That thing is@?\n\n\n
 ＞Right in front of him was a ginormous beast\n　with three heads.\n\n
 ＞It's hostility was plain for all to see.\n\n\n
 I've never seen a creature like this before@\n\n\n

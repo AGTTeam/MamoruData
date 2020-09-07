@@ -80,12 +80,12 @@ This is a job to test the true\r\nstrength of the guild's Treasure\r\nHunters! B
 You have proven yourself indeed!\r\nHence, we will no longer ask you\r\nto fulfil D rank requests.\r\nWe hope you will continue your\r\nwork at the guild alongside your\r\ninvestigation of the ruins!\r\nKeep giving it your all!
 Favour For A Friend
 Liruka Village BlacksmithÅ@Lagnus
-I would normally handle this,\r\nbut@ A customer told me that he\r\nwanted a black sword, and we just\r\nran out of black stone. Since\r\nyou're going to the ruins anyway,\r\nwould you mind collecting some?
+I would normally handle this myself\r\nbut@ A customer told me that he\r\nwanted a black sword, and we just\r\nran out of black stone. Since\r\nyou're going to the ruins anyway,\r\nwould you mind collecting some?
 I finished the sword and gave it\r\nto them. It was quite high quality\r\nore you found, so I enjoyed myself\r\nfor the first time in a while.\r\nCome and stop by the store again\r\nsometime. But don't forget the\r\nmaterials and money, ya hear?
 A Lost Friend
 Bereft Village YouthÅ@Motor
 It seems like there are ghosts of\r\npeople who snuck into the ruins\r\nin the past still roaming around.\r\nA friend of mine went in a few\r\nyears ago, and never came back@\r\nCan you help him rest in peace?
-I don't know whether or not my\r\nfriend was one of the zombies\r\nyou defeated. But, I feel like\r\nI have some kind of closure now.\r\nI really hope he's gone to a\r\nbetter place@ Anyways, thanks\r\nfor all you've done.
+I don't know whether or not my\r\nfriend was one of the zombies\r\nyou defeated. But, I feel like I\r\nhave some kind of closure now.\r\nI really hope he's gone to a\r\nbetter place@ Anyway, thanks\r\nfor everything.
 Favourite Work Tools
 LumberjackÅ@Fazzel
 I was chopping some trees down in\r\nLorayne Forest, when me favourite\r\nsaw went bust@\r\nI can't do nothing without a saw!\r\nI'm beggin' ya! Can you make me a\r\nnew one!?
@@ -93,7 +93,7 @@ Whoa! This saw's a thing of\r\nbeautyÅ` She fits in my hand\r\nperfectly, it's a
 Vampire Bats Flying About
 Four-eyed InvestigatorÅ@Mystis
 When I was investigating the ruins\r\nthe other day, an ochre bat came\r\ndown from the ceiling trying to\r\nbite my neck! @It took so much\r\nblood that I got anaemia@ Please!\r\nDefeat them and get my blood back!
-I heard that you suppressed the\r\nvampire bats. That puts my mind at\r\nease. I'm still not feeling well,\r\nso I can't return to work yet, but\r\nthanks to your help, it shouldn't\r\nbe long until I'm able to go back.
+I heard that you suppressed the\r\nvampire bats. That puts my mind at\r\nease. I'm still not feeling well so\r\nI can't return to work yet, but\r\nthanks to your help, it shouldn't\r\nbe long until I'm able to go back.
 My First Big Job Ever!
 Bascal BlacksmithÅ@Ejudria
 I'm a blacksmith in Bascal, the\r\ncapital of the Kucellbull Duchy,\r\nand received a job offer out of\r\nthe blue. The state want a set\r\nof Dizard Armour to be made by\r\nthe next ceremony. Can you help?
@@ -104,16 +104,16 @@ Hi@ again. Do you remember my\r\nrequest from before for provisions\r\nto be sen
 The supplements managed to arrive\r\nbefore anyone succumbed to their\r\ninjuries! You saved us again.\r\nWe really owe it to you@ That's\r\nit! If we get our breakthrough,\r\nwe'll make sure your name goes\r\ndown in history as our supporter!
 Not Washed Out Yet
 Elderly ManÅ@Gordon
-I'm still young! I can still work!\r\n@That's my opinion, but my body\r\nsays differently. I did hear that\r\ndrinking Red Beetle liqueur gives\r\nyou energy. Would you please find\r\nsome spirit for an old man?
+I'm still young! I can still work!\r\n@That's my opinion, but my body\r\nsays differently. I did hear that\r\ndrinking Red Beetle Liqueur gives\r\nyou energy. Would you please find\r\nsome spirit for an old man?
 Aaah, that stuff really hits the\r\nspot! I made a drink from the\r\nRed Beetles you caught, and now\r\nI feel young again! Not only can\r\nI keep working, but it seems to\r\nbe a hit with the ladies too!
 Protect The Historic Fields!
 Liruka Village FarmerÅ@Brian
-Are you familiar with the giant\r\nBaku Moths? A swarm of them showed\r\nup in the village, intent on\r\ndestroying our wheat fields. If\r\nthey're allowed to continue, my\r\nwhole family will go bankrupt@
+Are you familiar with the giant Baku\r\nMoths? A swarm of them showed up\r\nin the village, intent on destroying\r\nour wheat fields. If they're allowed\r\nto continue, my whole family will go\r\nbankrupt@ Please, help us!
 I was worried that I would lose\r\nthe wheat fields from my grandpa's\r\ngrandpa's grandpa, but they've\r\nbeen saved, thanks to you!\r\nThank you, thank you, thank you!\r\nThis means the world to me!
 A Girl's Lost Property
 Young LadyÅ@Gina
-Mummy said Ågdon't get close to the\r\nruinsÅh, but I went there to play\r\nwith Julis in secret. And then, I\r\ndropped the hair clip Mummy gave\r\nme somewhere in the yellow walled\r\nroom near the entrance! 
-Honestly, I'd given up hope of\r\never seeing this again. But it's\r\nso nice to have it back@ It's\r\nan important hair clip, and best\r\nof all, now Mummy won't shout at\r\nme. Thank youuuuu! I won't forget\r\nthis.
+Mummy said not to get close to the\r\nruins, but I went there to play\r\nwith Julis in secret. And then, I\r\ndropped the hair clip Mummy gave\r\nme somewhere in the yellow walled\r\nroom near the entrance! 
+Actually, I'd given up hope of\r\never seeing this again. But it's\r\nso nice to have it back@ It's\r\nan important hair clip, and best\r\nof all, now Mummy won't shout at\r\nme. Thank youuuuu! I won't forget\r\nthis.
 Scared Hunter
 Treasure HunterÅ@Minerva
 No way!! Why?! What the hell!?\r\nWhy is such a thing in the ruins!?\r\n@Hot, cold, narrow, even cock-\r\nroaches I'm totally cool with,\r\nbut@ spirits are the one thing\r\nI just can't handle!! Help!!
@@ -128,8 +128,8 @@ I travel the world to practise my\r\nskills, and heard that there are\r\narmoure
 I only sent that request to see\r\nwhether there really was someone\r\nwho could best those fiends@\r\nYou truly took them all down?\r\n@Incredible. I wonder if I should\r\ngive up on my dream, and become\r\na treasure hunter too@
 Glittering Stone (1)
 High-Flying LadyÅ@Rondina
-I adore beautiful stones.\r\nIndeed@ aren't Emeralds just\r\nperfect for me, who exudes hope\r\nand joy? Well, one should think\r\nyou'd best go and find some for\r\nme, toodle-pip.
-My! This radiance, this shine@\r\nSuperb@ It truly is perfect for\r\nme. I wish I could show you the\r\nsight of me wearing them.\r\nWell then, I do hope I can count\r\non you again.
+I adore beautiful stones.\r\nIndeed@ aren't emeralds just\r\nperfect for me, who exudes hope\r\nand joy? Well, one should think\r\nyou'd best go and find some for\r\nme, toodle-pip.
+My! This radiance, this shine@\r\nSuperb@ It truly is perfect for\r\nme. If only you too could witness\r\nthe sight of me wearing them@\r\nWell then, I do hope I can count\r\non you again.
 Giants In The Ruins!
 Fearful InvestigatorÅ@Guns
 I've seen them! The sight of those\r\nhuge monsters lurking around the\r\nruins! Brr@ Just thinking about\r\nit sends a chill down my spine@\r\nI don't want be down there with\r\nTHAT! Please! Get rid of them!
@@ -140,8 +140,8 @@ When I was an Investigator, some\r\nscaffolding collapsed, trapping me,\r\nbut I
 Ah, so he's still doing well. \r\nI'm glad to hear that. The injury\r\nto my leg means I couldn't go to\r\nthank him myself, but I hope my\r\nfeelings came across.
 Starting With The Look
 Knighthood HopefulÅ@Dodoris
-I've always been weakly and sick,\r\nbut after I was saved from a by a\r\npassing knight, I thought ÅgI want\r\nto become strong too!Åh So as part\r\nof step 1, will you help me get a\r\nknight's sword?
-I showed the sword you got to the\r\nknight who saved me. ÅgI'm going\r\nto become a knight too!Åh @But,\r\nhe replied, ÅgTo be a knight, it's\r\nnot a sword you need, but a strong\r\nheart.Åh @I'm going to think\r\nthings through again from the top!
+I've always been weakly and sick,\r\nbut after I was saved from a ghoul\r\nby a passing knight, I thought ÅgI\r\nwant to become strong too!Åh So\r\nas part of step one, will you help\r\nme get a knight's sword?
+I showed the sword you got to the\r\nknight who saved me. ÅgI'm going\r\nto become a knight too!Åh @But,\r\nhe replied, ÅgTo be a knight, it's\r\nnot a sword you need, but a strong\r\nheart.Åh @I'm going to think things\r\nthrough again from the top!
 Man-Eating Plants (1)
 BotanistÅ@Ragfect
 I've studied plants from all\r\nacross the globe, and yet I've\r\nnever seen the huge Man-Eating\r\nMandrakes that supposedly grow in\r\nthe ruins. Could you please bring\r\nback one of their seeds for me?
