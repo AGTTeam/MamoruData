@@ -24,7 +24,7 @@ Treasure Chest
 Liruka Village
 You are not currently on a quest.
 Recipes
-%s<$1b>X8forged!
+%s<$1b>X6forged!
      No Data
 Talk
 Å@<C02>%s %s<C01> obtained!
