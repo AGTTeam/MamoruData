@@ -5,7 +5,7 @@ Eingana
 Fenrir
 Hrodvitnir
 Shem Ha-Meforash
-ドゥム・ハ・ソラリス Dum Ha-Solaris?
+Dum Ha-Solaris
 Daekwurm
 Gold Guivre
 Crimson Burn
