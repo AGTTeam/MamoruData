@@ -288,10 +288,10 @@ Misc
 Food
 âΩÇ‡Ç»Çµ
 Nulls Poison 
-Nulls Fear
 Nulls Paralysis
-Nulls Burn
 Nulls Stun
+Nulls Fear
+Nulls Burn
 State immunity
 Auto-Heal ÅiSÅj
 Auto-Heal ÅiMÅj
@@ -582,7 +582,7 @@ What's it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Warrior's Right Arm<C04>'.\n\n
 <C03>Warrior's Right Arm<C04>?\n\n\n
 ÅgYou can host the offensive power of a battle-\nscarred warrior within your body", or so it says.\n\n
-In other words, it's a skill that will increase the\n power of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
+In other words, it's a skill that will increase the\npower of sword attacks, as long it's been assigned.\n\nIf you think you might need it, why don't you try\nequipping it?\n\n
 Let's see@ Hmmm@\nAhh@ Interesting@\n\n
 What's it say?\n\n\n
 This book seems to contain information about an\n<C03>assigned skill<C04> called the Åe<C03>Demon's Right Arm<C04>'.\n\n
@@ -1968,7 +1968,7 @@ Is such behaviour appropriate for the Knight\nCommander?\n\n
 Hahaha.\nYou've hit me where it hurts most.\n\n
 Still, even though you were finally given permission\nby the Archduke to leave the city@\n\n
 Whatever made you want to come all this way to\nsuch an empty village?\n\n
-Well, Ren are Veres are in this village right now,\naren't they?\n\n
+Well, Ren and Veres are in this village right now,\naren't they?\n\n
 Wha--\nYou came all this way just to see those two!?\n\n
 Yes, that's right.\nEspecially Ren, he never shows his face whenever\nhe comes back to the castle, you know?\n
 That's why I thought I'd go to see him.\n\n

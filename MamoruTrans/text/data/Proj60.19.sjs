@@ -21,7 +21,7 @@ Crooked earrings made in the\r\nshape of skulls. Makes it\r\nharder to avoid att
 Blue Flame Necklace
 A necklace named for its lustre,\r\nlike a fire burning blue.\r\nAffects not only defence but\r\nsword attacks too.
 Emmah's Pocket Watch
-The work of the world-renowned\r\nwatchmaker Emmah Lafons. Many of\r\nhis works are unusual, and in\r\nthe case of this pocket watch,\r\nthe hour and minute hands only\r\nmove once per hour.
+The work of the world-renowned\r\nwatchmaker Emmah Lafons. Many\r\nof his works are unusual, and\r\nin the case of this pocket\r\nwatch, the hour and minute\r\nhands only move once per hour.
 Coral Pendant
 A pendant made from coral\r\nharvested from the sea.\r\nDecorated with a piece of\r\npale pink coral at the end.
 Dwarf Earrings
@@ -59,7 +59,7 @@ An anklet created using beast\r\nfangs. Although the moderate\r\nweight makes it
 Tooth Ring
 A ring carved from a dragon's\r\ntooth. With its extraordinary\r\nstrength, it offers protection,\r\nincreasing fighting spirit and\r\nattack power.
 Dark Jailer's Chain
-A chain kept by a jailer who\r\nwatches over criminals in the\r\ndarkness, ready to tie it\r\naround their bodies. Incredibly\r\nstrong, though a little heavy.
+A chain kept by a jailer who\r\nwatched over criminals in the\r\ndarkness, ready to tie it\r\naround their bodies. Incredibly\r\nstrong, though a little heavy.
 Health Ring
 A ring with a reasonable\r\nhealing effect. When worn,\r\nit gradually heals injuries.
 Health Bangle

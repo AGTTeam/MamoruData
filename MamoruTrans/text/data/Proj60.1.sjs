@@ -13,7 +13,7 @@ A thin and sharp sword\r\nspecialized for thrusting.\r\nUnusually light and easy
 Stone Sword
 A sword carved from a single\r\nstone. It's sturdy, but because\r\nit is used to deliver a heavy\r\nblow for a small size, one\r\ncan't expect much from its\r\ncutting ability.
 Tinky Sword
-A straight sword with a spear-\r\nlike blade. Although it is\r\nmainly designed for piercing,\r\nthe presence of the ÅgbarbÅh\r\nat the tip plays a large role \r\nin slicing through objects.
+A straight sword with a spear-\r\nlike blade. Although it is mainly\r\ndesigned for piercing, the\r\npresence of the barb at\r\nthe tip plays a large role\r\nin slicing through objects.
 Eared Dagger
 An asymmetrical, double-edged\r\nblade. Made with one side\r\nwider than the other, it is\r\nan unusual sword that can\r\nbe used for a wide range\r\nof purposes.
 Katar
@@ -25,7 +25,7 @@ Despite having a double-edge,\r\nthe blade is gently curved,\r\nbecoming thicker
 Kodachi
 A small sword forged with a\r\nfocus on sharpness. Made\r\nof high-quality materials,\r\nit is not something that\r\nyour average person could\r\nhope to obtain.
 Broad Edge
-A double-edged, hand-and-a-half\r\nsword with a wide, flat blade.\r\nDesigned for slicing, it is\r\nrelatively easy to handle,\r\nbut also easily damaged.
+A double-edged, hand-and-\r\na-half sword with a wide, flat\r\nblade. Designed for slicing, it\r\nis relatively easy to handle,\r\nbut also easily damaged.
 Ring Dagger
 By attaching a ring-shaped\r\nmetal fitting to the hilt,\r\nboth the ease of holding\r\nand ease of use have been\r\ndramatically improved.
 Rex Raid
@@ -37,7 +37,7 @@ An S-shaped sword commonly\r\nreferred to as a Ågcarving\r\nknifeÅh.\r\nIt is br
 Dragon Scale Sword
 A small sword that is no less\r\nkeen than an iron blade, made\r\nby carefully sharpening hard-\r\nas-steel dragon scales.
 Gladius
-A relatively short, but easy-to-\r\nhandle sword that combines a\r\nwide double-edged blade with a\r\nsharp point.
+A relatively short, but easy-\r\nto-handle sword that combines\r\na wide double-edged blade with\r\na sharp point.
 Tempest Sword
 A small sword said to be\r\npossible to swing at speeds\r\nwhich produce whirlwinds. \r\nDespite its small size, it has\r\ngreat destructive power.
 Tiger Sword
@@ -61,7 +61,7 @@ A beautiful one-handed sword\r\nimbued with the power of the\r\nearth. Said to b
 Fleuret
 A medium sword widely used\r\nfor fencing practice. It has\r\na round tip to prevent\r\ninjury during practice.
 Middle Sword
-A double-edged sword. Because\r\nit is fragile and not very\r\nsharp, it's rarely used in\r\ncombat and is instead used\r\nby beginners for practise.
+A double-edged sword. Because\r\nit is fragile and not very\r\nsharp, it's rarely used in\r\ncombat and is instead used\r\nby beginners for practice.
 Tinku Blade
 Heavy for a middle sword and\r\nhard to hold in one hand,\r\nit provides both reach and\r\nincredible destructive power\r\nat the expense of easy\r\nhandling.
 Sickle Sword
@@ -73,7 +73,7 @@ A straight one-handed sword\r\nwith a sharp tip.\r\nMade for stabbing, the\r\nbl
 Steel Sword
 A double-edged one-handed\r\nsword. Compared to other\r\nmedium swords, it's a little\r\nheavy and harder to use, \r\nbut its destructive power\r\nis enormous.
 Bone Izzard
-A medium sized sword forged\r\nfrom sturdy bones.\r\nIt's strength and sharpness\r\nare comparable to the Steel\r\nSword, while managing to be\r\na lighter weight.
+A medium sized sword forged\r\nfrom sturdy bones.\r\nIts strength and sharpness\r\nare comparable to the Steel\r\nSword, while managing to be\r\na lighter weight.
 Saw
 Mainly used for felling trees.\r\nIt's not well suited for\r\ncombat, but its mighty\r\nstrength shouldn't be\r\ndevalued.
 Viking
@@ -127,7 +127,7 @@ A two-handed, double-edged\r\nsword. Lightweight for its\r\nsize and with an eas
 Rock Crusher
 A large sword with a blunt,\r\nwavy blade used to smash\r\nthings. Gives the impression\r\nof a boorish sword that can\r\nbe swung around without fear\r\nof damaging it.
 Estoc
-An easy-to-use sword that\r\nis relatively slim for a\r\nlarge sword, it allows one\r\nto effortlessly pinpoint\r\ntheir target.
+An easy-to-use sword that\r\nis relatively slim for a\r\nlarge sword. It allows one\r\nto effortlessly pinpoint\r\ntheir target.
 Firangi
 A large, heavy sword. Has an\r\nunusual shape whereby its\r\ndouble-edged from the point\r\nto about two-thirds down,\r\nand single-edged for the\r\nremainder.
 Rhomphaia
@@ -145,7 +145,7 @@ A thick sword, designed not\r\nto cut through other swords,\r\nbut to wrench the
 Battle Sword
 A large sword that combines\r\nthe power of a large axe and\r\nease of handling to form a\r\nversatile weapon. It doesn't\r\nmake for many openings, and\r\nallows you to react quickly.
 Cat's Finest
-A sword, or rather, stick,\r\nbrandishing squishy toe\r\nbeans. It seems anyone who\r\nis struck with it is met\r\nwith intense pain@?
+A sword, or rather, stick,\r\nbrandishing squishy toe\r\nbeans. It seems anyone\r\nwho is struck by it is\r\nmet with intense pain@?
 Little Crow
 A thin sword left by a\r\nmysterious giant bird.\r\nAlthough the blade is curved,\r\nit has a double edge which\r\nruns from the tip down to\r\nthe centre of the sword.
 Black Sword

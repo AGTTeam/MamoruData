@@ -49,7 +49,7 @@ Olifant Horn
 Sleipnir's Tail
 The tail of the sacred horse\r\nSleipnir, who is known in legends\r\nas a swift eight-legged horse.\r\nEven now, it remains gorgeously\r\nglossy.\r\n\r\nThere is a rumour that when\r\nboiled down and drank, it will\r\nrestore your physical fitness\r\nby ten years, though that is\r\njust a rumour through and\r\nthrough, and it doesn't\r\nactually possess such an\r\neffect.
 Key to Breidablik
-The key to the legendary\r\nmansion, far removed from the\r\nphenomenon known as calamity,\r\nwhere nothing unclean may\r\nenter. There are dozens of\r\nthem in the world, though no\r\none has ever seen Breidablik\r\nwith their own eyes.\r\n\r\n--It was lost during a great war\r\nÅ@in the past@\r\n--The whole thing is a myth@\r\nVarious theories exist.
+The key to the legendary\r\nmansion, far removed from the\r\nphenomenon known as calamity,\r\nwhere nothing unclean may\r\nenter. There are dozens of\r\nthem in the world, though no\r\none has ever seen Breidablik\r\nwith their own eyes.\r\n\r\n--It was lost during a great\r\nÅ@war in the past@\r\n--The whole thing is a myth@\r\nVarious theories exist.
 Destructive Clothing
 \r\nRobes loved by the mages of\r\nReville.\r\n\r\nIt's said that the magic circles\r\nwhich cover the entirety of the\r\ngarment allows the wearer to\r\ndraw out many times their\r\nnatural power.\r\n\r\nHowever, it has no effect\r\nwhen worn by a person\r\nwithout powers.
 Alchemy Manual

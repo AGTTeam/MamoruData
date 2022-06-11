@@ -5,29 +5,29 @@ Blue Mint
 Sage
 <C03>Description:<C04>\r\nA plant with beautiful flowers\r\nand antiseptic properties.\r\nHas no effect if taken as is.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Clary Sage
-<C03>Description:<C04>\r\nA plant with a combined anti-\r\nseptic and healing effects,\r\ndemonstrated when blended.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
+<C03>Description:<C04>\r\nA plant with combined anti-\r\nseptic and healing effects,\r\ndemonstrated when blended.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 Rosmarin
 <C03>Description:<C04>\r\nA plant capable of producing\r\na drug which cures numbness\r\nin the hands and feet.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Rosemary
 <C03>Description:<C04>\r\nA rare species of plant used\r\nto produce a healing salve\r\nwhich relieves numbness.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 Foxgloves
-<C03>Description:<C04>\r\nA reinvigorating medicinal\r\nplant. It is mainly used as\r\nan ingredient in mixtures.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
+<C03>Description:<C04>\r\nA reinvigorating medicinal\r\nplant. It is mainly used as\r\nan ingredient for crafting.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Lemongrass
 <C03>Description:<C04>\r\nA plant characterized by\r\nits lemon-like smell. It is\r\nused in herbal mixes.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 Aloe
 <C03>Description:<C04>\r\nA plant rich in jelly-like\r\nmesophyll. It's used to\r\nmake a salve for burns.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Lavender
-<C03>Description:<C04>\r\nA plant with a strong smell.\r\nUsed in medicine, and to\r\neliminate bad odours.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
+<C03>Description:<C04>\r\nA plant with a strong smell.\r\nUsed in medicine and to\r\neliminate bad odours.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 Wild Mint Grass
 <C03>Description:<C04>\r\nAn invigorating herb. Put on\r\nthe tongue, it tingles and\r\nnumbs one's sense of taste.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
 Bomb Flower
-<C03>Description:<C04>\r\nA dangerous plant which\r\nhouses an explosive\r\nsubstance in it's ovaries.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
+<C03>Description:<C04>\r\nA dangerous plant which\r\nhouses an explosive\r\nsubstance in its ovaries.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
 Rotten Lumber
 <C03>Description:<C04>\r\nA piece of wood that has\r\nbeen left alone and started\r\nto rot. It's very fragile.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Dry Wood Chips
 <C03>Description:<C04>\r\nDry scraps from a tree. In\r\ngood condition they can be\r\nused for making equipment.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Damp Lumber
-<C03>Description:<C04>\r\nDamp wood that's soft and\r\nsuitable for processing,\r\nbut it's strength is so-so.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
+<C03>Description:<C04>\r\nDamp wood that's soft and\r\nsuitable for processing,\r\nbut its strength is so-so.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Bent Branch
 <C03>Description:<C04>\r\nA branch broken at the tip.\r\nLooks like rubbish but can\r\nbe made into various items.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Tree
 Log
@@ -75,7 +75,7 @@ Large Petal
 Golden Petal
 <C03>Description:<C04>\r\nA rare, valuable petal found\r\nbetween the petals and\r\novary of a Polevik.\r\n<C03>Dropped By:<C04>\r\nMan-Eating Polevik
 Sarcodes Flower
-<C03>Description:<C04>\r\nA small flower with crimson\r\npetals. In bloom, it looks as\r\nthough engulfed in flames.\r\n<C03>Main Habitat:<C04>\r\nUnknown
+<C03>Description:<C04>\r\nA small flower with crimson\r\npetals. In bloom, it looks\r\nlike a burning fire.\r\n<C03>Main Habitat:<C04>\r\nUnknown
 Snowbell Flower
 <C03>Description:<C04>\r\nA small flower with ice petals.\r\nOne touch of its pale beauty\r\nwill freeze your body solid.\r\n<C03>Main Habitat:<C04>\r\nUnknown
 Purea
@@ -111,13 +111,13 @@ Elephant Firefly
 Red Beetle
 <C03>Description:<C04>\r\nA beetle with so much blood\r\nthat its whole body is a\r\nbright red colour.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Monochrome Snake
-<C03>Description:<C04>\r\nA snake with black and\r\nwhite stripes. Slimy, and\r\nloathed by most humans.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grasss
+<C03>Description:<C04>\r\nA snake with black and\r\nwhite stripes. Slimy, and\r\nloathed by most humans.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
 Soldier Ant
 <C03>Description:<C04>\r\nA big ant. Works hard to\r\ncollect food and protect\r\nits colony from invaders.\r\n<C03>Main Habitat:<C04>\r\nFirst Layer- Grass
 Queen Ant
 <C03>Description:<C04>\r\nLarge ant. Spends its whole\r\nlife producing and raising \r\noffspring.\r\n<C03>Main Habitat:<C04>\r\nSecond Layer- Grass
 King Ant
-<C03>Description:<C04>\r\nAn ant that does nothing but\r\nbuild nests for the Queen to\r\ngive birth. That's really all.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
+<C03>Description:<C04>\r\nAn ant that does nothing but\r\nbuild nests for the Queen to\r\ngive birth. That's it.\r\n<C03>Main Habitat:<C04>\r\nThird Layer- Grass
 Ribs
 <C03>Description:<C04>\r\nA soft meat with a lot of\r\nfat and rich flavour.\r\n\r\n<C03>Dropped By:<C04>\r\nHellhound, Basilisk
 Thigh Meat
@@ -181,7 +181,7 @@ Dragon Tooth
 Dragon Fang
 <C03>Description:<C04>\r\nCompared to a Dragon\r\nTooth, it's more than\r\ndouble in size.\r\n<C03>Dropped By:<C04>\r\nSpartoi
 Parvum Stone
-<C03>Description:<C04>\r\nAn ordinary pebble that fell\r\non the ground. Palm-sized.\r\n\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
+<C03>Description:<C04>\r\nAn ordinary pebble that fell\r\nto the ground. Palm-sized.\r\n\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Grande Stone
 <C03>Description:<C04>\r\nAn ordinary stone that fell\r\nto the ground. Too big to\r\nhold with just one hand.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Acumino Greenstone
@@ -191,15 +191,15 @@ Redondo Greenstone
 Nivelle Rock
 <C03>Description:<C04>\r\nA rock with a bumpy surface.\r\nCan be found pretty much\r\neverywhere.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 Nivelle Bedrock
-<C03>Description:<C04>\r\nA large, heavy rock that's\r\nbeen squashed flat as a\r\npancake over time.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
+<C03>Description:<C04>\r\nA large, heavy rock that's\r\nbeen squashed as flat as\r\na pancake over time.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Rhegium Iron Ore
 <C03>Description:<C04>\r\nOre rich in iron. Easy to\r\nprocess into items such as\r\nweapons or daily essentials.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Madell Copper Ore
-<C03>Description:<C04>\r\nA rock containing a large\r\namount of copper, which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
+<C03>Description:<C04>\r\nA rock containing a large\r\namount of copper which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nFirst Layer- Rocks
 Rotam Silver Ore
-<C03>Description:<C04>\r\nA rock containing a large\r\namount of silver, which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
+<C03>Description:<C04>\r\nA rock containing a large\r\namount of silver which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 Kasheth Gold Ore
-<C03>Description:<C04>\r\nA rock containing a large\r\namount of gold, which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
+<C03>Description:<C04>\r\nA rock containing a large\r\namount of gold which\r\ncan be extracted.\r\n<C03>Main Collection Site:<C04>\r\nThird Layer- Rocks
 Noiryu Ore
 <C03>Description:<C04>\r\nA pitch back ore. The stone\r\ncontains several minerals\r\nwhich improve its hardness.\r\n<C03>Main Collection Site:<C04>\r\nSecond Layer- Rocks
 Albineus Mineral
@@ -211,7 +211,7 @@ Aquria Crystal
 Blazing Crystal
 <C03>Description:<C04>\r\nA mysterious stone containing\r\na flame said to never go out.\r\n\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Frozen Crystal
-<C03>Description:<C04>\r\nA stone housing ice of -200É C.\r\nThe surface is cold to the\r\ntouch.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
+<C03>Description:<C04>\r\nA stone housing ice of\r\n-200|C. The surface is\r\ncold to the touch.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Thin Iron Plate
 <C03>Description:<C04>\r\nA processed sheet of Regium\r\nIron. Stretching it thin\r\nmakes it easier to use.\r\n(Processed Goods) 
 Broad Iron Plate
@@ -229,7 +229,7 @@ Crystal Ball
 Infernal Ball
 <C03>Description:<C04>\r\nA stone said to steal souls.\r\nIn the light of the moon, the\r\nfaces of the damned appear.\r\n<C03>Dropped By:<C04>\r\nLemres Lamp
 Platinum Ore
-<C03>Description:<C04>\r\nA shiny white metal. Resistant\r\nto corrosion, and can be\r\nused without fear of rust.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
+<C03>Description:<C04>\r\nA shiny white metal. Resistant\r\nto corrosion and can be\r\nused without fear of rust.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Mithril Ore
 <C03>Description:<C04>\r\nA rare metal more radiant\r\nthan silver and stronger\r\nthan steel.\r\n<C03>Main Collection Site:<C04>\r\nUnknown
 Damascus Steel
@@ -325,7 +325,7 @@ White Cloth
 Black Cloth
 <C03>Description:<C04>\r\nEmits a terrifying aura and\r\nfeels heavy in the hand.\r\n\r\n<C03>Dropped By:<C04>\r\nBlood Wraith
 Small Lump
-<C03>Description:<C04>\r\nA small chunk of something.\r\nWhat  exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
+<C03>Description:<C04>\r\nA small chunk of something.\r\nWhat exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nPazuzu
 Large Lump
 <C03>Description:<C04>\r\nA big chunk of something.\r\nWhat exactly it's made of\r\nis unclear.\r\n<C03>Dropped By:<C04>\r\nOgre, Gigas
 Giant Loincloth

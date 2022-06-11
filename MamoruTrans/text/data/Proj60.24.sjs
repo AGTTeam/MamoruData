@@ -1,5 +1,5 @@
 Suppli-extract
-A liquid formula made out of\r\nmedicinal plants, effective\r\nat healing wounds.\r\nThe sweet flavour makes it\r\neasy for children to drink.
+A liquid formula made from\r\nmedicinal plants, effective\r\nat healing wounds.\r\nThe sweet flavour makes it\r\neasy for children to drink.
 Supplement
 A formula of medicinal plants\r\nused to treat wounds.\r\nExtremely effective, but it's\r\nbitter taste can make it\r\nhard to swallow.
 Nourishment

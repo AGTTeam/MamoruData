@@ -3,7 +3,7 @@ A common, ordinary knife.\r\nIts destructive power is\r\nminimal, but it's so sm
 Spinning Ray
 A knife smeared with poison.\r\nA fearsome weapon designed\r\nto inject poison into an\r\nenemy when stabbed.
 Pocket Knife
-A small knife with a sharpened\r\nblade just like a sword. It was\r\nmade to be used as a throwing\r\nknife, but it's slicing ability is\r\nremarkable.
+A small knife with a sharpened\r\nblade just like a sword. It was\r\nmade to be used as a throwing\r\nknife, but its slicing ability is\r\nremarkable.
 SelfÅ]Defence Knife
 A spirit blade made not to\r\nbe wielded on the battle-\r\nfield, but to protect its\r\nowner. Rumoured to have\r\nthe power to absorb souls.
 Chicken Knife
@@ -33,8 +33,8 @@ A sacred knife that is\r\npowerful enough to use\r\nin battle, but often seen\r\
 Unicorn
 A weapon named after its\r\nunicorn horn-like shape.\r\nIt cannot be used to cut\r\nthings, only to pierce them.
 Mjolnir
-A weapon that can freely\r\nchange size.\r\nWhile it has overwhelming\r\nDestructive power, it is\r\nsaid to also have the\r\npower to purify evil.
+A weapon that can freely\r\nchange size.\r\nWhile it has overwhelming\r\ndestructive power, it is\r\nsaid to also have the\r\npower to purify evil.
 Brionac
-Often thought of as a spear\r\nfor the trail of light it\r\nleaves after being thrown.\r\nOne of the Four Treasures\r\nof the gods.
+Often mistaken for a spear\r\ndue to the trail of light it\r\nleaves after being thrown.\r\nOne of the Four Treasures\r\nof the gods.
 Gungnir
 A legendary weapon said\r\nto always return to its\r\nowner after piercing an\r\nenemy. According to the\r\nstories, there's nothing\r\nit can't overcome@

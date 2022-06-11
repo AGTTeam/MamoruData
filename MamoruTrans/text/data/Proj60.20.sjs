@@ -281,7 +281,7 @@ I had you take revenge after I was\r\ndefeated by an armoured swordsman,\r\nbut 
 Conquer The Flames!
 Burn-Scarred ManÅ@Rodriguez
 There's a room in the third layer\r\nof the ruins with a load of those\r\npurple fire monsters. That room\r\njust stinks of treasure, but\r\nthey're such a hindrance that I\r\ncan't take my time exploring it@.
-You didn't get burned anywhere?!\r\nEven though there are so many\r\nfires whizzing around@ What kind\r\nof magic did you use?! Well, now I\r\ncan go get the treasure that's\r\nbeen lying in wait! @You haven't\r\ntake it already, right?
+You didn't get burned anywhere?!\r\nEven though there are so many\r\nfires whizzing around@ What kind\r\nof magic did you use?! Well, now I\r\ncan go get the treasure that's\r\nbeen lying in wait! @You haven't\r\ntaken it already, right?
 All Hearts Carry Darkness
 Self-Respecting YouthÅ@Plagg
 Studying, sports, I'm no match\nfor him at anything. He's always\r\nlooking down on and making a fool\r\nof me. Unforgivable! @But I heard\r\nthat Infernal Balls have the\r\npower to absorb human souls@
