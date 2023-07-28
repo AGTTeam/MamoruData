@@ -12,3 +12,4 @@ src
 *.sav
 *.nds
 *.xdelta
+.DS_Store
